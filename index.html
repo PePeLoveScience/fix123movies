@@ -1,0 +1,254 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Netflix Early Access Program</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
+  <link rel="icon" href="images/732228.png" type="image/png">
+  <link href="css/main.css" rel="stylesheet" />
+</head>
+<body>
+  <!-- Enhanced Mobile Recommendation Modal -->
+  <div class="mobile-modal" id="mobileModal">
+    <div class="mobile-modal-content">
+      <div class="device-indicator">
+        📱 Mobile Detected
+      </div>
+      
+      <button class="modal-close" id="modalClose">×</button>
+      
+      <h2>Better Experience on PC</h2>
+      
+      <p>For the <span class="highlight-text">best Netflix Early Access experience</span> with full features, we recommend using a computer.</p>
+      
+      <div class="feature-highlights">
+        <div class="feature-item">
+          <div class="feature-icon">🎮</div>
+          <div class="feature-text">Full Features</div>
+        </div>
+        <div class="feature-item">
+          <div class="feature-icon">⚡</div>
+          <div class="feature-text">Faster Speed</div>
+        </div>
+        <div class="feature-item">
+          <div class="feature-icon">🖥️</div>
+          <div class="feature-text">Bigger Screen</div>
+        </div>
+      </div>
+      
+      <p><strong>Don't worry!</strong> You can still continue on mobile - many users successfully access content this way.</p>
+      
+      <button class="continue-btn" id="mobileContinueBtn">Continue on Mobile</button>
+      <button class="pc-btn" id="usePcBtn">I'll Use My PC Instead</button>
+    </div>
+  </div>
+
+  <!-- Progress bar -->
+  <div class="progress-container">
+    <div class="progress-bar-scroll" id="progressBarScroll"></div>
+  </div>
+
+  <!-- Scroll hint -->
+  <div class="scroll-hint" id="scrollHint">
+    <span>Scroll down</span>
+    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M7 10L12 15L17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    </svg>
+  </div>
+
+  <div class="container">
+    <div class="official-badge">Official Partnership</div>
+
+    <div class="logo-wrapper">
+      <!-- Dynamic logo based on device -->
+      <img src="images/opera-gx.png" class="logo-img pc-logo" alt="Opera GX Logo" style="display: none;">
+      <img src="images/732228.png" class="logo-img mobile-logo" alt="Netflix Partner Logo" style="display: none;">
+      <img src="images/Netflix_icon.svg" class="logo-img" alt="Netflix Logo">
+    </div>
+
+    <h1 class="headline" id="mainHeadline">Exclusive Early Access<br>to Netflix Originals</h1>
+    <div class="subtext" id="mainSubtext">
+      This <span class="collab-badge">OFFICIAL COLLABORATION</span> gives users 
+      <span class="highlight">exclusive early access</span> to unreleased content. 
+      Complete verification through this <span class="highlight">limited-time offer</span> to unlock.
+    </div>
+
+    <div class="title-list" id="titles">
+      <h3>Currently Available in Early Access</h3>
+      <div class="title-item">Stranger Things: Season 5 (Full Season) <span class="badge-new">New</span></div>
+      <div class="title-item">Ginny and Georgia: Season 3 (Full Season)</div>
+      <div class="title-item">Wednesday: Season 2 (Full Season)</div>
+      <div class="title-item">Squid Game: Season 3 (Full Season)</div>
+      <div class="title-item">And much more!</div>
+    </div>
+
+    <div class="cta-container">
+      <div class="steps">
+        <div class="step active">
+          <div class="step-number">1</div>
+          <div>Verify</div>
+        </div>
+        <div class="step">
+          <div class="step-number">2</div>
+          <div>Access</div>
+        </div>
+        <div class="step">
+          <div class="step-number">3</div>
+          <div>Stream</div>
+        </div>
+      </div>
+      
+      <button class="cta" id="unlockBtn">Continue to Early Access</button>
+      <div class="timer">Offer expires in: <span id="countdown">24:59:59</span></div>
+    </div>
+
+    <div class="activity-feed" id="feed"></div>
+
+    <div class="viewers">
+      <div class="eye"></div>
+      <div class="live-indicator"></div>
+      <span class="viewer-count">
+        <span class="number" id="viewerCount">1,248</span>
+        <span class="status">users active now</span>
+      </span>
+    </div>
+
+    <!-- FAQ Section -->
+    <div class="faq-section" id="faq">
+      <h3>Frequently Asked Questions</h3>
+      
+      <div class="faq-item">
+        <div class="faq-question">
+          <span>What if the verification option isn't there?</span>
+          <span class="faq-arrow">▼</span>
+        </div>
+        <div class="faq-answer">
+          This official program offers multiple ways to verify your access:
+          <ol style="margin: 10px 0 10px 20px;">
+            <li>Choose any available verification option</li>
+            <li>Complete all required steps</li>
+            <li>Your early access will be granted immediately</li>
+          </ol>
+          <div class="important-note">
+            <strong>All verification methods work</strong> - the system automatically adapts to your device.
+          </div>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <div class="faq-question">
+          <span>Can I do this on a phone?</span>
+          <span class="faq-arrow">▼</span>
+        </div>
+        <div class="faq-answer">
+          <strong>For best results, use a PC:</strong> The full experience is optimized for desktop.
+          
+          <div class="important-note">
+            <strong>Mobile users:</strong> You'll see mobile-friendly verification options. 
+            <span style="color: #ff4757;">These work perfectly!</span> Complete them to access streaming.
+          </div>
+        </div>
+      </div>
+      
+      <div class="faq-item">
+        <div class="faq-question">
+          <span>I need help?</span>
+          <span class="faq-arrow">▼</span>
+        </div>
+        <div class="faq-answer">
+          This program has a 98.7% success rate. If you encounter issues:
+          <ol style="margin: 10px 0 10px 20px;">
+            <li>Refresh and try again (solves most cases)</li>
+            <li>Ensure you completed all steps</li>
+            <li>Try from a different device if possible</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <div class="reviews-section" id="reviews">
+      <h3>User Experiences</h3>
+      
+      <div class="review">
+        <img src="images/44.jpg" alt="User 1" class="pfp">
+        <div class="review-content">
+          <div class="reviewer-name">Jessica R.</div>
+          <img src="images/5-Star-Rating.png" alt="5 stars" class="stars" style="width: 80px;">
+          <div class="review-text">
+            I couldn't believe I was watching Stranger Things S5 three days before my friends! The integration is seamless and the video quality is perfect.
+          </div>
+          <div class="review-date">Verified User • 2 hours ago</div>
+        </div>
+      </div>
+
+      <div class="review">
+        <img src="images/32.jpg" alt="User 2" class="pfp">
+        <div class="review-content">
+          <div class="reviewer-name">Marcus T.</div>
+          <img src="images/5-Star-Rating.png" alt="5 stars" class="stars" style="width: 80px;">
+          <div class="review-text">
+            As a long-time Netflix subscriber, this early access program is game-changing. Got access in minutes from my phone!
+          </div>
+          <div class="review-date">Verified User • 5 hours ago</div>
+        </div>
+      </div>
+
+      <button class="write-review-btn" id="writeReviewBtn">
+        Share Your Experience
+      </button>
+      <div class="review-warning" id="reviewWarning">Please complete verification first to submit your review.</div>
+    </div>
+
+    <div class="trust-badges">
+      <div class="trust-badge">
+        <img src="images/179457.png" alt="SSL Secure">
+        <span>Secure Connection</span>
+      </div>
+      <div class="trust-badge">
+        <img src="images/888857.png" alt="Virus Free">
+        <span>Verified Safe</span>
+      </div>
+      <div class="trust-badge">
+        <img src="images/217853.png" alt="No Ads">
+        <span>No Additional Ads</span>
+      </div>
+    </div>
+
+    <!-- Virus Checker Section -->
+    <div class="virus-checker-container">
+      <button class="virus-checker-btn" id="virusCheckerBtn">
+        🔒 Scan Page Security
+      </button>
+      <div class="virus-checker-modal" id="virusCheckerModal">
+        <div class="virus-checker-header">
+          <h3>SecureNet™ Security Scan</h3>
+          <span class="close-modal" id="closeModal">×</span>
+        </div>
+        <div class="scan-progress">
+          <div class="progress-bar" id="progressBar"></div>
+        </div>
+        <div class="scan-status" id="scanStatus">
+          <p>Scanning system files...</p>
+        </div>
+        <div class="scan-result" id="scanResult">
+          <div class="result-icon">✓</div>
+          <h4>100% Secure</h4>
+          <p>No threats detected in this page. Safe for browsing and downloads.</p>
+          <div class="scan-meta">
+            <span>Last scan: <span id="lastScan">2 minutes ago</span></span>
+            <span>• 1,243 users trust this scan</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>This is an official Netflix partner promotion. By continuing, you agree to our <a href="#">Terms of Service</a> and <a href="#">Privacy Policy</a>.</p>
+      <p>Netflix is a registered trademark of Netflix, Inc.</p>
+    </div>
+  </div>
+
+  <!-- Content Locker Script -->
+  <script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
