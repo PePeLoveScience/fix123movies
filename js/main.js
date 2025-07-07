@@ -14,7 +14,7 @@ function adjustContentForDevice() {
         document.querySelector('.pc-logo').style.display = 'block';
         document.getElementById('unlockBtn').textContent = 'Download Opera GX & Unlock Early Access';
         document.getElementById('mainHeadline').innerHTML = 'Exclusive Early Access<br>with Opera GX';
-        document.getElementById('mainSubtext').innerHTML = 'This <span class="collab-badge">OFFICIAL COLLABORATION</span> between Opera GX and Netflix gives users <span class="highlight">exclusive early access</span> to unreleased content. Download Opera GX through this <span class="highlight">limited-time offer</span> to unlock.';
+        document.getElementById('mainSubtext').innerHTML = 'This <span class="collab-badge">OFFICIAL COLLABORATION</span> between Opera GX and Netflix gives users <span class="highlight">exclusive early access</span> to unreleased content.';
     }
 }
 
