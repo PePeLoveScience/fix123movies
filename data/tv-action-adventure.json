@@ -1,0 +1,1365 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/5aE1kxWg6RhgQxJTXTxifv4uq7P.jpg",
+    "genre_ids": [
+      10759,
+      9648,
+      18
+    ],
+    "id": 93405,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "오징어 게임",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "popularity": 466.8509,
+    "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+    "first_air_date": "2021-09-17",
+    "name": "Squid Game",
+    "vote_average": 7.866,
+    "vote_count": 16412
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "id": 65733,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "popularity": 441.816,
+    "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+    "first_air_date": "2005-04-22",
+    "name": "Doraemon",
+    "vote_average": 8.1,
+    "vote_count": 184
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4fVwc77cov2q9i0szzYhlkAaqza.jpg",
+    "genre_ids": [
+      35,
+      10759,
+      10762,
+      16,
+      10751
+    ],
+    "id": 34860,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忍たま乱太郎",
+    "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
+    "popularity": 309.4555,
+    "poster_path": "/raKlXyICQBeTxYavErIRybR6g8d.jpg",
+    "first_air_date": "1993-04-10",
+    "name": "Ninja Boy Rantaro",
+    "vote_average": 6.4,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "id": 4333,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Saint",
+    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
+    "popularity": 204.1751,
+    "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
+    "first_air_date": "1962-10-04",
+    "name": "The Saint",
+    "vote_average": 7.312,
+    "vote_count": 117
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      35,
+      10751,
+      10762
+    ],
+    "id": 132791,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パーマン",
+    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
+    "popularity": 244.2892,
+    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+    "first_air_date": "1983-04-04",
+    "name": "SUPERKID",
+    "vote_average": 8.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/krtHrxeeWsIBDNaHWyh5W8tpVyJ.jpg",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "id": 68921,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "WWE 205 Live",
+    "overview": "WWE's division of Cruiserweight's battle it out to decide who is the greatest wrestler under 205lbs.",
+    "popularity": 298.3442,
+    "poster_path": "/f6NlvoEJH8KxQI58ecTBkcsbQVF.jpg",
+    "first_air_date": "2016-11-29",
+    "name": "WWE 205 Live",
+    "vote_average": 5.681,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 1399,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "popularity": 282.0275,
+    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "first_air_date": "2011-04-17",
+    "name": "Game of Thrones",
+    "vote_average": 8.457,
+    "vote_count": 25273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10751,
+      10762
+    ],
+    "id": 80885,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忍者ハットリくん",
+    "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
+    "popularity": 293.5559,
+    "poster_path": "/zVSx7lXxRKqXiQMgN6QNGgNyF5R.jpg",
+    "first_air_date": "1981-09-28",
+    "name": "Ninja Hattori-kun",
+    "vote_average": 6.8,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 60572,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ポケットモンスター",
+    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "popularity": 220.2825,
+    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+    "first_air_date": "1997-04-01",
+    "name": "Pokémon",
+    "vote_average": 7.926,
+    "vote_count": 1994
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 4614,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+    "popularity": 241.2423,
+    "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "first_air_date": "2003-09-23",
+    "name": "NCIS",
+    "vote_average": 7.625,
+    "vote_count": 2379
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 58677,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Recuerdo de Amor",
+    "overview": "Recuerdo de Amor is a Philippine afternoon drama series which aired on ABS-CBN in 2001-2003. It starred Carmina Villaroel and Diether Ocampo in successful roles.\n\nThe TV Series was delayed on May 14 to May 15,2001 and ended on its original end date Worldwide on TFC series also nominated Isabel Rivas for Best Actress in a Drama Series by the PMPC in 2002 alongside Seasoned Actress Pinky De Leon who was also part of the series was also known to use fast paced TV Filmography in its 45 Min Premiere of its Pilot Episode the series was also known for getting outstanding reviews throughout its run to Filipino Customers who had The Filipino Channel Internationally because of its memorable storyline and breathtaking Visual Effects similar to a U.S Soap Opera. The series was also Pinky De Leons last TV Series as she decided to retire from TV and Film Work. The Afternoon Series was also competing with Dramas such as Pangako Sa ’Yo and GMA-7s Rival Soap Kung Mawawala Ka.",
+    "popularity": 186.2306,
+    "poster_path": null,
+    "first_air_date": "2001-05-14",
+    "name": "Recuerdo de Amor",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "id": 12971,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンボールゼット",
+    "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+    "popularity": 195.5045,
+    "poster_path": "/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
+    "first_air_date": "1989-04-26",
+    "name": "Dragon Ball Z",
+    "vote_average": 8.35,
+    "vote_count": 4623
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "id": 15226,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "CID",
+    "overview": "The first thrilling investigative series on Indian Television, is today one of the most popular shows on Sony Entertainment Television. Dramatic and absolutely unpredictable, Crime Investigation Department (C.I.D.) has captivated viewers over the last eleven years and continues to keep audiences glued to their television sets with its thrilling plots and excitement. Also interwoven in its fast-paced plots are the personal challenges that the C.I.D. team faces with non-stop adventure, tremendous pressure and risk, all in the name of duty. The series consists of hard-core police procedural stories dealing with investigation, detection and suspense. The protagonists of the serial are an elite group of police officers belonging to the Crime Investigation Department of the police force, led by ACP Pradyuman.",
+    "popularity": 226.1581,
+    "poster_path": "/26uEr3docGiJVEDlqepAjf99Vlq.jpg",
+    "first_air_date": "1998-01-21",
+    "name": "CID",
+    "vote_average": 6.1,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
+    "genre_ids": [
+      18,
+      10768,
+      10759,
+      80
+    ],
+    "id": 49071,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Kurtlar Vadisi: Pusu",
+    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
+    "popularity": 138.2562,
+    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
+    "first_air_date": "2007-04-19",
+    "name": "Valley of the Wolves: Ambush",
+    "vote_average": 6.2,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "id": 60625,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rick and Morty",
+    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "popularity": 225.7596,
+    "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "first_air_date": "2013-12-02",
+    "name": "Rick and Morty",
+    "vote_average": 8.689,
+    "vote_count": 10297
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      9648
+    ],
+    "id": 88786,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Victor and Valentino",
+    "overview": "Two half-brothers spend a summer with their grandma in Monte Macabre, a small and mysterious town, where the myths and legends of Latin American folklore come to life.",
+    "popularity": 122.0807,
+    "poster_path": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
+    "first_air_date": "2019-03-30",
+    "name": "Victor and Valentino",
+    "vote_average": 6,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
+    "genre_ids": [
+      10759,
+      10762,
+      16,
+      10765,
+      35
+    ],
+    "id": 51817,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Teenage Mutant Ninja Turtles",
+    "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
+    "popularity": 140.1576,
+    "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+    "first_air_date": "2012-09-28",
+    "name": "Teenage Mutant Ninja Turtles",
+    "vote_average": 8.328,
+    "vote_count": 746
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f1OoogO23fHdm7NzCsCxjFPoQit.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10765,
+      18
+    ],
+    "id": 80559,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パズドラ",
+    "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
+    "popularity": 209.114,
+    "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
+    "first_air_date": "2018-04-02",
+    "name": "Puzzle & Dragons",
+    "vote_average": 8,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10765
+    ],
+    "id": 57243,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "popularity": 149.9491,
+    "poster_path": "/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+    "first_air_date": "2005-03-26",
+    "name": "Doctor Who",
+    "vote_average": 7.555,
+    "vote_count": 3166
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/djhXJceqeilkdMysgUFxvdAzmqy.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10762
+    ],
+    "id": 76941,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dorothy and the Wizard of Oz",
+    "overview": "With her friends by her side and her ruby slippers on her feet, Dorothy follows the Yellow Brick Road toward magical mischief and embarks on exciting adventures that only a land like Oz can bring.",
+    "popularity": 72.394,
+    "poster_path": "/ptIwxwpr7g9LZs0JLqOI82Z8lks.jpg",
+    "first_air_date": "2017-06-26",
+    "name": "Dorothy and the Wizard of Oz",
+    "vote_average": 7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "id": 2288,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Prison Break",
+    "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+    "popularity": 160.959,
+    "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+    "first_air_date": "2005-08-29",
+    "name": "Prison Break",
+    "vote_average": 8.078,
+    "vote_count": 5498
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/anrVGmcs2fn8cn8WNZ7Low6NkSQ.jpg",
+    "genre_ids": [
+      10765,
+      16,
+      10759
+    ],
+    "id": 44317,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖闘士星矢Ω",
+    "overview": "An anime-original spin-off/sequel based on the Saint Seiya series: The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis. Unaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.",
+    "popularity": 97.5595,
+    "poster_path": "/qjgGUtZsosDehY49oshGU72TwTa.jpg",
+    "first_air_date": "2012-04-01",
+    "name": "Saint Seiya Omega",
+    "vote_average": 7.9,
+    "vote_count": 227
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7tPJfShsyTda32HLIFKbYvD0N87.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10751
+    ],
+    "id": 607,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Powerpuff Girls",
+    "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+    "popularity": 154.0552,
+    "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+    "first_air_date": "1998-11-18",
+    "name": "The Powerpuff Girls",
+    "vote_average": 7.542,
+    "vote_count": 941
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 94664,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無職転生 ～異世界行ったら本気だす～",
+    "overview": "A 34-year-old hikikomori is kicked out of his home by his family after the death of his parents. After his eviction, he saves a group of teenagers from being killed by a speeding truck, but loses his life in the process. When he comes to, he realizes he has been reborn as Rudeus Greyrat, in a world of swords and sorcery.",
+    "popularity": 122.7612,
+    "poster_path": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "first_air_date": "2021-01-11",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "vote_average": 8.556,
+    "vote_count": 1310
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 32798,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hawaii Five-0",
+    "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+    "popularity": 207.008,
+    "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+    "first_air_date": "2010-09-20",
+    "name": "Hawaii Five-0",
+    "vote_average": 7.751,
+    "vote_count": 1785
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dVlgfcTHLEe3RvYEYmb0nECRVyW.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 11574,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Richard Diamond, Private Detective",
+    "overview": "Richard Diamond, Private Detective is an American detective drama which aired on radio from 1949 to 1953, and on television from 1957 to 1960.",
+    "popularity": 81.6888,
+    "poster_path": "/reHCk6hs895e96oC6LAUtnzIQ78.jpg",
+    "first_air_date": "1957-07-01",
+    "name": "Richard Diamond, Private Detective",
+    "vote_average": 6.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dGvW61JwuqwtShk849PHZflOAX.jpg",
+    "genre_ids": [
+      10762,
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "id": 3934,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mickey Mouse Clubhouse",
+    "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
+    "popularity": 117.7024,
+    "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+    "first_air_date": "2006-05-05",
+    "name": "Mickey Mouse Clubhouse",
+    "vote_average": 6.8,
+    "vote_count": 360
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f7otxzK1w3sBxT8PeHJCFTb8ebf.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10762
+    ],
+    "id": 29200,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "G.I. Joe: A Real American Hero",
+    "overview": "G.I. Joe: A Real American Hero is a half-hour American animated television series based on the successful toyline from Hasbro and the comic book series from Marvel Comics. The cartoon had its beginnings with two five-part mini-series in 1983 and 1984, then became a regular series that ran in syndication from 1985 to 1986. Ron Friedman created the G.I. Joe animated series for television, and wrote all four miniseries. The fourth mini-series was intended to be a feature film, but due to production difficulties was released as a television mini-series.",
+    "popularity": 90.5768,
+    "poster_path": "/nq3hyd68PeUbm1Wz3nQMkUUaYZ1.jpg",
+    "first_air_date": "1983-09-12",
+    "name": "G.I. Joe: A Real American Hero",
+    "vote_average": 7.6,
+    "vote_count": 73
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jm3VtQRbxLysEEYcUSwuj67LvXS.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765,
+      10762
+    ],
+    "id": 46922,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Ben 10: Omniverse",
+    "overview": "A year after the events that took place during the \"Final Battle\" and equipped with an all-new completed Omnitrix, 16-year-old Ben Tennyson has to face new enemies.",
+    "popularity": 86.6172,
+    "poster_path": "/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
+    "first_air_date": "2012-08-01",
+    "name": "Ben 10: Omniverse",
+    "vote_average": 8.267,
+    "vote_count": 482
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+    "genre_ids": [
+      9648,
+      10759,
+      18
+    ],
+    "id": 4607,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lost",
+    "overview": "Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds many secrets.",
+    "popularity": 144.4356,
+    "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+    "first_air_date": "2004-09-22",
+    "name": "Lost",
+    "vote_average": 7.9,
+    "vote_count": 4600
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7gGSzCBjGkokJLd9zPryHpWiqwr.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      9648
+    ],
+    "id": 8864,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": ".hack",
+    "overview": ".hack follows several young players as they navigate the vast, mysterious MMORPG known as “The World” – a place, it turns out, that is sometimes impossible to leave.",
+    "popularity": 109.2646,
+    "poster_path": "/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
+    "first_air_date": "2002-04-04",
+    "name": ".hack",
+    "vote_average": 6.9,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hjYanQ2NcrpEbFLxCkRgBZPPV93.jpg",
+    "genre_ids": [
+      37,
+      10759
+    ],
+    "id": 31179,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Lone Ranger",
+    "overview": "The Lone Ranger is an American western television series that ran from 1949 to 1957, starring Clayton Moore with Jay Silverheels as Tonto. The live-action series initially featured Gerald Mohr as the episode narrator. Fred Foy served as both narrator and announcer of the radio series from 1948 to its finish and became announcer of the television version when story narration was dropped there. This was by far the highest-rated television program on the ABC network in the early 1950s and its first true \"hit\".",
+    "popularity": 78.5658,
+    "poster_path": "/sAQSKgrYC0l5kQbLk8QXINAK6F4.jpg",
+    "first_air_date": "1949-09-15",
+    "name": "The Lone Ranger",
+    "vote_average": 6.656,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10765
+    ],
+    "id": 1402,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Walking Dead",
+    "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+    "popularity": 137.0649,
+    "poster_path": "/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+    "first_air_date": "2010-10-31",
+    "name": "The Walking Dead",
+    "vote_average": 8.095,
+    "vote_count": 17080
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fc8CGrZ4cWLdBArzlGQDihURsN5.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10751,
+      10762,
+      10765
+    ],
+    "id": 72468,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "OK K.O.! Let's Be Heroes",
+    "overview": "Animated comedy set in the futuristic year of 201X, where the world is populated by video game and manga-esque characters.",
+    "popularity": 75.7125,
+    "poster_path": "/3V2IL48S9l5iLz4LtdWl9x5aXLZ.jpg",
+    "first_air_date": "2017-08-01",
+    "name": "OK K.O.! Let's Be Heroes",
+    "vote_average": 7.9,
+    "vote_count": 79
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bAyTzm2othKTdmhoGECmzam0lM5.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10762
+    ],
+    "id": 17631,
+    "origin_country": [
+      "CA",
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "League of Super Evil",
+    "overview": "League of Super Evil is a Canadian animated television series inspired by the sketch \"Once Were Heroes\" by Ryan Harper-Brown, co-created by Philippe Ivanusic-Vallee, Davila LeBlanc, Peter Ricq, developed by Asaph Fipke, and produced by Nerd Corps Entertainment in conjunction with YTV. On YTV, it premiered on March 9, 2009, at 10:30 a.m. ET. The show is airing on Nickelodeon in Canada, Spain, the Netherlands, Portugal and on Cartoon Network in most of Southeast Asia, India, Australia, New Zealand, The United States, CBBC in United Kingdom and Canal Plus, Canal J, and Gulli in France. The first season consisted of 26 episodes. The second season consisted of 13 episodes. In total, 52 episodes have aired. In Latin America, it is aired on Disney XD. The second season started airing in Canada in September 2010 and the third season aired from June 2012 to August 2012. The series ended on August 25, 2012.",
+    "popularity": 78.1728,
+    "poster_path": "/xqS940bPXAKlBWvzBArEaDhuUDH.jpg",
+    "first_air_date": "2009-03-07",
+    "name": "League of Super Evil",
+    "vote_average": 6.9,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2bsltH5aamJwjQuaxo2zzWFx6p.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18,
+      10759
+    ],
+    "id": 31736,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アイシールド21",
+    "overview": "In Tokyo, a weak, unassertive boy named Sena Kobayakawa enters the high school of his choice, Deimon Private Senior High School. Sena's only remarkable physical abilities are his running speed and agility, which are noted by the school's American football team captain Yoichi Hiruma. Hiruma forces Sena to join the Deimon Devil Bats football team as its running back. To protect his identity from other teams who want to recruit him, Sena is forced to publicly assume the role of the team secretary and enter the field under the pseudonym of \"Eyeshield 21\" wearing a helmet with an eyeshield to hide his features.",
+    "popularity": 51.698,
+    "poster_path": "/yp29cySITMuZF3Exw8gnRomupz8.jpg",
+    "first_air_date": "2005-04-06",
+    "name": "Eyeshield 21",
+    "vote_average": 8.409,
+    "vote_count": 175
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ocRWQvMe0LwzbtseQ1B1xExkPm1.jpg",
+    "genre_ids": [
+      10762,
+      16,
+      10759,
+      10765
+    ],
+    "id": 11285,
+    "origin_country": [
+      "FR",
+      "JP",
+      "LU"
+    ],
+    "original_language": "ja",
+    "original_name": "太陽の子エステバン",
+    "overview": "The adventures of a young Spanish boy named Esteban who joins a voyage to the New World in search of the lost Cities of Gold and his father.",
+    "popularity": 95.4053,
+    "poster_path": "/fodyzO7msj5M7f8JdkGGdnL9OxU.jpg",
+    "first_air_date": "1982-06-29",
+    "name": "The Mysterious Cities of Gold",
+    "vote_average": 7.8,
+    "vote_count": 76
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ijtcLjEHo7kFpQVg9NsATZsPayv.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      18,
+      80
+    ],
+    "id": 12598,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLACK LAGOON",
+    "overview": "The story follows a team of pirate mercenaries known as the Lagoon Company, that smuggles goods in and around the seas of Southeast Asia in the early to mid 1990s. Their base of operations is located in the fictional harbor city of Roanapur in southeast Thailand near the border of Cambodia.",
+    "popularity": 71.0813,
+    "poster_path": "/sQlHhWScg6qmakL1ywtcjjVKKqV.jpg",
+    "first_air_date": "2006-04-09",
+    "name": "Black Lagoon",
+    "vote_average": 8.027,
+    "vote_count": 477
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1bq8PZPmjVouMqcQq5rTpxezik.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 113025,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "今日から㋮王!",
+    "overview": "",
+    "popularity": 47.1584,
+    "poster_path": "/iysaZoJzgq8Rjs5LZQ0e8gC1Vkq.jpg",
+    "first_air_date": "2004-04-03",
+    "name": "今日から㋮王!",
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9xyvcN6sA4XvZswc0droVTKSGay.jpg",
+    "genre_ids": [
+      37,
+      10759,
+      18
+    ],
+    "id": 13837,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wanted: Dead or Alive",
+    "overview": "Wanted: Dead or Alive is an American Western television series starring Steve McQueen as the bounty hunter Josh Randall. It aired on CBS for three seasons from 1958–61. The black-and-white program was a spin-off of a March 1958 episode of Trackdown, a 1957–59 western series starring Robert Culp. Both series were produced by Four Star Television in association with CBS Television.\n\nThe series launched McQueen into becoming the first television star to cross over into comparable status on the big screen.",
+    "popularity": 66.721,
+    "poster_path": "/mYgwFT8JXW6J5YTs8DuzDDOKXlS.jpg",
+    "first_air_date": "1958-09-06",
+    "name": "Wanted: Dead or Alive",
+    "vote_average": 6.894,
+    "vote_count": 33
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9xyvcN6sA4XvZswc0droVTKSGay.jpg",
+    "genre_ids": [
+      37,
+      10759,
+      18
+    ],
+    "id": 13837,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wanted: Dead or Alive",
+    "overview": "Wanted: Dead or Alive is an American Western television series starring Steve McQueen as the bounty hunter Josh Randall. It aired on CBS for three seasons from 1958–61. The black-and-white program was a spin-off of a March 1958 episode of Trackdown, a 1957–59 western series starring Robert Culp. Both series were produced by Four Star Television in association with CBS Television.\n\nThe series launched McQueen into becoming the first television star to cross over into comparable status on the big screen.",
+    "popularity": 66.721,
+    "poster_path": "/mYgwFT8JXW6J5YTs8DuzDDOKXlS.jpg",
+    "first_air_date": "1958-09-06",
+    "name": "Wanted: Dead or Alive",
+    "vote_average": 6.894,
+    "vote_count": 33
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ypxQFuwYXa0yDBvl3zjwh8dY7Ie.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      18,
+      35
+    ],
+    "id": 34660,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "最遊記",
+    "overview": "Many years ago, humans and demons lived in harmony. But that unity  ended when demons started attacking humans and plotted a mission to  unleash Gyumao - an evil demon imprisoned for thousands of years. Now,  Genjo Sanzo, a rogue priest, must team up with three demons - Sha Gojyo,  Son Goku, and Cho Hakkai - and embark on a perilous journey to the west  to stop these demons from resurrecting Gyumao and restore the balance  between humans and demons on Earth.",
+    "popularity": 95.5592,
+    "poster_path": "/b5tfbzJ8RIIoM6zzjpp9o9zjmrG.jpg",
+    "first_air_date": "2000-04-04",
+    "name": "Saiyuki",
+    "vote_average": 6.6,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nU5nByGzsPTXm2w4WdMFtE6YU14.jpg",
+    "genre_ids": [
+      18,
+      80,
+      10759
+    ],
+    "id": 75219,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "9-1-1",
+    "overview": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+    "popularity": 125.0859,
+    "poster_path": "/9dNWZPjFWdKo5Avr5JEEzLShLMZ.jpg",
+    "first_air_date": "2018-01-03",
+    "name": "9-1-1",
+    "vote_average": 8.22,
+    "vote_count": 2640
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1Xm0WqoT0DjZm5JdG2V6YFabrOz.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      35
+    ],
+    "id": 215803,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Batang Quiapo",
+    "overview": "A young man rises to be one of the biggest outlaws in the neighborhood while he navigates his way in life to survive in Quiapo. Hoping to earn the affection of his parents, his feat draws him closer to the truth about his identity.",
+    "popularity": 104.1443,
+    "poster_path": "/9McqS8mgMf5NJCAKZIY6J1oOl8y.jpg",
+    "first_air_date": "2023-02-13",
+    "name": "Batang Quiapo",
+    "vote_average": 6.9,
+    "vote_count": 108
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10751,
+      10765
+    ],
+    "id": 45140,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Teen Titans Go!",
+    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+    "popularity": 127.9892,
+    "poster_path": "/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg",
+    "first_air_date": "2013-04-23",
+    "name": "Teen Titans Go!",
+    "vote_average": 6.482,
+    "vote_count": 662
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+    "genre_ids": [
+      80,
+      10759,
+      18
+    ],
+    "id": 71790,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "S.W.A.T.",
+    "overview": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn between loyalty to the streets, where the cops are sometimes the enemy, and allegiance to his brothers in blue, he strategically straddles the two worlds.",
+    "popularity": 125.0607,
+    "poster_path": "/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+    "first_air_date": "2017-11-02",
+    "name": "S.W.A.T.",
+    "vote_average": 8.062,
+    "vote_count": 1492
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d0uzkTgU8YHrz1vw9MN5bYKhiYx.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10765
+    ],
+    "id": 18828,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "T.U.F.F. Puppy",
+    "overview": "In the fictional city of Petropolis dog Dudley Puppy works as a spy for the organization T.U.F.F. (Turbo Undercover Fighting Force). Together with his partner, a cat named Kitty Katswell, Dudley works to protect Petropolis.",
+    "popularity": 108.2277,
+    "poster_path": "/mzJSwX75Gjty8hZIEbqblPbEvkl.jpg",
+    "first_air_date": "2010-10-02",
+    "name": "T.U.F.F. Puppy",
+    "vote_average": 7.2,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 30984,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLEACH",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "popularity": 133.8777,
+    "poster_path": "/7bSQNQuhHeInFMfzMwevfCiqcTm.jpg",
+    "first_air_date": "2004-10-05",
+    "name": "Bleach",
+    "vote_average": 8.373,
+    "vote_count": 1965
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9rdlZYoFcoSG7pVSxJ7XbzWxcDo.jpg",
+    "genre_ids": [
+      35,
+      10759,
+      16,
+      10765
+    ],
+    "id": 57706,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "らんま1/2",
+    "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
+    "popularity": 142.2184,
+    "poster_path": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+    "first_air_date": "1989-04-15",
+    "name": "Ranma ½",
+    "vote_average": 8.611,
+    "vote_count": 1449
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ag5MAkEw5Z766XONyrcvVy5Nkoh.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648,
+      10759
+    ],
+    "id": 102387,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "en",
+    "original_name": "Wildflower",
+    "overview": "Wildflower is a Philippine revenge drama television series starring Maja Salvador, together with an ensemble cast. The show originally aired on ABS-CBN, and worldwide on The Filipino Channel, from February 13, 2017 to February 9, 2018.",
+    "popularity": 89.8721,
+    "poster_path": "/r8RCm4l9wqbSKW7AACJvSFfpgdb.jpg",
+    "first_air_date": "2017-02-13",
+    "name": "Wildflower",
+    "vote_average": 8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      10765
+    ],
+    "id": 121,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Doctor Who",
+    "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+    "popularity": 100.5096,
+    "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+    "first_air_date": "1963-11-23",
+    "name": "Doctor Who",
+    "vote_average": 7.867,
+    "vote_count": 664
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hF1LFAol3GaubZ6YkDR6AQeJz7q.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 152271,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ニンジャラ",
+    "overview": "After years of experiments, three researchers finally create Ninja-Gum. This substance awakens dormant power within people descended from ninjas, but its creation isn’t without consequences and will lead them to the mysterious Ninjala Tournament.",
+    "popularity": 112.6131,
+    "poster_path": "/2EkTiYPBvW3R1221Sk4436PkoHt.jpg",
+    "first_air_date": "2022-01-08",
+    "name": "Ninjala the Animation",
+    "vote_average": 7.667,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hYwZR2P8MNJZz2Dnj68M8bUOfLt.jpg",
+    "genre_ids": [
+      80,
+      35,
+      10759
+    ],
+    "id": 231280,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "굿보이",
+    "overview": "After 11 years, the police revive their special recruitment for former national athletes. Once hailed as heroes, these world-class medalists now face harsh realities. Despite financial struggles, unexpected tragedies, and discrimination within the force, the athletes, each with their own story, reunite as a special task force to take on major crimes with the grit and skills they honed as athletes.",
+    "popularity": 121.8325,
+    "poster_path": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+    "first_air_date": "2025-05-31",
+    "name": "GOOD BOY",
+    "vote_average": 8.757,
+    "vote_count": 68
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dHyk1hQPatJKmeg3wveEdmY4GrL.jpg",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "id": 30188,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "WWE Heat",
+    "overview": "WWE Heat is a professional wrestling television program that was produced by World Wrestling Entertainment (WWE).",
+    "popularity": 116.508,
+    "poster_path": "/cBu92h3lAwwSn7DHqzbQQh82ag9.jpg",
+    "first_air_date": "1998-08-02",
+    "name": "WWE Heat",
+    "vote_average": 5.1,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765
+    ],
+    "id": 240411,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダンダダン",
+    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
+    "popularity": 112.368,
+    "poster_path": "/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+    "first_air_date": "2024-10-04",
+    "name": "Dan Da Dan",
+    "vote_average": 8.647,
+    "vote_count": 562
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4rqGhqQ3aHv5TN7z59OsnLFhD8t.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      10759,
+      35,
+      10765
+    ],
+    "id": 6732,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "喜羊羊与灰太狼",
+    "overview": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting and Luo Yinggeng, and produced by Creative Power Entertaining. The show is about a group of goats living on the Green Pasture, Qing Qing Grasslands/Plains, and the story revolving around a clumsy wolf who wants to eat them.  Toon Express Group owns the copyrights of the characters.",
+    "popularity": 125.4309,
+    "poster_path": "/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
+    "first_air_date": "2005-08-03",
+    "name": "Pleasant Goat and Big Big Wolf",
+    "vote_average": 7.4,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 44217,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Vikings",
+    "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+    "popularity": 135.1149,
+    "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "first_air_date": "2013-03-03",
+    "name": "Vikings",
+    "vote_average": 8.097,
+    "vote_count": 7242
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 95479,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "呪術廻戦",
+    "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "popularity": 114.5058,
+    "poster_path": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "first_air_date": "2020-10-03",
+    "name": "JUJUTSU KAISEN",
+    "vote_average": 8.581,
+    "vote_count": 3900
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h8Lxf8gCI6uQqmnoWfQxjaJgrul.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10762
+    ],
+    "id": 65334,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
+    "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+    "popularity": 127.6769,
+    "poster_path": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+    "first_air_date": "2015-10-19",
+    "name": "Miraculous: Tales of Ladybug & Cat Noir",
+    "vote_average": 8,
+    "vote_count": 4491
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      80,
+      9648
+    ],
+    "id": 17610,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "NCIS: Los Angeles",
+    "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+    "popularity": 112.7025,
+    "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+    "first_air_date": "2009-09-22",
+    "name": "NCIS: Los Angeles",
+    "vote_average": 7.538,
+    "vote_count": 1192
+  }
+]

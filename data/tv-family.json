@@ -1,0 +1,1331 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 50821,
+    "origin_country": [
+      "HU"
+    ],
+    "original_language": "hu",
+    "original_name": "Barátok közt",
+    "overview": "Miklós introduces viewers into the world of Money and Charm.",
+    "popularity": 567.7452,
+    "poster_path": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+    "first_air_date": "1998-10-26",
+    "name": "Among Friends",
+    "vote_average": 3.1,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "id": 65733,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "popularity": 441.816,
+    "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+    "first_air_date": "2005-04-22",
+    "name": "Doraemon",
+    "vote_average": 8.1,
+    "vote_count": 184
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4fVwc77cov2q9i0szzYhlkAaqza.jpg",
+    "genre_ids": [
+      35,
+      10759,
+      10762,
+      16,
+      10751
+    ],
+    "id": 34860,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忍たま乱太郎",
+    "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
+    "popularity": 309.4555,
+    "poster_path": "/raKlXyICQBeTxYavErIRybR6g8d.jpg",
+    "first_air_date": "1993-04-10",
+    "name": "Ninja Boy Rantaro",
+    "vote_average": 6.4,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      35,
+      10751,
+      10762
+    ],
+    "id": 132791,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パーマン",
+    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
+    "popularity": 244.2892,
+    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+    "first_air_date": "1983-04-04",
+    "name": "SUPERKID",
+    "vote_average": 8.75,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p09oos2PjdtJjOjvLbqAFnRPHRN.jpg",
+    "genre_ids": [
+      10762,
+      10751
+    ],
+    "id": 49281,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "CBeebies Bedtime Stories",
+    "overview": "Join a host of different celebrities for a different story read each night just before bedtime.",
+    "popularity": 217.1372,
+    "poster_path": "/b0ScjqTEs9XNpGsFueXdwPbWHtC.jpg",
+    "first_air_date": "2009-03-09",
+    "name": "CBeebies Bedtime Stories",
+    "vote_average": 7.7,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AqCZow3yUrQn8ltGgS0p1dcBqLo.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10765,
+      9648
+    ],
+    "id": 81665,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Summer Camp Island",
+    "overview": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
+    "popularity": 132.7641,
+    "poster_path": "/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
+    "first_air_date": "2018-07-07",
+    "name": "Summer Camp Island",
+    "vote_average": 7.8,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10751,
+      10762
+    ],
+    "id": 80885,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "忍者ハットリくん",
+    "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
+    "popularity": 293.5559,
+    "poster_path": "/zVSx7lXxRKqXiQMgN6QNGgNyF5R.jpg",
+    "first_air_date": "1981-09-28",
+    "name": "Ninja Hattori-kun",
+    "vote_average": 6.8,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "id": 52,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "That '70s Show",
+    "overview": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric’s basement, life in the ‘70s isn’t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they’ve learned one thing for sure: they’ll always get by with a little help from their friends.",
+    "popularity": 140.4522,
+    "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+    "first_air_date": "1998-08-23",
+    "name": "That '70s Show",
+    "vote_average": 7.943,
+    "vote_count": 1482
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4L38sYtXVOedaQxXmA42wrqFh7x.jpg",
+    "genre_ids": [
+      10768,
+      10751,
+      18
+    ],
+    "id": 49599,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Sakarya Fırat",
+    "overview": "",
+    "popularity": 88.6693,
+    "poster_path": "/esqyip0atCBKfaTsFQJrvO1GiXW.jpg",
+    "first_air_date": "2009-12-16",
+    "name": "Sakarya Fırat",
+    "vote_average": 7.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iPSzjcRXIdDEPtwEkUZCLv6qmIE.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 68604,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "इश्कबाज़",
+    "overview": "Follows three brothers - Shivaay, Omkara and Rudra -- who share an unbreakable bond despite their dysfunctional family.",
+    "popularity": 156.6188,
+    "poster_path": "/lOa6zZVA9q6tBVZobRhWIdRMtEp.jpg",
+    "first_air_date": "2016-06-27",
+    "name": "Ishqbaaaz",
+    "vote_average": 9,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pLn4lsSBtGUY1whHyCoEJhgziaP.jpg",
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "id": 2912,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Jeopardy!",
+    "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+    "popularity": 235.971,
+    "poster_path": "/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+    "first_air_date": "1984-09-10",
+    "name": "Jeopardy!",
+    "vote_average": 6.907,
+    "vote_count": 145
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/taVpgDdtwqgPbgwIFEBSU4I5vuV.jpg",
+    "genre_ids": [
+      10762,
+      10751,
+      10766
+    ],
+    "id": 58566,
+    "origin_country": [
+      "AR",
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Chiquititas",
+    "overview": "Based on the original version of same name created by Cris Morena, the series tells the story of a group of orphans living in a manor, known as Raio de Luz, struggling and being guided by a young woman, Carol, that assumes a maternal figure for them. Their experiences such as discovering first love, deceptions, loneliness and friendship, as well as adventures in fantasy, are depicted throughout the series. The narrative is followed by musical themes and videoclips.",
+    "popularity": 112.2466,
+    "poster_path": "/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg",
+    "first_air_date": "2013-07-15",
+    "name": "Chiquititas",
+    "vote_average": 8.45,
+    "vote_count": 40
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35
+    ],
+    "id": 456,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "popularity": 238.1723,
+    "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+    "first_air_date": "1989-12-17",
+    "name": "The Simpsons",
+    "vote_average": 8.012,
+    "vote_count": 10279
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      10762,
+      35
+    ],
+    "id": 3022,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rugrats",
+    "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+    "popularity": 87.4643,
+    "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+    "first_air_date": "1991-08-11",
+    "name": "Rugrats",
+    "vote_average": 7.603,
+    "vote_count": 717
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1IUDDaEry6BY7RcxXa5l1OcHA82.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 209256,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "北の家族",
+    "overview": "The 13th NHK Asadora. Starring Youko Takahashi in a story about a brother and sister coming of age in Hakodate and Kanazawa.",
+    "popularity": 164.2247,
+    "poster_path": "/pkaupLRkuQq86oIHAD1a0JNJIT2.jpg",
+    "first_air_date": "1973-04-02",
+    "name": "Kita no kazoku",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1Be0q7wRrSADtXTQueGWOggxpEm.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      10765
+    ],
+    "id": 45013,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wander Over Yonder",
+    "overview": "The adventures of Wander, an eternally-optimistic intergalactic traveler and constant do-gooder, and his quick-tempered but loyal steed and best friend, Sylvia.  The friendliest face in outer space, Wander journeys across the galaxies to spread good cheer and to help anyone he can — much to his overly pragmatic stallion’s chagrin. Their fun-loving escapades often lead them to clash with the evil villain Lord Hater and his army of Watchdogs, who travel from planet to planet trying to make hate the order of the day. Together, the best friends travel through the cosmos, happening upon one freewheeling adventure after another and making new friends and foes.",
+    "popularity": 100.5442,
+    "poster_path": "/ow88KmFUXMb6S4EKOWyTBy8ta7O.jpg",
+    "first_air_date": "2013-09-13",
+    "name": "Wander Over Yonder",
+    "vote_average": 7.4,
+    "vote_count": 91
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1AwRQTVV1M8eEce3aUa6f3BEwap.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 153485,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サザエさん",
+    "overview": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
+    "popularity": 206.3203,
+    "poster_path": "/sR3tqK13hhpohIfnpd2z3HkpnUb.jpg",
+    "first_air_date": "1969-10-14",
+    "name": "Sazae-san",
+    "vote_average": 6.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eUZgRR8bN1EyHmrUXWW9ElBmzGg.jpg",
+    "genre_ids": [
+      35,
+      10767,
+      10751
+    ],
+    "id": 10534,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Red Skelton Show",
+    "overview": "The Red Skelton Show is an American variety show that was a television staple for two decades, from 1951 to 1971. It was second to Gunsmoke and third to The Ed Sullivan Show in the ratings during that time. Skelton, who had previously been a radio star, had appeared in several motion pictures as well. Although his television series is largely associated with CBS, where it appeared for more than fifteen years, it actually began and ended on NBC. During its run, the program received three Emmy Awards, for Skelton as best comedian and the program as best comedy show during its initial season, and an award for comedy writing in 1961.",
+    "popularity": 148.5829,
+    "poster_path": "/6e54gnblIDcwDGOGhzPyV0fB6Rw.jpg",
+    "first_air_date": "1951-09-30",
+    "name": "The Red Skelton Show",
+    "vote_average": 7.375,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7WdAmD50qPZdRFx7wJj5ZNsXZQc.jpg",
+    "genre_ids": [
+      10751
+    ],
+    "id": 26298,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_name": "Anjo Selvagem",
+    "overview": "",
+    "popularity": 117.7267,
+    "poster_path": "/jq7yvqKHgi7mBckRj3vipbQpRY4.jpg",
+    "first_air_date": "2001-09-02",
+    "name": "Anjo Selvagem",
+    "vote_average": 6,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7tPJfShsyTda32HLIFKbYvD0N87.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10751
+    ],
+    "id": 607,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Powerpuff Girls",
+    "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+    "popularity": 154.0552,
+    "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+    "first_air_date": "1998-11-18",
+    "name": "The Powerpuff Girls",
+    "vote_average": 7.542,
+    "vote_count": 941
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wdPDHfWwkKlrT3REsctj0qE3xoo.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 1027,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Carol Burnett Show",
+    "overview": "The Carol Burnett Show is an American variety/sketch comedy television show starring Carol Burnett, Harvey Korman, Vicki Lawrence, Lyle Waggoner, and Tim Conway. It originally ran on CBS from September 11, 1967, to March 29, 1978, for 278 episodes and originated from CBS Television City's Studio 33. The series won 25 prime time Emmy Awards, was ranked No. 16 on TV Guide's 50 Greatest TV Shows of All Time in 2002 and in 2007 was listed as one of Time magazine's \"100 Best TV Shows of All Time.\"",
+    "popularity": 98.1823,
+    "poster_path": "/dGd9pG4PGzpJbdbPEnFxKrJ24z8.jpg",
+    "first_air_date": "1967-09-11",
+    "name": "The Carol Burnett Show",
+    "vote_average": 7.7,
+    "vote_count": 63
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      10762
+    ],
+    "id": 46928,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Sofia the First",
+    "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
+    "popularity": 98.2977,
+    "poster_path": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
+    "first_air_date": "2013-01-11",
+    "name": "Sofia the First",
+    "vote_average": 7.186,
+    "vote_count": 532
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zJZdlqcY51VueyzwXVDFSGELmsW.jpg",
+    "genre_ids": [
+      18,
+      10766,
+      10751
+    ],
+    "id": 84011,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Kadenang Ginto",
+    "overview": "The story of Romina, a secretary turned wife of business tycoon, Robert, who married her despite the fact that she was raped and is carrying the child of the assailant. Unknown to Romina, it was Daniela, Robert’s daughter, who had orchestrated her abduction, right before seducing Romina’s fiance, Carlos. With Romina's and Daniela's lives intertwined, their daughters, Cassandra and Margaret, are made to fight as to who among them is the rightful heiress to the Mondragon empire.",
+    "popularity": 156.2776,
+    "poster_path": "/j22hweQSBPCerif5NY23ZKZFqML.jpg",
+    "first_air_date": "2018-10-08",
+    "name": "The Heiress",
+    "vote_average": 5.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zPos6SjnlahyTc4QquMCcKOlR8v.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "id": 531,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Saved by the Bell: The New Class",
+    "overview": "Six friends grow and learn at Bayside High.",
+    "popularity": 61.329,
+    "poster_path": "/eq88yhvao0bzpPecjWjkVrevZ5P.jpg",
+    "first_air_date": "1993-09-11",
+    "name": "Saved by the Bell: The New Class",
+    "vote_average": 6,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1eUNe8eP5GnEL6RLgPLSVOiVTvU.jpg",
+    "genre_ids": [
+      10751,
+      10764
+    ],
+    "id": 64369,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "TV 동물농장",
+    "overview": "",
+    "popularity": 163.272,
+    "poster_path": "/7FZZHXxlujrtq3EUkP78tm5aVkX.jpg",
+    "first_air_date": "2001-05-06",
+    "name": "TV Animal Farm",
+    "vote_average": 7.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mXVr88l7877i0P4cLQl1mUvaXGJ.jpg",
+    "genre_ids": [
+      10766,
+      10751,
+      35,
+      9648
+    ],
+    "id": 66203,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Soy Luna",
+    "overview": "Luna Valente lives with her family in Cancún, Mexico. She goes to school, has her own group of friends, has a job, and loves to skate. However, her life changes when her parents are given a job offer that moves them to Buenos Aires, Argentina. There she finds a new skating rink (named Jam & Roller), learns freestyling, makes new friends, and even falls in love.",
+    "popularity": 71.8856,
+    "poster_path": "/4JDmIzhNF7aMsDGlxVwkQ9kv9E6.jpg",
+    "first_air_date": "2016-03-14",
+    "name": "Soy Luna",
+    "vote_average": 7.964,
+    "vote_count": 1072
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dIL6DoQIxtDZN5FlSkFoSSKmlSm.jpg",
+    "genre_ids": [
+      10762,
+      10751,
+      16
+    ],
+    "id": 6353,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Story of Tracy Beaker",
+    "overview": "Tracy Beaker is a 10-year-old girl who has been placed in a children's home. Tracy makes new friends along the way and causes mischief wherever she goes.",
+    "popularity": 59.5351,
+    "poster_path": "/iggQkR7r6hfbaJwheZQIixHx9dK.jpg",
+    "first_air_date": "2002-01-08",
+    "name": "The Story of Tracy Beaker",
+    "vote_average": 6.411,
+    "vote_count": 28
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cg5mTWpFagPzHMG887GPKe1kskM.jpg",
+    "genre_ids": [
+      99,
+      10751
+    ],
+    "id": 14951,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Nature",
+    "overview": "Consistently stunning documentaries transport viewers to far-flung locations ranging from the torrid African plains to the chilly splendours of icy Antarctica. The show's primary focus is on animals and ecosystems around the world. A comic book based on the show, meant to be used an as educational tool for kids, was briefly distributed to museums and schools at no cost in the mid-2000s.",
+    "popularity": 150.773,
+    "poster_path": "/dmsnC5rDVGeBvjCUGPXhvoGw5Qx.jpg",
+    "first_air_date": "1982-10-10",
+    "name": "Nature",
+    "vote_average": 8.1,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gVAwcl83Ys1dtcFCiLuCLAx6xge.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      9648
+    ],
+    "id": 2625,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Diagnosis: Murder",
+    "overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+    "popularity": 129.1712,
+    "poster_path": "/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+    "first_air_date": "1993-10-29",
+    "name": "Diagnosis: Murder",
+    "vote_average": 7.087,
+    "vote_count": 115
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/quC9EyY5UJ6hu3QklXXsaro45bp.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "id": 70204,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "순풍산부인과",
+    "overview": "",
+    "popularity": 81.9944,
+    "poster_path": "/cRvExNNMVinTXyW8YITQQ62oznN.jpg",
+    "first_air_date": "1998-03-02",
+    "name": "Soonpoong Clinic",
+    "vote_average": 9,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kS3Wg6qiybMnBWMyROEY4txJGUI.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 4366,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Electric Company",
+    "overview": "The Electric Company is an educational American children's television series that was produced by the Children's Television Workshop for PBS in the United States. PBS broadcast 780 episodes over the course of its six seasons from October 25, 1971 to April 15, 1977. After it ceased production that year, the program continued in reruns from 1977 to 1985, the result of a decision made in 1975 to produce two final seasons for perpetual use. CTW produced the show at Teletape Studios Second Stage in Manhattan, the first home of Sesame Street.\n\nThe Electric Company employed sketch comedy and other devices to provide an entertaining program to help elementary school children develop their grammar and reading skills. It was intended for children who had graduated from CTW's flagship program, Sesame Street. Appropriately, the humor was more mature than what was seen there.",
+    "popularity": 72.3779,
+    "poster_path": "/kqSyefnBcymXCfQ51Kukd4xq4w8.jpg",
+    "first_air_date": "1971-10-25",
+    "name": "The Electric Company",
+    "vote_average": 7.143,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762,
+      9648
+    ],
+    "id": 68073,
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Loud House",
+    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+    "popularity": 138.1789,
+    "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+    "first_air_date": "2016-05-02",
+    "name": "The Loud House",
+    "vote_average": 7.837,
+    "vote_count": 541
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10765
+    ],
+    "id": 1877,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Phineas and Ferb",
+    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+    "popularity": 113.0649,
+    "poster_path": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+    "first_air_date": "2007-08-17",
+    "name": "Phineas and Ferb",
+    "vote_average": 7.9,
+    "vote_count": 929
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wFfSFzWq8ur2lbYtUsdMI1eztMt.jpg",
+    "genre_ids": [
+      18,
+      10766,
+      10751
+    ],
+    "id": 12727,
+    "origin_country": [
+      "MX",
+      "BR"
+    ],
+    "original_language": "es",
+    "original_name": "Cómplices Al Rescate",
+    "overview": "Cómplices al Rescate is a Mexican telenovela starring Belinda as two twins who were separated at birth.",
+    "popularity": 98.5771,
+    "poster_path": "/m2l2V1AUwx878DrvF2H0TblMj4X.jpg",
+    "first_air_date": "2002-01-07",
+    "name": "Cómplices Al Rescate",
+    "vote_average": 7.573,
+    "vote_count": 164
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c8m4NAE774Vsn5AZvn2bFarUtDX.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      35,
+      10762,
+      10751
+    ],
+    "id": 504,
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Ren & Stimpy Show",
+    "overview": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world for some outlandish situations coupled with hilarious jokes.",
+    "popularity": 85.4332,
+    "poster_path": "/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg",
+    "first_air_date": "1991-08-11",
+    "name": "The Ren & Stimpy Show",
+    "vote_average": 7.621,
+    "vote_count": 481
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zfoXPiIpcgUGa1GoCbmUMr9LAe6.jpg",
+    "genre_ids": [
+      10762,
+      10751,
+      18
+    ],
+    "id": 95532,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Carinha de Anjo",
+    "overview": "After a family tragedy, the sweet Dulce Maria is cared for by kind nuns at a boarding school. But things change when Dad comes back into her life.",
+    "popularity": 68.8142,
+    "poster_path": "/c0nfxUyEK33NrDt2XU6EQX1YW5J.jpg",
+    "first_air_date": "2016-11-21",
+    "name": "Carinha de Anjo",
+    "vote_average": 7.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dkyZ6k3FNcC5mxh2X2h48dfFMay.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 60580,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Jodha Akbar",
+    "overview": "Jodha Akbar is an epic drama about a sixteenth century story of the political marriage of convenience between a Mughal emperor Abu'l-Fath Jalal ud-din Muhammad Akbar and a Rajput princess Jodha Bai. The show focuses on how their political marriage brings love between them to an extent that it changed the fate of India. This period drama also portrays the wars of that time along with the relations between the Mughals and the Rajputs. The drama also focuses on the functioning of the queens, the courts, courtesans, the ministers and their influence on the love story of Jalal ud-din Muhammad Akbar and Jodha Bai. The show also highlights on how Mughal emperor Jalal ud-din Muhammad acquires the title of Akbar from the people.",
+    "popularity": 132.7311,
+    "poster_path": "/w95kRZ4YvebswNjLBwdaOHCah0K.jpg",
+    "first_air_date": "2013-06-18",
+    "name": "Jodha & Akbar",
+    "vote_average": 5.5,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/el8FZ7rw73zvvEGfKETnoUZ7DMK.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 40382,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Diya Aur Baati Hum",
+    "overview": "Diya Aur Baati Hum is an Indian television soap opera, broadcast on Star Plus channel from 29 August 2011. It stars Deepika Singh and Anas Rashid as the main protagonists.",
+    "popularity": 135.9812,
+    "poster_path": "/co0mUDxZjto9IBvYjLxu1LVE5NH.jpg",
+    "first_air_date": "2011-08-29",
+    "name": "Diya Aur Baati Hum",
+    "vote_average": 3,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sCyzwACda02TQuaUKhk67ccUm2S.jpg",
+    "genre_ids": [
+      10751,
+      9648,
+      10765
+    ],
+    "id": 35016,
+    "origin_country": [
+      "BE",
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "House of Anubis",
+    "overview": "Strange things are happening at an English boarding school called House of Anubis. Popular student Joy goes missing, the school's cranky caretaker has a creepy stuffed crow and the school's attic may be haunted. When recent American transplant Nina gets thrust into the school during this time, she decides to investigate along with her new friend, Fabian, and housemates.",
+    "popularity": 74.3175,
+    "poster_path": "/llPkPieIBfVXKIklkeP5VddpK8b.jpg",
+    "first_air_date": "2011-01-01",
+    "name": "House of Anubis",
+    "vote_average": 8.096,
+    "vote_count": 270
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 7514,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Sa Dulo Ng Walang Hanggan",
+    "overview": "Sa Dulo ng Walang Hanggan is a Philippine primetime drama teleserye aired from 26 March 2001 to 28 February 2003 by ABS-CBN.",
+    "popularity": 133.4368,
+    "poster_path": null,
+    "first_air_date": "2001-03-26",
+    "name": "Sa Dulo Ng Walang Hanggan",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rv5gu2gYbOEYoArzH7bqJuMxvBB.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 115646,
+    "origin_country": [
+      "BE"
+    ],
+    "original_language": "nl",
+    "original_name": "Lisa",
+    "overview": "",
+    "popularity": 86.3015,
+    "poster_path": "/w2nOl7KhwcUj11YxEi9Nknj9cqu.jpg",
+    "first_air_date": "2021-01-25",
+    "name": "Lisa",
+    "vote_average": 6.8,
+    "vote_count": 40
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fc8CGrZ4cWLdBArzlGQDihURsN5.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10751,
+      10762,
+      10765
+    ],
+    "id": 72468,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "OK K.O.! Let's Be Heroes",
+    "overview": "Animated comedy set in the futuristic year of 201X, where the world is populated by video game and manga-esque characters.",
+    "popularity": 75.7125,
+    "poster_path": "/3V2IL48S9l5iLz4LtdWl9x5aXLZ.jpg",
+    "first_air_date": "2017-08-01",
+    "name": "OK K.O.! Let's Be Heroes",
+    "vote_average": 7.9,
+    "vote_count": 79
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hSQuLZGmVdJzfRJpN0JmVHyEBGz.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 15287,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Saan Ka Man Naroroon",
+    "overview": "Saan Ka Man Naroroon is a Philippine television series by ABS-CBN. It premiered April 12, 1999, on ABS-CBN.\n\nSaan Ka Man Naroroon stars Claudine Barretto as she portrays three contrasting roles—Rosario, Rosenda and Rosemarie—triplets who were separated at birth. Claudine has distinguished between Rosenda, Rosemarie, and Rosario, people who we run across with every day of our lives.\n\nThe TV Series became popular throughout its whole run and also ignited the rising of Claudine Barretto's career as an actress",
+    "popularity": 155.0999,
+    "poster_path": "/dqHTgBZsDEz02Q2FendRE1fd3VP.jpg",
+    "first_air_date": "1999-04-12",
+    "name": "Saan Ka Man Naroroon",
+    "vote_average": 10,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A1xO9Y3k5v0k0fyi9rcyan6HiS2.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 2122,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "King of the Hill",
+    "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+    "popularity": 153.078,
+    "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+    "first_air_date": "1997-01-12",
+    "name": "King of the Hill",
+    "vote_average": 7.35,
+    "vote_count": 609
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1qCGrhbbBLZpPY1NhyDjGymwq0X.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 99588,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Kamp Koral: SpongeBob's Under Years",
+    "overview": "SpongeBob and friends spend the summer catching jellyfish, building camp-fires, and swimming in Lake Yuckymuck at Camp Coral, located in the Kelp Forest.",
+    "popularity": 82.8569,
+    "poster_path": "/peZYB3aFOBoZbpFhOZogrTHVlqX.jpg",
+    "first_air_date": "2021-03-04",
+    "name": "Kamp Koral: SpongeBob's Under Years",
+    "vote_average": 7.156,
+    "vote_count": 517
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nnH6rWF1osVe245jy9hKYAiz96o.jpg",
+    "genre_ids": [
+      10762,
+      10751
+    ],
+    "id": 34921,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "The Wiggles",
+    "overview": "A show geared for babies up to older toddlers. This show is full of music, teaching kids songs and easy dances.",
+    "popularity": 55.7137,
+    "poster_path": "/e4O9IXM3ZmuDsrEICslrwqCl7MT.jpg",
+    "first_air_date": "1998-07-31",
+    "name": "The Wiggles",
+    "vote_average": 6,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yqymln4qalJzX2aYAaBXOnmPtZb.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 207507,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "心はいつもラムネ色",
+    "overview": "The 33rd NHK Asadora. Starring Eisaku Shindou as a man who loves manzai (a traditional style of stand-up comedy in Japanese culture). Average rating of 40.2%\n\nBased on the life of a famous two-man comedy act writer, Akita Minoru, who loved comedy more than anything. His life itself was full of wit and humor, love and friendship.",
+    "popularity": 113.8363,
+    "poster_path": "/5PLhDo0SJTGW2oSIbVRbIEeK0D3.jpg",
+    "first_air_date": "1984-10-01",
+    "name": "Kokoru wa Itsumo Ramune Iro",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vv2FQBvol6JgL9AO8mwi8jaoaNv.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 2405,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Johnny Bravo",
+    "overview": "Johnny Bravo tells the story of a biceps-bulging, karate-chopping free spirit who believes he is a gift from God to the women of the earth. Unfortunately for Johnny, everyone else sees him as a narcissistic Mama's boy with big muscles and even bigger hair. In short, he is the quintessential guy who 'just doesn't get it.' No matter what he does, or where he finds himself, he always winds up being his own worst enemy.",
+    "popularity": 78.8788,
+    "poster_path": "/obbdeoOk8XSXzJrWGiBbaeMMSMl.jpg",
+    "first_air_date": "1997-07-07",
+    "name": "Johnny Bravo",
+    "vote_average": 7.3,
+    "vote_count": 593
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10751,
+      10765
+    ],
+    "id": 45140,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Teen Titans Go!",
+    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+    "popularity": 127.9892,
+    "poster_path": "/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg",
+    "first_air_date": "2013-04-23",
+    "name": "Teen Titans Go!",
+    "vote_average": 6.482,
+    "vote_count": 662
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 92475,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Marc et Sophie",
+    "overview": "",
+    "popularity": 135.3095,
+    "poster_path": "/k5q2ofjO8sxRBlUrjhC7BmeeJYH.jpg",
+    "first_air_date": "1987-09-05",
+    "name": "Marc et Sophie",
+    "vote_average": 5.2,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tWjKZS3Pkv7XPdc1ANJMCDcRKBn.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 209609,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Abot-Kamay Na Pangarap",
+    "overview": "Analyn is a genius who was born poor and raised by her illiterate and sickly mother. She graduates from high school at the age of 12 and dreams of becoming a doctor in order to help the less privileged. She graduates from med school at 19 years old and becomes the youngest surgical resident in a large hospital. Despite her achievements, she has to deal with bullying and competition from her fellow doctors, who are threatened by her age and intelligence. She soon finds herself in an emotional crisis which forces her to leave her profession indefinitely. She returns to the hospital when she learns that she is the only doctor skilled enough to save her father from a rare brain disease.",
+    "popularity": 125.6323,
+    "poster_path": "/8ygPwBfmY4mhhhVZ4lvjh3GgRmd.jpg",
+    "first_air_date": "2022-09-05",
+    "name": "Abot-Kamay Na Pangarap",
+    "vote_average": 4.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/janrDLDdXOjjVLsiTvDPMjyjMVO.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      10751,
+      35
+    ],
+    "id": 2674,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Neighbours",
+    "overview": "Neighbours is an Australian television soap opera.  The show's storylines concern the domestic and professional lives of the people who live and work in Erinsborough, a fictional suburb of Melbourne, Victoria. The series primarily centres around the residents of Ramsay Street, a short cul-de-sac, and its neighbouring areas, the Lassiters complex, which includes a bar, hotel, cafe, news office and park. Neighbours began with three families created by Watson – the Ramsays, the Robinsons and the Clarkes. Watson said that he wanted to show three families who are friends living in a small street. The Robinsons and the Ramsays had a long history and were involved in an ongoing rivalry.",
+    "popularity": 92.8796,
+    "poster_path": "/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
+    "first_air_date": "1985-03-18",
+    "name": "Neighbours",
+    "vote_average": 5.955,
+    "vote_count": 56
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vK8tSeOh7WTkPqLu3kK34U8zmiE.jpg",
+    "genre_ids": [
+      10751,
+      10764,
+      35
+    ],
+    "id": 97867,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Family Feud Canada",
+    "overview": "We asked 100 game show-loving Canadians: Name the only iconic TV show featuring two Canadian families competing to guess popular answers to fun survey questions. Top answer on the board? Survey says...get ready for Family Feud Canada!",
+    "popularity": 78.5998,
+    "poster_path": "/ohlgnAbNTZYZ0PhsM57HPTJ0pg7.jpg",
+    "first_air_date": "2019-12-16",
+    "name": "Family Feud Canada",
+    "vote_average": 5.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/70mwKy9476ozh3kgMenvhyeTXzJ.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10766
+    ],
+    "id": 54562,
+    "origin_country": [
+      "CZ"
+    ],
+    "original_language": "cs",
+    "original_name": "Velmi křehké vztahy",
+    "overview": "",
+    "popularity": 101.3273,
+    "poster_path": "/hbaMvbzlr1yOZKxvOsrMK3zpM1U.jpg",
+    "first_air_date": "2007-01-02",
+    "name": "Velmi křehké vztahy",
+    "vote_average": 1.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lLZfNDwg5jWjt2ulgs5Oh0yBKez.jpg",
+    "genre_ids": [
+      18,
+      80,
+      10751
+    ],
+    "id": 49609,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Üvey Baba",
+    "overview": "",
+    "popularity": 54.249,
+    "poster_path": "/5gZZBGfoCs6TIe0OB75UbIAlugr.jpg",
+    "first_air_date": "1998-11-26",
+    "name": "Üvey Baba",
+    "vote_average": 6,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/atwkAlHM9NQjEOes09YuSrwsPPQ.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 37632,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Switched at Birth",
+    "overview": "The story of two teenage girls who discover they were accidentally switched as newborns in the hospital. Bay Kennish grew up in a wealthy family with two parents and a brother, while Daphne Vasquez, who lost her hearing at an early age due to a case of meningitis, grew up with a single mother in a working-class neighborhood. Things come to a dramatic head when both families meet and struggle to learn how to live together for the sake of the girls.",
+    "popularity": 108.7797,
+    "poster_path": "/db5XnOxGcUHeNhBRNbHfqTlzXmk.jpg",
+    "first_air_date": "2011-06-06",
+    "name": "Switched at Birth",
+    "vote_average": 7.466,
+    "vote_count": 208
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/XuJi5lKkYLCFpJprfSUZveRof7.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "id": 4500,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Wonder Years",
+    "overview": "The story of Kevin Arnold facing the trials and tribulations of youth while growing up during the 1960s and 70s. Told through narration from an adult Kevin, Kevin faces the difficulties of maintaining relationships and friendships on his enthralling journey into adulthood.",
+    "popularity": 114.5891,
+    "poster_path": "/tkaduqdhFrF1vp8L55OJfB5jw8Z.jpg",
+    "first_air_date": "1988-01-31",
+    "name": "The Wonder Years",
+    "vote_average": 8.324,
+    "vote_count": 1034
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aNO29XDB8IuGULTtpbIlfFqn2PF.jpg",
+    "genre_ids": [
+      10751,
+      10762
+    ],
+    "id": 5313,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Jim'll Fix It",
+    "overview": "A long-running BBC television series hosted by Jimmy Savile. Children from the public would write in to the host requesting that he 'fix' something for them or make some wish come true.",
+    "popularity": 51.5863,
+    "poster_path": "/pwcgsZEeHM2ktWS7TvR8h49LTJx.jpg",
+    "first_air_date": "1975-05-31",
+    "name": "Jim'll Fix It",
+    "vote_average": 3.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vExXJEVz2g9AELIGGA51OMAZgtv.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 62068,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲゲゲの鬼太郎",
+    "overview": "The classic tale of Gegege no Kitaro told yet again. The story is the usual in the Gegege no Kitaro series. Kitaro is a boy living in the Gegege Forest/Cemetery (lands where many Yokai roam) with his mostly dead father (who survives only in his eye), Sunakake Babaa, NekoMusume, and Konaki Jiji. One difference between this Kitaro and all of the others that came before him, is that this one has brown hair instead of the standard grayish silver.",
+    "popularity": 110.51,
+    "poster_path": "/1oQI6xLEQbqJRrNcyFB0MxWKLuY.jpg",
+    "first_air_date": "2007-04-01",
+    "name": "Cackling Kitarou",
+    "vote_average": 8.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gyAjyijXCKjxpW4q6T1CPxhyIda.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "id": 49598,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Küçük Kadınlar",
+    "overview": "",
+    "popularity": 48.0117,
+    "poster_path": "/yVCMCXWDmNT7oNWdEoTW6OO9aw5.jpg",
+    "first_air_date": "2008-06-10",
+    "name": "Küçük Kadınlar",
+    "vote_average": 4.5,
+    "vote_count": 2
+  }
+]

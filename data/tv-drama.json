@@ -1,0 +1,1287 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 50821,
+    "origin_country": [
+      "HU"
+    ],
+    "original_language": "hu",
+    "original_name": "Barátok közt",
+    "overview": "Miklós introduces viewers into the world of Money and Charm.",
+    "popularity": 567.7452,
+    "poster_path": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+    "first_air_date": "1998-10-26",
+    "name": "Among Friends",
+    "vote_average": 3.1,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5aE1kxWg6RhgQxJTXTxifv4uq7P.jpg",
+    "genre_ids": [
+      10759,
+      9648,
+      18
+    ],
+    "id": 93405,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "오징어 게임",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+    "popularity": 466.8509,
+    "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+    "first_air_date": "2021-09-17",
+    "name": "Squid Game",
+    "vote_average": 7.866,
+    "vote_count": 16412
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 112470,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Ici tout commence",
+    "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+    "popularity": 421.2922,
+    "poster_path": "/x9HeaagUAyyGl1fQ6exQcpELBxP.jpg",
+    "first_air_date": "2020-11-02",
+    "name": "Ici tout commence",
+    "vote_average": 6.839,
+    "vote_count": 90
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1416,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+    "popularity": 403.6544,
+    "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+    "first_air_date": "2005-03-27",
+    "name": "Grey's Anatomy",
+    "vote_average": 8.2,
+    "vote_count": 10571
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oRdc2nn7jLOYy4fBdvmFKPsKzZE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 2734,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "popularity": 420.5745,
+    "poster_path": "/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
+    "first_air_date": "1999-09-20",
+    "name": "Law & Order: Special Victims Unit",
+    "vote_average": 7.933,
+    "vote_count": 3981
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y8tPZ9P4tYqYiACs6t4mlcWJnSC.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 279060,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Chespirito: Sin querer queriendo",
+    "overview": "Miniseries that follow the life and career of Mexican actor, comedian and producer Roberto Gómez Bolaños, known for being the creator of El Chavo del 8, El Chapulín Colorado and Chespirito.",
+    "popularity": 392.9877,
+    "poster_path": "/mwsuIxLL84wfJGWhN7oOrFfpZ6d.jpg",
+    "first_air_date": "2025-06-05",
+    "name": "Chespirito: Not Really on Purpose",
+    "vote_average": 7.946,
+    "vote_count": 288
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "id": 4333,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Saint",
+    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
+    "popularity": 204.1751,
+    "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
+    "first_air_date": "1962-10-04",
+    "name": "The Saint",
+    "vote_average": 7.312,
+    "vote_count": 117
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "id": 79744,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "popularity": 331.9215,
+    "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+    "first_air_date": "2018-10-16",
+    "name": "The Rookie",
+    "vote_average": 8.532,
+    "vote_count": 2567
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 45789,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Sturm der Liebe",
+    "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+    "popularity": 234.2216,
+    "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+    "first_air_date": "2005-09-26",
+    "name": "Sturm der Liebe",
+    "vote_average": 6.068,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/krtHrxeeWsIBDNaHWyh5W8tpVyJ.jpg",
+    "genre_ids": [
+      10759,
+      18
+    ],
+    "id": 68921,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "WWE 205 Live",
+    "overview": "WWE's division of Cruiserweight's battle it out to decide who is the greatest wrestler under 205lbs.",
+    "popularity": 298.3442,
+    "poster_path": "/f6NlvoEJH8KxQI58ecTBkcsbQVF.jpg",
+    "first_air_date": "2016-11-29",
+    "name": "WWE 205 Live",
+    "vote_average": 5.681,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 194766,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Summer I Turned Pretty",
+    "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
+    "popularity": 305.3811,
+    "poster_path": "/s85u6WqkfkVBOrWDMKrefnU1g1n.jpg",
+    "first_air_date": "2022-06-16",
+    "name": "The Summer I Turned Pretty",
+    "vote_average": 8.2,
+    "vote_count": 832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 1399,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "popularity": 282.0275,
+    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "first_air_date": "2011-04-17",
+    "name": "Game of Thrones",
+    "vote_average": 8.457,
+    "vote_count": 25273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18,
+      10765
+    ],
+    "id": 244808,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ぬきたし THE ANIMATION",
+    "overview": "On Seiran Island, secret society NLNS is united by Junnosuke Tachibana, who is determined to crush a law. They have found a benefactor, an unknown rich man, who offers them a secret base and cash. Their mission is to locate a mysterious girl and stop the law, keeping the SHO off their trail.",
+    "popularity": 1282.2128,
+    "poster_path": "/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg",
+    "first_air_date": "2025-07-19",
+    "name": "Nukitashi the Animation",
+    "vote_average": 6,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qCW9ztyYsRtywJXKvzw5FIXIkQl.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 59804,
+    "origin_country": [
+      "LT"
+    ],
+    "original_language": "lt",
+    "original_name": "Moterys meluoja geriau",
+    "overview": "Moterys meluoja geriau is a Lithuanian TV series produced by TV3. It is the most watched Lithuanian drama of all time. It is based on a novel by Daiva Vaitkevičiūtė. The series follows four young women and their love interests.",
+    "popularity": 138.2365,
+    "poster_path": "/wXv3Fv7TQE0UC7goU587M9CiMkt.jpg",
+    "first_air_date": "2008-02-04",
+    "name": "Moterys meluoja geriau",
+    "vote_average": 8,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yVIudr5ZNtFvomu6CdFGKAa3njk.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10766
+    ],
+    "id": 36062,
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "SpangaS",
+    "overview": "Best Friends follows the life of a group of friends at their high school ‘Spangalis College’. Inside and outside of school exciting and challenging experiences take place. Growing up is never easy; every character has its own, unique story of love, friendship, loneliness, sorrow, discovery. There is drama and joy in school, family, teachers, parents, divorce, bullying, and always dreams for the future.",
+    "popularity": 240.7293,
+    "poster_path": "/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
+    "first_air_date": "2007-09-03",
+    "name": "Best Friends",
+    "vote_average": 3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lirPqYLTtd6XZqGn4cS1wiesTq0.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 1622,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Supernatural",
+    "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+    "popularity": 280.2779,
+    "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+    "first_air_date": "2005-09-13",
+    "name": "Supernatural",
+    "vote_average": 8.3,
+    "vote_count": 7897
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o5bErhFspYxSEsJecV7rVLy9ax8.jpg",
+    "genre_ids": [
+      10765,
+      9648,
+      18
+    ],
+    "id": 1606,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Ghost Whisperer",
+    "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+    "popularity": 157.6452,
+    "poster_path": "/23oIfiF2wdbvIJh87c90QYhOtbw.jpg",
+    "first_air_date": "2005-09-23",
+    "name": "Ghost Whisperer",
+    "vote_average": 8.08,
+    "vote_count": 1784
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/41SCPogkdI91cI460JLWXCUMBdz.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 31214,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Corazón salvaje",
+    "overview": "Corazón salvaje is a Mexican telenovela produced by Salvador Mejía Alejandre in conjunction with Televisa and broadcast on El Canal de las Estrellas. The telenovela debuted on 12 October 2009 at 9:00 pm, replacing Sortilegio, and aired for a total of 135 episodes. The final episode was broadcast on 16 April 2010, and the program was replaced with Soy tu dueña. In the United States, the telenovela debuted on 22 February 2010 at 9:00 pm on Univisión, again replacing Sortilegio. However, beginning on 26 April, the program was moved from prime time to the 12:00 midnight time slot.",
+    "popularity": 89.3711,
+    "poster_path": "/AvCYAvFatdPo5oA1gI98BKSysHK.jpg",
+    "first_air_date": "2009-10-12",
+    "name": "Wild Heart",
+    "vote_average": 6.375,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qMFJgJrrSArM69NXLAPiWx7JCa1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 14944,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Robert Montgomery Presents",
+    "overview": "Robert Montgomery Presents is an American dramatic television series which was produced by NBC from January 30, 1950 until June 24, 1957. The live show had several sponsors during its seven-year run, and the title was altered to feature the sponsor, usually Lucky Strike cigarettes, for example, Robert Montgomery Presents Your Lucky Strike Theater, ....The Johnson's Wax Program, and so on.",
+    "popularity": 172.5301,
+    "poster_path": "/jZLS9pS4JGltYIB43c2UvXhqZqW.jpg",
+    "first_air_date": "1950-01-30",
+    "name": "Robert Montgomery Presents",
+    "vote_average": 5.6,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 4057,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "popularity": 233.6858,
+    "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+    "first_air_date": "2005-09-22",
+    "name": "Criminal Minds",
+    "vote_average": 8.302,
+    "vote_count": 3875
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 4614,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+    "popularity": 241.2423,
+    "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "first_air_date": "2003-09-23",
+    "name": "NCIS",
+    "vote_average": 7.625,
+    "vote_count": 2379
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 58677,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Recuerdo de Amor",
+    "overview": "Recuerdo de Amor is a Philippine afternoon drama series which aired on ABS-CBN in 2001-2003. It starred Carmina Villaroel and Diether Ocampo in successful roles.\n\nThe TV Series was delayed on May 14 to May 15,2001 and ended on its original end date Worldwide on TFC series also nominated Isabel Rivas for Best Actress in a Drama Series by the PMPC in 2002 alongside Seasoned Actress Pinky De Leon who was also part of the series was also known to use fast paced TV Filmography in its 45 Min Premiere of its Pilot Episode the series was also known for getting outstanding reviews throughout its run to Filipino Customers who had The Filipino Channel Internationally because of its memorable storyline and breathtaking Visual Effects similar to a U.S Soap Opera. The series was also Pinky De Leons last TV Series as she decided to retire from TV and Film Work. The Afternoon Series was also competing with Dramas such as Pangako Sa ’Yo and GMA-7s Rival Soap Kung Mawawala Ka.",
+    "popularity": 186.2306,
+    "poster_path": null,
+    "first_air_date": "2001-05-14",
+    "name": "Recuerdo de Amor",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 549,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "popularity": 239.2449,
+    "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+    "first_air_date": "1990-09-13",
+    "name": "Law & Order",
+    "vote_average": 7.402,
+    "vote_count": 623
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "id": 52,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "That '70s Show",
+    "overview": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric’s basement, life in the ‘70s isn’t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they’ve learned one thing for sure: they’ll always get by with a little help from their friends.",
+    "popularity": 140.4522,
+    "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+    "first_air_date": "1998-08-23",
+    "name": "That '70s Show",
+    "vote_average": 7.943,
+    "vote_count": 1482
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 11441,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "West Point",
+    "overview": "The West Point Story is a dramatic anthology television series shown in the United States by Columbia Broadcasting System during the 1956-57 season and by ABC during the 1957-58 season.\n\nThe West Point Story, produced with the full cooperation of the United States Department of Defense and the United States Military Academy, was said to be based on actual files documenting many of the real-life dramatic occurrences at West Point over the years. Names and dates were altered in order to protect the privacy of the real people portrayed, however. The program was at first hosted by a fictional cadet, Charles C. Thompson, but this device was discontinued prior to the end of 1956.\n\nDuring its second season on ABC, The West Point Story was in competition with NBC's The Californians, set in San Francisco during the gold rush of the 1850s, and with The $64,000 Question quiz series on CBS. The West Point Story was replaced on the summer schedule in 1958 by Jack Wyatt's Confession, which continued to air during the first half of the 1958-1959 season in the 10 p.m. Tuesday evening time slot.\n\nAt the time that The West Point Story was broadcast, four other military dramas aired either through syndication or on the major networks: Harbor Command, Navy Log, The Silent Service, and Men of Annapolis.",
+    "popularity": 102.1825,
+    "poster_path": "/kyGfo1lapbHu0hB1LRl7KlWQtyS.jpg",
+    "first_air_date": "1956-10-05",
+    "name": "West Point",
+    "vote_average": 5,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kHAxjfdl1cMgDpIjuxKWa1nE44i.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 93421,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_name": "A Impostora",
+    "overview": "An airplane disappears mysteriously; on board was Verónica, the twin sister of Vitória, the victim of a fraud by a millionaire. Presumed dead, Verónica assumes the identity of her sister and plans to avenge herself on the entrepreneur's family.",
+    "popularity": 153.1971,
+    "poster_path": "/yLtLTnivr3CwnBwKW7E7008u363.jpg",
+    "first_air_date": "2016-09-04",
+    "name": "A Impostora",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mrGd5M3kPkAKynZruOAwsadsr9w.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 69050,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Riverdale",
+    "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+    "popularity": 137.4996,
+    "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+    "first_air_date": "2017-01-26",
+    "name": "Riverdale",
+    "vote_average": 8.4,
+    "vote_count": 13580
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "id": 60735,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "popularity": 172.1339,
+    "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "first_air_date": "2014-10-07",
+    "name": "The Flash",
+    "vote_average": 7.77,
+    "vote_count": 11342
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4L38sYtXVOedaQxXmA42wrqFh7x.jpg",
+    "genre_ids": [
+      10768,
+      10751,
+      18
+    ],
+    "id": 49599,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Sakarya Fırat",
+    "overview": "",
+    "popularity": 88.6693,
+    "poster_path": "/esqyip0atCBKfaTsFQJrvO1GiXW.jpg",
+    "first_air_date": "2009-12-16",
+    "name": "Sakarya Fırat",
+    "vote_average": 7.2,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "id": 15226,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "CID",
+    "overview": "The first thrilling investigative series on Indian Television, is today one of the most popular shows on Sony Entertainment Television. Dramatic and absolutely unpredictable, Crime Investigation Department (C.I.D.) has captivated viewers over the last eleven years and continues to keep audiences glued to their television sets with its thrilling plots and excitement. Also interwoven in its fast-paced plots are the personal challenges that the C.I.D. team faces with non-stop adventure, tremendous pressure and risk, all in the name of duty. The series consists of hard-core police procedural stories dealing with investigation, detection and suspense. The protagonists of the serial are an elite group of police officers belonging to the Crime Investigation Department of the police force, led by ACP Pradyuman.",
+    "popularity": 226.1581,
+    "poster_path": "/26uEr3docGiJVEDlqepAjf99Vlq.jpg",
+    "first_air_date": "1998-01-21",
+    "name": "CID",
+    "vote_average": 6.1,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
+    "genre_ids": [
+      18,
+      10768,
+      10759,
+      80
+    ],
+    "id": 49071,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Kurtlar Vadisi: Pusu",
+    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
+    "popularity": 138.2562,
+    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
+    "first_air_date": "2007-04-19",
+    "name": "Valley of the Wolves: Ambush",
+    "vote_average": 6.2,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      35
+    ],
+    "id": 1408,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "popularity": 216.5788,
+    "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "first_air_date": "2004-11-16",
+    "name": "House",
+    "vote_average": 8.589,
+    "vote_count": 7008
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iPSzjcRXIdDEPtwEkUZCLv6qmIE.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 68604,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "इश्कबाज़",
+    "overview": "Follows three brothers - Shivaay, Omkara and Rudra -- who share an unbreakable bond despite their dysfunctional family.",
+    "popularity": 156.6188,
+    "poster_path": "/lOa6zZVA9q6tBVZobRhWIdRMtEp.jpg",
+    "first_air_date": "2016-06-27",
+    "name": "Ishqbaaaz",
+    "vote_average": 9,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10766
+    ],
+    "id": 72879,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Demain nous appartient",
+    "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+    "popularity": 218.6948,
+    "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
+    "first_air_date": "2017-07-17",
+    "name": "Tomorrow Is Ours",
+    "vote_average": 6.343,
+    "vote_count": 67
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yg6goCewFMVYQC9Vypz6YpwVOUf.jpg",
+    "genre_ids": [
+      10764,
+      18
+    ],
+    "id": 46910,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Catfish: The TV Show",
+    "overview": "Nev and his co-hosts -- from Max to Kamie to celebrity guests -- help people in dubious online relationships track down their baes IRL so they can sort out what's fact and what's fiction.",
+    "popularity": 179.6818,
+    "poster_path": "/gy6kqWfIWaVyjU7ifa3KkkTDSHd.jpg",
+    "first_air_date": "2012-11-12",
+    "name": "Catfish: The TV Show",
+    "vote_average": 6.767,
+    "vote_count": 129
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 30826,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "La rosa de Guadalupe",
+    "overview": "Stories about people who get into problems who use the help of Virgin Mary and where a rose appears and their problems are solved.",
+    "popularity": 144.5973,
+    "poster_path": "/9RaNva340arNWeZn2uKpKePkg91.jpg",
+    "first_air_date": "2008-02-05",
+    "name": "La rosa de Guadalupe",
+    "vote_average": 6.965,
+    "vote_count": 273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "id": 248852,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "UNTAMED",
+    "overview": "In the vast expanse of Yosemite National Park, a woman's death draws a federal agent into lawless terrain — where nature obeys no rules but its own.",
+    "popularity": 196.9988,
+    "poster_path": "/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
+    "first_air_date": "2025-07-17",
+    "name": "UNTAMED",
+    "vote_average": 7.5,
+    "vote_count": 74
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f1OoogO23fHdm7NzCsCxjFPoQit.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10765,
+      18
+    ],
+    "id": 80559,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パズドラ",
+    "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
+    "popularity": 209.114,
+    "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
+    "first_air_date": "2018-04-02",
+    "name": "Puzzle & Dragons",
+    "vote_average": 8,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 134864,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "MBC 베스트극장",
+    "overview": "",
+    "popularity": 182.7353,
+    "poster_path": "/u93t32JtNJlyQu3UNQS2GI9kCA6.jpg",
+    "first_air_date": "1991-07-07",
+    "name": "MBC Bests Theater",
+    "vote_average": 7,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/psedRtpZwLUoDN3d7b2BgPTBtJi.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35
+    ],
+    "id": 42883,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Paraíso Tropical",
+    "overview": "The search for a successor provokes the beginning of a clash between two young and talented executives of his group: Daniel Bastos, a lad of simple origins and excellent character, who is not only handsome and charming, but also intelligent and skilled, and Olavo Novaes, an ambitious and unscrupulous man who is ready to fight for the position, at any cost. To fight against Olavo‘s treacherous plans, Daniel will have the help of the sweet and sensitive Paula, a young lady raised as an only child who founds, on the eve of her mother‘s death, that she is adopted and has a family. What Paula does not know is that she has an identical twin sister, the wicked Taís, who is as ambitious and unscrupulous as the man who becomes her main ally, Olavo Novaes. Antenor, for his part, decides on having an heir when he meets the headstrong and honest Lúcia, a woman who will make this cold businessman find true love is and a real reason to live.",
+    "popularity": 184.245,
+    "poster_path": "/1njDNkBHYLL7LS6KmvAsmxqnMxD.jpg",
+    "first_air_date": "2007-03-05",
+    "name": "Paraíso Tropical",
+    "vote_average": 8.2,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/psedRtpZwLUoDN3d7b2BgPTBtJi.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35
+    ],
+    "id": 42883,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Paraíso Tropical",
+    "overview": "The search for a successor provokes the beginning of a clash between two young and talented executives of his group: Daniel Bastos, a lad of simple origins and excellent character, who is not only handsome and charming, but also intelligent and skilled, and Olavo Novaes, an ambitious and unscrupulous man who is ready to fight for the position, at any cost. To fight against Olavo‘s treacherous plans, Daniel will have the help of the sweet and sensitive Paula, a young lady raised as an only child who founds, on the eve of her mother‘s death, that she is adopted and has a family. What Paula does not know is that she has an identical twin sister, the wicked Taís, who is as ambitious and unscrupulous as the man who becomes her main ally, Olavo Novaes. Antenor, for his part, decides on having an heir when he meets the headstrong and honest Lúcia, a woman who will make this cold businessman find true love is and a real reason to live.",
+    "popularity": 184.245,
+    "poster_path": "/1njDNkBHYLL7LS6KmvAsmxqnMxD.jpg",
+    "first_air_date": "2007-03-05",
+    "name": "Paraíso Tropical",
+    "vote_average": 8.2,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10765
+    ],
+    "id": 57243,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "popularity": 149.9491,
+    "poster_path": "/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+    "first_air_date": "2005-03-26",
+    "name": "Doctor Who",
+    "vote_average": 7.555,
+    "vote_count": 3166
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gDXbMKDChOWUjXlXMB0nNvLwRTQ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 43689,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Be Careful With My Heart",
+    "overview": "Be Careful With My Heart is a 2012 Philippine daytime television drama which premiered on ABS-CBN on July 9, 2012 airing before It's Showtime. It is also broadcast worldwide on The Filipino Channel. It is topbilled by Jodi Sta. Maria and Richard Yap. It is one of the most successful teleserye of ABS-CBN.\n\nIt is the first television drama in the Philippines made by ABS-CBN to be filmed and broadcast in high definition.",
+    "popularity": 179.9669,
+    "poster_path": "/kJlUmgQh6chfGsHgwcrtjNmg2t1.jpg",
+    "first_air_date": "2012-07-09",
+    "name": "Be Careful With My Heart",
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 80318,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_name": "CentoVetrine",
+    "overview": "The series tells the stories of some of the characters who work or are related to an imaginary shopping center Centovetrine, located in the center of Turin. There are many stories of love and passion, but also struggles for power and dynastic quarrels in the telefilm.",
+    "popularity": 157.8409,
+    "poster_path": "/25v6iDGmIpyG3zndfYdt4KfQgQ9.jpg",
+    "first_air_date": "2001-01-08",
+    "name": "CentoVetrine",
+    "vote_average": 6,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6zO9FyN9teTRijTjpTwso6BCbNK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 209119,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "鳩子の海",
+    "overview": "A woman who lost her memory after experiencing the atomic bombing of Hiroshima.",
+    "popularity": 153.8332,
+    "poster_path": "/3iQijzhTU8BkEz9ZhF8uaSxQQ6a.jpg",
+    "first_air_date": "1974-04-01",
+    "name": "Hatoko no umi",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/shJhgNuC2a4hPdqvm8IDXFvYwLx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 67136,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "This Is Us",
+    "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+    "popularity": 170.3583,
+    "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+    "first_air_date": "2016-09-20",
+    "name": "This Is Us",
+    "vote_average": 8.229,
+    "vote_count": 1519
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 1405,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dexter",
+    "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+    "popularity": 178.6046,
+    "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "first_air_date": "2006-10-01",
+    "name": "Dexter",
+    "vote_average": 8.2,
+    "vote_count": 4747
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rHgGQKEU99prngLQDhytYBvPMC4.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 93393,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_name": "A Única Mulher",
+    "overview": "",
+    "popularity": 153.4539,
+    "poster_path": "/7lDO72HbZHMnd3YH1QwOLpocSZO.jpg",
+    "first_air_date": "2015-03-15",
+    "name": "A Única Mulher",
+    "vote_average": 5.333,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8pWr7esugITmgrH22OXVmRg8xks.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 94686,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tyler Perry's Sistas",
+    "overview": "There's nothing that bonds a group of single black women together more than sidestepping the land mines of living, working and dating in Atlanta. In a sea of swipe-lefts, social media drama and unrealistic #relationshipgoals, these friends try to find their Mr. Right.",
+    "popularity": 125.4068,
+    "poster_path": "/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg",
+    "first_air_date": "2019-10-23",
+    "name": "Tyler Perry's Sistas",
+    "vote_average": 8.368,
+    "vote_count": 125
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1IUDDaEry6BY7RcxXa5l1OcHA82.jpg",
+    "genre_ids": [
+      18,
+      10751
+    ],
+    "id": 209256,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "北の家族",
+    "overview": "The 13th NHK Asadora. Starring Youko Takahashi in a story about a brother and sister coming of age in Hakodate and Kanazawa.",
+    "popularity": 164.2247,
+    "poster_path": "/pkaupLRkuQq86oIHAD1a0JNJIT2.jpg",
+    "first_air_date": "1973-04-02",
+    "name": "Kita no kazoku",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3ZCXONnWefrTDGG3ZuRIF7ZrYBF.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      18
+    ],
+    "id": 75439,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Ishq Mein Marjawan",
+    "overview": "She had the perfect life, the perfect man but little did she know that she was walking into the perfect trap. What happens when the man you love turns out to be a genius manipulator?",
+    "popularity": 69.7558,
+    "poster_path": "/6GxRfPAGIq1qVFVo55rQp39klfV.jpg",
+    "first_air_date": "2017-09-20",
+    "name": "Ishq Mein Marjawan",
+    "vote_average": 4.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      80
+    ],
+    "id": 1871,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "EastEnders",
+    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+    "popularity": 172.4988,
+    "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+    "first_air_date": "1985-02-19",
+    "name": "EastEnders",
+    "vote_average": 4.146,
+    "vote_count": 213
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "id": 2288,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Prison Break",
+    "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+    "popularity": 160.959,
+    "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+    "first_air_date": "2005-08-29",
+    "name": "Prison Break",
+    "vote_average": 8.078,
+    "vote_count": 5498
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3KLEDoZuNxRI1wsut82lGb3uddp.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 32218,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Soy tu dueña",
+    "overview": "Soy Tu Dueña is a Mexican telenovela produced by Nicandro Díaz González for Televisa. It starred Lucero, Gabriela Spanic, Fernando Colunga, David Zepeda, Sergio Goyri and Jacqueline Andere.",
+    "popularity": 110.3186,
+    "poster_path": "/6Ey5MIVKGDXPo4TMZy2FkB7FxUH.jpg",
+    "first_air_date": "2010-06-15",
+    "name": "Soy tu dueña",
+    "vote_average": 7.7,
+    "vote_count": 574
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6npymlbLc0SMqqktCpu7X7K4eJy.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 82428,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "All American",
+    "overview": "When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds - Compton and Beverly Hills - begin to collide. Inspired by the life of pro football player Spencer Paysinger.",
+    "popularity": 96.3262,
+    "poster_path": "/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
+    "first_air_date": "2018-10-10",
+    "name": "All American",
+    "vote_average": 8.163,
+    "vote_count": 468
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      9648
+    ],
+    "id": 66732,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "popularity": 168.3139,
+    "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "first_air_date": "2016-07-15",
+    "name": "Stranger Things",
+    "vote_average": 8.597,
+    "vote_count": 18531
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 15511,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Ikaw Lang Ang Mamahalin",
+    "overview": "Ikaw Lang Ang Mamahalin is a now-defunct Philippine drama/teledrama which was shown on GMA Network in 2001 starring drama actress Angelika dela Cruz. The story revolves around the saga of Katherine who suffers from amnesia after an incident that separates her from her family and must take a journey towards finding her true identity, fighting for the man she loves and claiming for what is rightfully hers. It was recently re-aired internationally on GMA Life TV.",
+    "popularity": 159.7147,
+    "poster_path": null,
+    "first_air_date": "2001-03-26",
+    "name": "Ikaw Lang Ang Mamahalin",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zcQRmnySOmVqT6WRmdztbiA9vVk.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 67192,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "New Japan Pro Wrestling",
+    "overview": "New Japan Pro Wrestling is a Japanese promotion founded by Antonio Inoki in 1972. Owing to its TV program aired on TV Asahi, it is the largest wrestling promotion in Japan and one of the largest in the world.",
+    "popularity": 114.2342,
+    "poster_path": "/c6IZc3avqSgTzSXrrj9vV0EwRp.jpg",
+    "first_air_date": "1972-03-06",
+    "name": "New Japan Pro Wrestling",
+    "vote_average": 8,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "id": 46952,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Blacklist",
+    "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+    "popularity": 183.9461,
+    "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+    "first_air_date": "2013-09-23",
+    "name": "The Blacklist",
+    "vote_average": 7.6,
+    "vote_count": 3317
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zJZdlqcY51VueyzwXVDFSGELmsW.jpg",
+    "genre_ids": [
+      18,
+      10766,
+      10751
+    ],
+    "id": 84011,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Kadenang Ginto",
+    "overview": "The story of Romina, a secretary turned wife of business tycoon, Robert, who married her despite the fact that she was raped and is carrying the child of the assailant. Unknown to Romina, it was Daniela, Robert’s daughter, who had orchestrated her abduction, right before seducing Romina’s fiance, Carlos. With Romina's and Daniela's lives intertwined, their daughters, Cassandra and Margaret, are made to fight as to who among them is the rightful heiress to the Mondragon empire.",
+    "popularity": 156.2776,
+    "poster_path": "/j22hweQSBPCerif5NY23ZKZFqML.jpg",
+    "first_air_date": "2018-10-08",
+    "name": "The Heiress",
+    "vote_average": 5.6,
+    "vote_count": 5
+  }
+]

@@ -1,196 +1,10 @@
-if ('serviceWorker' in navigator) {
-    window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/service-worker.js')
-            .then(reg => {
-                console.log('Service Worker registered:', reg.scope);
-            })
-            .catch(err => {
-                console.log('Service Worker registration failed:', err);
-            });
-    });
-}
-
 const TMDB_API_KEY = '3f4dc5c95e4960eccb2470cab896fc5c';
-
-const USACacheManager = {
-    async preloadUSAContent() {
-        console.log('🇺🇸 Pre-loading USA content for global users...');
-
-        const usaContent = [
-            { type: 'movie', category: 'popular', page: 1 },
-            { type: 'movie', category: 'popular', page: 2 },
-            { type: 'tv', category: 'popular', page: 1 },
-            { type: 'tv', category: 'popular', page: 2 },
-            { type: 'movie', category: 'action', page: 1 },
-            { type: 'movie', category: 'comedy', page: 1 },
-            { type: 'movie', category: 'horror', page: 1 },
-            { type: 'movie', category: 'sci-fi', page: 1 },
-        ];
-
-        for (const content of usaContent) {
-            try {
-                await this.fetchUSAContent(content.type, content.category, content.page);
-                await new Promise(resolve => setTimeout(resolve, 100));
-            } catch (error) {
-                console.log(`⚠️ Failed to preload USA ${content.type}/${content.category}`);
-            }
-        }
-
-        console.log('✅ USA content pre-loaded for global audience');
-    },
-
-    async fetchUSAContent(contentType, category, page = 1) {
-        let url;
-
-        if (contentType === 'movie') {
-            if (category === 'popular') {
-                url = `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${page}`;
-            } else if (TMDB_MOVIE_GENRES[category]) {
-                url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_MOVIE_GENRES[category]}`;
-            }
-        } else if (contentType === 'tv') {
-            if (category === 'popular') {
-                url = `https://api.themoviedb.org/3/tv/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${page}`;
-            } else if (TMDB_TV_GENRES[category]) {
-                url = `https://api.themoviedb.org/3/discover/tv?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_TV_GENRES[category]}`;
-            }
-        }
-
-        if (url) {
-            const response = await fetch(url);
-            return await response.json();
-        }
-    }
-};
-
-const CacheManager = {
-    // Pre-populate cache with popular content (run this on app load)
-    async preloadPopularContent() {
-        console.log('🚀 Pre-loading popular content...');
-
-        try {
-            // Pre-load popular movies and TV shows
-            await Promise.all([
-                this.fetchAndCache('movie', 'popular', 1),
-                this.fetchAndCache('tv', 'popular', 1),
-                this.fetchAndCache('movie', 'popular', 2),
-                this.fetchAndCache('tv', 'popular', 2)
-            ]);
-
-            console.log('✅ Popular content pre-loaded');
-        } catch (error) {
-            console.log('⚠️ Pre-loading failed:', error);
-        }
-    },
-
-    // Fetch and cache specific content
-    async fetchAndCache(contentType, category, page = 1) {
-        let url;
-
-        if (contentType === 'movie') {
-            if (category === 'popular') {
-                url = `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&language=en-US&page=${page}`;
-            } else if (TMDB_MOVIE_GENRES[category]) {
-                url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=en-US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_MOVIE_GENRES[category]}`;
-            }
-        } else if (contentType === 'tv') {
-            if (category === 'popular') {
-                url = `https://api.themoviedb.org/3/tv/popular?api_key=${TMDB_API_KEY}&language=en-US&page=${page}`;
-            } else if (TMDB_TV_GENRES[category]) {
-                url = `https://api.themoviedb.org/3/discover/tv?api_key=${TMDB_API_KEY}&language=en-US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_TV_GENRES[category]}`;
-            }
-        }
-
-        if (url) {
-            const response = await fetch(url);
-            return await response.json();
-        }
-    },
-
-    // Pre-cache search results for common terms
-    async preloadCommonSearches() {
-        const commonSearchTerms = [
-            'batman', 'spider', 'avengers', 'star wars', 'marvel',
-            'disney', 'horror', 'comedy', 'action', 'thriller'
-        ];
-
-        console.log('🔍 Pre-loading common searches...');
-
-        for (const term of commonSearchTerms) {
-            try {
-                await this.cacheSearchTerm(term);
-                // Small delay to avoid rate limiting
-                await new Promise(resolve => setTimeout(resolve, 100));
-            } catch (error) {
-                console.log(`⚠️ Failed to cache search: ${term}`, error);
-            }
-        }
-
-        console.log('✅ Common searches pre-loaded');
-    },
-
-    // Cache a specific search term
-    async cacheSearchTerm(query) {
-        const urls = [
-            `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(query)}&page=1`,
-            `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(query)}&page=1`,
-            `https://api.themoviedb.org/3/search/multi?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(query)}&page=1`
-        ];
-
-        const promises = urls.map(url => fetch(url));
-        await Promise.all(promises);
-    },
-
-    // Get cache statistics
-    async getCacheStats() {
-        if ('caches' in window) {
-            const apiCache = await caches.open('StreamHub-api-cache-v1');
-            const keys = await apiCache.keys();
-
-            return {
-                cachedRequests: keys.length,
-                cacheSize: await this.calculateCacheSize(apiCache)
-            };
-        }
-        return { cachedRequests: 0, cacheSize: 0 };
-    },
-
-    // Calculate approximate cache size
-    async calculateCacheSize(cache) {
-        const keys = await cache.keys();
-        let totalSize = 0;
-
-        for (const key of keys.slice(0, 10)) { // Sample first 10 for estimation
-            try {
-                const response = await cache.match(key);
-                if (response) {
-                    const text = await response.text();
-                    totalSize += text.length;
-                }
-            } catch (error) {
-                // Skip if error
-            }
-        }
-
-        // Estimate total size
-        return Math.round((totalSize * keys.length) / 10 / 1024); // KB
-    },
-
-    // Clear old cache (useful for testing)
-    async clearApiCache() {
-        if ('caches' in window) {
-            await caches.delete('StreamHub-api-cache-v1');
-            console.log('🗑️ API cache cleared');
-        }
-    }
-};
-
 
 document.addEventListener('DOMContentLoaded', () => {
     const searchInput = document.getElementById('searchInput');
-    const mainNavList = document.getElementById('mainNavList'); // New main nav list
-    const movieGenreList = document.getElementById('movieGenreList'); // Renamed genreList
-    const tvGenreList = document.getElementById('tvGenreList'); // New TV genre list
+    const mainNavList = document.getElementById('mainNavList');
+    const movieGenreList = document.getElementById('movieGenreList');
+    const tvGenreList = document.getElementById('tvGenreList');
     const movieGrid = document.getElementById('movieGrid');
     const sectionTitle = document.getElementById('sectionTitle');
     const movieListingView = document.getElementById('movieListingView');
@@ -209,44 +23,37 @@ document.addEventListener('DOMContentLoaded', () => {
     const favoritesButton = document.getElementById('favoritesButton');
     const bookmarksButton = document.getElementById('bookmarksButton');
 
-    const trailerModal = document.getElementById('trailerModal');
-    const youtubeIframe = document.getElementById('youtubeIframe');
-    const closeTrailerModalButton = document.getElementById('closeTrailerModalButton');
-
-    // New elements for mobile sidebar
     const sidebar = document.getElementById('sidebar');
     const hamburgerMenu = document.getElementById('hamburgerMenu');
     const closeSidebarBtn = document.getElementById('closeSidebarBtn');
     const overlay = document.getElementById('overlay');
 
-
-    // TMDB API Key - REPLACE WITH YOUR ACTUAL KEY
+    // Constants
     const TMDB_IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500';
-    const TMDB_BACKDROP_BASE_URL = 'https://www.themoviedb.org/t/p/w1280'; // Higher resolution for background
+    const TMDB_BACKDROP_BASE_URL = 'https://www.themoviedb.org/t/p/w1280';
     const TMDB_POSTER_PLACEHOLDER = 'https://placehold.co/180x270/1a1a1a/e0e0e0?text=No+Poster';
     const TMDB_DETAIL_POSTER_PLACEHOLDER = 'https://placehold.co/250x375/1a1a1a/e0e0e0?text=No+Poster';
 
-    // TMDB Genre ID mapping for Movies
+    // Genre mappings
     const TMDB_MOVIE_GENRES = {
         'action': 28, 'adventure': 12, 'animation': 16, 'comedy': 35, 'crime': 80,
         'documentary': 99, 'drama': 18, 'family': 10751, 'fantasy': 14, 'history': 36,
         'horror': 27, 'music': 10402, 'mystery': 9648, 'romance': 10749, 'sci-fi': 878,
         'thriller': 53, 'war': 10752, 'western': 37, 'upcoming': 'upcoming',
     };
-    // TMDB Genre ID mapping for TV Shows (obtained from Google Search)
+
     const TMDB_TV_GENRES = {
         'action-adventure': 10759, 'animation': 16, 'comedy': 35, 'crime': 80,
         'documentary': 99, 'drama': 18, 'family': 10751, 'kids': 10762, 'mystery': 9648,
         'news': 10763, 'reality': 10764, 'sci-fi-fantasy': 10765, 'soap': 10766,
-        'talk': 10767, 'war-politics': 10768, 'western': 37, 'popular': 'popular' // Added 'popular' for consistency
+        'talk': 10767, 'war-politics': 10768, 'western': 37, 'popular': 'popular'
     };
 
-
-    // Local database for books (not handled by TMDB API) - Renamed to distinguish
+    // Local content
     const localNonTMDBContent = {
         'upcoming': [
             {
-                id: 'squidgame4', // Use custom IDs with prefix to avoid conflicts
+                id: 'squidgame4',
                 type: 'movie',
                 media_type: 'movie',
                 title: 'Squid Game: USA',
@@ -263,17 +70,48 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const customVideoSources = {
         '617126': 'movie/fantastic4.mp4',
-        "squidgame4":"movie/squidgame4.mp4",
-        "1311031":"movie/demonslayer.mp4"
+        "squidgame4": "movie/squidgame4.mp4",
+        "1311031": "movie/demonslayer.mp4"
     };
 
-    let currentContentType = 'movie'; // 'movie' or 'tv'
-    let currentActiveGenreOrType = 'upcoming'; // 'popular' for movies/tv, or a genre key
-    let currentPage = 1; // Current page for the main content grid
-    let currentSearchQuery = ''; // Current search query
+    // State variables
+    let currentContentType = 'movie';
+    let currentActiveGenreOrType = 'upcoming';
+    let currentPage = 1;
+    let currentSearchQuery = '';
 
-    // --- Local Storage Helper Functions ---
-    // Stores items as { id: contentId, type: contentType }
+    // FIXED: Load JSON data function with better error handling
+    async function loadJSONData(contentType, category) {
+        const fileName = `${contentType}-${category}.json`;
+        const filePath = `./data/${fileName}`; // Added ./ for relative path
+
+        console.log(`Attempting to load: ${filePath}`);
+
+        try {
+            const response = await fetch(filePath);
+            console.log(`Response status for ${fileName}:`, response.status);
+
+            if (!response.ok) {
+                throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
+            }
+
+            const data = await response.json();
+            console.log(`Loaded ${data.length} items from ${fileName}`);
+            return data;
+        } catch (error) {
+            console.error(`Error loading ${fileName}:`, error);
+
+            // Show user-friendly error message
+            if (error.message.includes('404')) {
+                throw new Error(`Data file ${fileName} not found. Make sure you've run the data update script.`);
+            } else if (error.message.includes('Failed to fetch')) {
+                throw new Error(`Cannot load ${fileName}. Make sure you're running a local server or the file exists.`);
+            }
+            throw error;
+        }
+    }
+
+    // Local Storage Helper Functions
     function getLocalStorageList(key) {
         try {
             const list = JSON.parse(localStorage.getItem(key));
@@ -284,29 +122,26 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Expects contentItem to be an object { id: ..., type: ... }
     function setLocalStorageList(key, list) {
         localStorage.setItem(key, JSON.stringify(list));
     }
 
-    // Expects contentId (number) and contentType (string: 'movie' or 'tv')
     function toggleLocalStorageItem(key, contentId, contentType) {
         let list = getLocalStorageList(key);
-        // Check if an item with the same ID AND type already exists
         const index = list.findIndex(item => item.id === contentId && item.type === contentType);
 
         if (index > -1) {
-            list.splice(index, 1); // Remove if exists
+            list.splice(index, 1);
             setLocalStorageList(key, list);
-            return false; // Item removed
+            return false;
         } else {
-            list.push({ id: contentId, type: contentType }); // Add with type
+            list.push({ id: contentId, type: contentType });
             setLocalStorageList(key, list);
-            return true; // Item added
+            return true;
         }
     }
 
-    // --- View Management ---
+    // View Management
     function hideAllViews() {
         movieListingView.style.display = 'none';
         movieDetailView.style.display = 'none';
@@ -316,20 +151,20 @@ document.addEventListener('DOMContentLoaded', () => {
     function showListView() {
         hideAllViews();
         movieListingView.style.display = 'block';
-        movieDetailView.style.backgroundImage = 'none'; // Clear background when leaving detail view
+        movieDetailView.style.backgroundImage = 'none';
     }
 
     function showDetailView() {
         hideAllViews();
         movieDetailView.style.display = 'block';
-        window.scrollTo(0, 0); // Scroll to top when detail page opens
+        window.scrollTo(0, 0);
     }
 
     async function showUserListView(listKey, title) {
         hideAllViews();
-        userListPage.style.display = 'flex'; // Use flex to stack title and grid
+        userListPage.style.display = 'flex';
         userListTitle.textContent = title;
-        userListGrid.innerHTML = ''; // Clear grid immediately
+        userListGrid.innerHTML = '';
 
         const storedContentItems = getLocalStorageList(listKey);
 
@@ -338,41 +173,224 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        userListGrid.innerHTML = '<div class="loading-spinner"></div>'; // Show loading for user lists
+        userListGrid.innerHTML = '<div class="loading-spinner"></div>';
 
         const contentPromises = storedContentItems.map(item => fetchContentDetailsById(item.id, item.type));
         const content = (await Promise.all(contentPromises)).filter(item => item !== null);
 
         if (content.length > 0) {
-            userListGrid.innerHTML = ''; // Clear spinner before rendering cards
-            // Pass each item's detected media_type for proper rendering in user list
-            renderContentCards(content, null, userListGrid); // Passing null for contentType, will use item.media_type
+            userListGrid.innerHTML = '';
+            renderContentCards(content, null, userListGrid);
         } else {
-            userListGrid.innerHTML = '<p class="placeholder-message">Could not load items from your list. Some items might be invalid or have been removed from TMDB.</p>';
+            userListGrid.innerHTML = '<p class="placeholder-message">Could not load items from your list.</p>';
         }
     }
 
-    /**
-     * Displays a transient confirmation message.
-     * @param {string} message The message to display.
-     */
     function showConfirmationMessage(message) {
         confirmationMessage.textContent = message;
         confirmationMessage.classList.add('show');
         setTimeout(() => {
             confirmationMessage.classList.remove('show');
-        }, 2000); // Message disappears after 2 seconds
+        }, 2000);
     }
 
-    // Function to get video source for a movie/show
     function getVideoSource(content) {
         console.log(content.id)
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-
-        // Default fallback
         return 'movie/movie.mp4';
+    }
+
+    // UPDATED: Main content fetching function
+    async function fetchAndDisplayContent(contentType, category, targetGrid, clearGrid = true) {
+        console.log(`Fetching content: ${contentType}-${category}`);
+
+        if (clearGrid) {
+            targetGrid.innerHTML = '<div class="loading-spinner"></div>';
+            loadMoreButton.style.display = 'none';
+        } else {
+            targetGrid.insertAdjacentHTML('beforeend', '<div class="loading-spinner temp-spinner"></div>');
+        }
+
+        // Check for local content first
+        if (category in localNonTMDBContent) {
+            if (category === 'upcoming' && contentType === 'movie') {
+                if (clearGrid) {
+                    targetGrid.innerHTML = '';
+                    displayLocalContent(localNonTMDBContent[category], targetGrid, false);
+                }
+
+                try {
+                    const jsonData = await loadJSONData(contentType, category);
+                    if (jsonData && jsonData.length > 0) {
+                        const startIndex = clearGrid ? 0 : (currentPage - 1) * 20;
+                        const endIndex = currentPage * 20;
+                        const pageData = jsonData.slice(startIndex, endIndex);
+
+                        if (document.querySelector('.temp-spinner')) {
+                            document.querySelector('.temp-spinner').remove();
+                        }
+
+                        if (pageData.length > 0) {
+                            renderContentCards(pageData, contentType, targetGrid);
+
+                            if (endIndex < jsonData.length) {
+                                loadMoreButton.style.display = 'block';
+                            } else {
+                                loadMoreButton.style.display = 'none';
+                            }
+                        } else {
+                            loadMoreButton.style.display = 'none';
+                        }
+                    }
+                } catch (error) {
+                    console.error(`Error loading ${contentType} for ${category}:`, error);
+                    if (targetGrid.children.length === 0) {
+                        targetGrid.innerHTML = `<p class="placeholder-message">${error.message}</p>`;
+                    }
+                    loadMoreButton.style.display = 'none';
+                }
+                return;
+            } else {
+                displayLocalContent(localNonTMDBContent[category], targetGrid, clearGrid);
+                loadMoreButton.style.display = 'none';
+                return;
+            }
+        }
+
+        // Load from JSON data
+        try {
+            const jsonData = await loadJSONData(contentType, category);
+
+            if (document.querySelector('.temp-spinner')) {
+                document.querySelector('.temp-spinner').remove();
+            }
+
+            if (jsonData && jsonData.length > 0) {
+                const startIndex = clearGrid ? 0 : (currentPage - 1) * 20;
+                const endIndex = currentPage * 20;
+                const pageData = jsonData.slice(startIndex, endIndex);
+
+                if (clearGrid) {
+                    targetGrid.innerHTML = '';
+                }
+
+                if (pageData.length > 0) {
+                    renderContentCards(pageData, contentType, targetGrid);
+
+                    if (endIndex < jsonData.length) {
+                        loadMoreButton.style.display = 'block';
+                    } else {
+                        loadMoreButton.style.display = 'none';
+                    }
+                } else if (clearGrid) {
+                    targetGrid.innerHTML = `<p class="placeholder-message">No ${contentType === 'movie' ? 'movies' : 'TV shows'} found for this category.</p>`;
+                    loadMoreButton.style.display = 'none';
+                } else {
+                    loadMoreButton.style.display = 'none';
+                }
+            } else if (clearGrid) {
+                targetGrid.innerHTML = `<p class="placeholder-message">No ${contentType === 'movie' ? 'movies' : 'TV shows'} found for this category.</p>`;
+                loadMoreButton.style.display = 'none';
+            } else {
+                loadMoreButton.style.display = 'none';
+            }
+        } catch (error) {
+            console.error(`Error loading ${contentType} for ${category}:`, error);
+
+            if (clearGrid) {
+                targetGrid.innerHTML = `<p class="placeholder-message">${error.message}</p>`;
+            }
+            loadMoreButton.style.display = 'none';
+        }
+    }
+
+    // Keep search function using API for real-time results
+    async function searchAndDisplayContent(query, targetGrid, clearGrid = true, searchScopeType = 'multi') {
+        if (clearGrid) {
+            targetGrid.innerHTML = '<div class="loading-spinner"></div>';
+            loadMoreButton.style.display = 'none';
+        } else {
+            targetGrid.insertAdjacentHTML('beforeend', '<div class="loading-spinner temp-spinner"></div>');
+        }
+
+        if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
+            targetGrid.innerHTML = `<p class="placeholder-message">TMDB API Key is missing or invalid. Cannot perform search.</p>`;
+            loadMoreButton.style.display = 'none';
+            return;
+        }
+
+        const encodedQuery = encodeURIComponent(query);
+        let url;
+        let effectiveContentTypeForRendering = searchScopeType;
+
+        const localResults = searchLocalContent(query, searchScopeType);
+
+        if (searchScopeType === 'movie') {
+            url = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&page=${currentPage}&include_adult=false`;
+        } else if (searchScopeType === 'tv') {
+            url = `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&page=${currentPage}&include_adult=false`;
+        } else {
+            url = `https://api.themoviedb.org/3/search/multi?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&page=${currentPage}&include_adult=false`;
+            effectiveContentTypeForRendering = 'multi';
+        }
+
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+
+            if (document.querySelector('.temp-spinner')) {
+                document.querySelector('.temp-spinner').remove();
+            }
+
+            let results = data.results || [];
+
+            results = results.map(item => {
+                if (!item.media_type) {
+                    if (item.title && !item.first_air_date) item.media_type = 'movie';
+                    else if (item.name && !item.release_date) item.media_type = 'tv';
+                    else item.media_type = 'unknown';
+                }
+                return item;
+            }).filter(item => item.media_type !== 'person' && item.media_type !== 'unknown');
+
+            if (searchScopeType === 'movie' && effectiveContentTypeForRendering === 'multi') {
+                results = results.filter(item => item.media_type === 'movie');
+            } else if (searchScopeType === 'tv' && effectiveContentTypeForRendering === 'multi') {
+                results = results.filter(item => item.media_type === 'tv');
+            }
+
+            const combinedResults = [...localResults, ...results];
+
+            if (combinedResults.length > 0) {
+                if (clearGrid) {
+                    targetGrid.innerHTML = '';
+                }
+
+                if (localResults.length > 0) {
+                    renderContentCards(localResults, effectiveContentTypeForRendering, targetGrid);
+                }
+                if (results.length > 0) {
+                    renderContentCards(results, effectiveContentTypeForRendering, targetGrid);
+                }
+
+                if (data.total_pages > currentPage) {
+                    loadMoreButton.style.display = 'block';
+                } else {
+                    loadMoreButton.style.display = 'none';
+                }
+            } else if (clearGrid) {
+                targetGrid.innerHTML = `<p class="placeholder-message">No ${searchScopeType === 'movie' ? 'movies' : searchScopeType === 'tv' ? 'TV shows' : 'content'} found matching your search.</p>`;
+                loadMoreButton.style.display = 'none';
+            } else {
+                loadMoreButton.style.display = 'none';
+            }
+        } catch (error) {
+            console.error(`Error searching:`, error);
+            targetGrid.innerHTML = '<p class="placeholder-message">Failed to perform search. Please try again later.</p>';
+            loadMoreButton.style.display = 'none';
+        }
     }
 
     // --- Event Listeners ---
@@ -586,234 +604,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // --- TMDB API Functions ---
-
-    /**
-     * Fetches a list of movies or TV shows based on type and genre/popularity from TMDB.
-     * @param {string} contentType 'movie' or 'tv'.
-     * @param {string} category 'popular' or a genre key (e.g., 'sci-fi').
-     * @param {HTMLElement} targetGrid The DOM element to render content into.
-     * @param {boolean} clearGrid If true, clears the grid before rendering.
-     */
-    async function fetchAndDisplayContent(contentType, category, targetGrid, clearGrid = true) {
-    if (clearGrid) {
-        targetGrid.innerHTML = '<div class="loading-spinner"></div>';
-        loadMoreButton.style.display = 'none';
-    } else {
-        targetGrid.insertAdjacentHTML('beforeend', '<div class="loading-spinner temp-spinner"></div>');
-    }
-
-    if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
-        targetGrid.innerHTML = `<p class="placeholder-message">TMDB API Key is missing or invalid.</p>`;
-        loadMoreButton.style.display = 'none';
-        return;
-    }
-
-    let url;
-    let genreMap = {};
-
-    // Check local content first
-    if (category in localNonTMDBContent) {
-        if (category === 'upcoming' && contentType === 'movie') {
-            if (clearGrid) {
-                targetGrid.innerHTML = '';
-                displayLocalContent(localNonTMDBContent[category], targetGrid, false);
-            }
-
-            // USA upcoming movies for everyone
-            url = `https://api.themoviedb.org/3/movie/upcoming?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${currentPage}`;
-
-            try {
-                const response = await fetch(url);
-                const data = await response.json();
-
-                if (document.querySelector('.temp-spinner')) {
-                    document.querySelector('.temp-spinner').remove();
-                }
-
-                if (data.results && data.results.length > 0) {
-                    renderContentCards(data.results, contentType, targetGrid);
-                    if (data.total_pages > currentPage) {
-                        loadMoreButton.style.display = 'block';
-                    } else {
-                        loadMoreButton.style.display = 'none';
-                    }
-                } else {
-                    loadMoreButton.style.display = 'none';
-                }
-            } catch (error) {
-                console.error(`Error fetching ${contentType} for ${category}:`, error);
-                if (targetGrid.children.length === 0) {
-                    targetGrid.innerHTML = '<p class="placeholder-message">Failed to load content. Please try again later.</p>';
-                }
-                loadMoreButton.style.display = 'none';
-            }
-            return;
-        } else {
-            displayLocalContent(localNonTMDBContent[category], targetGrid, clearGrid);
-            loadMoreButton.style.display = 'none';
-            return;
-        }
-    }
-
-    // USA data for all global users (consistent and comprehensive)
-    if (contentType === 'movie') {
-        genreMap = TMDB_MOVIE_GENRES;
-
-        if (category === 'popular') {
-            url = `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${currentPage}`;
-        } else if (category !== 'popular' && category !== 'upcoming' && genreMap[category]) {
-            url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${currentPage}&with_genres=${genreMap[category]}`;
-        }
-    } else if (contentType === 'tv') {
-        genreMap = TMDB_TV_GENRES;
-        
-        if (category === 'popular') {
-            url = `https://api.themoviedb.org/3/tv/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${currentPage}`;
-        } else if (category !== 'popular' && genreMap[category]) {
-            url = `https://api.themoviedb.org/3/discover/tv?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${currentPage}&with_genres=${genreMap[category]}`;
-        }
-    } else {
-        targetGrid.innerHTML = `<p class="placeholder-message">Invalid content type: "${contentType}".</p>`;
-        loadMoreButton.style.display = 'none';
-        return;
-    }
-
-    try {
-        const response = await fetch(url);
-        const data = await response.json();
-
-        if (document.querySelector('.temp-spinner')) {
-            document.querySelector('.temp-spinner').remove();
-        }
-
-        if (data.results && data.results.length > 0) {
-            if (clearGrid) {
-                targetGrid.innerHTML = '';
-            }
-            renderContentCards(data.results, contentType, targetGrid);
-            if (data.total_pages > currentPage) {
-                loadMoreButton.style.display = 'block';
-            } else {
-                loadMoreButton.style.display = 'none';
-            }
-        } else if (clearGrid) {
-            targetGrid.innerHTML = `<p class="placeholder-message">No ${contentType === 'movie' ? 'movies' : 'TV shows'} found for this category.</p>`;
-            loadMoreButton.style.display = 'none';
-        } else {
-            loadMoreButton.style.display = 'none';
-        }
-    } catch (error) {
-        console.error(`Error fetching ${contentType} for ${category}:`, error);
-        targetGrid.innerHTML = '<p class="placeholder-message">Failed to load content. Please try again later.</p>';
-        loadMoreButton.style.display = 'none';
-    }
-}
-
-
-    /**
-     * Searches for movies or TV shows by query and displays them.
-     * @param {string} query The search query.
-     * @param {HTMLElement} targetGrid The DOM element to render search results into.
-     * @param {boolean} clearGrid If true, clears the grid before rendering.
-     * @param {string} searchScopeType 'movie', 'tv', or 'multi'. Determines which TMDB search endpoint to hit.
-     */
-    async function searchAndDisplayContent(query, targetGrid, clearGrid = true, searchScopeType = 'multi') {
-    if (clearGrid) {
-        targetGrid.innerHTML = '<div class="loading-spinner"></div>';
-        loadMoreButton.style.display = 'none';
-    } else {
-        targetGrid.insertAdjacentHTML('beforeend', '<div class="loading-spinner temp-spinner"></div>');
-    }
-
-    if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
-        targetGrid.innerHTML = `<p class="placeholder-message">TMDB API Key is missing or invalid.</p>`;
-        loadMoreButton.style.display = 'none';
-        return;
-    }
-
-    const encodedQuery = encodeURIComponent(query);
-    let url;
-    let effectiveContentTypeForRendering = searchScopeType;
-
-    // Search local content first
-    const localResults = searchLocalContent(query, searchScopeType);
-
-    // USA search results for global users (best search results)
-    if (searchScopeType === 'movie') {
-        url = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&region=US&page=${currentPage}&include_adult=false`;
-    } else if (searchScopeType === 'tv') {
-        url = `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&region=US&page=${currentPage}&include_adult=false`;
-    } else {
-        url = `https://api.themoviedb.org/3/search/multi?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&region=US&page=${currentPage}&include_adult=false`;
-        effectiveContentTypeForRendering = 'multi';
-    }
-
-    try {
-        const response = await fetch(url);
-        const data = await response.json();
-
-        if (document.querySelector('.temp-spinner')) {
-            document.querySelector('.temp-spinner').remove();
-        }
-
-        let results = data.results || [];
-
-        results = results.map(item => {
-            if (!item.media_type) {
-                if (item.title && !item.first_air_date) item.media_type = 'movie';
-                else if (item.name && !item.release_date) item.media_type = 'tv';
-                else item.media_type = 'unknown';
-            }
-            return item;
-        }).filter(item => item.media_type !== 'person' && item.media_type !== 'unknown');
-
-        if (searchScopeType === 'movie' && effectiveContentTypeForRendering === 'multi') {
-            results = results.filter(item => item.media_type === 'movie');
-        } else if (searchScopeType === 'tv' && effectiveContentTypeForRendering === 'multi') {
-            results = results.filter(item => item.media_type === 'tv');
-        }
-
-        const combinedResults = [...localResults, ...results];
-
-        if (combinedResults.length > 0) {
-            if (clearGrid) {
-                targetGrid.innerHTML = '';
-            }
-
-            if (localResults.length > 0) {
-                renderContentCards(localResults, effectiveContentTypeForRendering, targetGrid);
-            }
-            if (results.length > 0) {
-                renderContentCards(results, effectiveContentTypeForRendering, targetGrid);
-            }
-
-            if (data.total_pages > currentPage) {
-                loadMoreButton.style.display = 'block';
-            } else {
-                loadMoreButton.style.display = 'none';
-            }
-        } else if (clearGrid) {
-            targetGrid.innerHTML = `<p class="placeholder-message">No content found matching your search.</p>`;
-            loadMoreButton.style.display = 'none';
-        } else {
-            loadMoreButton.style.display = 'none';
-        }
-    } catch (error) {
-        console.error(`Error searching:`, error);
-        targetGrid.innerHTML = '<p class="placeholder-message">Failed to perform search. Please try again later.</p>';
-        loadMoreButton.style.display = 'none';
-    }
-}
-
-
-    /**
-     * Fetches details for a single movie or TV show by its ID.
-     * Used for building user lists and detail pages.
-     * @param {string} contentId The TMDB ID of the content.
-     * @param {string} contentType The type of content ('movie' or 'tv').
-     * @returns {Promise<Object|null>} Content object or null if error.
-     */
     function searchLocalContent(query, searchScopeType) {
         const results = [];
         const lowerQuery = query.toLowerCase();
@@ -847,27 +637,27 @@ document.addEventListener('DOMContentLoaded', () => {
         return results;
     }
     async function fetchContentDetailsById(contentId, contentType) {
-    if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
-        console.error("TMDB API Key is missing or invalid.");
-        return null;
-    }
-    
-    // USA data for consistent global experience
-    const url = `https://api.themoviedb.org/3/${contentType}/${contentId}?api_key=${TMDB_API_KEY}&language=en-US&region=US`;
-    
-    try {
-        const response = await fetch(url);
-        const content = await response.json();
-        if (content.id) {
-            content.media_type = contentType;
-            return content;
+        if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
+            console.error("TMDB API Key is missing or invalid.");
+            return null;
         }
-        return null;
-    } catch (error) {
-        console.error(`Error fetching ${contentType} details for ID ${contentId}:`, error);
-        return null;
+
+        // USA data for consistent global experience
+        const url = `https://api.themoviedb.org/3/${contentType}/${contentId}?api_key=${TMDB_API_KEY}&language=en-US&region=US`;
+
+        try {
+            const response = await fetch(url);
+            const content = await response.json();
+            if (content.id) {
+                content.media_type = contentType;
+                return content;
+            }
+            return null;
+        } catch (error) {
+            console.error(`Error fetching ${contentType} details for ID ${contentId}:`, error);
+            return null;
+        }
     }
-}
 
     /**
      * Fetches and displays details for a specific movie/TV show in the detail view.
@@ -1230,16 +1020,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function initializeApp() {
-    await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
-    showListView();
-
-    // USA content preloading for global users
-    if ('serviceWorker' in navigator && 'caches' in window) {
-        setTimeout(() => {
-            USACacheManager.preloadUSAContent();
-        }, 2000);
+        console.log('Initializing app...');
+        try {
+            await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
+            showListView();
+            console.log('App initialized successfully');
+        } catch (error) {
+            console.error('Failed to initialize app:', error);
+            movieGrid.innerHTML = `<p class="placeholder-message">Failed to load initial content: ${error.message}</p>`;
+        }
     }
-}
 
     initializeApp();
 });
