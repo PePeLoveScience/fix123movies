@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // FIXED: Load JSON data function with better error handling
     async function loadJSONData(contentType, category) {
-        const fileName = `${contentType}-${category}.json`;
+        const fileName = `${contentType}s-${category}.json`;
         const filePath = `./data/${fileName}`; // Added ./ for relative path
 
         console.log(`Attempting to load: ${filePath}`);
@@ -1022,7 +1022,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function initializeApp() {
         console.log('Initializing app...');
         try {
-            await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
+            await fetchAndDisplayContent('movies', 'upcoming', movieGrid, true);
             showListView();
             console.log('App initialized successfully');
         } catch (error) {
