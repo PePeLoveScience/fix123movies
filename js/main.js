@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // State variables
-    let currentContentType = 'movie';
+    let currentContentType = 'movies';
     let currentActiveGenreOrType = 'upcoming';
     let currentPage = 1;
     let currentSearchQuery = '';
