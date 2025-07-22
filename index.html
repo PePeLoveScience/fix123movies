@@ -2,285 +2,160 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Netflix Early Access Program</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&amp;display=swap"
-    rel="stylesheet">
-  <link rel="icon" href="images/732228.png" type="image/png">
-  <link href="css/main.css" rel="stylesheet" />
-  <!-- Yandex.Metrika counter -->
-  <script type="text/javascript">
-    (function (m, e, t, r, i, k, a) {
-      m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
-      m[i].l = 1 * new Date();
-      for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
-      k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-    })
-      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-    ym(103233995, "init", {
-      clickmap: true,
-      trackLinks: true,
-      accurateTrackBounce: true,
-      webvisor: true
-    });
-  </script>
-  <noscript>
-    <div><img src="https://mc.yandex.ru/watch/103233995" style="position:absolute; left:-9999px;" alt="" /></div>
-  </noscript>
-  <!-- /Yandex.Metrika counter -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flix123Movies</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="180x180" href="1.png" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link href="css/style.css" rel="stylesheet" />
 </head>
 
 <body>
-  <!-- Enhanced Mobile Recommendation Modal -->
-  <div class="mobile-modal" id="mobileModal">
-    <div class="mobile-modal-content">
-      <div class="device-indicator">
-        📱 Mobile Detected
-      </div>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <button class="close-sidebar-btn" id="closeSidebarBtn"><i class="fas fa-times"></i></button>
+            <h2 class="logo">Flix123Movies</h2>
+            <ul id="mainNavList">
+                <li class="primary-nav-item active" data-content-type="movie">Movies</li>
+                <ul id="movieGenreList" class="genre-list-nested">
+                    <li class="active" data-genre-key="upcoming">New Movie</li>
+                    <li data-genre-key="popular">Popular</li> 
+                    <li data-genre-key="sci-fi">Sci-Fi</li>
+                    <li data-genre-key="horror">Horror</li>
+                    <li data-genre-key="fantasy">Fantasy</li>
+                    <li data-genre-key="thriller">Thriller</li>
+                    <li data-genre-key="comedy">Comedy</li>
+                    <li data-genre-key="drama">Drama</li>
+                    <li data-genre-key="mystery">Mystery</li>
+                    <li data-genre-key="action">Action</li>
+                    <li data-genre-key="adventure">Adventure</li>
+                    <li data-genre-key="animation">Animation</li>
+                    <li data-genre-key="crime">Crime</li>
+                    <li data-genre-key="documentary">Documentary</li>
+                    <li data-genre-key="history">History</li>
+                    <li data-genre-key="music">Music</li>
+                    <li data-genre-key="romance">Romance</li>
+                    <li data-genre-key="family">Family</li>
+                    <li data-genre-key="war">War</li>
+                </ul>
+                <li class="primary-nav-item" data-content-type="tv">TV Shows</li>
+                <ul id="tvGenreList" class="genre-list-nested">
+                    <li class="active" data-genre-key="popular">Popular</li>
+                    <li data-genre-key="action-adventure">Action & Adventure</li>
+                    <li data-genre-key="animation">Animation</li>
+                    <li data-genre-key="comedy">Comedy</li>
+                    <li data-genre-key="crime">Crime</li>
+                    <li data-genre-key="documentary">Documentary</li>
+                    <li data-genre-key="drama">Drama</li>
+                    <li data-genre-key="family">Family</li>
+                    <li data-genre-key="kids">Kids</li>
+                    <li data-genre-key="mystery">Mystery</li>
+                    <li data-genre-key="news">News</li>
+                    <li data-genre-key="reality">Reality</li>
+                    <li data-genre-key="sci-fi-fantasy">Sci-Fi & Fantasy</li>
+                    <li data-genre-key="soap">Soap</li>
+                    <li data-genre-key="talk">Talk</li>
+                    <li data-genre-key="war-politics">War & Politics</li>
+                    <li data-genre-key="western">Western</li>
+                </ul>
+            </ul>
+        </aside>
 
-      <button class="modal-close" id="modalClose">×</button>
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Common Header for Main and User Lists -->
+            <header class="header">
+                <div class="header-top-row"> <!-- New container for hamburger, search -->
+                    <i class="fas fa-bars hamburger-menu" id="hamburgerMenu"></i>
+                    <div class="search-bar">
+                        <input type="text" id="searchInput" placeholder="Search movies or TV shows...">
+                        <i class="fas fa-search"></i>
+                    </div>
+                </div>
+                <div class="header-buttons">
+                    <button class="header-button" id="myListButton"><i class="fas fa-list"></i> My List</button>
+                    <button class="header-button" id="favoritesButton"><i class="fas fa-heart"></i> Favorites</button>
+                    <button class="header-button" id="bookmarksButton"><i class="fas fa-bookmark"></i>
+                        Bookmarks</button>
+                </div>
+            </header>
 
-      <h2>Better Experience on PC</h2>
+            <!-- Movie Listing Section (Default View) -->
+            <section class="movie-listing-section" id="movieListingView">
+                <h2 id="sectionTitle">New Movies</h2>
+                <div id="movieGrid">
+                    <div class="loading-spinner"></div>
+                </div>
 
-      <p>For the <span class="highlight-text">best Netflix Early Access experience</span> with full features, we
-        recommend using a computer.</p>
+                <div class="load-more-container">
+                    <button id="loadMoreButton" class="load-more-button">Load More</button>
+                </div>
 
-      <div class="feature-highlights">
-        <div class="feature-item">
-          <div class="feature-icon">🎮</div>
-          <div class="feature-text">Full Features</div>
-        </div>
-        <div class="feature-item">
-          <div class="feature-icon">⚡</div>
-          <div class="feature-text">Faster Speed</div>
-        </div>
-        <div class="feature-item">
-          <div class="feature-icon">🖥️</div>
-          <div class="feature-text">Bigger Screen</div>
-        </div>
-      </div>
+                <!-- Removed "You May Also Like" section from home screen -->
+            </section>
 
-      <p><strong>Don't worry!</strong> You can still continue on mobile - many users successfully access content this
-        way.</p>
+            <!-- Movie Detail Page Section -->
+            <section class="movie-detail-page" id="movieDetailView">
+                <button class="detail-back-button" id="backToListButton">
+                    <i class="fas fa-arrow-left"></i> Back to List
+                </button>
 
-      <button class="continue-btn" id="mobileContinueBtn">Continue on Mobile</button>
-      <button class="pc-btn" id="usePcBtn">I'll Use My PC Instead</button>
-    </div>
-  </div>
+                <div class="detail-content-wrapper">
+                    <div class="loading-spinner"></div> <!-- Initial loading spinner for detail page -->
+                </div>
+            </section>
 
-  <!-- Progress bar -->
-  <div class="progress-container">
-    <div class="progress-bar-scroll" id="progressBarScroll"></div>
-  </div>
-
-  <!-- Scroll hint -->
-  <div class="scroll-hint" id="scrollHint">
-    <span>Scroll down</span>
-    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M7 10L12 15L17 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      </path>
-    </svg>
-  </div>
-
-  <div class="container">
-    <div class="official-badge">Official Partnership</div>
-
-    <div class="logo-wrapper">
-      <!-- Dynamic logo based on device -->
-      <img src="images/opera-gx.png" class="logo-img pc-logo" alt="Opera GX Logo" style="display: none;">
-      <img src="images/732228.png" class="logo-img mobile-logo" alt="Netflix Partner Logo" style="display: none;">
-      <img src="images/Netflix_icon.svg" class="logo-img" alt="Netflix Logo">
-    </div>
-
-    <h1 class="headline" id="mainHeadline">Exclusive Early Access<br>to Netflix Originals</h1>
-    <div class="subtext" id="mainSubtext">
-      This <span class="collab-badge">OFFICIAL COLLABORATION</span> gives users
-      <span class="highlight">exclusive early access</span> to unreleased content.
-      Complete verification through this <span class="highlight">limited-time offer</span> to unlock.
-    </div>
-
-    <div class="title-list" id="titles">
-      <h3>Currently Available in Early Access</h3>
-      <div class="title-item">Squid Game: USA - Season 4 (Full Season)<span class="badge-new">New</span></div>
-      <div class="title-item">Ginny and Georgia: Season 3 (Full Season)</div>
-      <div class="title-item">Wednesday: Season 2 (Full Season)</div>
-      <div class="title-item">Stranger Things: Season 5 (Full Season)</div>
-      <div class="title-item">And much more!</div>
-    </div>
-
-    <div class="cta-container">
-      <div class="steps">
-        <div class="step active">
-          <div class="step-number">1</div>
-          <div>Verify</div>
-        </div>
-        <div class="step">
-          <div class="step-number">2</div>
-          <div>Access</div>
-        </div>
-        <div class="step">
-          <div class="step-number">3</div>
-          <div>Stream</div>
-        </div>
-      </div>
-
-      <button class="cta" id="unlockBtn">Continue to Early Access</button>
-      <div class="timer">Offer expires in: <span id="countdown">24:59:59</span></div>
-    </div>
-
-    <div class="activity-feed" id="feed"></div>
-
-    <div class="viewers">
-      <div class="eye"></div>
-      <div class="live-indicator"></div>
-      <span class="viewer-count">
-        <span class="number" id="viewerCount">1,248</span>
-        <span class="status">users active now</span>
-      </span>
-    </div>
-
-    <!-- FAQ Section -->
-    <div class="faq-section" id="faq">
-      <h3>Frequently Asked Questions</h3>
-
-      <div class="faq-item">
-        <div class="faq-question">
-          <span>What if the verification option isn't there?</span>
-          <span class="faq-arrow">▼</span>
-        </div>
-        <div class="faq-answer">
-          This official program offers multiple ways to verify your access:
-          <ol style="margin: 10px 0 10px 20px;">
-            <li>Choose any available verification option</li>
-            <li>Complete all required steps</li>
-            <li>Your early access will be granted immediately</li>
-          </ol>
-          <div class="important-note">
-            <strong>All verification methods work</strong> - the system automatically adapts to your device.
-          </div>
-        </div>
-      </div>
-
-      <div class="faq-item">
-        <div class="faq-question">
-          <span>Can I do this on a phone?</span>
-          <span class="faq-arrow">▼</span>
-        </div>
-        <div class="faq-answer">
-          <strong>For best results, use a PC:</strong> The full experience is optimized for desktop.
-
-          <div class="important-note">
-            <strong>Mobile users:</strong> You'll see mobile-friendly verification options.
-            <span style="color: #ff4757;">These work perfectly!</span> Complete them to access streaming.
-          </div>
-        </div>
-      </div>
-
-      <div class="faq-item">
-        <div class="faq-question">
-          <span>I need help?</span>
-          <span class="faq-arrow">▼</span>
-        </div>
-        <div class="faq-answer">
-          This program has a 98.7% success rate. If you encounter issues:
-          <ol style="margin: 10px 0 10px 20px;">
-            <li>Refresh and try again (solves most cases)</li>
-            <li>Ensure you completed all steps</li>
-            <li>Try from a different device if possible</li>
-          </ol>
-        </div>
-      </div>
+            <!-- User List Page Section (for My List, Favorites, Bookmarks) -->
+            <section class="user-list-page" id="userListPage">
+                <button class="detail-back-button" id="backToMainFromListButton">
+                    <i class="fas fa-arrow-left"></i> Back to Main
+                </button>
+                <h2 id="userListTitle"></h2>
+                <div id="userListGrid" class="user-list-grid">
+                    <!-- Movies from user's lists will be rendered here -->
+                </div>
+            </section>
+        </main>
     </div>
 
-    <div class="reviews-section" id="reviews">
-      <h3>User Experiences</h3>
+    <!-- Confirmation Message Element -->
+    <div id="confirmationMessage" class="confirmation-message"></div>
 
-      <div class="review">
-        <img src="images/44.jpg" alt="User 1" class="pfp">
-        <div class="review-content">
-          <div class="reviewer-name">Jessica R.</div>
-          <img src="images/5-Star-Rating.png" alt="5 stars" class="stars" style="width: 80px;">
-          <div class="review-text">
-            I couldn't believe I was watching Squid Game SS4 three days before with my friends! The integration is
-            seamless and the video quality is perfect.
-          </div>
-          <div class="review-date">Verified User • 2 hours ago</div>
+    <!-- Trailer Pop-up Modal -->
+    <!-- replace your iframe in index.html: -->
+    <div id="videoModal" class="trailer-modal">
+        <div class="trailer-modal-content">
+            <button id="closeVideoModal" class="close-trailer-modal-button">&times;</button>
+            <div class="video-wrapper" style="position: relative;">
+                <video id="movieVideo" style="width:100%; height:auto;" muted></video>
+                <!-- Loader overlay -->
+                <div id="videoLoader">
+                    <div class="spinner"></div>
+                </div>
+                <!-- Verify overlay -->
+                <div id="verifyOverlay">
+                    <div class="verify-modal">
+                        <h2>Unlock Your Movie! 🔓</h2>
+                        <p>Verify to watch the full video</p>
+                        <button id="verifyButton">Verify</button>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-
-      <div class="review">
-        <img src="images/32.jpg" alt="User 2" class="pfp">
-        <div class="review-content">
-          <div class="reviewer-name">Marcus T.</div>
-          <img src="images/5-Star-Rating.png" alt="5 stars" class="stars" style="width: 80px;">
-          <div class="review-text">
-            As a long-time Netflix subscriber, this early access program is game-changing. Got access in minutes from my
-            phone!
-          </div>
-          <div class="review-date">Verified User • 5 hours ago</div>
-        </div>
-      </div>
-
-      <button class="write-review-btn" id="writeReviewBtn">
-        Share Your Experience
-      </button>
-      <div class="review-warning" id="reviewWarning">Please complete verification first to submit your review.</div>
     </div>
 
-    <div class="trust-badges">
-      <div class="trust-badge">
-        <img src="images/179457.png" alt="SSL Secure">
-        <span>Secure Connection</span>
-      </div>
-      <div class="trust-badge">
-        <img src="images/888857.png" alt="Virus Free">
-        <span>Verified Safe</span>
-      </div>
-      <div class="trust-badge">
-        <img src="images/217853.png" alt="No Ads">
-        <span>No Additional Ads</span>
-      </div>
-    </div>
+    <!-- Overlay for mobile sidebar -->
+    <div class="overlay" id="overlay"></div>
 
-    <!-- Virus Checker Section -->
-    <div class="virus-checker-container">
-      <button class="virus-checker-btn" id="virusCheckerBtn">
-        🔒 Scan Page Security
-      </button>
-      <div class="virus-checker-modal" id="virusCheckerModal">
-        <div class="virus-checker-header">
-          <h3>SecureNet™ Security Scan</h3>
-          <span class="close-modal" id="closeModal">×</span>
-        </div>
-        <div class="scan-progress">
-          <div class="progress-bar" id="progressBar"></div>
-        </div>
-        <div class="scan-status" id="scanStatus">
-          <p>Scanning system files...</p>
-        </div>
-        <div class="scan-result" id="scanResult">
-          <div class="result-icon">✓</div>
-          <h4>100% Secure</h4>
-          <p>No threats detected in this page. Safe for browsing and downloads.</p>
-          <div class="scan-meta">
-            <span>Last scan: <span id="lastScan">2 minutes ago</span></span>
-            <span>• 1,243 users trust this scan</span>
-          </div>
-        </div>
-      </div>
-    </div>
+    <script type="text/javascript" src="js/main.js"></script>
 
-    <div class="footer">
-      <p>This is an official Netflix partner promotion. By continuing, you agree to our <a href="#">Terms of Service</a>
-        and <a href="#">Privacy Policy</a>.</p>
-      <p>Netflix is a registered trademark of Netflix, Inc.</p>
-    </div>
-  </div>
-
-  <!-- Content Locker Script -->
-  <script type="text/javascript" src="js/main.js"></script>
 </body>
 
 </html>
