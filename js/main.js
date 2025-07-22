@@ -34,21 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const TMDB_POSTER_PLACEHOLDER = 'https://placehold.co/180x270/1a1a1a/e0e0e0?text=No+Poster';
     const TMDB_DETAIL_POSTER_PLACEHOLDER = 'https://placehold.co/250x375/1a1a1a/e0e0e0?text=No+Poster';
 
-    // Genre mappings
-    const TMDB_MOVIE_GENRES = {
-        'action': 28, 'adventure': 12, 'animation': 16, 'comedy': 35, 'crime': 80,
-        'documentary': 99, 'drama': 18, 'family': 10751, 'fantasy': 14, 'history': 36,
-        'horror': 27, 'music': 10402, 'mystery': 9648, 'romance': 10749, 'sci-fi': 878,
-        'thriller': 53, 'war': 10752, 'western': 37, 'upcoming': 'upcoming',
-    };
-
-    const TMDB_TV_GENRES = {
-        'action-adventure': 10759, 'animation': 16, 'comedy': 35, 'crime': 80,
-        'documentary': 99, 'drama': 18, 'family': 10751, 'kids': 10762, 'mystery': 9648,
-        'news': 10763, 'reality': 10764, 'sci-fi-fantasy': 10765, 'soap': 10766,
-        'talk': 10767, 'war-politics': 10768, 'western': 37, 'popular': 'popular'
-    };
-
     // Local content
     const localNonTMDBContent = {
         'upcoming': [
@@ -75,38 +60,25 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // State variables
-    let currentContentType = 'movies';
+    let currentContentType = 'movie';
     let currentActiveGenreOrType = 'upcoming';
     let currentPage = 1;
     let currentSearchQuery = '';
 
-    // FIXED: Load JSON data function with better error handling
     async function loadJSONData(contentType, category) {
-        const fileName = `${contentType}s-${category}.json`;
-        const filePath = `./data/${fileName}`; // Added ./ for relative path
-
-        console.log(`Attempting to load: ${filePath}`);
-
+        const fileName = `${contentType}-${category}.json`;
+        const filePath = `./data/${fileName}`;
         try {
             const response = await fetch(filePath);
-            console.log(`Response status for ${fileName}:`, response.status);
 
             if (!response.ok) {
                 throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
             }
 
             const data = await response.json();
-            console.log(`Loaded ${data.length} items from ${fileName}`);
             return data;
         } catch (error) {
             console.error(`Error loading ${fileName}:`, error);
-
-            // Show user-friendly error message
-            if (error.message.includes('404')) {
-                throw new Error(`Data file ${fileName} not found. Make sure you've run the data update script.`);
-            } else if (error.message.includes('Failed to fetch')) {
-                throw new Error(`Cannot load ${fileName}. Make sure you're running a local server or the file exists.`);
-            }
             throw error;
         }
     }
@@ -204,8 +176,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // UPDATED: Main content fetching function
     async function fetchAndDisplayContent(contentType, category, targetGrid, clearGrid = true) {
-        console.log(`Fetching content: ${contentType}-${category}`);
-
         if (clearGrid) {
             targetGrid.innerHTML = '<div class="loading-spinner"></div>';
             loadMoreButton.style.display = 'none';
@@ -850,7 +820,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const year = content.release_date ? content.release_date.substring(0, 4) : (content.first_air_date ? content.first_air_date.substring(0, 4) : 'N/A');
         const rating = content.vote_average ? content.vote_average.toFixed(1) : 'N/A';
-        const tagline = content.tagline ? `<p class="tagline">${content.tagline}</p>` : '';
 
         const directors = isMovie && content.credits && content.credits.crew ? content.credits.crew.filter(c => c.job === 'Director').map(d => d.name).join(', ') : 'N/A';
         const creators = !isMovie && content.created_by && content.created_by.length > 0 ? content.created_by.map(c => c.name).join(', ') : 'N/A';
