@@ -1020,16 +1020,43 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function initializeApp() {
-        console.log('Initializing app...');
-        try {
-            await fetchAndDisplayContent('movies', 'upcoming', movieGrid, true);
-            showListView();
-            console.log('App initialized successfully');
-        } catch (error) {
-            console.error('Failed to initialize app:', error);
-            movieGrid.innerHTML = `<p class="placeholder-message">Failed to load initial content: ${error.message}</p>`;
-        }
+    console.log('Initializing app...');
+    
+    // Set initial state to match HTML
+    currentContentType = 'movie';
+    currentActiveGenreOrType = 'upcoming';
+    currentPage = 1;
+    currentSearchQuery = '';
+    
+    // Make sure the correct navigation items are active
+    // Remove any existing active states
+    mainNavList.querySelectorAll('.primary-nav-item').forEach(item => item.classList.remove('active'));
+    movieGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+    tvGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+    
+    // Set correct active states
+    const moviesNavItem = mainNavList.querySelector('[data-content-type="movie"]');
+    const upcomingGenreItem = movieGenreList.querySelector('[data-genre-key="upcoming"]');
+    
+    if (moviesNavItem) moviesNavItem.classList.add('active');
+    if (upcomingGenreItem) upcomingGenreItem.classList.add('active');
+    
+    // Show correct genre list
+    movieGenreList.style.display = 'block';
+    tvGenreList.style.display = 'none';
+    
+    // Set section title
+    sectionTitle.textContent = formatContentTitle(currentContentType, currentActiveGenreOrType);
+    
+    try {
+        await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
+        showListView();
+        console.log('App initialized successfully');
+    } catch (error) {
+        console.error('Failed to initialize app:', error);
+        movieGrid.innerHTML = `<p class="placeholder-message">Failed to load initial content: ${error.message}</p>`;
     }
+}
 
     initializeApp();
 });
