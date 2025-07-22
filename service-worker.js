@@ -1,1 +1,292 @@
-const _0x33c5a4=_0x8eab;(function(_0x39f5dc,_0x101518){const _0x2c4af5=_0x8eab,_0x19aab8=_0x39f5dc();while(!![]){try{const _0x363084=parseInt(_0x2c4af5(0x17b))/0x1*(-parseInt(_0x2c4af5(0x1a7))/0x2)+parseInt(_0x2c4af5(0x192))/0x3*(-parseInt(_0x2c4af5(0x178))/0x4)+-parseInt(_0x2c4af5(0x181))/0x5+-parseInt(_0x2c4af5(0x17f))/0x6*(parseInt(_0x2c4af5(0x18a))/0x7)+parseInt(_0x2c4af5(0x185))/0x8*(-parseInt(_0x2c4af5(0x183))/0x9)+parseInt(_0x2c4af5(0x18f))/0xa*(-parseInt(_0x2c4af5(0x18c))/0xb)+parseInt(_0x2c4af5(0x1a1))/0xc*(parseInt(_0x2c4af5(0x196))/0xd);if(_0x363084===_0x101518)break;else _0x19aab8['push'](_0x19aab8['shift']());}catch(_0x18f9c8){_0x19aab8['push'](_0x19aab8['shift']());}}}(_0x4563,0xeba11));const CACHE_NAME=_0x33c5a4(0x19c),API_CACHE_NAME=_0x33c5a4(0x191),CACHE_DURATION=0x18*0x3c*0x3c*0x3e8,urlsToCache=['/',_0x33c5a4(0x193),_0x33c5a4(0x19e),_0x33c5a4(0x190),_0x33c5a4(0x17e),_0x33c5a4(0x189),_0x33c5a4(0x17c),_0x33c5a4(0x1a4)];self[_0x33c5a4(0x18e)]('install',_0x5628aa=>{const _0x5c4855=_0x33c5a4;_0x5628aa[_0x5c4855(0x177)](Promise[_0x5c4855(0x175)]([caches[_0x5c4855(0x197)](CACHE_NAME)[_0x5c4855(0x1a5)](_0x44a69b=>_0x44a69b[_0x5c4855(0x184)](urlsToCache)),caches['open'](API_CACHE_NAME)]));}),self[_0x33c5a4(0x18e)](_0x33c5a4(0x17a),_0x219754=>{const _0x536abf=_0x33c5a4;_0x219754[_0x536abf(0x177)](caches[_0x536abf(0x1a8)]()[_0x536abf(0x1a5)](_0x17722d=>Promise[_0x536abf(0x175)](_0x17722d[_0x536abf(0x198)](_0x47bcaf=>{if(_0x47bcaf!==CACHE_NAME&&_0x47bcaf!==API_CACHE_NAME)return caches['delete'](_0x47bcaf);}))));}),self[_0x33c5a4(0x18e)](_0x33c5a4(0x19b),_0x41d2b9=>{const _0x9f08b7=_0x33c5a4,_0xc4ed42=new URL(_0x41d2b9[_0x9f08b7(0x182)][_0x9f08b7(0x18d)]);if(_0xc4ed42[_0x9f08b7(0x194)]===_0x9f08b7(0x176)){_0x41d2b9[_0x9f08b7(0x187)](handleTMDBApiRequest(_0x41d2b9[_0x9f08b7(0x182)]));return;}if(_0xc4ed42[_0x9f08b7(0x194)]===_0x9f08b7(0x1a3)){_0x41d2b9[_0x9f08b7(0x187)](handleImageRequest(_0x41d2b9['request']));return;}_0x41d2b9[_0x9f08b7(0x187)](caches[_0x9f08b7(0x188)](_0x41d2b9[_0x9f08b7(0x182)])[_0x9f08b7(0x1a5)](_0x5e03ff=>{const _0x2eaf86=_0x9f08b7;return _0x5e03ff||fetch(_0x41d2b9[_0x2eaf86(0x182)]);}));});function _0x4563(){const _0x1a7e9f=['api-cache-v1','312261XiUJrT','/index.html','hostname','delete','585TmYctf','open','map','searchParams','clone','fetch','cache-v2','_cacheTime','/manifest.json','stringify','toString','1493460iTMPjU','json','image.tmdb.org','https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css','then','application/json','3504454gRTaET','keys','log','🎯\x20Serving\x20from\x20API\x20cache:','all','api.themoviedb.org','waitUntil','16NgvRcz','put','activate','1ODzsiZ','/js/main.js','reject','/1.png','4187406HOpSqQ','now','4771800EUnWby','request','932211QlQiCw','addAll','8vFhrIo','🌐\x20Fetching\x20from\x20TMDB\x20API:','respondWith','match','/css/style.css','7dPWKcI','❌\x20Network\x20failed,\x20trying\x20cache:','11ejqUqN','url','addEventListener','7109230MImMGL','/favicon.ico'];_0x4563=function(){return _0x1a7e9f;};return _0x4563();}function _0x8eab(_0x30952f,_0x3e136f){const _0x456340=_0x4563();return _0x8eab=function(_0x8eab1f,_0x2b3cb8){_0x8eab1f=_0x8eab1f-0x173;let _0xedfc14=_0x456340[_0x8eab1f];return _0xedfc14;},_0x8eab(_0x30952f,_0x3e136f);}async function handleTMDBApiRequest(_0x319056){const _0xc5f28e=_0x33c5a4,_0x196636=await caches[_0xc5f28e(0x197)](API_CACHE_NAME),_0xc6294a=new URL(_0x319056[_0xc5f28e(0x18d)]);_0xc6294a[_0xc5f28e(0x199)][_0xc5f28e(0x195)]('api_key');const _0x2cff42=_0xc6294a[_0xc5f28e(0x1a0)](),_0x2293da=await _0x196636[_0xc5f28e(0x188)](_0x2cff42);if(_0x2293da){const _0x51bf28=await _0x2293da[_0xc5f28e(0x1a2)](),_0x1e350a=_0x51bf28[_0xc5f28e(0x19d)]||0x0,_0x1256fd=Date[_0xc5f28e(0x180)]();if(_0x1256fd-_0x1e350a<CACHE_DURATION)return console['log'](_0xc5f28e(0x174),_0x2cff42),delete _0x51bf28[_0xc5f28e(0x19d)],new Response(JSON[_0xc5f28e(0x19f)](_0x51bf28),{'headers':{'Content-Type':_0xc5f28e(0x1a6)}});}try{console[_0xc5f28e(0x173)](_0xc5f28e(0x186),_0x319056[_0xc5f28e(0x18d)]);const _0x3eaea6=await fetch(_0x319056);if(_0x3eaea6['ok']){const _0x4abb1e=await _0x3eaea6['json']();_0x4abb1e[_0xc5f28e(0x19d)]=Date['now']();const _0x51c768=new Response(JSON['stringify'](_0x4abb1e),{'headers':{'Content-Type':_0xc5f28e(0x1a6)}});return _0x196636[_0xc5f28e(0x179)](_0x2cff42,_0x51c768[_0xc5f28e(0x19a)]()),delete _0x4abb1e[_0xc5f28e(0x19d)],new Response(JSON[_0xc5f28e(0x19f)](_0x4abb1e),{'headers':{'Content-Type':'application/json'}});}return _0x3eaea6;}catch(_0x610dc4){console[_0xc5f28e(0x173)](_0xc5f28e(0x18b),_0x610dc4);if(_0x2293da){const _0x1e1705=await _0x2293da[_0xc5f28e(0x1a2)]();return delete _0x1e1705[_0xc5f28e(0x19d)],new Response(JSON['stringify'](_0x1e1705),{'headers':{'Content-Type':_0xc5f28e(0x1a6)}});}throw _0x610dc4;}}async function handleImageRequest(_0x5e42b4){const _0x1f534c=_0x33c5a4,_0x4ad447=await caches[_0x1f534c(0x197)](API_CACHE_NAME),_0x6fe70a=await _0x4ad447['match'](_0x5e42b4);if(_0x6fe70a)return _0x6fe70a;try{const _0x27f06f=await fetch(_0x5e42b4);return _0x27f06f['ok']&&_0x4ad447[_0x1f534c(0x179)](_0x5e42b4,_0x27f06f[_0x1f534c(0x19a)]()),_0x27f06f;}catch(_0x477d65){return _0x6fe70a||Promise[_0x1f534c(0x17d)](_0x477d65);}}
+const CACHE_NAME = 'cache-v2';
+const API_CACHE_NAME = 'api-cache-v1';
+const CACHE_DURATIONS = {
+  popular: 4 * 60 * 60 * 1000,      // 4 hours (changes frequently)
+  discover: 8 * 60 * 60 * 1000,     // 8 hours (genres are stable)
+  search: 12 * 60 * 60 * 1000,      // 12 hours (search results stable)
+  details: 24 * 60 * 60 * 1000,     // 24 hours (movie details don't change)
+  upcoming: 6 * 60 * 60 * 1000      // 6 hours (updated regularly)
+};
+
+const USA_GLOBAL_ENDPOINTS = [
+  // Most popular USA content (best for global audience)
+  '/3/movie/popular?page=1',
+  '/3/movie/popular?page=2', 
+  '/3/movie/popular?page=3',
+  '/3/tv/popular?page=1',
+  '/3/tv/popular?page=2',
+  
+  // Top USA genres (popular globally)
+  '/3/discover/movie?with_genres=28&page=1',   // Action
+  '/3/discover/movie?with_genres=35&page=1',   // Comedy
+  '/3/discover/movie?with_genres=27&page=1',   // Horror
+  '/3/discover/movie?with_genres=878&page=1',  // Sci-Fi
+  '/3/discover/movie?with_genres=53&page=1',   // Thriller
+  '/3/discover/movie?with_genres=12&page=1',   // Adventure
+];
+
+const urlsToCache = [
+  '/',
+  '/index.html',
+  '/manifest.json',
+  '/favicon.ico',
+  '/1.png',
+  '/css/style.css',
+  '/js/main.js',
+  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css'
+];
+
+// Install event: cache files
+self.addEventListener('install', event => {
+  event.waitUntil(
+    Promise.all([
+      caches.open(CACHE_NAME).then(cache => cache.addAll(urlsToCache)),
+      caches.open(API_CACHE_NAME),
+      preCacheUSAContent()
+    ])
+  );
+  self.skipWaiting();
+});
+
+async function preCacheUSAContent() {
+  console.log('🇺🇸 Pre-caching USA content for global users...');
+  
+  const API_KEY = '3f4dc5c95e4960eccb2470cab896fc5c';
+  
+  for (const endpoint of USA_GLOBAL_ENDPOINTS) {
+    try {
+      // Add region=US for consistent USA data
+      const url = `https://api.themoviedb.org/3${endpoint}&api_key=${API_KEY}&language=en-US&region=US`;
+      await fetch(url);
+      await new Promise(resolve => setTimeout(resolve, 100)); // Fast pre-loading
+    } catch (error) {
+      console.log('Pre-cache failed:', endpoint);
+    }
+  }
+  
+  console.log('✅ USA content cached for global audience');
+}
+
+async function handleTMDBApiRequest(request) {
+  const cache = await caches.open(API_CACHE_NAME);
+  const url = new URL(request.url);
+  
+  // Force USA region for consistent global data
+  url.searchParams.set('region', 'US');
+  
+  // Create cache key (remove API key, keep region=US)
+  const cacheUrl = new URL(url);
+  cacheUrl.searchParams.delete('api_key');
+  const cacheKey = cacheUrl.toString();
+  
+  // Check cache
+  const cachedResponse = await cache.match(cacheKey);
+  
+  if (cachedResponse) {
+    const cachedData = await cachedResponse.json();
+    const cacheTime = cachedData._cacheTime || 0;
+    const now = Date.now();
+    
+    // Smart cache duration based on endpoint type
+    let duration = CACHE_DURATIONS.discover; // default
+    if (url.pathname.includes('popular')) duration = CACHE_DURATIONS.popular;
+    else if (url.pathname.includes('search')) duration = CACHE_DURATIONS.search;
+    else if (url.pathname.includes('upcoming')) duration = CACHE_DURATIONS.upcoming;
+    else if (url.pathname.match(/\/(movie|tv)\/\d+/)) duration = CACHE_DURATIONS.details;
+    
+    if (now - cacheTime < duration) {
+      console.log('🎯 USA cache HIT (global):', url.pathname);
+      
+      delete cachedData._cacheTime;
+      return new Response(JSON.stringify(cachedData), {
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-Cache': 'HIT-USA-GLOBAL',
+          'X-Cache-Region': 'US',
+          'X-Cache-TTL': Math.floor((duration - (now - cacheTime)) / 1000) + 's'
+        }
+      });
+    }
+  }
+  
+  // Fetch from network with USA region
+  try {
+    console.log('🌐 Fetching USA data for global user:', url.pathname);
+    const networkResponse = await fetch(url.toString());
+    
+    if (networkResponse.ok) {
+      const data = await networkResponse.json();
+      data._cacheTime = Date.now();
+      
+      // Cache for global use
+      const responseToCache = new Response(JSON.stringify(data), {
+        headers: { 'Content-Type': 'application/json' }
+      });
+      
+      cache.put(cacheKey, responseToCache.clone());
+      
+      delete data._cacheTime;
+      return new Response(JSON.stringify(data), {
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-Cache': 'MISS-USA-GLOBAL',
+          'X-Cache-Region': 'US'
+        }
+      });
+    }
+    
+    return networkResponse;
+  } catch (error) {
+    console.log('❌ Network failed, using stale USA cache');
+    
+    if (cachedResponse) {
+      const cachedData = await cachedResponse.json();
+      delete cachedData._cacheTime;
+      
+      return new Response(JSON.stringify(cachedData), {
+        headers: { 
+          'Content-Type': 'application/json',
+          'X-Cache': 'STALE-USA-GLOBAL'
+        }
+      });
+    }
+    
+    throw error;
+  }
+}
+
+// Activate event: clean old caches
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => 
+      Promise.all(
+        cacheNames.map(name => {
+          if (name !== CACHE_NAME && name !== API_CACHE_NAME) {
+            return caches.delete(name);
+          }
+        })
+      )
+    )
+  );
+});
+
+// Enhanced fetch event with API caching
+self.addEventListener('fetch', event => {
+  const url = new URL(event.request.url);
+  
+  // Handle TMDB API requests
+  if (url.hostname === 'api.themoviedb.org') {
+    event.respondWith(handleTMDBApiRequest(event.request));
+    return;
+  }
+  
+  // Handle TMDB image requests
+  if (url.hostname === 'image.tmdb.org') {
+    event.respondWith(handleImageRequest(event.request));
+    return;
+  }
+  
+  // Handle regular requests
+  event.respondWith(
+    caches.match(event.request).then(response => {
+      return response || fetch(event.request);
+    })
+  );
+});
+
+// Function to handle TMDB API requests with caching
+async function handleTMDBApiRequest(request) {
+  const cache = await caches.open(API_CACHE_NAME);
+  
+  // Create a cache key (remove API key for privacy)
+  const url = new URL(request.url);
+  url.searchParams.delete('api_key');
+  const cacheKey = url.toString();
+  
+  // Check if we have cached response
+  const cachedResponse = await cache.match(cacheKey);
+  
+  if (cachedResponse) {
+    const cachedData = await cachedResponse.json();
+    const cacheTime = cachedData._cacheTime || 0;
+    const now = Date.now();
+    
+    // If cache is still fresh (less than 24 hours old)
+    if (now - cacheTime < CACHE_DURATION) {
+      console.log('🎯 Serving from API cache:', cacheKey);
+      
+      // Remove cache metadata before returning
+      delete cachedData._cacheTime;
+      
+      return new Response(JSON.stringify(cachedData), {
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+  }
+  
+  // Fetch from network
+  try {
+    console.log('🌐 Fetching from TMDB API:', request.url);
+    const networkResponse = await fetch(request);
+    
+    if (networkResponse.ok) {
+      const data = await networkResponse.json();
+      
+      // Add cache timestamp
+      data._cacheTime = Date.now();
+      
+      // Cache the response
+      const responseToCache = new Response(JSON.stringify(data), {
+        headers: { 'Content-Type': 'application/json' }
+      });
+      
+      cache.put(cacheKey, responseToCache.clone());
+      
+      // Remove cache metadata before returning
+      delete data._cacheTime;
+      
+      return new Response(JSON.stringify(data), {
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+    
+    return networkResponse;
+  } catch (error) {
+    console.log('❌ Network failed, trying cache:', error);
+    
+    // If network fails, return cached version even if expired
+    if (cachedResponse) {
+      const cachedData = await cachedResponse.json();
+      delete cachedData._cacheTime;
+      
+      return new Response(JSON.stringify(cachedData), {
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+    
+    throw error;
+  }
+}
+
+// Function to handle image requests with long-term caching
+async function handleImageRequest(request) {
+  const cache = await caches.open(API_CACHE_NAME);
+  
+  // Check cache first
+  const cachedResponse = await cache.match(request);
+  if (cachedResponse) {
+    return cachedResponse;
+  }
+  
+  // Fetch and cache images for long time (they rarely change)
+  try {
+    const networkResponse = await fetch(request);
+    if (networkResponse.ok) {
+      cache.put(request, networkResponse.clone());
+    }
+    return networkResponse;
+  } catch (error) {
+    // Return cached version if available
+    return cachedResponse || Promise.reject(error);
+  }
+}

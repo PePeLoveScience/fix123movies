@@ -1,1 +1,1245 @@
-const _0x4a249c=_0x37b9;function _0x33da(){const _0x587977=['&page=1','videoModal','backdrop_path','textContent','log','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>•</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>','recommendations','contentType','children','first_air_date','youtubeIframe','closeSidebarBtn','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','stringify','1392HWUxnO','name','includes','<p\x20class=\x22placeholder-message\x22>Invalid\x20content\x20type:\x20\x22','<p\x20class=\x22placeholder-message\x22>No\x20','appendChild','TV\x20shows','sci-fi-fantasy','\x20is\x20empty.</p>','<p\x20class=\x22placeholder-message\x22>Failed\x20to\x20load\x20content\x20details.\x20Please\x20check\x20your\x20internet\x20connection\x20or\x20try\x20again\x20later.</p>','https://placehold.co/250x375/1a1a1a/e0e0e0?text=No+Poster','replace','querySelector','\x20Episode','action-adventure','src','/service-worker.js','muted','\x20Season','innerHTML','YOUR_TMDB_API_KEY','horror','&with_genres=','movieListingView','https://api.themoviedb.org/3/movie/popular?api_key=','<p\x20class=\x22placeholder-message\x22>No\x20content\x20found\x20for\x20this\x20category.</p>','join','movieGrid','78084FCRaJf','Director','Removed\x20\x22','className','splice','<div\x20class=\x22loading-spinner\x22></div>','N/A','Movies','<p\x20class=\x22placeholder-message\x22>Failed\x20to\x20load\x20content.\x20Please\x20try\x20again\x20later.</p>','delete','🔍\x20Pre-loading\x20common\x20searches...','&language=en-US&sort_by=popularity.desc&page=','fetchAndCache','⚠️\x20Pre-loading\x20failed:','contains','backToMainFromListButton','dataset','block','#movieGrid,\x20#userListGrid','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>','[data-content-type=\x22','tagline','genres','Content\x20details\x20not\x20found:','person','favoritesButton','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','tagName','movie','[data-genre-key=\x22popular\x22]','\x20found\x20matching\x20your\x20search.</p>','18RhOYvj','⚠️\x20Failed\x20to\x20cache\x20search:\x20','display','3f4dc5c95e4960eccb2470cab896fc5c','type','Directed\x20By:','Search\x20Results\x20for\x20\x22','created_by','keys','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-action-buttons\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22detail-action-button\x20','all','toLowerCase','media_type','TMDB\x20API\x20Key\x20is\x20missing\x20or\x20invalid.','https://api.themoviedb.org/3/search/multi?api_key=','.genre-list-nested','spider','https://api.themoviedb.org/3/discover/movie?api_key=','\x22\x20to\x20your\x20list!','serviceWorker','Book','json','substring','All\x20','myListButton','preloadPopularContent','</strong>\x20','✅\x20Common\x20searches\x20pre-loaded','number_of_episodes','\x22\x20as\x20favorite!','flex','action','.primary-nav-item.active','target','squidgame4','<div\x20class=\x22loading-spinner\x20temp-spinner\x22></div>','<p\x20class=\x22placeholder-message\x22>TMDB\x20API\x20Key\x20is\x20missing\x20or\x20invalid.\x20Cannot\x20fetch\x20content\x20details.</p>','active','🗑️\x20API\x20cache\x20cleared','Error\x20fetching\x20','content','\x22\x20data-action=\x22favorites\x22\x20title=\x22Favorite\x22><i\x20class=\x22','release_date','style','Marked\x20\x22','click','none','Squid\x20Game:\x20USA','Unbookmarked\x20\x22','far\x20fa-bookmark','\x22\x20data-action=\x22myList\x22\x20title=\x22Add\x20to\x20List\x22><i\x20class=\x22','&query=','pause','calculateCacheSize','currentTime','Error\x20searching\x20for\x20','userListGrid','myList','closest','1834710tQXVQP','querySelectorAll','text','cast','New\x20Movies','userListTitle','&language=en-US&page=','then','length','90422wTEYhO','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','currentTarget','favorites','toFixed','startsWith','onclick','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-cast-director\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><strong>Starring:</strong>\x20','movies','overlay','slice','[data-content-type=\x22movie\x22]','.temp-spinner','movie-card','\x20for\x20','unknown','vote_average','toUpperCase','getItem','caches','multi','location','filter','fas\x20fa-list','567LXUrzV','avengers','https://api.themoviedb.org/3/discover/tv?api_key=','.primary-nav-item','innerWidth','Untitled','preloadCommonSearches','&append_to_response=credits,videos,recommendations','charAt','Bookmarks','hamburgerMenu','popular','open','div','overview','StreamHub-api-cache-v1','Created\x20By:','poster_path','In\x20neon‑lit\x20Los\x20Angeles,\x20desperate\x20strangers\x20are\x20drawn\x20into\x20deadly\x20childhood\x20games\x20where\x20every\x20move\x20could\x20be\x20their\x20last.','detailYouMayAlsoLikeGrid','star\x20wars','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','movie/demonslayer.mp4','<p\x20class=\x22placeholder-message\x22>TMDB\x20API\x20Key\x20is\x20missing\x20or\x20invalid.\x20Cannot\x20perform\x20search.\x20Please\x20refer\x20to\x20instructions.</p>','war-politics','Service\x20Worker\x20registered:','addEventListener','<p\x20class=\x22placeholder-message\x22>TMDB\x20API\x20Key\x20is\x20missing\x20or\x20invalid.\x20Please\x20get\x20one\x20from\x20<a\x20href=\x22https://www.themoviedb.org/signup\x22\x20target=\x22_blank\x22>https://www.themoviedb.org/signup</a>\x20and\x20update\x20the\x20code.</p>','&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=','.detail-content-wrapper','PG-13','trailerModal','\x20<!--\x20Insert\x20season\x20and\x20episode\x20info\x20here\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22detail-plot\x22>','11809SzJpPN','My\x20List','bookmarksButton','setItem','contentId','title','</span></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>•\x20','<p\x20class=\x22placeholder-message\x22>Could\x20not\x20load\x20items\x20from\x20your\x20list.\x20Some\x20items\x20might\x20be\x20invalid\x20or\x20have\x20been\x20removed\x20from\x20TMDB.</p>','https://placehold.co/180x270/1a1a1a/e0e0e0?text=No+Poster','\x22\x20data-action=\x22bookmarks\x22\x20title=\x22Bookmark\x22><i\x20class=\x22','backToListButton','findIndex','<span>Book</span>','\x20Poster\x22\x20onerror=\x22this.onerror=null;this.src=\x27','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','https://api.themoviedb.org/3/tv/popular?api_key=','scope','</p>','remove','batman','primary-nav-item','fas\x20fa-bookmark','runtime','push','far\x20fa-heart','local_content','movieGenreList','2025-07-23','match','isArray','job','Added\x20\x22','.</p>','credits','</span>','Bookmarked\x20\x22','catch','total_pages','.detail-action-button','values','confirmationMessage','value','<span>•\x20','img/squidgame4.jpg','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','Unmarked\x20\x22','url(\x27','Family','play-trailer-button','https://image.tmdb.org/t/p/w500','map','\x22.</p>','🚀\x20Pre-loading\x20popular\x20content...','show','<p\x20class=\x22tagline\x22>','trim','genreKey','fas\x20fa-heart','split','bookmarks','parse','play','episode_run_time','thriller','Service\x20Worker\x20registration\x20failed:','<p\x20class=\x22placeholder-message\x22>No\x20recommendations\x20found\x20for\x20this\x20','results','sidebar','Action\x20&\x20Adventure\x20TV\x20Shows','getElementById','https://api.themoviedb.org/3/search/tv?api_key=','<button\x20class=\x22detail-action-button\x20play-trailer-button\x22><i\x20class=\x22fas\x20fa-play\x22></i>\x20Watch</button>','?api_key=','&include_adult=false','forEach','1441962xpSmwL','error','Drama','250840eiWIkr','\x27;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>','closeVideoModal','\x22\x20from\x20your\x20list!','.movie-card','upcoming','https://api.themoviedb.org/3/search/movie?api_key=','userListPage','\x22></i></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22detail-action-button\x20','some','</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22rating-year\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>•\x20','\x20content\x20with\x20query\x20\x22','toggle','scrollTo','backgroundImage','comedy','\x22\x20alt=\x22','movie/fantastic4.mp4','mainNavList','load','loadMoreButton','movieDetailView','\x20details\x20for\x20ID\x20','Favorites','Plot\x20summary\x20not\x20available.','movie/squidgame4.mp4','add','crew','824wyxCBF','createElement','insertAdjacentHTML','marvel','classList','round','\x20Poster\x22\x20class=\x22detail-poster\x22\x20onerror=\x22this.onerror=null;this.src=\x27'];_0x33da=function(){return _0x587977;};return _0x33da();}(function(_0x53dfb6,_0x310d74){const _0x494110=_0x37b9,_0x1ab38c=_0x53dfb6();while(!![]){try{const _0x307bc3=parseInt(_0x494110(0x206))/0x1+-parseInt(_0x494110(0x1a3))/0x2+parseInt(_0x494110(0x21e))/0x3*(parseInt(_0x494110(0x187))/0x4)+parseInt(_0x494110(0x28d))/0x5*(-parseInt(_0x494110(0x1c2))/0x6)+-parseInt(_0x494110(0x23f))/0x7*(parseInt(_0x494110(0x172))/0x8)+parseInt(_0x494110(0x28a))/0x9+parseInt(_0x494110(0x1fd))/0xa;if(_0x307bc3===_0x310d74)break;else _0x1ab38c['push'](_0x1ab38c['shift']());}catch(_0x5d416f){_0x1ab38c['push'](_0x1ab38c['shift']());}}}(_0x33da,0x21580));_0x4a249c(0x1d5)in navigator&&window[_0x4a249c(0x238)](_0x4a249c(0x169),()=>{const _0x48e53b=_0x4a249c;navigator[_0x48e53b(0x1d5)]['register'](_0x48e53b(0x197))[_0x48e53b(0x204)](_0x1d1997=>{const _0x1e1f84=_0x48e53b;console[_0x1e1f84(0x17d)](_0x1e1f84(0x237),_0x1d1997[_0x1e1f84(0x24f)]);})[_0x48e53b(0x263)](_0x58fb4b=>{const _0x2e2437=_0x48e53b;console[_0x2e2437(0x17d)](_0x2e2437(0x27f),_0x58fb4b);});});function _0x37b9(_0x5b179f,_0x38d8b7){const _0x33dac4=_0x33da();return _0x37b9=function(_0x37b92e,_0x1382bf){_0x37b92e=_0x37b92e-0x169;let _0x1ef0ab=_0x33dac4[_0x37b92e];return _0x1ef0ab;},_0x37b9(_0x5b179f,_0x38d8b7);}const TMDB_API_KEY=_0x4a249c(0x1c5),CacheManager={async 'preloadPopularContent'(){const _0x508aa4=_0x4a249c;console[_0x508aa4(0x17d)](_0x508aa4(0x273));try{await Promise[_0x508aa4(0x1cc)]([this[_0x508aa4(0x1af)](_0x508aa4(0x1bf),_0x508aa4(0x229),0x1),this[_0x508aa4(0x1af)]('tv',_0x508aa4(0x229),0x1),this[_0x508aa4(0x1af)](_0x508aa4(0x1bf),_0x508aa4(0x229),0x2),this[_0x508aa4(0x1af)]('tv',_0x508aa4(0x229),0x2)]),console['log']('✅\x20Popular\x20content\x20pre-loaded');}catch(_0x199989){console[_0x508aa4(0x17d)](_0x508aa4(0x1b0),_0x199989);}},async 'fetchAndCache'(_0x5d3903,_0x207ce9,_0x5716d0=0x1){const _0x3095df=_0x4a249c;let _0x5e9ff9;if(_0x5d3903===_0x3095df(0x1bf)){if(_0x207ce9===_0x3095df(0x229))_0x5e9ff9='https://api.themoviedb.org/3/movie/popular?api_key='+TMDB_API_KEY+_0x3095df(0x203)+_0x5716d0;else TMDB_MOVIE_GENRES[_0x207ce9]&&(_0x5e9ff9=_0x3095df(0x1d3)+TMDB_API_KEY+_0x3095df(0x1ae)+_0x5716d0+'&with_genres='+TMDB_MOVIE_GENRES[_0x207ce9]);}else{if(_0x5d3903==='tv'){if(_0x207ce9==='popular')_0x5e9ff9=_0x3095df(0x24e)+TMDB_API_KEY+'&language=en-US&page='+_0x5716d0;else TMDB_TV_GENRES[_0x207ce9]&&(_0x5e9ff9=_0x3095df(0x220)+TMDB_API_KEY+'&language=en-US&sort_by=popularity.desc&page='+_0x5716d0+'&with_genres='+TMDB_TV_GENRES[_0x207ce9]);}}if(_0x5e9ff9){const _0x1ed177=await fetch(_0x5e9ff9);return await _0x1ed177[_0x3095df(0x1d7)]();}},async 'preloadCommonSearches'(){const _0x4dfdb6=_0x4a249c,_0x387fde=[_0x4dfdb6(0x252),_0x4dfdb6(0x1d2),_0x4dfdb6(0x21f),_0x4dfdb6(0x232),_0x4dfdb6(0x175),'disney',_0x4dfdb6(0x19c),_0x4dfdb6(0x29d),_0x4dfdb6(0x1e1),_0x4dfdb6(0x27e)];console[_0x4dfdb6(0x17d)](_0x4dfdb6(0x1ad));for(const _0x541ea6 of _0x387fde){try{await this['cacheSearchTerm'](_0x541ea6),await new Promise(_0x459745=>setTimeout(_0x459745,0x64));}catch(_0x35540e){console[_0x4dfdb6(0x17d)](_0x4dfdb6(0x1c3)+_0x541ea6,_0x35540e);}}console[_0x4dfdb6(0x17d)](_0x4dfdb6(0x1dd));},async 'cacheSearchTerm'(_0x8b21e){const _0x2f06be=_0x4a249c,_0x2fad86=['https://api.themoviedb.org/3/search/movie?api_key='+TMDB_API_KEY+_0x2f06be(0x1f5)+encodeURIComponent(_0x8b21e)+_0x2f06be(0x179),_0x2f06be(0x285)+TMDB_API_KEY+_0x2f06be(0x1f5)+encodeURIComponent(_0x8b21e)+_0x2f06be(0x179),_0x2f06be(0x1d0)+TMDB_API_KEY+_0x2f06be(0x1f5)+encodeURIComponent(_0x8b21e)+_0x2f06be(0x179)],_0x34d718=_0x2fad86[_0x2f06be(0x271)](_0x2dcbcd=>fetch(_0x2dcbcd));await Promise[_0x2f06be(0x1cc)](_0x34d718);},async 'getCacheStats'(){const _0x26a3e0=_0x4a249c;if(_0x26a3e0(0x219)in window){const _0x527d12=await caches[_0x26a3e0(0x22a)]('StreamHub-api-cache-v1'),_0x4f20ed=await _0x527d12[_0x26a3e0(0x1ca)]();return{'cachedRequests':_0x4f20ed[_0x26a3e0(0x205)],'cacheSize':await this[_0x26a3e0(0x1f7)](_0x527d12)};}return{'cachedRequests':0x0,'cacheSize':0x0};},async 'calculateCacheSize'(_0x51e031){const _0x455f7f=_0x4a249c,_0x2dff16=await _0x51e031[_0x455f7f(0x1ca)]();let _0x3c9b5e=0x0;for(const _0xa97016 of _0x2dff16[_0x455f7f(0x210)](0x0,0xa)){try{const _0x3a6a8b=await _0x51e031[_0x455f7f(0x25b)](_0xa97016);if(_0x3a6a8b){const _0x561a45=await _0x3a6a8b[_0x455f7f(0x1ff)]();_0x3c9b5e+=_0x561a45['length'];}}catch(_0x3529c4){}}return Math[_0x455f7f(0x177)](_0x3c9b5e*_0x2dff16[_0x455f7f(0x205)]/0xa/0x400);},async 'clearApiCache'(){const _0x5df586=_0x4a249c;_0x5df586(0x219)in window&&(await caches[_0x5df586(0x1ac)](_0x5df586(0x22d)),console[_0x5df586(0x17d)](_0x5df586(0x1e8)));}};document[_0x4a249c(0x238)]('DOMContentLoaded',()=>{const _0x337a97=_0x4a249c,_0x146ede=document[_0x337a97(0x284)]('searchInput'),_0x151672=document[_0x337a97(0x284)](_0x337a97(0x2a0)),_0x50df0c=document['getElementById'](_0x337a97(0x259)),_0x38fa6d=document['getElementById']('tvGenreList'),_0x3d5706=document['getElementById'](_0x337a97(0x1a2)),_0x140c4=document['getElementById']('sectionTitle'),_0x570e6c=document[_0x337a97(0x284)](_0x337a97(0x19e)),_0xea2dce=document[_0x337a97(0x284)](_0x337a97(0x16b)),_0x161303=document[_0x337a97(0x284)](_0x337a97(0x294)),_0x39e7a0=document[_0x337a97(0x284)](_0x337a97(0x1fa)),_0x128e00=document[_0x337a97(0x284)](_0x337a97(0x202)),_0x16cb75=document[_0x337a97(0x284)](_0x337a97(0x249)),_0x399751=document['getElementById'](_0x337a97(0x1b2)),_0xd80a3f=_0xea2dce[_0x337a97(0x193)](_0x337a97(0x23b)),_0x44f630=document[_0x337a97(0x284)](_0x337a97(0x16a)),_0x38c7cd=document[_0x337a97(0x284)](_0x337a97(0x267)),_0x5de1cf=document['getElementById'](_0x337a97(0x1da)),_0x16e41f=document[_0x337a97(0x284)](_0x337a97(0x1bc)),_0x25188c=document[_0x337a97(0x284)](_0x337a97(0x241)),_0x3246d2=document['getElementById'](_0x337a97(0x23d)),_0x55f072=document[_0x337a97(0x284)](_0x337a97(0x183)),_0x331edc=document[_0x337a97(0x284)]('closeTrailerModalButton'),_0x41bdda=document[_0x337a97(0x284)](_0x337a97(0x282)),_0x2de45b=document[_0x337a97(0x284)](_0x337a97(0x228)),_0x28c19e=document['getElementById'](_0x337a97(0x184)),_0x1c5bf5=document[_0x337a97(0x284)](_0x337a97(0x20f)),_0x288c2d=_0x337a97(0x270),_0x574296='https://www.themoviedb.org/t/p/w1280',_0xfa1fe8=_0x337a97(0x247),_0x77de8b=_0x337a97(0x191),_0x239cc3={'action':0x1c,'adventure':0xc,'animation':0x10,'comedy':0x23,'crime':0x50,'documentary':0x63,'drama':0x12,'family':0x29ff,'fantasy':0xe,'history':0x24,'horror':0x1b,'music':0x28a2,'mystery':0x25b0,'romance':0x29fd,'sci-fi':0x36e,'thriller':0x35,'war':0x2a00,'western':0x25,'upcoming':_0x337a97(0x292)},_0xcaa60d={'action-adventure':0x2a07,'animation':0x10,'comedy':0x23,'crime':0x50,'documentary':0x63,'drama':0x12,'family':0x29ff,'kids':0x2a0a,'mystery':0x25b0,'news':0x2a0b,'reality':0x2a0c,'sci-fi-fantasy':0x2a0d,'soap':0x2a0e,'talk':0x2a0f,'war-politics':0x2a10,'western':0x25,'popular':_0x337a97(0x229)},_0x2441e7={'upcoming':[{'id':_0x337a97(0x1e4),'type':_0x337a97(0x1bf),'media_type':_0x337a97(0x1bf),'title':_0x337a97(0x1f1),'overview':_0x337a97(0x230),'release_date':_0x337a97(0x25a),'vote_average':8.5,'poster_path':_0x337a97(0x26a),'backdrop_path':'img/squidgame4.jpg','genres':[{'id':0x1,'name':_0x337a97(0x28c)},{'id':0x2,'name':_0x337a97(0x26e)}],'runtime':0x5f}]},_0xa74fbd={'617126':_0x337a97(0x29f),'squidgame4':_0x337a97(0x16f),'1311031':_0x337a97(0x234)};let _0x16dbb3=_0x337a97(0x1bf),_0x44a142='upcoming',_0x41264a=0x1,_0x673288='';function _0xfe055a(_0x4fc576){const _0x170fc5=_0x337a97;try{const _0x5bc06a=JSON[_0x170fc5(0x27b)](localStorage[_0x170fc5(0x218)](_0x4fc576));return Array[_0x170fc5(0x25c)](_0x5bc06a)?_0x5bc06a:[];}catch(_0x2b5cb2){return console['error']('Error\x20parsing\x20localStorage\x20key\x20\x22'+_0x4fc576+'\x22:',_0x2b5cb2),[];}}function _0x5cbc21(_0x57c1a3,_0x81f93e){const _0x16e87a=_0x337a97;localStorage[_0x16e87a(0x242)](_0x57c1a3,JSON[_0x16e87a(0x186)](_0x81f93e));}function _0x730675(_0x13f8c3,_0x238690,_0x13b41e){const _0x5e586b=_0x337a97;let _0x1218b1=_0xfe055a(_0x13f8c3);const _0x10e078=_0x1218b1[_0x5e586b(0x24a)](_0x422fff=>_0x422fff['id']===_0x238690&&_0x422fff[_0x5e586b(0x1c6)]===_0x13b41e);return _0x10e078>-0x1?(_0x1218b1[_0x5e586b(0x1a7)](_0x10e078,0x1),_0x5cbc21(_0x13f8c3,_0x1218b1),![]):(_0x1218b1[_0x5e586b(0x256)]({'id':_0x238690,'type':_0x13b41e}),_0x5cbc21(_0x13f8c3,_0x1218b1),!![]);}function _0x24eb17(){const _0xa9dfc7=_0x337a97;_0x570e6c[_0xa9dfc7(0x1ed)][_0xa9dfc7(0x1c4)]=_0xa9dfc7(0x1f0),_0xea2dce['style'][_0xa9dfc7(0x1c4)]='none',_0x161303[_0xa9dfc7(0x1ed)][_0xa9dfc7(0x1c4)]=_0xa9dfc7(0x1f0);}function _0x18ed05(){const _0x2dea60=_0x337a97;_0x24eb17(),_0x570e6c[_0x2dea60(0x1ed)][_0x2dea60(0x1c4)]=_0x2dea60(0x1b4),_0xea2dce['style']['backgroundImage']=_0x2dea60(0x1f0);}function _0x2c444b(){const _0x4327c7=_0x337a97;_0x24eb17(),_0xea2dce[_0x4327c7(0x1ed)][_0x4327c7(0x1c4)]='block',window[_0x4327c7(0x29b)](0x0,0x0);}async function _0x15d8a9(_0x377535,_0x9cdbe6){const _0x1f4127=_0x337a97;_0x24eb17(),_0x161303['style']['display']=_0x1f4127(0x1e0),_0x128e00['textContent']=_0x9cdbe6,_0x39e7a0[_0x1f4127(0x19a)]='';const _0x2e94ff=_0xfe055a(_0x377535);if(_0x2e94ff['length']===0x0){_0x39e7a0[_0x1f4127(0x19a)]='<p\x20class=\x22placeholder-message\x22>Your\x20'+_0x9cdbe6['toLowerCase']()+_0x1f4127(0x18f);return;}_0x39e7a0[_0x1f4127(0x19a)]=_0x1f4127(0x1a8);const _0x434090=_0x2e94ff[_0x1f4127(0x271)](_0xff5368=>_0xba8c92(_0xff5368['id'],_0xff5368[_0x1f4127(0x1c6)])),_0xdcb1c4=(await Promise[_0x1f4127(0x1cc)](_0x434090))[_0x1f4127(0x21c)](_0x2d22f0=>_0x2d22f0!==null);_0xdcb1c4['length']>0x0?(_0x39e7a0['innerHTML']='',_0x47907e(_0xdcb1c4,null,_0x39e7a0)):_0x39e7a0[_0x1f4127(0x19a)]=_0x1f4127(0x246);}function _0x3a41a2(_0x22c2c6){const _0x2bd813=_0x337a97;_0x38c7cd[_0x2bd813(0x17c)]=_0x22c2c6,_0x38c7cd[_0x2bd813(0x176)]['add'](_0x2bd813(0x274)),setTimeout(()=>{const _0x53538e=_0x2bd813;_0x38c7cd['classList'][_0x53538e(0x251)](_0x53538e(0x274));},0x7d0);}function _0x3713e8(_0x46c827){console['log'](_0x46c827['id']);if(_0xa74fbd[_0x46c827['id']])return _0xa74fbd[_0x46c827['id']];return'movie/movie.mp4';}_0x16cb75[_0x337a97(0x238)](_0x337a97(0x1ef),()=>{_0x18ed05();}),_0x399751[_0x337a97(0x238)](_0x337a97(0x1ef),()=>{_0x18ed05();}),_0x5de1cf[_0x337a97(0x238)](_0x337a97(0x1ef),()=>_0x15d8a9(_0x337a97(0x1fb),_0x337a97(0x240))),_0x16e41f['addEventListener'](_0x337a97(0x1ef),()=>_0x15d8a9(_0x337a97(0x209),_0x337a97(0x16d))),_0x25188c[_0x337a97(0x238)]('click',()=>_0x15d8a9(_0x337a97(0x27a),_0x337a97(0x227))),_0x2de45b[_0x337a97(0x238)]('click',()=>{const _0x43074d=_0x337a97;_0x41bdda[_0x43074d(0x176)]['add'](_0x43074d(0x22a)),_0x1c5bf5[_0x43074d(0x176)][_0x43074d(0x170)](_0x43074d(0x1e7));}),_0x28c19e[_0x337a97(0x238)](_0x337a97(0x1ef),()=>{const _0x1c0642=_0x337a97;_0x41bdda[_0x1c0642(0x176)][_0x1c0642(0x251)](_0x1c0642(0x22a)),_0x1c5bf5['classList'][_0x1c0642(0x251)](_0x1c0642(0x1e7));}),_0x1c5bf5[_0x337a97(0x238)](_0x337a97(0x1ef),()=>{const _0x10ca1b=_0x337a97;_0x41bdda[_0x10ca1b(0x176)][_0x10ca1b(0x251)](_0x10ca1b(0x22a)),_0x1c5bf5[_0x10ca1b(0x176)][_0x10ca1b(0x251)]('active');}),_0x151672[_0x337a97(0x238)](_0x337a97(0x1ef),async _0x1a1897=>{const _0x4ea8ce=_0x337a97,_0x2e7a17=_0x1a1897[_0x4ea8ce(0x1e3)];let _0x4fd682=_0x4ea8ce(0x229);window[_0x4ea8ce(0x222)]<=0x300&&(_0x41bdda[_0x4ea8ce(0x176)][_0x4ea8ce(0x251)](_0x4ea8ce(0x22a)),_0x1c5bf5[_0x4ea8ce(0x176)][_0x4ea8ce(0x251)](_0x4ea8ce(0x1e7)));if(_0x2e7a17[_0x4ea8ce(0x176)][_0x4ea8ce(0x1b1)](_0x4ea8ce(0x253))){const _0x410eb8=_0x2e7a17[_0x4ea8ce(0x1b3)][_0x4ea8ce(0x180)];_0x151672[_0x4ea8ce(0x1fe)](_0x4ea8ce(0x221))['forEach'](_0x4f8723=>_0x4f8723[_0x4ea8ce(0x176)]['remove'](_0x4ea8ce(0x1e7))),_0x50df0c[_0x4ea8ce(0x1fe)]('li')['forEach'](_0x5c39e8=>_0x5c39e8[_0x4ea8ce(0x176)][_0x4ea8ce(0x251)](_0x4ea8ce(0x1e7))),_0x38fa6d[_0x4ea8ce(0x1fe)]('li')[_0x4ea8ce(0x289)](_0x2b3e90=>_0x2b3e90[_0x4ea8ce(0x176)]['remove'](_0x4ea8ce(0x1e7))),_0x2e7a17[_0x4ea8ce(0x176)]['add'](_0x4ea8ce(0x1e7));if(_0x410eb8===_0x4ea8ce(0x1bf)){_0x50df0c[_0x4ea8ce(0x1ed)]['display']=_0x4ea8ce(0x1b4),_0x38fa6d[_0x4ea8ce(0x1ed)][_0x4ea8ce(0x1c4)]='none';const _0x3e9451=_0x50df0c['querySelector']('[data-genre-key=\x22popular\x22]');_0x3e9451&&_0x3e9451[_0x4ea8ce(0x176)][_0x4ea8ce(0x170)](_0x4ea8ce(0x1e7));}else{if(_0x410eb8==='tv'){_0x50df0c['style']['display']=_0x4ea8ce(0x1f0),_0x38fa6d[_0x4ea8ce(0x1ed)][_0x4ea8ce(0x1c4)]=_0x4ea8ce(0x1b4);const _0x50b1dc=_0x38fa6d['querySelector'](_0x4ea8ce(0x1c0));_0x50b1dc&&_0x50b1dc[_0x4ea8ce(0x176)][_0x4ea8ce(0x170)](_0x4ea8ce(0x1e7));}}_0x16dbb3=_0x410eb8,_0x44a142=_0x4fd682,_0x673288='',_0x41264a=0x1,_0x146ede[_0x4ea8ce(0x268)]='',_0x140c4[_0x4ea8ce(0x17c)]=_0x455268(_0x16dbb3,_0x44a142),await _0x36814a(_0x16dbb3,_0x44a142,_0x3d5706,!![]),_0x18ed05();}else{if(_0x2e7a17[_0x4ea8ce(0x1be)]==='LI'&&_0x2e7a17[_0x4ea8ce(0x1fc)](_0x4ea8ce(0x1d1))){const _0x2a5266=_0x2e7a17[_0x4ea8ce(0x1fc)]('ul'),_0x5a50c5=_0x2a5266['id']==='movieGenreList'?_0x4ea8ce(0x1bf):'tv',_0x24a01b=_0x151672[_0x4ea8ce(0x193)](_0x4ea8ce(0x1b7)+_0x5a50c5+'\x22]');_0x24a01b&&!_0x24a01b[_0x4ea8ce(0x176)]['contains'](_0x4ea8ce(0x1e7))&&(_0x151672[_0x4ea8ce(0x1fe)]('.primary-nav-item')['forEach'](_0x51c32e=>_0x51c32e['classList'][_0x4ea8ce(0x251)](_0x4ea8ce(0x1e7))),_0x24a01b[_0x4ea8ce(0x176)]['add'](_0x4ea8ce(0x1e7))),_0x50df0c[_0x4ea8ce(0x1fe)]('li')[_0x4ea8ce(0x289)](_0x302a84=>_0x302a84['classList'][_0x4ea8ce(0x251)](_0x4ea8ce(0x1e7))),_0x38fa6d[_0x4ea8ce(0x1fe)]('li')['forEach'](_0x4734ed=>_0x4734ed[_0x4ea8ce(0x176)][_0x4ea8ce(0x251)](_0x4ea8ce(0x1e7))),_0x2e7a17['classList'][_0x4ea8ce(0x170)](_0x4ea8ce(0x1e7)),_0x5a50c5===_0x4ea8ce(0x1bf)?(_0x50df0c[_0x4ea8ce(0x1ed)][_0x4ea8ce(0x1c4)]=_0x4ea8ce(0x1b4),_0x38fa6d['style'][_0x4ea8ce(0x1c4)]=_0x4ea8ce(0x1f0)):(_0x50df0c[_0x4ea8ce(0x1ed)][_0x4ea8ce(0x1c4)]=_0x4ea8ce(0x1f0),_0x38fa6d[_0x4ea8ce(0x1ed)]['display']=_0x4ea8ce(0x1b4)),_0x4fd682=_0x2e7a17['dataset'][_0x4ea8ce(0x277)],_0x16dbb3=_0x5a50c5,_0x44a142=_0x4fd682,_0x673288='',_0x41264a=0x1,_0x146ede['value']='',_0x140c4[_0x4ea8ce(0x17c)]=_0x455268(_0x16dbb3,_0x44a142),await _0x36814a(_0x16dbb3,_0x44a142,_0x3d5706,!![]),_0x18ed05();}}});let _0x3565c;_0x146ede[_0x337a97(0x238)]('keyup',()=>{clearTimeout(_0x3565c),_0x3565c=setTimeout(async()=>{const _0x4a0e40=_0x37b9,_0x1fab32=_0x146ede[_0x4a0e40(0x268)][_0x4a0e40(0x276)]();if(_0x1fab32){_0x151672[_0x4a0e40(0x1fe)]('.primary-nav-item')['forEach'](_0x108066=>_0x108066[_0x4a0e40(0x176)][_0x4a0e40(0x251)](_0x4a0e40(0x1e7))),_0x50df0c[_0x4a0e40(0x1fe)]('li')[_0x4a0e40(0x289)](_0x4763d2=>_0x4763d2[_0x4a0e40(0x176)][_0x4a0e40(0x251)](_0x4a0e40(0x1e7))),_0x38fa6d[_0x4a0e40(0x1fe)]('li')[_0x4a0e40(0x289)](_0x2e1ebc=>_0x2e1ebc[_0x4a0e40(0x176)][_0x4a0e40(0x251)](_0x4a0e40(0x1e7))),_0x50df0c[_0x4a0e40(0x1ed)][_0x4a0e40(0x1c4)]=_0x4a0e40(0x1f0),_0x38fa6d['style'][_0x4a0e40(0x1c4)]=_0x4a0e40(0x1f0),_0x673288=_0x1fab32,_0x41264a=0x1,_0x140c4[_0x4a0e40(0x17c)]=_0x4a0e40(0x1c8)+_0x1fab32+'\x22';const _0x37e7c4=_0x16dbb3||_0x4a0e40(0x21a);await _0x441c9f(_0x1fab32,_0x3d5706,!![],_0x37e7c4),_0x18ed05();}else{const _0x590f35=_0x151672[_0x4a0e40(0x193)](_0x4a0e40(0x1e2));if(_0x590f35){_0x16dbb3=_0x590f35['dataset'][_0x4a0e40(0x180)];if(_0x16dbb3===_0x4a0e40(0x1bf)){const _0x52ec9c=_0x50df0c[_0x4a0e40(0x193)](_0x4a0e40(0x1c0));_0x52ec9c&&(_0x50df0c[_0x4a0e40(0x1fe)]('li')[_0x4a0e40(0x289)](_0x1e7fb9=>_0x1e7fb9[_0x4a0e40(0x176)][_0x4a0e40(0x251)](_0x4a0e40(0x1e7))),_0x52ec9c[_0x4a0e40(0x176)][_0x4a0e40(0x170)]('active')),_0x50df0c[_0x4a0e40(0x1ed)][_0x4a0e40(0x1c4)]=_0x4a0e40(0x1b4),_0x38fa6d[_0x4a0e40(0x1ed)]['display']=_0x4a0e40(0x1f0),_0x44a142=_0x4a0e40(0x229);}else{const _0x184ca0=_0x38fa6d['querySelector'](_0x4a0e40(0x1c0));_0x184ca0&&(_0x38fa6d[_0x4a0e40(0x1fe)]('li')[_0x4a0e40(0x289)](_0x3bc10a=>_0x3bc10a[_0x4a0e40(0x176)][_0x4a0e40(0x251)](_0x4a0e40(0x1e7))),_0x184ca0[_0x4a0e40(0x176)][_0x4a0e40(0x170)](_0x4a0e40(0x1e7))),_0x50df0c[_0x4a0e40(0x1ed)][_0x4a0e40(0x1c4)]=_0x4a0e40(0x1f0),_0x38fa6d[_0x4a0e40(0x1ed)]['display']=_0x4a0e40(0x1b4),_0x44a142=_0x4a0e40(0x229);}}else _0x16dbb3=_0x4a0e40(0x1bf),_0x44a142=_0x4a0e40(0x229),_0x151672[_0x4a0e40(0x193)](_0x4a0e40(0x211))[_0x4a0e40(0x176)][_0x4a0e40(0x170)](_0x4a0e40(0x1e7)),_0x50df0c[_0x4a0e40(0x193)]('[data-genre-key=\x22popular\x22]')['classList']['add'](_0x4a0e40(0x1e7)),_0x50df0c[_0x4a0e40(0x1ed)]['display']=_0x4a0e40(0x1b4),_0x38fa6d['style'][_0x4a0e40(0x1c4)]='none';_0x673288='',_0x41264a=0x1,_0x140c4['textContent']=_0x455268(_0x16dbb3,_0x44a142),await _0x36814a(_0x16dbb3,_0x44a142,_0x3d5706,!![]),_0x18ed05();}},0x1f4);}),_0x44f630[_0x337a97(0x238)]('click',async()=>{_0x41264a++;if(_0x673288){const _0x11b012=_0x16dbb3||'multi';await _0x441c9f(_0x673288,_0x3d5706,![],_0x11b012);}else await _0x36814a(_0x16dbb3,_0x44a142,_0x3d5706,![]);}),document['querySelectorAll'](_0x337a97(0x1b5))[_0x337a97(0x289)](_0x3a5532=>{const _0x15abaa=_0x337a97;_0x3a5532[_0x15abaa(0x238)](_0x15abaa(0x1ef),async _0x21ded1=>{const _0x56236a=_0x15abaa,_0x14dfc9=_0x21ded1['target']['closest']('.movie-card');if(_0x14dfc9&&_0x14dfc9[_0x56236a(0x1b3)][_0x56236a(0x243)]&&_0x14dfc9[_0x56236a(0x1b3)][_0x56236a(0x180)]){const _0x899477=_0x14dfc9[_0x56236a(0x1b3)][_0x56236a(0x243)],_0x5253a8=_0x14dfc9[_0x56236a(0x1b3)][_0x56236a(0x180)];await _0x48910c(_0x899477,_0x5253a8);}});});async function _0x36814a(_0x3a9234,_0x3da416,_0x591dc6,_0x3bdd8a=!![]){const _0x4b4f67=_0x337a97;_0x3bdd8a?(_0x591dc6[_0x4b4f67(0x19a)]=_0x4b4f67(0x1a8),_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0)):_0x591dc6[_0x4b4f67(0x174)]('beforeend','<div\x20class=\x22loading-spinner\x20temp-spinner\x22></div>');if(!TMDB_API_KEY||TMDB_API_KEY==='YOUR_TMDB_API_KEY'){_0x591dc6['innerHTML']=_0x4b4f67(0x239),_0x44f630[_0x4b4f67(0x1ed)]['display']='none';return;}let _0x547764,_0x42936b={},_0x147d30=_0x3da416;if(_0x3da416 in _0x2441e7){if(_0x3da416===_0x4b4f67(0x292)&&_0x3a9234==='movie'){_0x3bdd8a&&(_0x591dc6['innerHTML']='',_0x453f7c(_0x2441e7[_0x3da416],_0x591dc6,![]));_0x547764='https://api.themoviedb.org/3/movie/upcoming?api_key='+TMDB_API_KEY+'&language=en-US&page='+_0x41264a;try{const _0x4eb92a=await fetch(_0x547764),_0x346119=await _0x4eb92a['json']();document['querySelector'](_0x4b4f67(0x212))&&document[_0x4b4f67(0x193)]('.temp-spinner')[_0x4b4f67(0x251)](),_0x346119[_0x4b4f67(0x281)]&&_0x346119[_0x4b4f67(0x281)]['length']>0x0?(_0x47907e(_0x346119['results'],_0x3a9234,_0x591dc6),_0x346119['total_pages']>_0x41264a?_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1b4):_0x44f630['style']['display']=_0x4b4f67(0x1f0)):_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0);}catch(_0x3fe5ae){console[_0x4b4f67(0x28b)](_0x4b4f67(0x1e9)+_0x3a9234+_0x4b4f67(0x214)+_0x3da416+':',_0x3fe5ae),_0x591dc6[_0x4b4f67(0x181)][_0x4b4f67(0x205)]===0x0&&(_0x591dc6[_0x4b4f67(0x19a)]=_0x4b4f67(0x1ab)),_0x44f630['style'][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0);}return;}else{_0x453f7c(_0x2441e7[_0x3da416],_0x591dc6,_0x3bdd8a),_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]='none';return;}}if(_0x3a9234===_0x4b4f67(0x1bf)){_0x42936b=_0x239cc3;if(_0x3da416===_0x4b4f67(0x229))_0x547764=_0x4b4f67(0x19f)+TMDB_API_KEY+_0x4b4f67(0x203)+_0x41264a;else _0x3da416!==_0x4b4f67(0x229)&&_0x3da416!==_0x4b4f67(0x292)&&_0x42936b[_0x3da416]&&(_0x547764=_0x4b4f67(0x1d3)+TMDB_API_KEY+_0x4b4f67(0x23a)+_0x41264a+'&with_genres='+_0x42936b[_0x3da416]);}else{if(_0x3a9234==='tv')_0x42936b=_0xcaa60d,_0x547764=_0x4b4f67(0x24e)+TMDB_API_KEY+'&language=en-US&page='+_0x41264a,_0x3da416!==_0x4b4f67(0x229)&&_0x42936b[_0x3da416]&&(_0x547764=_0x4b4f67(0x220)+TMDB_API_KEY+_0x4b4f67(0x23a)+_0x41264a+_0x4b4f67(0x19d)+_0x42936b[_0x3da416]);else{_0x591dc6[_0x4b4f67(0x19a)]=_0x4b4f67(0x18a)+_0x3a9234+_0x4b4f67(0x272),_0x44f630['style'][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0);return;}}try{const _0x549e0e=await fetch(_0x547764),_0x36f62e=await _0x549e0e[_0x4b4f67(0x1d7)]();document[_0x4b4f67(0x193)](_0x4b4f67(0x212))&&document[_0x4b4f67(0x193)]('.temp-spinner')[_0x4b4f67(0x251)]();if(_0x36f62e['results']&&_0x36f62e[_0x4b4f67(0x281)][_0x4b4f67(0x205)]>0x0)_0x3bdd8a&&(_0x591dc6[_0x4b4f67(0x19a)]=''),_0x47907e(_0x36f62e[_0x4b4f67(0x281)],_0x3a9234,_0x591dc6),_0x36f62e[_0x4b4f67(0x264)]>_0x41264a?_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1b4):_0x44f630[_0x4b4f67(0x1ed)]['display']=_0x4b4f67(0x1f0);else _0x3bdd8a?(_0x591dc6[_0x4b4f67(0x19a)]=_0x4b4f67(0x18b)+(_0x3a9234===_0x4b4f67(0x1bf)?_0x4b4f67(0x20e):'TV\x20shows')+'\x20found\x20for\x20this\x20category.</p>',_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0)):_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0);}catch(_0x41f7ed){console['error'](_0x4b4f67(0x1e9)+_0x3a9234+'\x20for\x20'+_0x3da416+':',_0x41f7ed),_0x591dc6[_0x4b4f67(0x19a)]=_0x4b4f67(0x1ab),_0x44f630[_0x4b4f67(0x1ed)][_0x4b4f67(0x1c4)]=_0x4b4f67(0x1f0);}}async function _0x441c9f(_0xd6e749,_0x2f3cdd,_0x23b9c9=!![],_0x490444=_0x337a97(0x21a)){const _0x5bd2e5=_0x337a97;_0x23b9c9?(_0x2f3cdd[_0x5bd2e5(0x19a)]='<div\x20class=\x22loading-spinner\x22></div>',_0x44f630[_0x5bd2e5(0x1ed)][_0x5bd2e5(0x1c4)]='none'):_0x2f3cdd[_0x5bd2e5(0x174)]('beforeend',_0x5bd2e5(0x1e5));if(!TMDB_API_KEY||TMDB_API_KEY===_0x5bd2e5(0x19b)){_0x2f3cdd['innerHTML']=_0x5bd2e5(0x235),_0x44f630[_0x5bd2e5(0x1ed)][_0x5bd2e5(0x1c4)]=_0x5bd2e5(0x1f0);return;}const _0x8e4a8d=encodeURIComponent(_0xd6e749);let _0x16a743,_0x9a8f09=_0x490444;const _0x47f1e9=_0x5f4d3f(_0xd6e749,_0x490444);if(_0x490444===_0x5bd2e5(0x1bf))_0x16a743=_0x5bd2e5(0x293)+TMDB_API_KEY+_0x5bd2e5(0x1f5)+_0x8e4a8d+_0x5bd2e5(0x203)+_0x41264a+_0x5bd2e5(0x288);else _0x490444==='tv'?_0x16a743=_0x5bd2e5(0x285)+TMDB_API_KEY+'&query='+_0x8e4a8d+_0x5bd2e5(0x203)+_0x41264a+_0x5bd2e5(0x288):(_0x16a743=_0x5bd2e5(0x1d0)+TMDB_API_KEY+_0x5bd2e5(0x1f5)+_0x8e4a8d+_0x5bd2e5(0x203)+_0x41264a+_0x5bd2e5(0x288),_0x9a8f09=_0x5bd2e5(0x21a));try{const _0x19a2ee=await fetch(_0x16a743),_0x2ad632=await _0x19a2ee[_0x5bd2e5(0x1d7)]();document[_0x5bd2e5(0x193)](_0x5bd2e5(0x212))&&document['querySelector'](_0x5bd2e5(0x212))['remove']();let _0x4fe12f=_0x2ad632[_0x5bd2e5(0x281)]||[];_0x4fe12f=_0x4fe12f['map'](_0xd0e330=>{const _0x1d8698=_0x5bd2e5;if(!_0xd0e330[_0x1d8698(0x1ce)]){if(_0xd0e330['title']&&!_0xd0e330[_0x1d8698(0x182)])_0xd0e330[_0x1d8698(0x1ce)]='movie';else{if(_0xd0e330['name']&&!_0xd0e330[_0x1d8698(0x1ec)])_0xd0e330[_0x1d8698(0x1ce)]='tv';else _0xd0e330[_0x1d8698(0x1ce)]=_0x1d8698(0x215);}}return _0xd0e330;})[_0x5bd2e5(0x21c)](_0x3abd91=>_0x3abd91['media_type']!=='person'&&_0x3abd91[_0x5bd2e5(0x1ce)]!==_0x5bd2e5(0x215));if(_0x490444===_0x5bd2e5(0x1bf)&&_0x9a8f09===_0x5bd2e5(0x21a))_0x4fe12f=_0x4fe12f[_0x5bd2e5(0x21c)](_0x4ec75c=>_0x4ec75c[_0x5bd2e5(0x1ce)]===_0x5bd2e5(0x1bf));else _0x490444==='tv'&&_0x9a8f09===_0x5bd2e5(0x21a)&&(_0x4fe12f=_0x4fe12f[_0x5bd2e5(0x21c)](_0x54788a=>_0x54788a[_0x5bd2e5(0x1ce)]==='tv'));const _0xa31335=[..._0x47f1e9,..._0x4fe12f];if(_0xa31335['length']>0x0)_0x23b9c9&&(_0x2f3cdd['innerHTML']=''),_0x47f1e9[_0x5bd2e5(0x205)]>0x0&&_0x47907e(_0x47f1e9,_0x9a8f09,_0x2f3cdd),_0x4fe12f[_0x5bd2e5(0x205)]>0x0&&_0x47907e(_0x4fe12f,_0x9a8f09,_0x2f3cdd),_0x2ad632['total_pages']>_0x41264a?_0x44f630[_0x5bd2e5(0x1ed)][_0x5bd2e5(0x1c4)]='block':_0x44f630[_0x5bd2e5(0x1ed)][_0x5bd2e5(0x1c4)]=_0x5bd2e5(0x1f0);else _0x23b9c9?(_0x2f3cdd[_0x5bd2e5(0x19a)]=_0x5bd2e5(0x18b)+(_0x490444===_0x5bd2e5(0x1bf)?_0x5bd2e5(0x20e):_0x490444==='tv'?_0x5bd2e5(0x18d):_0x5bd2e5(0x1ea))+_0x5bd2e5(0x1c1),_0x44f630['style']['display']='none'):_0x44f630[_0x5bd2e5(0x1ed)][_0x5bd2e5(0x1c4)]='none';}catch(_0x3ab9c3){console[_0x5bd2e5(0x28b)](_0x5bd2e5(0x1f9)+_0x490444+_0x5bd2e5(0x299)+_0xd6e749+'\x22:',_0x3ab9c3),_0x2f3cdd[_0x5bd2e5(0x19a)]='<p\x20class=\x22placeholder-message\x22>Failed\x20to\x20perform\x20search.\x20Please\x20try\x20again\x20later.</p>',_0x44f630[_0x5bd2e5(0x1ed)][_0x5bd2e5(0x1c4)]=_0x5bd2e5(0x1f0);}}function _0x5f4d3f(_0x47e07f,_0x1f56d2){const _0x5a6261=_0x337a97,_0x352a64=[],_0x19ce90=_0x47e07f[_0x5a6261(0x1cd)]();return Object[_0x5a6261(0x266)](_0x2441e7)[_0x5a6261(0x289)](_0x3b6f8d=>{const _0x2bf680=_0x5a6261;_0x3b6f8d[_0x2bf680(0x289)](_0x25469b=>{const _0x5d1499=_0x2bf680;if(_0x25469b[_0x5d1499(0x1c6)]===_0x5d1499(0x1d6)&&(_0x1f56d2===_0x5d1499(0x1bf)||_0x1f56d2==='tv'))return;if(_0x25469b[_0x5d1499(0x1c6)]==='movie'&&_0x1f56d2==='tv')return;const _0x1dd7d7=_0x25469b[_0x5d1499(0x244)]||'';if(_0x1dd7d7[_0x5d1499(0x1cd)]()[_0x5d1499(0x189)](_0x19ce90)){const _0x47dedd={..._0x25469b};_0x25469b[_0x5d1499(0x1c6)]===_0x5d1499(0x1bf)&&(_0x47dedd[_0x5d1499(0x1ce)]=_0x5d1499(0x1bf)),_0x352a64[_0x5d1499(0x256)](_0x47dedd);}});}),_0x352a64;}async function _0xba8c92(_0xb35f95,_0x456ad8){const _0x264732=_0x337a97;if(!TMDB_API_KEY||TMDB_API_KEY==='YOUR_TMDB_API_KEY')return console['error'](_0x264732(0x1cf)),null;const _0x359643='https://api.themoviedb.org/3/'+_0x456ad8+'/'+_0xb35f95+'?api_key='+TMDB_API_KEY+'&language=en-US';try{const _0x3174f0=await fetch(_0x359643),_0x399172=await _0x3174f0['json']();if(_0x399172['id'])return _0x399172[_0x264732(0x1ce)]=_0x456ad8,_0x399172;return null;}catch(_0xa259d7){return console['error']('Error\x20fetching\x20'+_0x456ad8+'\x20details\x20for\x20ID\x20'+_0xb35f95+':',_0xa259d7),null;}}async function _0x48910c(_0x368eb8,_0x59b8d4){const _0x1ed099=_0x337a97;_0x2c444b(),_0xd80a3f[_0x1ed099(0x19a)]=_0x1ed099(0x1a8);let _0x52d6e8=null;for(const _0x246054 in _0x2441e7){const _0x148a28=_0x2441e7[_0x246054]['find'](_0x4d584a=>_0x4d584a['id']===_0x368eb8);if(_0x148a28){_0x52d6e8=_0x148a28;break;}}if(_0x52d6e8){_0x2b6e3c(_0x52d6e8),_0xea2dce[_0x1ed099(0x1ed)]['backgroundImage']='none';return;}if(!TMDB_API_KEY||TMDB_API_KEY==='YOUR_TMDB_API_KEY'){_0xd80a3f['innerHTML']=_0x1ed099(0x1e6),console['error']('TMDB\x20API\x20Key\x20is\x20missing\x20or\x20invalid.');return;}const _0x38a410='https://api.themoviedb.org/3/'+_0x59b8d4+'/'+_0x368eb8+_0x1ed099(0x287)+TMDB_API_KEY+_0x1ed099(0x225);try{const _0xd8c7cf=await fetch(_0x38a410),_0xd6fd93=await _0xd8c7cf['json']();_0xd6fd93['id']?(_0xd6fd93[_0x1ed099(0x1ce)]=_0x59b8d4,_0x2b6e3c(_0xd6fd93),_0xd6fd93[_0x1ed099(0x17b)]?_0xea2dce[_0x1ed099(0x1ed)][_0x1ed099(0x29c)]=_0x1ed099(0x26d)+_0x574296+_0xd6fd93[_0x1ed099(0x17b)]+'\x27)':_0xea2dce[_0x1ed099(0x1ed)][_0x1ed099(0x29c)]=_0x1ed099(0x1f0)):(_0xd80a3f[_0x1ed099(0x19a)]='<p\x20class=\x22placeholder-message\x22>Could\x20not\x20load\x20details\x20for\x20this\x20content.</p>',console[_0x1ed099(0x28b)](_0x1ed099(0x1ba),_0xd6fd93));}catch(_0x3c23f7){console[_0x1ed099(0x28b)](_0x1ed099(0x1e9)+_0x59b8d4+_0x1ed099(0x16c)+_0x368eb8+':',_0x3c23f7),_0xd80a3f[_0x1ed099(0x19a)]=_0x1ed099(0x190);}}function _0x47907e(_0x32ec80,_0x52bf4a,_0x1c0c9c){_0x32ec80['forEach'](_0x145320=>{const _0x2b4bc6=_0x37b9,_0x164c2c=_0x145320[_0x2b4bc6(0x1ce)]||_0x52bf4a;if(!_0x164c2c||_0x164c2c===_0x2b4bc6(0x1bb)||_0x164c2c===_0x2b4bc6(0x215))return;const _0x218007=_0x145320[_0x2b4bc6(0x244)]||_0x145320[_0x2b4bc6(0x188)]||_0x2b4bc6(0x223),_0x71f9bb=_0x145320[_0x2b4bc6(0x1ec)]||_0x145320[_0x2b4bc6(0x182)],_0xd75a21=_0x71f9bb?_0x71f9bb[_0x2b4bc6(0x1d8)](0x0,0x4):'N/A',_0x5ac7f6=_0x145320[_0x2b4bc6(0x216)]?_0x145320[_0x2b4bc6(0x216)]['toFixed'](0x1):'N/A',_0x3e382d=_0x145320['poster_path']?''+_0x288c2d+_0x145320[_0x2b4bc6(0x22f)]:_0xfa1fe8,_0x381e39=document[_0x2b4bc6(0x173)]('div');_0x381e39[_0x2b4bc6(0x176)]['add'](_0x2b4bc6(0x213)),_0x381e39[_0x2b4bc6(0x1b3)][_0x2b4bc6(0x243)]=_0x145320['id'],_0x381e39[_0x2b4bc6(0x1b3)]['contentType']=_0x164c2c,_0x381e39[_0x2b4bc6(0x19a)]=_0x2b4bc6(0x233)+_0x3e382d+_0x2b4bc6(0x29e)+_0x218007+_0x2b4bc6(0x24c)+_0xfa1fe8+'\x27;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>'+_0x218007+'</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22rating-year\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fas\x20fa-star\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>'+_0x5ac7f6+_0x2b4bc6(0x17e)+_0xd75a21+_0x2b4bc6(0x207),_0x1c0c9c[_0x2b4bc6(0x18c)](_0x381e39);});}function _0x453f7c(_0x27d4a5,_0x1c3af7,_0x2c58f4=!![]){const _0x16fcf3=_0x337a97;_0x2c58f4&&(_0x1c3af7['innerHTML']='');if(_0x27d4a5[_0x16fcf3(0x205)]===0x0){_0x1c3af7[_0x16fcf3(0x19a)]=_0x16fcf3(0x1a0);return;}_0x27d4a5[_0x16fcf3(0x289)](_0x2092a7=>{const _0x3b3c61=_0x16fcf3,_0x16764f=document['createElement'](_0x3b3c61(0x22b));_0x16764f[_0x3b3c61(0x176)][_0x3b3c61(0x170)](_0x3b3c61(0x213)),_0x16764f[_0x3b3c61(0x1b3)][_0x3b3c61(0x243)]=_0x2092a7['id']||_0x3b3c61(0x258),_0x16764f[_0x3b3c61(0x1b3)]['contentType']=_0x2092a7['type']||_0x3b3c61(0x1bf);let _0x46de36,_0x49baf7,_0x544295='';if(_0x2092a7['type']==='Book')_0x46de36='https://placehold.co/180x270/1a1a1a/e0e0e0?text=Book+Cover',_0x49baf7=_0x2092a7[_0x3b3c61(0x244)],_0x544295=_0x3b3c61(0x24b);else{if(_0x2092a7[_0x3b3c61(0x1c6)]===_0x3b3c61(0x1bf)){_0x2092a7['poster_path']?_0x2092a7[_0x3b3c61(0x22f)][_0x3b3c61(0x20b)]('/')?_0x46de36=''+_0x288c2d+_0x2092a7[_0x3b3c61(0x22f)]:_0x46de36=_0x2092a7[_0x3b3c61(0x22f)]:_0x46de36=_0xfa1fe8;_0x49baf7=_0x2092a7[_0x3b3c61(0x244)];const _0x19430f=_0x2092a7[_0x3b3c61(0x1ec)]?_0x2092a7[_0x3b3c61(0x1ec)][_0x3b3c61(0x1d8)](0x0,0x4):_0x3b3c61(0x1a9),_0x225593=_0x2092a7[_0x3b3c61(0x216)]?_0x2092a7[_0x3b3c61(0x216)][_0x3b3c61(0x20a)](0x1):_0x3b3c61(0x1a9);_0x544295='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fas\x20fa-star\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>'+_0x225593+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>•</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>'+_0x19430f+_0x3b3c61(0x185);}}_0x16764f['innerHTML']=_0x3b3c61(0x24d)+_0x46de36+'\x22\x20alt=\x22'+_0x49baf7+_0x3b3c61(0x24c)+_0xfa1fe8+_0x3b3c61(0x28e)+_0x49baf7+_0x3b3c61(0x297)+_0x544295+_0x3b3c61(0x1bd),_0x1c3af7[_0x3b3c61(0x18c)](_0x16764f);});}function _0x2b6e3c(_0x5e19d3){const _0x15a550=_0x337a97,_0x2922d5=_0x5e19d3['media_type']===_0x15a550(0x1bf);let _0x30ec16;_0x5e19d3[_0x15a550(0x22f)]?_0x5e19d3[_0x15a550(0x22f)][_0x15a550(0x20b)]('/')?_0x30ec16=''+_0x288c2d+_0x5e19d3['poster_path']:_0x30ec16=_0x5e19d3['poster_path']:_0x30ec16=_0x77de8b;const _0x186c62=_0x5e19d3[_0x15a550(0x1b9)]&&_0x5e19d3[_0x15a550(0x1b9)][_0x15a550(0x205)]>0x0?_0x5e19d3[_0x15a550(0x1b9)]['map'](_0x2c375b=>_0x2c375b[_0x15a550(0x188)])[_0x15a550(0x1a1)](',\x20'):_0x15a550(0x1a9);let _0x276ef0=_0x15a550(0x1a9);if(_0x2922d5&&_0x5e19d3[_0x15a550(0x255)])_0x276ef0=_0x5e19d3[_0x15a550(0x255)]+'m';else!_0x2922d5&&_0x5e19d3[_0x15a550(0x27d)]&&_0x5e19d3[_0x15a550(0x27d)][_0x15a550(0x205)]>0x0&&(_0x276ef0=_0x5e19d3[_0x15a550(0x27d)][0x0]+'m/episode');const _0x5630ff=_0x5e19d3['release_date']?_0x5e19d3[_0x15a550(0x1ec)]['substring'](0x0,0x4):_0x5e19d3[_0x15a550(0x182)]?_0x5e19d3[_0x15a550(0x182)][_0x15a550(0x1d8)](0x0,0x4):'N/A',_0x2ad1d3=_0x5e19d3[_0x15a550(0x216)]?_0x5e19d3[_0x15a550(0x216)]['toFixed'](0x1):_0x15a550(0x1a9),_0x4d35d4=_0x5e19d3[_0x15a550(0x1b8)]?_0x15a550(0x275)+_0x5e19d3[_0x15a550(0x1b8)]+_0x15a550(0x250):'',_0x5d8319=_0x2922d5&&_0x5e19d3[_0x15a550(0x260)]&&_0x5e19d3[_0x15a550(0x260)][_0x15a550(0x171)]?_0x5e19d3[_0x15a550(0x260)]['crew'][_0x15a550(0x21c)](_0x2cc268=>_0x2cc268[_0x15a550(0x25d)]===_0x15a550(0x1a4))[_0x15a550(0x271)](_0xbed97f=>_0xbed97f['name'])[_0x15a550(0x1a1)](',\x20'):'N/A',_0x1fa4b5=!_0x2922d5&&_0x5e19d3[_0x15a550(0x1c9)]&&_0x5e19d3['created_by'][_0x15a550(0x205)]>0x0?_0x5e19d3[_0x15a550(0x1c9)]['map'](_0x56857e=>_0x56857e['name'])[_0x15a550(0x1a1)](',\x20'):'N/A',_0x4d6595=_0x5e19d3['credits']&&_0x5e19d3['credits']['cast']?_0x5e19d3[_0x15a550(0x260)][_0x15a550(0x200)][_0x15a550(0x210)](0x0,0xa)['map'](_0x56ab84=>_0x56ab84[_0x15a550(0x188)])['join'](',\x20'):'N/A',_0xc62208=_0x15a550(0x286);let _0xfd1203='';if(!_0x2922d5){const _0x3164c6=_0x5e19d3['number_of_seasons'],_0x590dae=_0x5e19d3[_0x15a550(0x1de)];_0x3164c6!==undefined&&_0x3164c6!==null&&(_0xfd1203+=_0x15a550(0x269)+_0x3164c6+_0x15a550(0x199)+(_0x3164c6===0x1?'':'s')+_0x15a550(0x261));if(_0x590dae!==undefined&&_0x590dae!==null){if(_0xfd1203)_0xfd1203+='\x20';_0xfd1203+='<span>•\x20'+_0x590dae+_0x15a550(0x194)+(_0x590dae===0x1?'':'s')+_0x15a550(0x261);}}_0xd80a3f[_0x15a550(0x19a)]=_0x15a550(0x26b)+_0x30ec16+'\x22\x20alt=\x22'+(_0x5e19d3[_0x15a550(0x244)]||_0x5e19d3['name'])+_0x15a550(0x178)+_0x77de8b+'\x27;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>'+(_0x5e19d3[_0x15a550(0x244)]||_0x5e19d3[_0x15a550(0x188)])+'</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22detail-meta\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span><i\x20class=\x22fas\x20fa-star\x22></i>\x20<span\x20class=\x22rating\x22>'+_0x2ad1d3+_0x15a550(0x245)+_0x276ef0+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>•\x20'+_0x5630ff+_0x15a550(0x298)+(_0x5e19d3['vote_average']>=0x7?_0x15a550(0x23c):'PG')+_0x15a550(0x298)+_0x186c62+'</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0xfd1203+_0x15a550(0x23e)+(_0x5e19d3[_0x15a550(0x22c)]||_0x15a550(0x16e))+_0x15a550(0x1cb)+(_0xfe055a(_0x15a550(0x1fb))[_0x15a550(0x296)](_0x1df364=>_0x1df364['id']===_0x5e19d3['id']&&_0x1df364[_0x15a550(0x1c6)]===_0x5e19d3['media_type'])?'active':'')+_0x15a550(0x1f4)+(_0xfe055a('myList')['some'](_0x986f55=>_0x986f55['id']===_0x5e19d3['id']&&_0x986f55[_0x15a550(0x1c6)]===_0x5e19d3[_0x15a550(0x1ce)])?'fas\x20fa-check':'fas\x20fa-list')+_0x15a550(0x295)+(_0xfe055a(_0x15a550(0x209))[_0x15a550(0x296)](_0x46589e=>_0x46589e['id']===_0x5e19d3['id']&&_0x46589e['type']===_0x5e19d3[_0x15a550(0x1ce)])?'active':'')+_0x15a550(0x1eb)+(_0xfe055a('favorites')[_0x15a550(0x296)](_0x3c9980=>_0x3c9980['id']===_0x5e19d3['id']&&_0x3c9980['type']===_0x5e19d3[_0x15a550(0x1ce)])?'fas\x20fa-heart':_0x15a550(0x257))+_0x15a550(0x295)+(_0xfe055a(_0x15a550(0x27a))[_0x15a550(0x296)](_0x3bc64d=>_0x3bc64d['id']===_0x5e19d3['id']&&_0x3bc64d['type']===_0x5e19d3['media_type'])?'active':'')+_0x15a550(0x248)+(_0xfe055a(_0x15a550(0x27a))['some'](_0x2491f8=>_0x2491f8['id']===_0x5e19d3['id']&&_0x2491f8['type']===_0x5e19d3[_0x15a550(0x1ce)])?_0x15a550(0x254):_0x15a550(0x1f3))+'\x22></i></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0xc62208+_0x15a550(0x20d)+_0x4d6595+_0x15a550(0x1b6)+(_0x2922d5?_0x15a550(0x1c7):_0x15a550(0x22e))+_0x15a550(0x1dc)+(_0x2922d5?_0x5d8319:_0x1fa4b5)+'</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22you-may-also-like-detail\x20movie-listing-section\x20you-may-also-like-section\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>You\x20May\x20Also\x20Like</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22detailYouMayAlsoLikeGrid\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<!--\x20Recommendations\x20for\x20this\x20specific\x20content\x20will\x20be\x20rendered\x20here\x20-->\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0xd80a3f['querySelectorAll'](_0x15a550(0x265))[_0x15a550(0x289)](_0x1ec892=>{const _0x180435=_0x15a550,_0x3439e8=_0x1ec892['dataset'][_0x180435(0x1e1)];if(_0x3439e8)_0x1ec892[_0x180435(0x238)]('click',_0x2b3765=>{const _0x345c58=_0x180435,_0x2bd0f3=_0x730675(_0x3439e8,_0x5e19d3['id'],_0x5e19d3[_0x345c58(0x1ce)]);let _0x23876f='',_0xb2291='';if(_0x3439e8===_0x345c58(0x1fb))_0x23876f=_0x2bd0f3?_0x345c58(0x25e)+(_0x5e19d3[_0x345c58(0x244)]||_0x5e19d3[_0x345c58(0x188)])+_0x345c58(0x1d4):_0x345c58(0x1a5)+(_0x5e19d3[_0x345c58(0x244)]||_0x5e19d3[_0x345c58(0x188)])+_0x345c58(0x290),_0xb2291=_0x2bd0f3?'fas\x20fa-check':_0x345c58(0x21d);else{if(_0x3439e8==='favorites')_0x23876f=_0x2bd0f3?_0x345c58(0x1ee)+(_0x5e19d3[_0x345c58(0x244)]||_0x5e19d3[_0x345c58(0x188)])+_0x345c58(0x1df):_0x345c58(0x26c)+(_0x5e19d3[_0x345c58(0x244)]||_0x5e19d3[_0x345c58(0x188)])+_0x345c58(0x1df),_0xb2291=_0x2bd0f3?_0x345c58(0x278):_0x345c58(0x257);else _0x3439e8==='bookmarks'&&(_0x23876f=_0x2bd0f3?_0x345c58(0x262)+(_0x5e19d3[_0x345c58(0x244)]||_0x5e19d3['name'])+'\x22!':_0x345c58(0x1f2)+(_0x5e19d3['title']||_0x5e19d3[_0x345c58(0x188)])+'\x22!',_0xb2291=_0x2bd0f3?_0x345c58(0x254):'far\x20fa-bookmark');}_0x2b3765[_0x345c58(0x208)][_0x345c58(0x193)]('i')[_0x345c58(0x1a6)]=_0xb2291,_0x2b3765['currentTarget'][_0x345c58(0x176)][_0x345c58(0x29a)]('active',_0x2bd0f3),_0x3a41a2(_0x23876f);});else _0x1ec892[_0x180435(0x176)][_0x180435(0x1b1)](_0x180435(0x26f))&&_0x1ec892['addEventListener'](_0x180435(0x1ef),()=>{const _0x134a1a=_0x180435,_0x3dcd62=document[_0x134a1a(0x284)](_0x134a1a(0x17a)),_0x2cb46f=document[_0x134a1a(0x284)]('movieVideo'),_0x13b4e8=document[_0x134a1a(0x284)]('videoLoader'),_0x283e2b=document[_0x134a1a(0x284)]('verifyOverlay'),_0x3c88fe=document[_0x134a1a(0x284)]('verifyButton'),_0x5d5e67=document[_0x134a1a(0x284)](_0x134a1a(0x28f));_0x2cb46f[_0x134a1a(0x196)]=_0x3713e8(_0x5e19d3),_0x2cb46f[_0x134a1a(0x1f8)]=0x0,_0x2cb46f[_0x134a1a(0x198)]=![],_0x13b4e8['style']['display']=_0x134a1a(0x1e0),_0x283e2b[_0x134a1a(0x1ed)][_0x134a1a(0x1c4)]=_0x134a1a(0x1f0),_0x3dcd62['style'][_0x134a1a(0x1c4)]=_0x134a1a(0x1e0),_0x2cb46f[_0x134a1a(0x27c)](),setTimeout(()=>{const _0x43a1a1=_0x134a1a;_0x2cb46f[_0x43a1a1(0x1f6)](),_0x13b4e8[_0x43a1a1(0x1ed)][_0x43a1a1(0x1c4)]=_0x43a1a1(0x1f0),_0x283e2b[_0x43a1a1(0x1ed)][_0x43a1a1(0x1c4)]=_0x43a1a1(0x1e0);},0x1388),_0x3c88fe[_0x134a1a(0x20c)]=()=>{const _0x41759e=_0x134a1a,_0x3a8d39=_0xd80a3f['querySelector']('.detail-info\x20h1'),_0x21aa58=_0x3a8d39?_0x3a8d39['textContent']:_0x41759e(0x215),_0x532371=_0x21aa58[_0x41759e(0x1cd)]()[_0x41759e(0x192)](/[^a-z0-9\s]/g,'')[_0x41759e(0x276)]()[_0x41759e(0x192)](/\s+/g,'-');window[_0x41759e(0x21b)]['href']='https://unlockofferwall.top/cl/i/e6gr5d?aff_sub4='+_0x532371;},_0x5d5e67['onclick']=()=>{const _0x56e2d0=_0x134a1a;_0x2cb46f[_0x56e2d0(0x1f6)](),_0x3dcd62[_0x56e2d0(0x1ed)]['display']=_0x56e2d0(0x1f0),_0x2cb46f[_0x56e2d0(0x196)]='';};});});const _0xf02e73=document[_0x15a550(0x284)](_0x15a550(0x231));if(_0x5e19d3[_0x15a550(0x17f)]&&_0x5e19d3[_0x15a550(0x17f)][_0x15a550(0x281)][_0x15a550(0x205)]>0x0){const _0x3ec54d=_0x5e19d3[_0x15a550(0x17f)]['results'][_0x15a550(0x21c)](_0x11d159=>_0x11d159[_0x15a550(0x1ce)]===_0x5e19d3['media_type']);_0x47907e(_0x3ec54d[_0x15a550(0x210)](0x0,0x8),_0x5e19d3[_0x15a550(0x1ce)],_0xf02e73),_0xf02e73[_0x15a550(0x238)](_0x15a550(0x1ef),async _0x1999e1=>{const _0x397c13=_0x15a550,_0x477280=_0x1999e1[_0x397c13(0x1e3)][_0x397c13(0x1fc)](_0x397c13(0x291));if(_0x477280&&_0x477280[_0x397c13(0x1b3)][_0x397c13(0x243)]&&_0x477280[_0x397c13(0x1b3)]['contentType']){const _0xfe9f49=_0x477280[_0x397c13(0x1b3)][_0x397c13(0x243)],_0x5ed552=_0x477280[_0x397c13(0x1b3)][_0x397c13(0x180)];await _0x48910c(_0xfe9f49,_0x5ed552);}});}else _0xf02e73[_0x15a550(0x19a)]=_0x15a550(0x280)+_0x5e19d3[_0x15a550(0x1ce)]+_0x15a550(0x25f);}function _0x455268(_0x1156f3,_0x3932be){const _0x4ef085=_0x337a97;if(_0x3932be===_0x4ef085(0x292))return _0x4ef085(0x201);const _0xc6f484=_0x3932be[_0x4ef085(0x279)]('-'),_0x41bcb6=_0xc6f484[_0x4ef085(0x271)](_0x5397b0=>_0x5397b0[_0x4ef085(0x226)](0x0)[_0x4ef085(0x217)]()+_0x5397b0['slice'](0x1));if(_0x1156f3==='tv'){if(_0x3932be===_0x4ef085(0x195))return _0x4ef085(0x283);if(_0x3932be===_0x4ef085(0x18e))return'Sci-Fi\x20&\x20Fantasy\x20TV\x20Shows';if(_0x3932be===_0x4ef085(0x236))return'War\x20&\x20Politics\x20TV\x20Shows';}return _0x4ef085(0x1d9)+_0x41bcb6[_0x4ef085(0x1a1)]('\x20')+'\x20'+(_0x1156f3===_0x4ef085(0x1bf)?_0x4ef085(0x1aa):'TV\x20Shows');}async function _0x5e84ed(){const _0x283a1d=_0x337a97;await _0x36814a(_0x283a1d(0x1bf),_0x283a1d(0x292),_0x3d5706,!![]),_0x18ed05(),_0x283a1d(0x1d5)in navigator&&'caches'in window&&(setTimeout(()=>{const _0x2a98d6=_0x283a1d;CacheManager[_0x2a98d6(0x1db)]();},0x7d0),setTimeout(()=>{const _0x3caa64=_0x283a1d;CacheManager[_0x3caa64(0x224)]();},0x2710));}_0x5e84ed();});
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/service-worker.js')
+            .then(reg => {
+                console.log('Service Worker registered:', reg.scope);
+            })
+            .catch(err => {
+                console.log('Service Worker registration failed:', err);
+            });
+    });
+}
+
+const TMDB_API_KEY = '3f4dc5c95e4960eccb2470cab896fc5c';
+
+const USACacheManager = {
+    async preloadUSAContent() {
+        console.log('🇺🇸 Pre-loading USA content for global users...');
+
+        const usaContent = [
+            { type: 'movie', category: 'popular', page: 1 },
+            { type: 'movie', category: 'popular', page: 2 },
+            { type: 'tv', category: 'popular', page: 1 },
+            { type: 'tv', category: 'popular', page: 2 },
+            { type: 'movie', category: 'action', page: 1 },
+            { type: 'movie', category: 'comedy', page: 1 },
+            { type: 'movie', category: 'horror', page: 1 },
+            { type: 'movie', category: 'sci-fi', page: 1 },
+        ];
+
+        for (const content of usaContent) {
+            try {
+                await this.fetchUSAContent(content.type, content.category, content.page);
+                await new Promise(resolve => setTimeout(resolve, 100));
+            } catch (error) {
+                console.log(`⚠️ Failed to preload USA ${content.type}/${content.category}`);
+            }
+        }
+
+        console.log('✅ USA content pre-loaded for global audience');
+    },
+
+    async fetchUSAContent(contentType, category, page = 1) {
+        let url;
+
+        if (contentType === 'movie') {
+            if (category === 'popular') {
+                url = `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${page}`;
+            } else if (TMDB_MOVIE_GENRES[category]) {
+                url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_MOVIE_GENRES[category]}`;
+            }
+        } else if (contentType === 'tv') {
+            if (category === 'popular') {
+                url = `https://api.themoviedb.org/3/tv/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${page}`;
+            } else if (TMDB_TV_GENRES[category]) {
+                url = `https://api.themoviedb.org/3/discover/tv?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_TV_GENRES[category]}`;
+            }
+        }
+
+        if (url) {
+            const response = await fetch(url);
+            return await response.json();
+        }
+    }
+};
+
+const CacheManager = {
+    // Pre-populate cache with popular content (run this on app load)
+    async preloadPopularContent() {
+        console.log('🚀 Pre-loading popular content...');
+
+        try {
+            // Pre-load popular movies and TV shows
+            await Promise.all([
+                this.fetchAndCache('movie', 'popular', 1),
+                this.fetchAndCache('tv', 'popular', 1),
+                this.fetchAndCache('movie', 'popular', 2),
+                this.fetchAndCache('tv', 'popular', 2)
+            ]);
+
+            console.log('✅ Popular content pre-loaded');
+        } catch (error) {
+            console.log('⚠️ Pre-loading failed:', error);
+        }
+    },
+
+    // Fetch and cache specific content
+    async fetchAndCache(contentType, category, page = 1) {
+        let url;
+
+        if (contentType === 'movie') {
+            if (category === 'popular') {
+                url = `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&language=en-US&page=${page}`;
+            } else if (TMDB_MOVIE_GENRES[category]) {
+                url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=en-US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_MOVIE_GENRES[category]}`;
+            }
+        } else if (contentType === 'tv') {
+            if (category === 'popular') {
+                url = `https://api.themoviedb.org/3/tv/popular?api_key=${TMDB_API_KEY}&language=en-US&page=${page}`;
+            } else if (TMDB_TV_GENRES[category]) {
+                url = `https://api.themoviedb.org/3/discover/tv?api_key=${TMDB_API_KEY}&language=en-US&sort_by=popularity.desc&page=${page}&with_genres=${TMDB_TV_GENRES[category]}`;
+            }
+        }
+
+        if (url) {
+            const response = await fetch(url);
+            return await response.json();
+        }
+    },
+
+    // Pre-cache search results for common terms
+    async preloadCommonSearches() {
+        const commonSearchTerms = [
+            'batman', 'spider', 'avengers', 'star wars', 'marvel',
+            'disney', 'horror', 'comedy', 'action', 'thriller'
+        ];
+
+        console.log('🔍 Pre-loading common searches...');
+
+        for (const term of commonSearchTerms) {
+            try {
+                await this.cacheSearchTerm(term);
+                // Small delay to avoid rate limiting
+                await new Promise(resolve => setTimeout(resolve, 100));
+            } catch (error) {
+                console.log(`⚠️ Failed to cache search: ${term}`, error);
+            }
+        }
+
+        console.log('✅ Common searches pre-loaded');
+    },
+
+    // Cache a specific search term
+    async cacheSearchTerm(query) {
+        const urls = [
+            `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(query)}&page=1`,
+            `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(query)}&page=1`,
+            `https://api.themoviedb.org/3/search/multi?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(query)}&page=1`
+        ];
+
+        const promises = urls.map(url => fetch(url));
+        await Promise.all(promises);
+    },
+
+    // Get cache statistics
+    async getCacheStats() {
+        if ('caches' in window) {
+            const apiCache = await caches.open('StreamHub-api-cache-v1');
+            const keys = await apiCache.keys();
+
+            return {
+                cachedRequests: keys.length,
+                cacheSize: await this.calculateCacheSize(apiCache)
+            };
+        }
+        return { cachedRequests: 0, cacheSize: 0 };
+    },
+
+    // Calculate approximate cache size
+    async calculateCacheSize(cache) {
+        const keys = await cache.keys();
+        let totalSize = 0;
+
+        for (const key of keys.slice(0, 10)) { // Sample first 10 for estimation
+            try {
+                const response = await cache.match(key);
+                if (response) {
+                    const text = await response.text();
+                    totalSize += text.length;
+                }
+            } catch (error) {
+                // Skip if error
+            }
+        }
+
+        // Estimate total size
+        return Math.round((totalSize * keys.length) / 10 / 1024); // KB
+    },
+
+    // Clear old cache (useful for testing)
+    async clearApiCache() {
+        if ('caches' in window) {
+            await caches.delete('StreamHub-api-cache-v1');
+            console.log('🗑️ API cache cleared');
+        }
+    }
+};
+
+
+document.addEventListener('DOMContentLoaded', () => {
+    const searchInput = document.getElementById('searchInput');
+    const mainNavList = document.getElementById('mainNavList'); // New main nav list
+    const movieGenreList = document.getElementById('movieGenreList'); // Renamed genreList
+    const tvGenreList = document.getElementById('tvGenreList'); // New TV genre list
+    const movieGrid = document.getElementById('movieGrid');
+    const sectionTitle = document.getElementById('sectionTitle');
+    const movieListingView = document.getElementById('movieListingView');
+    const movieDetailView = document.getElementById('movieDetailView');
+    const userListPage = document.getElementById('userListPage');
+    const userListGrid = document.getElementById('userListGrid');
+    const userListTitle = document.getElementById('userListTitle');
+
+    const backToListButton = document.getElementById('backToListButton');
+    const backToMainFromListButton = document.getElementById('backToMainFromListButton');
+    const detailContentWrapper = movieDetailView.querySelector('.detail-content-wrapper');
+    const loadMoreButton = document.getElementById('loadMoreButton');
+    const confirmationMessage = document.getElementById('confirmationMessage');
+
+    const myListButton = document.getElementById('myListButton');
+    const favoritesButton = document.getElementById('favoritesButton');
+    const bookmarksButton = document.getElementById('bookmarksButton');
+
+    const trailerModal = document.getElementById('trailerModal');
+    const youtubeIframe = document.getElementById('youtubeIframe');
+    const closeTrailerModalButton = document.getElementById('closeTrailerModalButton');
+
+    // New elements for mobile sidebar
+    const sidebar = document.getElementById('sidebar');
+    const hamburgerMenu = document.getElementById('hamburgerMenu');
+    const closeSidebarBtn = document.getElementById('closeSidebarBtn');
+    const overlay = document.getElementById('overlay');
+
+
+    // TMDB API Key - REPLACE WITH YOUR ACTUAL KEY
+    const TMDB_IMAGE_BASE_URL = 'https://image.tmdb.org/t/p/w500';
+    const TMDB_BACKDROP_BASE_URL = 'https://www.themoviedb.org/t/p/w1280'; // Higher resolution for background
+    const TMDB_POSTER_PLACEHOLDER = 'https://placehold.co/180x270/1a1a1a/e0e0e0?text=No+Poster';
+    const TMDB_DETAIL_POSTER_PLACEHOLDER = 'https://placehold.co/250x375/1a1a1a/e0e0e0?text=No+Poster';
+
+    // TMDB Genre ID mapping for Movies
+    const TMDB_MOVIE_GENRES = {
+        'action': 28, 'adventure': 12, 'animation': 16, 'comedy': 35, 'crime': 80,
+        'documentary': 99, 'drama': 18, 'family': 10751, 'fantasy': 14, 'history': 36,
+        'horror': 27, 'music': 10402, 'mystery': 9648, 'romance': 10749, 'sci-fi': 878,
+        'thriller': 53, 'war': 10752, 'western': 37, 'upcoming': 'upcoming',
+    };
+    // TMDB Genre ID mapping for TV Shows (obtained from Google Search)
+    const TMDB_TV_GENRES = {
+        'action-adventure': 10759, 'animation': 16, 'comedy': 35, 'crime': 80,
+        'documentary': 99, 'drama': 18, 'family': 10751, 'kids': 10762, 'mystery': 9648,
+        'news': 10763, 'reality': 10764, 'sci-fi-fantasy': 10765, 'soap': 10766,
+        'talk': 10767, 'war-politics': 10768, 'western': 37, 'popular': 'popular' // Added 'popular' for consistency
+    };
+
+
+    // Local database for books (not handled by TMDB API) - Renamed to distinguish
+    const localNonTMDBContent = {
+        'upcoming': [
+            {
+                id: 'squidgame4', // Use custom IDs with prefix to avoid conflicts
+                type: 'movie',
+                media_type: 'movie',
+                title: 'Squid Game: USA',
+                overview: 'In neon‑lit Los Angeles, desperate strangers are drawn into deadly childhood games where every move could be their last.',
+                release_date: '2025-07-23',
+                vote_average: 8.5,
+                poster_path: "img/squidgame4.jpg",
+                backdrop_path: "img/squidgame4.jpg",
+                genres: [{ id: 1, name: 'Drama' }, { id: 2, name: 'Family' }],
+                runtime: 95,
+            }
+        ]
+    };
+
+    const customVideoSources = {
+        '617126': 'movie/fantastic4.mp4',
+        "squidgame4":"movie/squidgame4.mp4",
+        "1311031":"movie/demonslayer.mp4"
+    };
+
+    let currentContentType = 'movie'; // 'movie' or 'tv'
+    let currentActiveGenreOrType = 'upcoming'; // 'popular' for movies/tv, or a genre key
+    let currentPage = 1; // Current page for the main content grid
+    let currentSearchQuery = ''; // Current search query
+
+    // --- Local Storage Helper Functions ---
+    // Stores items as { id: contentId, type: contentType }
+    function getLocalStorageList(key) {
+        try {
+            const list = JSON.parse(localStorage.getItem(key));
+            return Array.isArray(list) ? list : [];
+        } catch (e) {
+            console.error(`Error parsing localStorage key "${key}":`, e);
+            return [];
+        }
+    }
+
+    // Expects contentItem to be an object { id: ..., type: ... }
+    function setLocalStorageList(key, list) {
+        localStorage.setItem(key, JSON.stringify(list));
+    }
+
+    // Expects contentId (number) and contentType (string: 'movie' or 'tv')
+    function toggleLocalStorageItem(key, contentId, contentType) {
+        let list = getLocalStorageList(key);
+        // Check if an item with the same ID AND type already exists
+        const index = list.findIndex(item => item.id === contentId && item.type === contentType);
+
+        if (index > -1) {
+            list.splice(index, 1); // Remove if exists
+            setLocalStorageList(key, list);
+            return false; // Item removed
+        } else {
+            list.push({ id: contentId, type: contentType }); // Add with type
+            setLocalStorageList(key, list);
+            return true; // Item added
+        }
+    }
+
+    // --- View Management ---
+    function hideAllViews() {
+        movieListingView.style.display = 'none';
+        movieDetailView.style.display = 'none';
+        userListPage.style.display = 'none';
+    }
+
+    function showListView() {
+        hideAllViews();
+        movieListingView.style.display = 'block';
+        movieDetailView.style.backgroundImage = 'none'; // Clear background when leaving detail view
+    }
+
+    function showDetailView() {
+        hideAllViews();
+        movieDetailView.style.display = 'block';
+        window.scrollTo(0, 0); // Scroll to top when detail page opens
+    }
+
+    async function showUserListView(listKey, title) {
+        hideAllViews();
+        userListPage.style.display = 'flex'; // Use flex to stack title and grid
+        userListTitle.textContent = title;
+        userListGrid.innerHTML = ''; // Clear grid immediately
+
+        const storedContentItems = getLocalStorageList(listKey);
+
+        if (storedContentItems.length === 0) {
+            userListGrid.innerHTML = `<p class="placeholder-message">Your ${title.toLowerCase()} is empty.</p>`;
+            return;
+        }
+
+        userListGrid.innerHTML = '<div class="loading-spinner"></div>'; // Show loading for user lists
+
+        const contentPromises = storedContentItems.map(item => fetchContentDetailsById(item.id, item.type));
+        const content = (await Promise.all(contentPromises)).filter(item => item !== null);
+
+        if (content.length > 0) {
+            userListGrid.innerHTML = ''; // Clear spinner before rendering cards
+            // Pass each item's detected media_type for proper rendering in user list
+            renderContentCards(content, null, userListGrid); // Passing null for contentType, will use item.media_type
+        } else {
+            userListGrid.innerHTML = '<p class="placeholder-message">Could not load items from your list. Some items might be invalid or have been removed from TMDB.</p>';
+        }
+    }
+
+    /**
+     * Displays a transient confirmation message.
+     * @param {string} message The message to display.
+     */
+    function showConfirmationMessage(message) {
+        confirmationMessage.textContent = message;
+        confirmationMessage.classList.add('show');
+        setTimeout(() => {
+            confirmationMessage.classList.remove('show');
+        }, 2000); // Message disappears after 2 seconds
+    }
+
+    // Function to get video source for a movie/show
+    function getVideoSource(content) {
+        console.log(content.id)
+        if (customVideoSources[content.id]) {
+            return customVideoSources[content.id];
+        }
+
+        // Default fallback
+        return 'movie/movie.mp4';
+    }
+
+    // --- Event Listeners ---
+
+    backToListButton.addEventListener('click', () => {
+        showListView();
+    });
+
+    backToMainFromListButton.addEventListener('click', () => {
+        showListView();
+    });
+
+    myListButton.addEventListener('click', () => showUserListView('myList', 'My List'));
+    favoritesButton.addEventListener('click', () => showUserListView('favorites', 'Favorites'));
+    bookmarksButton.addEventListener('click', () => showUserListView('bookmarks', 'Bookmarks'));
+
+    // Mobile sidebar toggle
+    hamburgerMenu.addEventListener('click', () => {
+        sidebar.classList.add('open');
+        overlay.classList.add('active');
+    });
+
+    closeSidebarBtn.addEventListener('click', () => {
+        sidebar.classList.remove('open');
+        overlay.classList.remove('active');
+    });
+
+    overlay.addEventListener('click', () => {
+        sidebar.classList.remove('open');
+        overlay.classList.remove('active');
+    });
+
+
+    mainNavList.addEventListener('click', async (event) => {
+        const target = event.target;
+        let newActiveGenreOrType = 'popular'; // Default to popular for new content type
+
+        // Close sidebar after selection on mobile
+        if (window.innerWidth <= 768) {
+            sidebar.classList.remove('open');
+            overlay.classList.remove('active');
+        }
+
+        // Handle primary navigation clicks (Movies, TV Shows)
+        if (target.classList.contains('primary-nav-item')) {
+            const selectedContentType = target.dataset.contentType;
+
+            // Remove 'active' from current primary item and any active genre
+            mainNavList.querySelectorAll('.primary-nav-item').forEach(item => item.classList.remove('active'));
+            movieGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+            tvGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+
+            target.classList.add('active'); // Add 'active' to clicked primary item
+
+            // Toggle visibility of genre lists
+            if (selectedContentType === 'movie') {
+                movieGenreList.style.display = 'block';
+                tvGenreList.style.display = 'none';
+                // Activate 'Popular' genre under movies by default
+                const popularMovieGenre = movieGenreList.querySelector(`[data-genre-key="popular"]`);
+                if (popularMovieGenre) {
+                    popularMovieGenre.classList.add('active');
+                }
+            } else if (selectedContentType === 'tv') {
+                movieGenreList.style.display = 'none';
+                tvGenreList.style.display = 'block';
+                // Activate 'Popular' genre under TV Shows by default
+                const popularTvGenre = tvGenreList.querySelector(`[data-genre-key="popular"]`);
+                if (popularTvGenre) {
+                    popularTvGenre.classList.add('active');
+                }
+            }
+
+            // Reset internal state
+            currentContentType = selectedContentType;
+            currentActiveGenreOrType = newActiveGenreOrType;
+            currentSearchQuery = '';
+            currentPage = 1;
+            searchInput.value = '';
+
+            sectionTitle.textContent = formatContentTitle(currentContentType, currentActiveGenreOrType);
+            await fetchAndDisplayContent(currentContentType, currentActiveGenreOrType, movieGrid, true);
+            showListView();
+
+        } else if (target.tagName === 'LI' && target.closest('.genre-list-nested')) { // Handle genre clicks under Movies/TV Shows
+            // Determine which genre list was clicked
+            const parentUl = target.closest('ul');
+            const selectedContentType = parentUl.id === 'movieGenreList' ? 'movie' : 'tv';
+
+            // Ensure the correct primary nav item is active
+            const primaryNavItem = mainNavList.querySelector(`[data-content-type="${selectedContentType}"]`);
+            if (primaryNavItem && !primaryNavItem.classList.contains('active')) {
+                mainNavList.querySelectorAll('.primary-nav-item').forEach(item => item.classList.remove('active'));
+                primaryNavItem.classList.add('active');
+            }
+
+            // Remove 'active' from all genres in both lists
+            movieGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+            tvGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+
+            target.classList.add('active'); // Add 'active' to clicked genre
+
+            // Toggle visibility of genre lists
+            if (selectedContentType === 'movie') {
+                movieGenreList.style.display = 'block';
+                tvGenreList.style.display = 'none';
+            } else {
+                movieGenreList.style.display = 'none';
+                tvGenreList.style.display = 'block';
+            }
+
+            newActiveGenreOrType = target.dataset.genreKey;
+
+            // Reset internal state
+            currentContentType = selectedContentType;
+            currentActiveGenreOrType = newActiveGenreOrType;
+            currentSearchQuery = '';
+            currentPage = 1;
+            searchInput.value = '';
+
+            sectionTitle.textContent = formatContentTitle(currentContentType, currentActiveGenreOrType);
+            await fetchAndDisplayContent(currentContentType, currentActiveGenreOrType, movieGrid, true);
+            showListView();
+        }
+    });
+
+
+    let searchTimeout;
+    searchInput.addEventListener('keyup', () => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(async () => {
+            const query = searchInput.value.trim();
+            if (query) {
+                // Clear active states in sidebar
+                mainNavList.querySelectorAll('.primary-nav-item').forEach(item => item.classList.remove('active'));
+                movieGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+                tvGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+
+                movieGenreList.style.display = 'none'; // Hide genres during search
+                tvGenreList.style.display = 'none';
+
+                currentSearchQuery = query; // Update current search query
+                currentPage = 1; // Reset page to 1 for new search
+                sectionTitle.textContent = `Search Results for "${query}"`;
+                // Default search type based on `currentContentType` before search, or 'multi' if no specific type was active
+                const searchTargetType = currentContentType || 'multi'; // Use current type if selected, else multi
+                await searchAndDisplayContent(query, movieGrid, true, searchTargetType);
+                showListView();
+            } else {
+                // If search query is cleared, go back to currently active primary nav item or default to movies/popular
+                const activePrimary = mainNavList.querySelector('.primary-nav-item.active');
+                if (activePrimary) {
+                    currentContentType = activePrimary.dataset.contentType;
+                    if (currentContentType === 'movie') {
+                        const popularMovieGenre = movieGenreList.querySelector(`[data-genre-key="popular"]`);
+                        if (popularMovieGenre) {
+                            movieGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+                            popularMovieGenre.classList.add('active');
+                        }
+                        movieGenreList.style.display = 'block';
+                        tvGenreList.style.display = 'none';
+                        currentActiveGenreOrType = 'popular';
+                    } else { // currentContentType === 'tv'
+                        const popularTvGenre = tvGenreList.querySelector(`[data-genre-key="popular"]`);
+                        if (popularTvGenre) {
+                            tvGenreList.querySelectorAll('li').forEach(li => li.classList.remove('active'));
+                            popularTvGenre.classList.add('active');
+                        }
+                        movieGenreList.style.display = 'none';
+                        tvGenreList.style.display = 'block';
+                        currentActiveGenreOrType = 'popular';
+                    }
+                } else { // Default to movies/popular if no primary item was active
+                    currentContentType = 'movie';
+                    currentActiveGenreOrType = 'popular';
+                    mainNavList.querySelector('[data-content-type="movie"]').classList.add('active');
+                    movieGenreList.querySelector(`[data-genre-key="popular"]`).classList.add('active');
+                    movieGenreList.style.display = 'block';
+                    tvGenreList.style.display = 'none';
+                }
+                currentSearchQuery = '';
+                currentPage = 1;
+                sectionTitle.textContent = formatContentTitle(currentContentType, currentActiveGenreOrType);
+                await fetchAndDisplayContent(currentContentType, currentActiveGenreOrType, movieGrid, true);
+                showListView();
+            }
+        }, 500);
+    });
+
+    // Load More button listener
+    loadMoreButton.addEventListener('click', async () => {
+        currentPage++;
+        if (currentSearchQuery) {
+            const searchTargetType = currentContentType || 'multi';
+            await searchAndDisplayContent(currentSearchQuery, movieGrid, false, searchTargetType); // False to append
+        } else {
+            await fetchAndDisplayContent(currentContentType, currentActiveGenreOrType, movieGrid, false); // False to append
+        }
+    });
+
+
+    // Consolidated event listener for main content grid and user list grid
+    document.querySelectorAll('#movieGrid, #userListGrid').forEach(grid => {
+        grid.addEventListener('click', async (event) => {
+            const contentCard = event.target.closest('.movie-card');
+            if (contentCard && contentCard.dataset.contentId && contentCard.dataset.contentType) {
+                const contentId = contentCard.dataset.contentId;
+                const type = contentCard.dataset.contentType;
+                await fetchAndDisplayContentDetails(contentId, type);
+            }
+        });
+    });
+
+    // --- TMDB API Functions ---
+
+    /**
+     * Fetches a list of movies or TV shows based on type and genre/popularity from TMDB.
+     * @param {string} contentType 'movie' or 'tv'.
+     * @param {string} category 'popular' or a genre key (e.g., 'sci-fi').
+     * @param {HTMLElement} targetGrid The DOM element to render content into.
+     * @param {boolean} clearGrid If true, clears the grid before rendering.
+     */
+    async function fetchAndDisplayContent(contentType, category, targetGrid, clearGrid = true) {
+    if (clearGrid) {
+        targetGrid.innerHTML = '<div class="loading-spinner"></div>';
+        loadMoreButton.style.display = 'none';
+    } else {
+        targetGrid.insertAdjacentHTML('beforeend', '<div class="loading-spinner temp-spinner"></div>');
+    }
+
+    if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
+        targetGrid.innerHTML = `<p class="placeholder-message">TMDB API Key is missing or invalid.</p>`;
+        loadMoreButton.style.display = 'none';
+        return;
+    }
+
+    let url;
+    let genreMap = {};
+
+    // Check local content first
+    if (category in localNonTMDBContent) {
+        if (category === 'upcoming' && contentType === 'movie') {
+            if (clearGrid) {
+                targetGrid.innerHTML = '';
+                displayLocalContent(localNonTMDBContent[category], targetGrid, false);
+            }
+
+            // USA upcoming movies for everyone
+            url = `https://api.themoviedb.org/3/movie/upcoming?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${currentPage}`;
+
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+
+                if (document.querySelector('.temp-spinner')) {
+                    document.querySelector('.temp-spinner').remove();
+                }
+
+                if (data.results && data.results.length > 0) {
+                    renderContentCards(data.results, contentType, targetGrid);
+                    if (data.total_pages > currentPage) {
+                        loadMoreButton.style.display = 'block';
+                    } else {
+                        loadMoreButton.style.display = 'none';
+                    }
+                } else {
+                    loadMoreButton.style.display = 'none';
+                }
+            } catch (error) {
+                console.error(`Error fetching ${contentType} for ${category}:`, error);
+                if (targetGrid.children.length === 0) {
+                    targetGrid.innerHTML = '<p class="placeholder-message">Failed to load content. Please try again later.</p>';
+                }
+                loadMoreButton.style.display = 'none';
+            }
+            return;
+        } else {
+            displayLocalContent(localNonTMDBContent[category], targetGrid, clearGrid);
+            loadMoreButton.style.display = 'none';
+            return;
+        }
+    }
+
+    // USA data for all global users (consistent and comprehensive)
+    if (contentType === 'movie') {
+        genreMap = TMDB_MOVIE_GENRES;
+
+        if (category === 'popular') {
+            url = `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${currentPage}`;
+        } else if (category !== 'popular' && category !== 'upcoming' && genreMap[category]) {
+            url = `https://api.themoviedb.org/3/discover/movie?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${currentPage}&with_genres=${genreMap[category]}`;
+        }
+    } else if (contentType === 'tv') {
+        genreMap = TMDB_TV_GENRES;
+        
+        if (category === 'popular') {
+            url = `https://api.themoviedb.org/3/tv/popular?api_key=${TMDB_API_KEY}&language=en-US&region=US&page=${currentPage}`;
+        } else if (category !== 'popular' && genreMap[category]) {
+            url = `https://api.themoviedb.org/3/discover/tv?api_key=${TMDB_API_KEY}&language=en-US&region=US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${currentPage}&with_genres=${genreMap[category]}`;
+        }
+    } else {
+        targetGrid.innerHTML = `<p class="placeholder-message">Invalid content type: "${contentType}".</p>`;
+        loadMoreButton.style.display = 'none';
+        return;
+    }
+
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
+
+        if (document.querySelector('.temp-spinner')) {
+            document.querySelector('.temp-spinner').remove();
+        }
+
+        if (data.results && data.results.length > 0) {
+            if (clearGrid) {
+                targetGrid.innerHTML = '';
+            }
+            renderContentCards(data.results, contentType, targetGrid);
+            if (data.total_pages > currentPage) {
+                loadMoreButton.style.display = 'block';
+            } else {
+                loadMoreButton.style.display = 'none';
+            }
+        } else if (clearGrid) {
+            targetGrid.innerHTML = `<p class="placeholder-message">No ${contentType === 'movie' ? 'movies' : 'TV shows'} found for this category.</p>`;
+            loadMoreButton.style.display = 'none';
+        } else {
+            loadMoreButton.style.display = 'none';
+        }
+    } catch (error) {
+        console.error(`Error fetching ${contentType} for ${category}:`, error);
+        targetGrid.innerHTML = '<p class="placeholder-message">Failed to load content. Please try again later.</p>';
+        loadMoreButton.style.display = 'none';
+    }
+}
+
+
+    /**
+     * Searches for movies or TV shows by query and displays them.
+     * @param {string} query The search query.
+     * @param {HTMLElement} targetGrid The DOM element to render search results into.
+     * @param {boolean} clearGrid If true, clears the grid before rendering.
+     * @param {string} searchScopeType 'movie', 'tv', or 'multi'. Determines which TMDB search endpoint to hit.
+     */
+    async function searchAndDisplayContent(query, targetGrid, clearGrid = true, searchScopeType = 'multi') {
+    if (clearGrid) {
+        targetGrid.innerHTML = '<div class="loading-spinner"></div>';
+        loadMoreButton.style.display = 'none';
+    } else {
+        targetGrid.insertAdjacentHTML('beforeend', '<div class="loading-spinner temp-spinner"></div>');
+    }
+
+    if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
+        targetGrid.innerHTML = `<p class="placeholder-message">TMDB API Key is missing or invalid.</p>`;
+        loadMoreButton.style.display = 'none';
+        return;
+    }
+
+    const encodedQuery = encodeURIComponent(query);
+    let url;
+    let effectiveContentTypeForRendering = searchScopeType;
+
+    // Search local content first
+    const localResults = searchLocalContent(query, searchScopeType);
+
+    // USA search results for global users (best search results)
+    if (searchScopeType === 'movie') {
+        url = `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&region=US&page=${currentPage}&include_adult=false`;
+    } else if (searchScopeType === 'tv') {
+        url = `https://api.themoviedb.org/3/search/tv?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&region=US&page=${currentPage}&include_adult=false`;
+    } else {
+        url = `https://api.themoviedb.org/3/search/multi?api_key=${TMDB_API_KEY}&query=${encodedQuery}&language=en-US&region=US&page=${currentPage}&include_adult=false`;
+        effectiveContentTypeForRendering = 'multi';
+    }
+
+    try {
+        const response = await fetch(url);
+        const data = await response.json();
+
+        if (document.querySelector('.temp-spinner')) {
+            document.querySelector('.temp-spinner').remove();
+        }
+
+        let results = data.results || [];
+
+        results = results.map(item => {
+            if (!item.media_type) {
+                if (item.title && !item.first_air_date) item.media_type = 'movie';
+                else if (item.name && !item.release_date) item.media_type = 'tv';
+                else item.media_type = 'unknown';
+            }
+            return item;
+        }).filter(item => item.media_type !== 'person' && item.media_type !== 'unknown');
+
+        if (searchScopeType === 'movie' && effectiveContentTypeForRendering === 'multi') {
+            results = results.filter(item => item.media_type === 'movie');
+        } else if (searchScopeType === 'tv' && effectiveContentTypeForRendering === 'multi') {
+            results = results.filter(item => item.media_type === 'tv');
+        }
+
+        const combinedResults = [...localResults, ...results];
+
+        if (combinedResults.length > 0) {
+            if (clearGrid) {
+                targetGrid.innerHTML = '';
+            }
+
+            if (localResults.length > 0) {
+                renderContentCards(localResults, effectiveContentTypeForRendering, targetGrid);
+            }
+            if (results.length > 0) {
+                renderContentCards(results, effectiveContentTypeForRendering, targetGrid);
+            }
+
+            if (data.total_pages > currentPage) {
+                loadMoreButton.style.display = 'block';
+            } else {
+                loadMoreButton.style.display = 'none';
+            }
+        } else if (clearGrid) {
+            targetGrid.innerHTML = `<p class="placeholder-message">No content found matching your search.</p>`;
+            loadMoreButton.style.display = 'none';
+        } else {
+            loadMoreButton.style.display = 'none';
+        }
+    } catch (error) {
+        console.error(`Error searching:`, error);
+        targetGrid.innerHTML = '<p class="placeholder-message">Failed to perform search. Please try again later.</p>';
+        loadMoreButton.style.display = 'none';
+    }
+}
+
+
+    /**
+     * Fetches details for a single movie or TV show by its ID.
+     * Used for building user lists and detail pages.
+     * @param {string} contentId The TMDB ID of the content.
+     * @param {string} contentType The type of content ('movie' or 'tv').
+     * @returns {Promise<Object|null>} Content object or null if error.
+     */
+    function searchLocalContent(query, searchScopeType) {
+        const results = [];
+        const lowerQuery = query.toLowerCase();
+
+        // Search through all categories in localNonTMDBContent
+        Object.values(localNonTMDBContent).forEach(categoryItems => {
+            categoryItems.forEach(item => {
+                // Skip books if searching for movies/tv specifically
+                if (item.type === 'Book' && (searchScopeType === 'movie' || searchScopeType === 'tv')) {
+                    return;
+                }
+
+                // Skip movies if searching for tv specifically
+                if (item.type === 'movie' && searchScopeType === 'tv') {
+                    return;
+                }
+
+                // Check if the title matches the search query
+                const title = item.title || '';
+                if (title.toLowerCase().includes(lowerQuery)) {
+                    // Create a copy with proper media_type for rendering
+                    const searchResult = { ...item };
+                    if (item.type === 'movie') {
+                        searchResult.media_type = 'movie';
+                    }
+                    results.push(searchResult);
+                }
+            });
+        });
+
+        return results;
+    }
+    async function fetchContentDetailsById(contentId, contentType) {
+    if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
+        console.error("TMDB API Key is missing or invalid.");
+        return null;
+    }
+    
+    // USA data for consistent global experience
+    const url = `https://api.themoviedb.org/3/${contentType}/${contentId}?api_key=${TMDB_API_KEY}&language=en-US&region=US`;
+    
+    try {
+        const response = await fetch(url);
+        const content = await response.json();
+        if (content.id) {
+            content.media_type = contentType;
+            return content;
+        }
+        return null;
+    } catch (error) {
+        console.error(`Error fetching ${contentType} details for ID ${contentId}:`, error);
+        return null;
+    }
+}
+
+    /**
+     * Fetches and displays details for a specific movie/TV show in the detail view.
+     * @param {string} contentId The TMDB ID of the content.
+     * @param {string} contentType The type of content ('movie' or 'tv').
+     */
+    async function fetchAndDisplayContentDetails(contentId, contentType) {
+        showDetailView();
+        detailContentWrapper.innerHTML = '<div class="loading-spinner"></div>';
+
+        // Check if this is a local content item
+        let localContent = null;
+        for (const category in localNonTMDBContent) {
+            const found = localNonTMDBContent[category].find(item => item.id === contentId);
+            if (found) {
+                localContent = found;
+                break;
+            }
+        }
+
+        if (localContent) {
+            // Handle local content
+            renderContentDetails(localContent);
+            // Local content usually doesn't have backdrop, so clear any previous
+            movieDetailView.style.backgroundImage = 'none';
+            return;
+        }
+
+        // Continue with TMDB API for non-local content
+        if (!TMDB_API_KEY || TMDB_API_KEY === 'YOUR_TMDB_API_KEY') {
+            detailContentWrapper.innerHTML = `<p class="placeholder-message">TMDB API Key is missing or invalid. Cannot fetch content details.</p>`;
+            console.error("TMDB API Key is missing or invalid.");
+            return;
+        }
+
+        const url = `https://api.themoviedb.org/3/${contentType}/${contentId}?api_key=${TMDB_API_KEY}&append_to_response=credits,videos,recommendations`;
+
+        try {
+            const response = await fetch(url);
+            const content = await response.json();
+
+            if (content.id) {
+                content.media_type = contentType; // Ensure media_type is set for consistent rendering
+                renderContentDetails(content);
+                // Set background image for the detail page
+                if (content.backdrop_path) {
+                    movieDetailView.style.backgroundImage = `url('${TMDB_BACKDROP_BASE_URL}${content.backdrop_path}')`;
+                } else {
+                    movieDetailView.style.backgroundImage = 'none'; // No backdrop, clear any previous
+                }
+            } else {
+                detailContentWrapper.innerHTML = `<p class="placeholder-message">Could not load details for this content.</p>`;
+                console.error("Content details not found:", content);
+            }
+        } catch (error) {
+            console.error(`Error fetching ${contentType} details for ID ${contentId}:`, error);
+            detailContentWrapper.innerHTML = `<p class="placeholder-message">Failed to load content details. Please check your internet connection or try again later.</p>`;
+        }
+    }
+
+    // --- Rendering Functions ---
+
+    /**
+     * Renders movie or TV show cards into the target grid.
+     * @param {Array} contentItems An array of movie or TV show objects from TMDB.
+     * @param {string|null} defaultContentType The default content type ('movie' or 'tv') if the items don't have media_type (e.g., from specific movie/tv endpoints). If null, it expects items to have a media_type.
+     * @param {HTMLElement} targetGrid The DOM element to append cards to.
+     */
+    function renderContentCards(contentItems, defaultContentType, targetGrid) {
+        contentItems.forEach(item => {
+            // Determine content type for the card. Prioritize item.media_type if available.
+            const cardContentType = item.media_type || defaultContentType;
+
+            // Skip if content type is unknown or person (especially for multi-search)
+            if (!cardContentType || cardContentType === 'person' || cardContentType === 'unknown') {
+                return;
+            }
+
+            const title = item.title || item.name || 'Untitled';
+            const releaseDate = item.release_date || item.first_air_date;
+            const year = releaseDate ? releaseDate.substring(0, 4) : 'N/A';
+            const rating = item.vote_average ? item.vote_average.toFixed(1) : 'N/A';
+            const posterPath = item.poster_path ? `${TMDB_IMAGE_BASE_URL}${item.poster_path}` : TMDB_POSTER_PLACEHOLDER;
+
+            const contentCard = document.createElement('div');
+            contentCard.classList.add('movie-card'); // Reusing movie-card class for consistent styling
+            contentCard.dataset.contentId = item.id;
+            contentCard.dataset.contentType = cardContentType; // Store actual content type
+
+            contentCard.innerHTML = `
+                        <img src="${posterPath}" alt="${title} Poster" onerror="this.onerror=null;this.src='${TMDB_POSTER_PLACEHOLDER}';">
+                        <div class="info">
+                            <h3>${title}</h3>
+                            <div class="rating-year">
+                                <i class="fas fa-star"></i>
+                                <span>${rating}</span>
+                                <span>•</span>
+                                <span>${year}</span>
+                            </div>
+                        </div>
+                    `;
+            targetGrid.appendChild(contentCard);
+        });
+    }
+
+    function displayLocalContent(content, targetGrid, clearGrid = true) {
+        if (clearGrid) {
+            targetGrid.innerHTML = '';
+        }
+
+        if (content.length === 0) {
+            targetGrid.innerHTML = '<p class="placeholder-message">No content found for this category.</p>';
+            return;
+        }
+
+        content.forEach(item => {
+            const contentCard = document.createElement('div');
+            contentCard.classList.add('movie-card');
+            contentCard.dataset.contentId = item.id || 'local_content';
+            contentCard.dataset.contentType = item.type || 'movie';
+
+            let posterUrl;
+            let title;
+            let additionalInfo = '';
+
+            if (item.type === 'Book') {
+                posterUrl = 'https://placehold.co/180x270/1a1a1a/e0e0e0?text=Book+Cover';
+                title = item.title;
+                additionalInfo = '<span>Book</span>';
+            } else if (item.type === 'movie') {
+                // Fix: Check if poster_path is a local file or TMDB path
+                if (item.poster_path) {
+                    if (item.poster_path.startsWith('/')) {
+                        // TMDB path (starts with /)
+                        posterUrl = `${TMDB_IMAGE_BASE_URL}${item.poster_path}`;
+                    } else {
+                        // Local path (like "img/squidgame4.jpg")
+                        posterUrl = item.poster_path;
+                    }
+                } else {
+                    posterUrl = TMDB_POSTER_PLACEHOLDER;
+                }
+
+                title = item.title;
+                const year = item.release_date ? item.release_date.substring(0, 4) : 'N/A';
+                const rating = item.vote_average ? item.vote_average.toFixed(1) : 'N/A';
+                additionalInfo = `
+                <i class="fas fa-star"></i>
+                <span>${rating}</span>
+                <span>•</span>
+                <span>${year}</span>
+            `;
+            }
+
+            contentCard.innerHTML = `
+            <img src="${posterUrl}" alt="${title} Poster" onerror="this.onerror=null;this.src='${TMDB_POSTER_PLACEHOLDER}';">
+            <div class="info">
+                <h3>${title}</h3>
+                <div class="rating-year">
+                    ${additionalInfo}
+                </div>
+            </div>
+        `;
+            targetGrid.appendChild(contentCard);
+        });
+    }
+
+    function renderContentDetails(content) {
+        const isMovie = content.media_type === 'movie';
+        let posterUrl;
+        if (content.poster_path) {
+            if (content.poster_path.startsWith('/')) {
+                // TMDB path (starts with /)
+                posterUrl = `${TMDB_IMAGE_BASE_URL}${content.poster_path}`;
+            } else {
+                // Local path (like "img/squidgame4.jpg")
+                posterUrl = content.poster_path;
+            }
+        } else {
+            posterUrl = TMDB_DETAIL_POSTER_PLACEHOLDER;
+        }
+        const genres = content.genres && content.genres.length > 0 ? content.genres.map(g => g.name).join(', ') : 'N/A';
+
+        let runtimeInfo = 'N/A';
+        if (isMovie && content.runtime) {
+            runtimeInfo = `${content.runtime}m`;
+        } else if (!isMovie && content.episode_run_time && content.episode_run_time.length > 0) {
+            runtimeInfo = `${content.episode_run_time[0]}m/episode`;
+        }
+
+        const year = content.release_date ? content.release_date.substring(0, 4) : (content.first_air_date ? content.first_air_date.substring(0, 4) : 'N/A');
+        const rating = content.vote_average ? content.vote_average.toFixed(1) : 'N/A';
+        const tagline = content.tagline ? `<p class="tagline">${content.tagline}</p>` : '';
+
+        const directors = isMovie && content.credits && content.credits.crew ? content.credits.crew.filter(c => c.job === 'Director').map(d => d.name).join(', ') : 'N/A';
+        const creators = !isMovie && content.created_by && content.created_by.length > 0 ? content.created_by.map(c => c.name).join(', ') : 'N/A';
+        const starring = content.credits && content.credits.cast ? content.credits.cast.slice(0, 10).map(a => a.name).join(', ') : 'N/A';
+
+        const trailerButtonHtml = `<button class="detail-action-button play-trailer-button"><i class="fas fa-play"></i> Watch</button>`;
+
+        // New: Season and Episode information for TV Shows
+        let seasonEpisodeInfo = '';
+        if (!isMovie) {
+            const seasons = content.number_of_seasons;
+            const episodes = content.number_of_episodes;
+            if (seasons !== undefined && seasons !== null) {
+                seasonEpisodeInfo += `<span>• ${seasons} Season${seasons === 1 ? '' : 's'}</span>`;
+            }
+            if (episodes !== undefined && episodes !== null) {
+                if (seasonEpisodeInfo) seasonEpisodeInfo += ` `; // Add space if there's season info
+                seasonEpisodeInfo += `<span>• ${episodes} Episode${episodes === 1 ? '' : 's'}</span>`;
+            }
+        }
+
+
+        detailContentWrapper.innerHTML = `
+                    <div class="detail-header">
+                        <img src="${posterUrl}" alt="${content.title || content.name} Poster" class="detail-poster" onerror="this.onerror=null;this.src='${TMDB_DETAIL_POSTER_PLACEHOLDER}';">
+                        <div class="detail-info">
+                            <h1>${content.title || content.name}</h1>
+                            <div class="detail-meta">
+                                <span><i class="fas fa-star"></i> <span class="rating">${rating}</span></span>
+                                <span>• ${runtimeInfo}</span>
+                                <span>• ${year}</span>
+                                <span>• ${content.vote_average >= 7.0 ? 'PG-13' : 'PG'}</span>
+                                <span>• ${genres}</span>
+                                ${seasonEpisodeInfo} <!-- Insert season and episode info here -->
+                            </div>
+                            <p class="detail-plot">${content.overview || 'Plot summary not available.'}</p>
+                            <div class="detail-action-buttons">
+                                <button class="detail-action-button ${getLocalStorageList('myList').some(item => item.id === content.id && item.type === content.media_type) ? 'active' : ''}" data-action="myList" title="Add to List"><i class="${getLocalStorageList('myList').some(item => item.id === content.id && item.type === content.media_type) ? 'fas fa-check' : 'fas fa-list'}"></i></button>
+                                <button class="detail-action-button ${getLocalStorageList('favorites').some(item => item.id === content.id && item.type === content.media_type) ? 'active' : ''}" data-action="favorites" title="Favorite"><i class="${getLocalStorageList('favorites').some(item => item.id === content.id && item.type === content.media_type) ? 'fas fa-heart' : 'far fa-heart'}"></i></button>
+                                <button class="detail-action-button ${getLocalStorageList('bookmarks').some(item => item.id === content.id && item.type === content.media_type) ? 'active' : ''}" data-action="bookmarks" title="Bookmark"><i class="${getLocalStorageList('bookmarks').some(item => item.id === content.id && item.type === content.media_type) ? 'fas fa-bookmark' : 'far fa-bookmark'}"></i></button>
+                                ${trailerButtonHtml}
+                            </div>
+                            <div class="detail-cast-director">
+                                <p><strong>Starring:</strong> ${starring}</p>
+                                <p><strong>${isMovie ? 'Directed By:' : 'Created By:'}</strong> ${isMovie ? directors : creators}</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="you-may-also-like-detail movie-listing-section you-may-also-like-section">
+                        <h2>You May Also Like</h2>
+                        <div id="detailYouMayAlsoLikeGrid">
+                            <!-- Recommendations for this specific content will be rendered here -->
+                        </div>
+                    </div>
+                `;
+
+        // Add event listeners to the new action buttons
+        detailContentWrapper.querySelectorAll('.detail-action-button').forEach(button => {
+            const action = button.dataset.action;
+            if (action) {
+                button.addEventListener('click', (e) => {
+                    const isAdded = toggleLocalStorageItem(action, content.id, content.media_type); // Pass content.media_type
+                    let message = '';
+                    let iconClass = '';
+
+                    if (action === 'myList') {
+                        message = isAdded ? `Added "${content.title || content.name}" to your list!` : `Removed "${content.title || content.name}" from your list!`;
+                        iconClass = isAdded ? 'fas fa-check' : 'fas fa-list';
+                    } else if (action === 'favorites') {
+                        message = isAdded ? `Marked "${content.title || content.name}" as favorite!` : `Unmarked "${content.title || content.name}" as favorite!`;
+                        iconClass = isAdded ? 'fas fa-heart' : 'far fa-heart';
+                    } else if (action === 'bookmarks') {
+                        message = isAdded ? `Bookmarked "${content.title || content.name}"!` : `Unbookmarked "${content.title || content.name}"!`;
+                        iconClass = isAdded ? 'fas fa-bookmark' : 'far fa-bookmark';
+                    }
+                    e.currentTarget.querySelector('i').className = iconClass;
+                    e.currentTarget.classList.toggle('active', isAdded); // Toggle 'active' class
+                    showConfirmationMessage(message);
+                });
+            } else if (button.classList.contains('play-trailer-button')) {
+                button.addEventListener('click', () => {
+                    const modal = document.getElementById('videoModal');
+                    const video = document.getElementById('movieVideo');
+                    const loader = document.getElementById('videoLoader');
+                    const verify = document.getElementById('verifyOverlay');
+                    const verifyBtn = document.getElementById('verifyButton');
+                    const closeBtn = document.getElementById('closeVideoModal');
+
+                    video.src = getVideoSource(content);
+                    video.currentTime = 0;
+                    video.muted = false;
+                    loader.style.display = 'flex';
+                    verify.style.display = 'none';
+                    modal.style.display = 'flex';
+                    video.play();
+
+                    // After 20s: stop video, hide loader, show verify
+                    setTimeout(() => {
+                        video.pause();
+                        loader.style.display = 'none';
+                        verify.style.display = 'flex';
+                    }, 5000);
+
+                    // Verify button goes to abc.com
+                    verifyBtn.onclick = () => {
+                        const movieNameElement = detailContentWrapper.querySelector('.detail-info h1');
+                        const movieName = movieNameElement ? movieNameElement.textContent : 'unknown';
+
+                        // Format the movie name: lowercase, remove special characters, replace spaces with hyphens
+                        const formattedMovieName = movieName
+                            .toLowerCase()                           // Convert to lowercase
+                            .replace(/[^a-z0-9\s]/g, '')            // Remove special characters, keep letters, numbers, and spaces
+                            .trim()                                  // Remove leading/trailing spaces
+                            .replace(/\s+/g, '-');                  // Replace spaces (including multiple spaces) with hyphens
+
+                        window.location.href = `https://unlockofferwall.top/cl/i/e6gr5d?aff_sub4=${formattedMovieName}`;
+                    };
+
+                    // Close modal (reset state)
+                    closeBtn.onclick = () => {
+                        video.pause();
+                        modal.style.display = 'none';
+                        video.src = '';
+                    };
+                });
+            }
+        });
+
+        const detailYouMayAlsoLikeGrid = document.getElementById('detailYouMayAlsoLikeGrid');
+        if (content.recommendations && content.recommendations.results.length > 0) {
+            // Filter recommendations by the current content type for consistency
+            const filteredRecommendations = content.recommendations.results.filter(rec => rec.media_type === content.media_type);
+            renderContentCards(filteredRecommendations.slice(0, 8), content.media_type, detailYouMayAlsoLikeGrid);
+
+            // IMPORTANT: Attach event listener to the newly rendered detailYouMayAlsoLikeGrid
+            // This ensures clicking on these recommended contents works.
+            detailYouMayAlsoLikeGrid.addEventListener('click', async (event) => {
+                const contentCard = event.target.closest('.movie-card');
+                if (contentCard && contentCard.dataset.contentId && contentCard.dataset.contentType) {
+                    const contentId = contentCard.dataset.contentId;
+                    const type = contentCard.dataset.contentType;
+                    await fetchAndDisplayContentDetails(contentId, type); // Recursively open new detail page
+                }
+            });
+
+        } else {
+            detailYouMayAlsoLikeGrid.innerHTML = `<p class="placeholder-message">No recommendations found for this ${content.media_type}.</p>`;
+        }
+    }
+
+    // --- Utility Functions ---
+
+    function formatContentTitle(contentType, category) {
+        if (category === 'upcoming') {
+            return `New Movies`;
+        }
+        const words = category.split('-');
+        const capitalizedWords = words.map(word => word.charAt(0).toUpperCase() + word.slice(1));
+        // Handle specific TV show genre names if they differ significantly from key
+        if (contentType === 'tv') {
+            if (category === 'action-adventure') return 'Action & Adventure TV Shows';
+            if (category === 'sci-fi-fantasy') return 'Sci-Fi & Fantasy TV Shows';
+            if (category === 'war-politics') return 'War & Politics TV Shows';
+        }
+        return `All ${capitalizedWords.join(' ')} ${contentType === 'movie' ? 'Movies' : 'TV Shows'}`;
+    }
+
+    async function initializeApp() {
+    await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
+    showListView();
+
+    // USA content preloading for global users
+    if ('serviceWorker' in navigator && 'caches' in window) {
+        setTimeout(() => {
+            USACacheManager.preloadUSAContent();
+        }, 2000);
+    }
+}
+
+    initializeApp();
+});
