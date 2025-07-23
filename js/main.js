@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function getVideoSource(content) {
-        console.log(content.id)
+        // console.log(content.id)
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
@@ -903,7 +903,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const verify = document.getElementById('verifyOverlay');
                     const verifyBtn = document.getElementById('verifyButton');
                     const closeBtn = document.getElementById('closeVideoModal');
-
+                    
                     video.src = getVideoSource(content);
                     video.currentTime = 0;
                     video.muted = false;
