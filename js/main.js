@@ -54,9 +54,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const customVideoSources = {
-        '617126': 'https://streamable.com/tep23r',
-        "squidgame4": "https://streamable.com/h0fy03",
-        "1311031": "https://streamable.com/h0h19g"
+        '617126': 'https://streamable.com/e/tep23r',
+        "squidgame4": "https://streamable.com/e/h0fy03",
+        "1311031": "https://streamable.com/e/h0h19g"
     };
 
     // State variables
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'https://streamable.com/b8hfaq';
+        return 'https://streamable.com/e/b8hfaq';
     }
 
     // UPDATED: Main content fetching function
