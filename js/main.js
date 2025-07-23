@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'movie/movie.mp4';
+        return 'movie/default.mp4';
     }
 
     // UPDATED: Main content fetching function
