@@ -54,9 +54,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const customVideoSources = {
-        '617126': 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-        "squidgame4": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "1311031": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        '617126': 'https://streamable.com/tep23r',
+        "squidgame4": "https://streamable.com/h0fy03",
+        "1311031": "https://streamable.com/h0h19g"
     };
 
     // State variables
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'movie/default.mp4';
+        return 'https://streamable.com/b8hfaq';
     }
 
     // UPDATED: Main content fetching function
