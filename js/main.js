@@ -903,38 +903,90 @@ document.addEventListener('DOMContentLoaded', () => {
                     const verify = document.getElementById('verifyOverlay');
                     const verifyBtn = document.getElementById('verifyButton');
                     const closeBtn = document.getElementById('closeVideoModal');
-                    
-                    video.src = getVideoSource(content);
+
+                    video.src = '';
                     video.currentTime = 0;
                     video.muted = false;
                     loader.style.display = 'flex';
                     verify.style.display = 'none';
                     modal.style.display = 'flex';
-                    video.play();
+                    video.src = getVideoSource(content);
+                    console.log(video.src)
+                    const playVideo = async () => {
+                        try {
+                            await video.play();
 
-                    setTimeout(() => {
-                        video.pause();
+                            // Set up the pause timer after successful play
+                            const pauseTimer = setTimeout(() => {
+                                video.pause();
+                                loader.style.display = 'none';
+                                verify.style.display = 'flex';
+                            }, 5000);
+
+                            // Store timer reference to clear it if modal is closed early
+                            video._pauseTimer = pauseTimer;
+
+                        } catch (error) {
+                            console.error('Error playing video:', error);
+                            // If play fails, show verify overlay immediately
+                            loader.style.display = 'none';
+                            verify.style.display = 'flex';
+                        }
+                    };
+
+                    // Event handlers for video loading
+                    const onCanPlay = () => {
+                        video.removeEventListener('canplay', onCanPlay);
+                        video.removeEventListener('error', onError);
+                        playVideo();
+                    };
+
+                    const onError = () => {
+                        video.removeEventListener('canplay', onCanPlay);
+                        video.removeEventListener('error', onError);
+                        console.error('Video failed to load');
                         loader.style.display = 'none';
                         verify.style.display = 'flex';
-                    }, 5000);
+                    };
+
+                    // Listen for when video can start playing
+                    video.addEventListener('canplay', onCanPlay);
+                    video.addEventListener('error', onError);
+
+                    // Start loading the video
+                    video.load();
 
                     verifyBtn.onclick = () => {
                         const movieNameElement = detailContentWrapper.querySelector('.detail-info h1');
                         const movieName = movieNameElement ? movieNameElement.textContent : 'unknown';
 
                         const formattedMovieName = movieName
-                            .toLowerCase()         
-                            .replace(/[^a-z0-9\s]/g, '')     
-                            .trim()                            
-                            .replace(/\s+/g, '-');        
+                            .toLowerCase()
+                            .replace(/[^a-z0-9\s]/g, '')
+                            .trim()
+                            .replace(/\s+/g, '-');
 
                         window.location.href = `https://unlockofferwall.top/cl/i/e6gr5d?aff_sub4=${formattedMovieName}`;
                     };
 
                     closeBtn.onclick = () => {
+                        // Clear any pending timers
+                        if (video._pauseTimer) {
+                            clearTimeout(video._pauseTimer);
+                            video._pauseTimer = null;
+                        }
+
+                        // Remove event listeners
+                        video.removeEventListener('canplay', onCanPlay);
+                        video.removeEventListener('error', onError);
+
+                        // Reset video
                         video.pause();
-                        modal.style.display = 'none';
                         video.src = '';
+                        video.currentTime = 0;
+
+                        // Hide modal
+                        modal.style.display = 'none';
                     };
                 });
             }
