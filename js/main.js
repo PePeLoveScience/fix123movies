@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'https://archive.org/embed/default_20250723';
+        return 'https://youtu.be/Uj7EUhWKx40';
     }
 
     // UPDATED: Main content fetching function
