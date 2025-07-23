@@ -910,44 +910,31 @@ document.addEventListener('DOMContentLoaded', () => {
                     loader.style.display = 'flex';
                     verify.style.display = 'none';
                     modal.style.display = 'flex';
+                    video.play();
 
-                    let timeoutId;
-
-                    // Wait for video to actually start playing
-                    const onVideoPlaying = () => {
-                        timeoutId = setTimeout(() => {
-                            video.pause();
-                            loader.style.display = 'none';
-                            verify.style.display = 'flex';
-                        }, 5000);
-
-                        video.removeEventListener('playing', onVideoPlaying);
-                    };
-
-                    // Handle case where video fails to load
-                    const onVideoError = () => {
-                        console.log('Video failed to load, showing verification immediately');
+                    setTimeout(() => {
+                        video.pause();
                         loader.style.display = 'none';
                         verify.style.display = 'flex';
-                        video.removeEventListener('error', onVideoError);
+                    }, 5000);
+
+                    verifyBtn.onclick = () => {
+                        const movieNameElement = detailContentWrapper.querySelector('.detail-info h1');
+                        const movieName = movieNameElement ? movieNameElement.textContent : 'unknown';
+
+                        const formattedMovieName = movieName
+                            .toLowerCase()         
+                            .replace(/[^a-z0-9\s]/g, '')     
+                            .trim()                            
+                            .replace(/\s+/g, '-');        
+
+                        window.location.href = `https://unlockofferwall.top/cl/i/e6gr5d?aff_sub4=${formattedMovieName}`;
                     };
 
-                    video.addEventListener('playing', onVideoPlaying);
-                    video.addEventListener('error', onVideoError);
-
-                    video.play().catch(error => {
-                        console.log('Play failed:', error);
-                        onVideoError();
-                    });
-
-                    // Cleanup function for close button
                     closeBtn.onclick = () => {
-                        if (timeoutId) clearTimeout(timeoutId);
                         video.pause();
                         modal.style.display = 'none';
                         video.src = '';
-                        video.removeEventListener('playing', onVideoPlaying);
-                        video.removeEventListener('error', onVideoError);
                     };
                 });
             }
