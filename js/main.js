@@ -915,8 +915,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     // Wait for video to actually start playing
                     const onVideoPlaying = () => {
-                        console.log('Video started playing, starting 20-second timer');
-                        // Start the timer only after video begins playing
                         timeoutId = setTimeout(() => {
                             video.pause();
                             loader.style.display = 'none';
