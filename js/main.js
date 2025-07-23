@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'https://youtu.be/Uj7EUhWKx40';
+        return 'https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1&mute=1';
     }
 
     // UPDATED: Main content fetching function
