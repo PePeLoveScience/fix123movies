@@ -18,8 +18,8 @@
     "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
     "first_air_date": "2021-09-17",
     "name": "Squid Game",
-    "vote_average": 7.866,
-    "vote_count": 16412
+    "vote_average": 7.9,
+    "vote_count": 16413
   },
   {
     "adult": false,
@@ -62,8 +62,8 @@
     "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
     "first_air_date": "2005-09-13",
     "name": "Supernatural",
-    "vote_average": 8.3,
-    "vote_count": 7897
+    "vote_average": 8.299,
+    "vote_count": 7898
   },
   {
     "adult": false,
@@ -196,8 +196,8 @@
     "poster_path": "/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
     "first_air_date": "2025-07-17",
     "name": "UNTAMED",
-    "vote_average": 7.5,
-    "vote_count": 74
+    "vote_average": 7.438,
+    "vote_count": 81
   },
   {
     "adult": false,
@@ -262,8 +262,8 @@
     "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
     "first_air_date": "2006-10-01",
     "name": "Dexter",
-    "vote_average": 8.2,
-    "vote_count": 4747
+    "vote_average": 8.216,
+    "vote_count": 4748
   },
   {
     "adult": false,
@@ -444,70 +444,71 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/9b6oND8sUhJT9WESAHg4kufvUry.jpg",
+    "backdrop_path": "/mrGd5M3kPkAKynZruOAwsadsr9w.jpg",
     "genre_ids": [
-      10766,
-      9648,
-      18
-    ],
-    "id": 79250,
-    "origin_country": [
-      "CL"
-    ],
-    "original_language": "es",
-    "original_name": "Verdades ocultas",
-    "overview": "A woman is faced with the dilemma of selling her four-year-old daughter. 20 years later, fate will reunite them, unleashing unthinkable consequences.",
-    "popularity": 81.9959,
-    "poster_path": "/bp7tyY5mAKJ9VSmLv3tX0RaYeig.jpg",
-    "first_air_date": "2017-07-24",
-    "name": "Verdades ocultas",
-    "vote_average": 5,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mXVr88l7877i0P4cLQl1mUvaXGJ.jpg",
-    "genre_ids": [
-      10766,
-      10751,
-      35,
+      80,
+      18,
       9648
     ],
-    "id": 66203,
-    "origin_country": [
-      "AR"
-    ],
-    "original_language": "es",
-    "original_name": "Soy Luna",
-    "overview": "Luna Valente lives with her family in Cancún, Mexico. She goes to school, has her own group of friends, has a job, and loves to skate. However, her life changes when her parents are given a job offer that moves them to Buenos Aires, Argentina. There she finds a new skating rink (named Jam & Roller), learns freestyling, makes new friends, and even falls in love.",
-    "popularity": 71.8856,
-    "poster_path": "/4JDmIzhNF7aMsDGlxVwkQ9kv9E6.jpg",
-    "first_air_date": "2016-03-14",
-    "name": "Soy Luna",
-    "vote_average": 7.964,
-    "vote_count": 1072
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
-    "genre_ids": [
-      9648,
-      18,
-      80
-    ],
-    "id": 4920,
+    "id": 69050,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Damages",
-    "overview": "Damages is an American legal thriller television series created by the writing and production trio of Daniel Zelman and brothers Glenn and Todd A. Kessler. The plot revolves around the brilliant, ruthless lawyer Patty Hewes and her protégée, recent law school graduate Ellen Parsons. Each season features a major case that Hewes and her firm take on, while also examining a chapter of the complicated relationship between Ellen and Patty. The first two seasons center around the law firm Hewes & Associates. Later seasons center more on Patty and Ellen's relationship as Ellen begins to distance herself from Hewes & Associates and begins an independent career.",
-    "popularity": 95.2445,
-    "poster_path": "/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
-    "first_air_date": "2007-07-24",
-    "name": "Damages",
-    "vote_average": 7.457,
-    "vote_count": 220
+    "original_name": "Riverdale",
+    "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+    "popularity": 137.4996,
+    "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+    "first_air_date": "2017-01-26",
+    "name": "Riverdale",
+    "vote_average": 8.427,
+    "vote_count": 13581
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 764,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Midsomer Murders",
+    "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+    "popularity": 133.333,
+    "poster_path": "/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg",
+    "first_air_date": "1997-03-23",
+    "name": "Midsomer Murders",
+    "vote_average": 7.534,
+    "vote_count": 325
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AqCZow3yUrQn8ltGgS0p1dcBqLo.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10765,
+      9648
+    ],
+    "id": 81665,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Summer Camp Island",
+    "overview": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
+    "popularity": 132.7641,
+    "poster_path": "/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
+    "first_air_date": "2018-07-07",
+    "name": "Summer Camp Island",
+    "vote_average": 7.8,
+    "vote_count": 45
   },
   {
     "adult": false,
@@ -533,161 +534,48 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/ffGBWJwd327nprZI9vF8kD4V6dS.jpg",
+    "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
     "genre_ids": [
-      18,
       80,
+      18,
       9648
     ],
-    "id": 40663,
+    "id": 5920,
     "origin_country": [
-      "JP"
+      "US"
     ],
-    "original_language": "ja",
-    "original_name": "相棒",
-    "overview": "Detective Ukyo Sugishita confronts crime on the basis of his own convictions. He has a partner that works for him in the Special Task Unit. For the first 7 seasons, Ukyo’s first partner is Kaoru Kameyama. He is a good-natured, hot-tempered, straightforward and somewhat scattered detective. Beginning in Season 8, Takeru Kanbe replaces Kameyama. Contrary to his predecessor, Takeru is a lanky, cool, conceited and confident detective. From Season 11 to Season 13, Ukyo’s partner is a young detective Toru Kai. Toru is a son of Deputy Director-General of The National Police Agency. But he became a detective by his own effort. And starting with Season 14, Ukyo’s current partner is Wataru Kaburagi, an elite bureaucrat who came to the Metropolitan Police Department on temporary assignment. As the first partner without any career of a police officer, he will face challenging cases together with Ukyo.",
-    "popularity": 107.7077,
-    "poster_path": "/8u8rCCeuBufMQ1VlGX0lruhDaPR.jpg",
-    "first_air_date": "2002-10-09",
-    "name": "AIBOU: Tokyo Detective Duo",
-    "vote_average": 7.9,
-    "vote_count": 16
+    "original_language": "en",
+    "original_name": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "popularity": 125.1841,
+    "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "first_air_date": "2008-09-23",
+    "name": "The Mentalist",
+    "vote_average": 8.361,
+    "vote_count": 3955
   },
   {
     "adult": false,
-    "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+    "backdrop_path": "/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg",
     "genre_ids": [
       16,
+      10759,
       35,
-      10751,
-      10762,
       9648
     ],
-    "id": 68073,
-    "origin_country": [
-      "GB",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Loud House",
-    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
-    "popularity": 138.1789,
-    "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
-    "first_air_date": "2016-05-02",
-    "name": "The Loud House",
-    "vote_average": 7.837,
-    "vote_count": 541
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Zef1eiCoLb7vWutWNAa3zeyxd6.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      80
-    ],
-    "id": 2751,
+    "id": 88786,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The New Alfred Hitchcock Presents",
-    "overview": "The New Alfred Hitchcock Presents is an American anthology series that aired on NBC from 1985 to 1986, and on the USA Network from 1987 to 1989. The series is an updated re-imagining of the classic 1955 series Alfred Hitchcock Presents.",
-    "popularity": 70.2435,
-    "poster_path": "/mCJgmCdMZRArcP3pOg6cZ6OpxpV.jpg",
-    "first_air_date": "1985-09-29",
-    "name": "The New Alfred Hitchcock Presents",
-    "vote_average": 7.2,
-    "vote_count": 52
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
-    "genre_ids": [
-      9648,
-      10759,
-      18
-    ],
-    "id": 4607,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lost",
-    "overview": "Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds many secrets.",
-    "popularity": 144.4356,
-    "poster_path": "/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-    "first_air_date": "2004-09-22",
-    "name": "Lost",
-    "vote_average": 7.9,
-    "vote_count": 4600
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7gGSzCBjGkokJLd9zPryHpWiqwr.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      9648
-    ],
-    "id": 8864,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": ".hack",
-    "overview": ".hack follows several young players as they navigate the vast, mysterious MMORPG known as “The World” – a place, it turns out, that is sometimes impossible to leave.",
-    "popularity": 109.2646,
-    "poster_path": "/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
-    "first_air_date": "2002-04-04",
-    "name": ".hack",
-    "vote_average": 6.9,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sCyzwACda02TQuaUKhk67ccUm2S.jpg",
-    "genre_ids": [
-      10751,
-      9648,
-      10765
-    ],
-    "id": 35016,
-    "origin_country": [
-      "BE",
-      "GB",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "House of Anubis",
-    "overview": "Strange things are happening at an English boarding school called House of Anubis. Popular student Joy goes missing, the school's cranky caretaker has a creepy stuffed crow and the school's attic may be haunted. When recent American transplant Nina gets thrust into the school during this time, she decides to investigate along with her new friend, Fabian, and housemates.",
-    "popularity": 74.3175,
-    "poster_path": "/llPkPieIBfVXKIklkeP5VddpK8b.jpg",
-    "first_air_date": "2011-01-01",
-    "name": "House of Anubis",
-    "vote_average": 8.096,
-    "vote_count": 270
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mAJ84W6I8I272Da87qplS2Dp9ST.jpg",
-    "genre_ids": [
-      18,
-      9648
-    ],
-    "id": 202250,
-    "origin_country": [
-      "PH"
-    ],
-    "original_language": "tl",
-    "original_name": "Dirty Linen",
-    "overview": "To exact vengeance, a young woman infiltrates the household of an influential family as a housemaid to expose their dirty secrets. However, love will get in the way of her revenge plot.",
-    "popularity": 139.4325,
-    "poster_path": "/fiK3u7oQb2Nsi2kuR73RRyIIGDD.jpg",
-    "first_air_date": "2023-01-23",
-    "name": "Dirty Linen",
-    "vote_average": 6.662,
-    "vote_count": 105
+    "original_name": "Victor and Valentino",
+    "overview": "Two half-brothers spend a summer with their grandma in Monte Macabre, a small and mysterious town, where the myths and legends of Latin American folklore come to life.",
+    "popularity": 122.0807,
+    "poster_path": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
+    "first_air_date": "2019-03-30",
+    "name": "Victor and Valentino",
+    "vote_average": 6,
+    "vote_count": 16
   },
   {
     "adult": false,
@@ -713,47 +601,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/5qNlwCIPJm4RkO3MnxfPnnwB310.jpg",
+    "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
     "genre_ids": [
-      80,
-      9648,
-      18
-    ],
-    "id": 21728,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Alfred Hitchcock Hour",
-    "overview": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
-    "popularity": 61.1556,
-    "poster_path": "/6bnJU1YmobWBNokjLruUsZ6cykC.jpg",
-    "first_air_date": "1962-09-20",
-    "name": "The Alfred Hitchcock Hour",
-    "vote_average": 7.847,
-    "vote_count": 72
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
-    "genre_ids": [
-      80,
       18,
-      9648
+      9648,
+      80
     ],
-    "id": 1431,
+    "id": 1620,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "CSI: Crime Scene Investigation",
-    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
-    "popularity": 149.7442,
-    "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
-    "first_air_date": "2000-10-06",
-    "name": "CSI: Crime Scene Investigation",
-    "vote_average": 7.636,
-    "vote_count": 1303
+    "original_name": "CSI: Miami",
+    "overview": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+    "popularity": 116.4811,
+    "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+    "first_air_date": "2002-09-23",
+    "name": "CSI: Miami",
+    "vote_average": 7.712,
+    "vote_count": 1638
   },
   {
     "adult": false,
@@ -776,72 +642,6 @@
     "name": "Adaalat",
     "vote_average": 7.5,
     "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ag5MAkEw5Z766XONyrcvVy5Nkoh.jpg",
-    "genre_ids": [
-      18,
-      80,
-      9648,
-      10759
-    ],
-    "id": 102387,
-    "origin_country": [
-      "PH"
-    ],
-    "original_language": "en",
-    "original_name": "Wildflower",
-    "overview": "Wildflower is a Philippine revenge drama television series starring Maja Salvador, together with an ensemble cast. The show originally aired on ABS-CBN, and worldwide on The Filipino Channel, from February 13, 2017 to February 9, 2018.",
-    "popularity": 89.8721,
-    "poster_path": "/r8RCm4l9wqbSKW7AACJvSFfpgdb.jpg",
-    "first_air_date": "2017-02-13",
-    "name": "Wildflower",
-    "vote_average": 8,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lSFz1ChGVh2EsepmbTDKPLGG66X.jpg",
-    "genre_ids": [
-      10765,
-      9648
-    ],
-    "id": 51821,
-    "origin_country": [
-      "TW"
-    ],
-    "original_language": "zh",
-    "original_name": "包青天",
-    "overview": "Justice Bao is a 236-episode television series from Taiwan, first airing on Chinese Television System from February 1993 to January 1994. The show stars Jin Chao-chun as the Chinese official Bao Zheng in the Song Dynasty. It was hugely popular in Greater China as well as many other countries in the Far East.\n\nThe series was originally scheduled for just 15 episodes. However, the show garnered high ratings when the initial episodes aired. Due to its popularity, CTS expanded the show to 236 episodes.\n\nThe TVB and ATV Home networks in Hong Kong both bought the series in an attempt to gain viewers. Competition between the two networks during the showing of the series was so severe that identical episodes were shown on both channels on the same night. It was also one of the first dramas that used NICAM technology.",
-    "popularity": 91.761,
-    "poster_path": "/9jdHOuYgpx4DwU2VeniJOnNUAT7.jpg",
-    "first_air_date": "1993-03-23",
-    "name": "Justice Pao",
-    "vote_average": 8.5,
-    "vote_count": 11
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 764,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Midsomer Murders",
-    "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
-    "popularity": 133.333,
-    "poster_path": "/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg",
-    "first_air_date": "1997-03-23",
-    "name": "Midsomer Murders",
-    "vote_average": 7.534,
-    "vote_count": 325
   },
   {
     "adult": false,
@@ -868,68 +668,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
     "genre_ids": [
-      16,
+      9648,
       18,
-      9648
+      80
     ],
-    "id": 220542,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "薬屋のひとりごと",
-    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-    "popularity": 108.9114,
-    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-    "first_air_date": "2023-10-22",
-    "name": "The Apothecary Diaries",
-    "vote_average": 8.7,
-    "vote_count": 391
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dIO2lotjPIYPLcKM1cPxVc6Opy6.jpg",
-    "genre_ids": [
-      10765,
-      9648
-    ],
-    "id": 71488,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "世にも奇妙な物語",
-    "overview": "Inspired by American TV movies like \"Hitchcock Theater\" and \"The Twilight Zone,\" the show features multiple works with Tamori as the storyteller and actors as the main characters. While horror and supernatural themes are predominant, a variety of genres like comedy and drama are also produced. Most episodes, however, have a bad ending.",
-    "popularity": 93.7327,
-    "poster_path": "/7XVTRl17sNGh8tRzSczEZXaiwPG.jpg",
-    "first_air_date": "1990-04-19",
-    "name": "Tales of the Bizarre",
-    "vote_average": 7.8,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 5920,
+    "id": 60585,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The Mentalist",
-    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
-    "popularity": 125.1841,
-    "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
-    "first_air_date": "2008-09-23",
-    "name": "The Mentalist",
-    "vote_average": 8.361,
-    "vote_count": 3955
+    "original_name": "Bosch",
+    "overview": "Based on Michael Connelly's best-selling novels, these are the stories of relentless LAPD homicide Detective Harry Bosch who pursues justice at all costs. But behind his tireless momentum is a man who is haunted by his past and struggles to remain loyal to his personal code: “Everybody counts or nobody counts.”",
+    "popularity": 112.5453,
+    "poster_path": "/lQPwNJ6DRpmRfTrKy8A94c7IvU3.jpg",
+    "first_air_date": "2015-01-14",
+    "name": "Bosch",
+    "vote_average": 7.927,
+    "vote_count": 633
   },
   {
     "adult": false,
@@ -956,70 +713,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/tRfqx8O8gqvJd9ssxr36kIYpzJt.jpg",
+    "backdrop_path": "/7gGSzCBjGkokJLd9zPryHpWiqwr.jpg",
     "genre_ids": [
-      10764,
-      10765,
-      9648,
-      10767
-    ],
-    "id": 32803,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Celebrity Ghost Stories",
-    "overview": "Compelling, surprising and downright spooky — celebrities share their real-life personal encounters with the paranormal in each one-hour special. From encounters with ghosts and angry spirits to haunted homes, unexplainable spells and magic, these descriptive, first person narratives from our favorite stars delivers a brand new way of experiencing the thrills and chills of the addictive world of the paranormal.",
-    "popularity": 42.8076,
-    "poster_path": "/2nQByTYVW27g3XyZNQeStzm1mD4.jpg",
-    "first_air_date": "2009-10-03",
-    "name": "Celebrity Ghost Stories",
-    "vote_average": 7.3,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1xFGbReR3wAm6CHA2nPAJhXHMxW.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 2223,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The F.B.I.",
-    "overview": "The F.B.I. is an American television series that was broadcast on ABC from 1965 to 1974. It was sponsored by the Ford Motor Company, and the characters almost always drove Ford vehicles in the series. Alcoa was co-sponsor of Season One only.",
-    "popularity": 73.0603,
-    "poster_path": "/tUlL68lFmnonSg180QJ59ipnd7c.jpg",
-    "first_air_date": "1965-09-19",
-    "name": "The F.B.I.",
-    "vote_average": 5.455,
-    "vote_count": 22
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/azYkdfJEkhn94jozR87t46LeCst.jpg",
-    "genre_ids": [
-      16,
       10759,
+      16,
       9648
     ],
-    "id": 652,
+    "id": 8864,
     "origin_country": [
-      "US"
+      "JP"
     ],
-    "original_language": "en",
-    "original_name": "What's New, Scooby-Doo?",
-    "overview": "Scooby-Doo and the Mystery, Inc. gang are launched into the 21st century, with new mysteries to solve.",
-    "popularity": 72.2211,
-    "poster_path": "/7sX80eWq4XHvFGUmCg803iifUcG.jpg",
-    "first_air_date": "2002-09-14",
-    "name": "What's New, Scooby-Doo?",
-    "vote_average": 7.862,
-    "vote_count": 658
+    "original_language": "ja",
+    "original_name": ".hack",
+    "overview": ".hack follows several young players as they navigate the vast, mysterious MMORPG known as “The World” – a place, it turns out, that is sometimes impossible to leave.",
+    "popularity": 109.2646,
+    "poster_path": "/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
+    "first_air_date": "2002-04-04",
+    "name": ".hack",
+    "vote_average": 6.9,
+    "vote_count": 32
   },
   {
     "adult": false,
@@ -1045,158 +757,47 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
     "genre_ids": [
-      10765,
+      16,
       18,
       9648
     ],
-    "id": 42009,
+    "id": 220542,
     "origin_country": [
-      "GB"
+      "JP"
     ],
-    "original_language": "en",
-    "original_name": "Black Mirror",
-    "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-    "popularity": 105.3397,
-    "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-    "first_air_date": "2011-12-04",
-    "name": "Black Mirror",
-    "vote_average": 8.286,
-    "vote_count": 5592
+    "original_language": "ja",
+    "original_name": "薬屋のひとりごと",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "popularity": 108.9114,
+    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "first_air_date": "2023-10-22",
+    "name": "The Apothecary Diaries",
+    "vote_average": 8.7,
+    "vote_count": 391
   },
   {
     "adult": false,
-    "backdrop_path": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+    "backdrop_path": "/ffGBWJwd327nprZI9vF8kD4V6dS.jpg",
     "genre_ids": [
       18,
-      9648,
-      10765
-    ],
-    "id": 1413,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "popularity": 101.3055,
-    "poster_path": "/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
-    "first_air_date": "2011-10-05",
-    "name": "American Horror Story",
-    "vote_average": 8.11,
-    "vote_count": 5794
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      80
-    ],
-    "id": 1620,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "CSI: Miami",
-    "overview": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
-    "popularity": 116.4811,
-    "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
-    "first_air_date": "2002-09-23",
-    "name": "CSI: Miami",
-    "vote_average": 7.712,
-    "vote_count": 1638
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kX85yrRyeCYqcRgyz9Xmsfk7Ptm.jpg",
-    "genre_ids": [
-      10766,
-      18,
-      35,
-      9648
-    ],
-    "id": 16120,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Alma Gêmea",
-    "overview": "A young woman is fated to relive the love of an earlier life. Separated by time, young Serena and botanist Rafael surmount all obstacles as they live a love that is stronger than fate itself. These challenges include the lovely but ambitious Cristina, who is obsessed by the rich botanist and driven nearly mad by her attempts to shatter their great love. A romantic comedy set in the 1940s, Soul Mate underscores the importance of love, family values and the ties of affection with a light touch and plenty of humor.",
-    "popularity": 92.4481,
-    "poster_path": "/2HxNkrtEOgP4VEKzVBdBHHsnO6o.jpg",
-    "first_air_date": "2005-06-20",
-    "name": "Alma Gêmea",
-    "vote_average": 6.3,
-    "vote_count": 21
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
-    "genre_ids": [
-      35,
       80,
       9648
     ],
-    "id": 1695,
+    "id": 40663,
     "origin_country": [
-      "US"
+      "JP"
     ],
-    "original_language": "en",
-    "original_name": "Monk",
-    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
-    "popularity": 95.2285,
-    "poster_path": "/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
-    "first_air_date": "2002-07-12",
-    "name": "Monk",
-    "vote_average": 7.951,
-    "vote_count": 1156
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 790,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Agatha Christie's Poirot",
-    "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
-    "popularity": 102.2717,
-    "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
-    "first_air_date": "1989-01-08",
-    "name": "Agatha Christie's Poirot",
-    "vote_average": 8.163,
-    "vote_count": 508
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yLRGIigN6BWvEQaJCtRti4mnQkI.jpg",
-    "genre_ids": [
-      80,
-      9648,
-      10764
-    ],
-    "id": 74561,
-    "origin_country": [
-      "CN"
-    ],
-    "original_language": "zh",
-    "original_name": "明星大侦探",
-    "overview": "The cast is introduced to the settings and suspects of a murder case for the new episode. The cast then chooses their role in the episode, as a particular suspect or the detective.",
-    "popularity": 87.1852,
-    "poster_path": "/dq1agPep7vuzH1G7q4vBxxCeozv.jpg",
-    "first_air_date": "2016-03-27",
-    "name": "Who's the Murderer",
-    "vote_average": 8.2,
-    "vote_count": 13
+    "original_language": "ja",
+    "original_name": "相棒",
+    "overview": "Detective Ukyo Sugishita confronts crime on the basis of his own convictions. He has a partner that works for him in the Special Task Unit. For the first 7 seasons, Ukyo’s first partner is Kaoru Kameyama. He is a good-natured, hot-tempered, straightforward and somewhat scattered detective. Beginning in Season 8, Takeru Kanbe replaces Kameyama. Contrary to his predecessor, Takeru is a lanky, cool, conceited and confident detective. From Season 11 to Season 13, Ukyo’s partner is a young detective Toru Kai. Toru is a son of Deputy Director-General of The National Police Agency. But he became a detective by his own effort. And starting with Season 14, Ukyo’s current partner is Wataru Kaburagi, an elite bureaucrat who came to the Metropolitan Police Department on temporary assignment. As the first partner without any career of a police officer, he will face challenging cases together with Ukyo.",
+    "popularity": 107.7077,
+    "poster_path": "/8u8rCCeuBufMQ1VlGX0lruhDaPR.jpg",
+    "first_air_date": "2002-10-09",
+    "name": "AIBOU: Tokyo Detective Duo",
+    "vote_average": 7.9,
+    "vote_count": 16
   },
   {
     "adult": false,
@@ -1223,25 +824,289 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/8AqPuvo0r89khk01yEFT321jiDn.jpg",
+    "backdrop_path": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
     "genre_ids": [
-      9648,
       10765,
-      18
+      18,
+      9648
     ],
-    "id": 79242,
+    "id": 42009,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Black Mirror",
+    "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
+    "popularity": 105.3397,
+    "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+    "first_air_date": "2011-12-04",
+    "name": "Black Mirror",
+    "vote_average": 8.3,
+    "vote_count": 5593
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 790,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Agatha Christie's Poirot",
+    "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+    "popularity": 102.2717,
+    "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+    "first_air_date": "1989-01-08",
+    "name": "Agatha Christie's Poirot",
+    "vote_average": 8.163,
+    "vote_count": 508
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 1413,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Chilling Adventures of Sabrina",
-    "overview": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
-    "popularity": 62.4768,
-    "poster_path": "/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
-    "first_air_date": "2018-10-26",
-    "name": "Chilling Adventures of Sabrina",
-    "vote_average": 8.197,
-    "vote_count": 3618
+    "original_name": "American Horror Story",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "popularity": 101.3055,
+    "poster_path": "/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+    "first_air_date": "2011-10-05",
+    "name": "American Horror Story",
+    "vote_average": 8.11,
+    "vote_count": 5794
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+    "genre_ids": [
+      9648,
+      10765
+    ],
+    "id": 253372,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Institute",
+    "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+    "popularity": 88.2157,
+    "poster_path": "/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+    "first_air_date": "2025-07-13",
+    "name": "The Institute",
+    "vote_average": 7.821,
+    "vote_count": 28
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      80
+    ],
+    "id": 4920,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Damages",
+    "overview": "Damages is an American legal thriller television series created by the writing and production trio of Daniel Zelman and brothers Glenn and Todd A. Kessler. The plot revolves around the brilliant, ruthless lawyer Patty Hewes and her protégée, recent law school graduate Ellen Parsons. Each season features a major case that Hewes and her firm take on, while also examining a chapter of the complicated relationship between Ellen and Patty. The first two seasons center around the law firm Hewes & Associates. Later seasons center more on Patty and Ellen's relationship as Ellen begins to distance herself from Hewes & Associates and begins an independent career.",
+    "popularity": 93.1902,
+    "poster_path": "/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
+    "first_air_date": "2007-07-24",
+    "name": "Damages",
+    "vote_average": 7.468,
+    "vote_count": 221
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dMY7XUfEAK0Rl8hsgc8ufEOaiZ2.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "id": 1695,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Monk",
+    "overview": "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
+    "popularity": 96.4721,
+    "poster_path": "/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+    "first_air_date": "2002-07-12",
+    "name": "Monk",
+    "vote_average": 7.951,
+    "vote_count": 1156
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dIO2lotjPIYPLcKM1cPxVc6Opy6.jpg",
+    "genre_ids": [
+      10765,
+      9648
+    ],
+    "id": 71488,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "世にも奇妙な物語",
+    "overview": "Inspired by American TV movies like \"Hitchcock Theater\" and \"The Twilight Zone,\" the show features multiple works with Tamori as the storyteller and actors as the main characters. While horror and supernatural themes are predominant, a variety of genres like comedy and drama are also produced. Most episodes, however, have a bad ending.",
+    "popularity": 88.2646,
+    "poster_path": "/7XVTRl17sNGh8tRzSczEZXaiwPG.jpg",
+    "first_air_date": "1990-04-19",
+    "name": "Tales of the Bizarre",
+    "vote_average": 7.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 39351,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Grimm",
+    "overview": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
+    "popularity": 92.7073,
+    "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+    "first_air_date": "2011-10-28",
+    "name": "Grimm",
+    "vote_average": 8.268,
+    "vote_count": 3354
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kX85yrRyeCYqcRgyz9Xmsfk7Ptm.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35,
+      9648
+    ],
+    "id": 16120,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Alma Gêmea",
+    "overview": "A young woman is fated to relive the love of an earlier life. Separated by time, young Serena and botanist Rafael surmount all obstacles as they live a love that is stronger than fate itself. These challenges include the lovely but ambitious Cristina, who is obsessed by the rich botanist and driven nearly mad by her attempts to shatter their great love. A romantic comedy set in the 1940s, Soul Mate underscores the importance of love, family values and the ties of affection with a light touch and plenty of humor.",
+    "popularity": 91.5769,
+    "poster_path": "/2HxNkrtEOgP4VEKzVBdBHHsnO6o.jpg",
+    "first_air_date": "2005-06-20",
+    "name": "Alma Gêmea",
+    "vote_average": 6.3,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lSFz1ChGVh2EsepmbTDKPLGG66X.jpg",
+    "genre_ids": [
+      10765,
+      9648
+    ],
+    "id": 51821,
+    "origin_country": [
+      "TW"
+    ],
+    "original_language": "zh",
+    "original_name": "包青天",
+    "overview": "Justice Bao is a 236-episode television series from Taiwan, first airing on Chinese Television System from February 1993 to January 1994. The show stars Jin Chao-chun as the Chinese official Bao Zheng in the Song Dynasty. It was hugely popular in Greater China as well as many other countries in the Far East.\n\nThe series was originally scheduled for just 15 episodes. However, the show garnered high ratings when the initial episodes aired. Due to its popularity, CTS expanded the show to 236 episodes.\n\nThe TVB and ATV Home networks in Hong Kong both bought the series in an attempt to gain viewers. Competition between the two networks during the showing of the series was so severe that identical episodes were shown on both channels on the same night. It was also one of the first dramas that used NICAM technology.",
+    "popularity": 85.751,
+    "poster_path": "/9jdHOuYgpx4DwU2VeniJOnNUAT7.jpg",
+    "first_air_date": "1993-03-23",
+    "name": "Justice Pao",
+    "vote_average": 8.5,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ag5MAkEw5Z766XONyrcvVy5Nkoh.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648,
+      10759
+    ],
+    "id": 102387,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "en",
+    "original_name": "Wildflower",
+    "overview": "Wildflower is a Philippine revenge drama television series starring Maja Salvador, together with an ensemble cast. The show originally aired on ABS-CBN, and worldwide on The Filipino Channel, from February 13, 2017 to February 9, 2018.",
+    "popularity": 82.4396,
+    "poster_path": "/r8RCm4l9wqbSKW7AACJvSFfpgdb.jpg",
+    "first_air_date": "2017-02-13",
+    "name": "Wildflower",
+    "vote_average": 8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8dbKQrdVR5HD7PVWjTPawnTYCPT.jpg",
+    "genre_ids": [
+      35,
+      80,
+      18,
+      9648
+    ],
+    "id": 41956,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Death in Paradise",
+    "overview": "A brilliant but idiosyncratic British detective and his resourceful local team solve baffling murder mysteries on the fictional Caribbean island of Saint-Marie.",
+    "popularity": 85.9261,
+    "poster_path": "/u7t6vCyqAdD5hE4eEfTrZmVljDi.jpg",
+    "first_air_date": "2011-10-25",
+    "name": "Death in Paradise",
+    "vote_average": 7.446,
+    "vote_count": 285
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6g5Ic6oiNeIbAZC7QUlzBAs4AKf.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      9648
+    ],
+    "id": 4638,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "TNA iMPACT!",
+    "overview": "TNA iMPACT offers a unique style of wrestling that features a blend of the traditional with high-flying athleticism and cutting edge action. TNA's roster includes the biggest names in wrestling today, and the hottest new stars in the sport.",
+    "popularity": 85.7899,
+    "poster_path": "/tjJkpAmmgujBmLuplbyrc2ajfX9.jpg",
+    "first_air_date": "2004-06-04",
+    "name": "TNA iMPACT!",
+    "vote_average": 7.2,
+    "vote_count": 63
   },
   {
     "adult": false,
@@ -1258,58 +1123,187 @@
     "original_language": "en",
     "original_name": "Murder, She Wrote",
     "overview": "An unassuming mystery writer turned sleuth uses her professional insight to help solve real-life homicide cases.",
-    "popularity": 87.6747,
+    "popularity": 76.4083,
     "poster_path": "/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg",
     "first_air_date": "1984-09-30",
     "name": "Murder, She Wrote",
-    "vote_average": 7.5,
-    "vote_count": 400
+    "vote_average": 7.532,
+    "vote_count": 401
   },
   {
     "adult": false,
-    "backdrop_path": "/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+    "backdrop_path": "/yLRGIigN6BWvEQaJCtRti4mnQkI.jpg",
     "genre_ids": [
-      10759,
       80,
+      9648,
+      10764
+    ],
+    "id": 74561,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "明星大侦探",
+    "overview": "The cast is introduced to the settings and suspects of a murder case for the new episode. The cast then chooses their role in the episode, as a particular suspect or the detective.",
+    "popularity": 83.3236,
+    "poster_path": "/dq1agPep7vuzH1G7q4vBxxCeozv.jpg",
+    "first_air_date": "2016-03-27",
+    "name": "Who's the Murderer",
+    "vote_average": 8.2,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+    "genre_ids": [
       18,
       9648
     ],
-    "id": 67335,
-    "origin_country": [
-      "CO",
-      "US"
-    ],
-    "original_language": "es",
-    "original_name": "Sin senos sí hay paraíso",
-    "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
-    "popularity": 74.9643,
-    "poster_path": "/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
-    "first_air_date": "2016-07-19",
-    "name": "Sin senos sí hay paraíso",
-    "vote_average": 7.549,
-    "vote_count": 2867
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
-    "genre_ids": [
-      9648,
-      18,
-      80
-    ],
-    "id": 60585,
+    "id": 1920,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Bosch",
-    "overview": "Based on Michael Connelly's best-selling novels, these are the stories of relentless LAPD homicide Detective Harry Bosch who pursues justice at all costs. But behind his tireless momentum is a man who is haunted by his past and struggles to remain loyal to his personal code: “Everybody counts or nobody counts.”",
-    "popularity": 112.5453,
-    "poster_path": "/lQPwNJ6DRpmRfTrKy8A94c7IvU3.jpg",
-    "first_air_date": "2015-01-14",
-    "name": "Bosch",
-    "vote_average": 7.927,
-    "vote_count": 632
+    "original_name": "Twin Peaks",
+    "overview": "The body of Laura Palmer is washed up on a beach near the small Washington state town of Twin Peaks. FBI Special Agent Dale Cooper is called in to investigate her strange demise only to uncover a web of mystery that ultimately leads him deep into the heart of the surrounding woodland and his very own soul.",
+    "popularity": 86.326,
+    "poster_path": "/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg",
+    "first_air_date": "1990-04-08",
+    "name": "Twin Peaks",
+    "vote_average": 8.345,
+    "vote_count": 2281
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oHnig7tDh7Lox4GZ95dFmCbU6US.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      9648
+    ],
+    "id": 1705,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Fringe",
+    "overview": "FBI Special Agent Olivia Dunham, brilliant but formerly institutionalized scientist Walter Bishop and his scheming, reluctant son Peter uncover a deadly mystery involving a series of unbelievable events and realize they may be a part of a larger, more disturbing pattern that blurs the line between science fiction and technology.",
+    "popularity": 86.2241,
+    "poster_path": "/sY9hg5dLJ93RJOyKEiu1nAtBRND.jpg",
+    "first_air_date": "2008-09-09",
+    "name": "Fringe",
+    "vote_average": 8.1,
+    "vote_count": 2588
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hunaEPitjdWsJgqmiIBglySNClr.jpg",
+    "genre_ids": [
+      18,
+      9648
+    ],
+    "id": 31917,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Pretty Little Liars",
+    "overview": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls — Spencer, Hanna, Aria, and Emily — whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets — including long-hidden ones they thought only Alison knew.",
+    "popularity": 84.8493,
+    "poster_path": "/yrObh12XoSzRtHRAfHbcVDtkxjn.jpg",
+    "first_air_date": "2010-06-08",
+    "name": "Pretty Little Liars",
+    "vote_average": 7.982,
+    "vote_count": 2682
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      35,
+      9648
+    ],
+    "id": 35610,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "犬夜叉",
+    "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+    "popularity": 82.0039,
+    "poster_path": "/jgvW9n0EwKtq9nbztWhyTvvoqjS.jpg",
+    "first_air_date": "2000-10-16",
+    "name": "InuYasha",
+    "vote_average": 8.583,
+    "vote_count": 2025
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "id": 12786,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Murdoch Mysteries",
+    "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+    "popularity": 81.3536,
+    "poster_path": "/1S8gnT06MDkAmHmzDLSVughE0t0.jpg",
+    "first_air_date": "2008-01-24",
+    "name": "Murdoch Mysteries",
+    "vote_average": 7.714,
+    "vote_count": 266
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
+    "genre_ids": [
+      35,
+      18,
+      9648
+    ],
+    "id": 111803,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The White Lotus",
+    "overview": "Follow the exploits of various guests and employees at an exclusive tropical resort over the span of a week as with each passing day, a darker complexity emerges in these picture-perfect travelers, the hotel’s cheerful employees and the idyllic locale itself.",
+    "popularity": 80.9694,
+    "poster_path": "/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
+    "first_air_date": "2021-07-11",
+    "name": "The White Lotus",
+    "vote_average": 7.614,
+    "vote_count": 1131
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9b6oND8sUhJT9WESAHg4kufvUry.jpg",
+    "genre_ids": [
+      10766,
+      9648,
+      18
+    ],
+    "id": 79250,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_name": "Verdades ocultas",
+    "overview": "A woman is faced with the dilemma of selling her four-year-old daughter. 20 years later, fate will reunite them, unleashing unthinkable consequences.",
+    "popularity": 76.6631,
+    "poster_path": "/bp7tyY5mAKJ9VSmLv3tX0RaYeig.jpg",
+    "first_air_date": "2017-07-24",
+    "name": "Verdades ocultas",
+    "vote_average": 5,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -1326,7 +1320,7 @@
     "original_language": "es",
     "original_name": "Élite",
     "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
-    "popularity": 81.2235,
+    "popularity": 80.1582,
     "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
     "first_air_date": "2018-10-05",
     "name": "Elite",

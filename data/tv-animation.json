@@ -19,8 +19,8 @@
     "poster_path": "/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg",
     "first_air_date": "2025-07-19",
     "name": "Nukitashi the Animation",
-    "vote_average": 6,
-    "vote_count": 3
+    "vote_average": 4.9,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -95,30 +95,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/AqCZow3yUrQn8ltGgS0p1dcBqLo.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10765,
-      9648
-    ],
-    "id": 81665,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Summer Camp Island",
-    "overview": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
-    "popularity": 132.7641,
-    "poster_path": "/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
-    "first_air_date": "2018-07-07",
-    "name": "Summer Camp Island",
-    "vote_average": 7.8,
-    "vote_count": 45
-  },
-  {
-    "adult": false,
     "backdrop_path": "/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
     "genre_ids": [
       16,
@@ -185,7 +161,7 @@
     "first_air_date": "1999-01-31",
     "name": "Family Guy",
     "vote_average": 7.388,
-    "vote_count": 4605
+    "vote_count": 4606
   },
   {
     "adult": false,
@@ -256,24 +232,28 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/mEuIP3V5yOqkxsS8MGu7yniqYDL.jpg",
+    "backdrop_path": "/f1OoogO23fHdm7NzCsCxjFPoQit.jpg",
     "genre_ids": [
+      10759,
       16,
-      9648
+      35,
+      10762,
+      10765,
+      18
     ],
-    "id": 23587,
+    "id": 80559,
     "origin_country": [
       "JP"
     ],
     "original_language": "ja",
-    "original_name": "金田一少年の事件簿",
-    "overview": "Kindaichi Hajime may look dumb, but he is one of the smartest you will ever see. He encounters mysteries after mysteries with his good friend, Miyuki, and he swears to solve them in the name of his grandfather, which was a great detective.",
-    "popularity": 159.7692,
-    "poster_path": "/eMCA5F3szGY3ckx2EDWWgwHZdh9.jpg",
-    "first_air_date": "1997-04-07",
-    "name": "Kindaichi Case Files",
-    "vote_average": 8.3,
-    "vote_count": 20
+    "original_name": "パズドラ",
+    "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
+    "popularity": 209.114,
+    "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
+    "first_air_date": "2018-04-02",
+    "name": "Puzzle & Dragons",
+    "vote_average": 8,
+    "vote_count": 3
   },
   {
     "adult": false,
@@ -319,29 +299,6 @@
     "name": "Sazae-san",
     "vote_average": 6.5,
     "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      35,
-      9648
-    ],
-    "id": 88786,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Victor and Valentino",
-    "overview": "Two half-brothers spend a summer with their grandma in Monte Macabre, a small and mysterious town, where the myths and legends of Latin American folklore come to life.",
-    "popularity": 122.0807,
-    "poster_path": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
-    "first_air_date": "2019-03-30",
-    "name": "Victor and Valentino",
-    "vote_average": 6,
-    "vote_count": 16
   },
   {
     "adult": false,
@@ -409,52 +366,89 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
+    "backdrop_path": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
     "genre_ids": [
-      10759,
-      10762,
       16,
-      10765,
-      35
+      10762
     ],
-    "id": 51817,
+    "id": 57532,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Teenage Mutant Ninja Turtles",
-    "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
-    "popularity": 140.1576,
-    "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-    "first_air_date": "2012-09-28",
-    "name": "Teenage Mutant Ninja Turtles",
-    "vote_average": 8.328,
-    "vote_count": 746
+    "original_name": "PAW Patrol",
+    "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+    "popularity": 187.9131,
+    "poster_path": "/9S65uEjDqepU7d71CNmxIBHHdo.jpg",
+    "first_air_date": "2013-08-12",
+    "name": "PAW Patrol",
+    "vote_average": 7.001,
+    "vote_count": 779
   },
   {
     "adult": false,
-    "backdrop_path": "/f1OoogO23fHdm7NzCsCxjFPoQit.jpg",
+    "backdrop_path": "/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
     "genre_ids": [
-      10759,
       16,
       35,
-      10762,
-      10765,
-      18
+      10765
     ],
-    "id": 80559,
+    "id": 15260,
     "origin_country": [
-      "JP"
+      "US"
     ],
-    "original_language": "ja",
-    "original_name": "パズドラ",
-    "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
-    "popularity": 209.114,
-    "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
-    "first_air_date": "2018-04-02",
-    "name": "Puzzle & Dragons",
-    "vote_average": 8,
-    "vote_count": 3
+    "original_language": "en",
+    "original_name": "Adventure Time",
+    "overview": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+    "popularity": 170.0827,
+    "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+    "first_air_date": "2010-04-05",
+    "name": "Adventure Time",
+    "vote_average": 8.5,
+    "vote_count": 2909
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "id": 4229,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dexter's Laboratory",
+    "overview": "Dexter, a boy-genius with a secret laboratory, constantly battles his sister Dee Dee, who always gains access despite his best efforts to keep her out, as well as his arch-rival and neighbor, Mandark.",
+    "popularity": 167.4531,
+    "poster_path": "/inJJn8lUPWdvdy2h259UnoHWVqC.jpg",
+    "first_air_date": "1996-04-28",
+    "name": "Dexter's Laboratory",
+    "vote_average": 7.658,
+    "vote_count": 832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bhF63Jd90gRYyTHd4y5GCGA2vX6.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 31132,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Regular Show",
+    "overview": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
+    "popularity": 162.7138,
+    "poster_path": "/88dAGv0ywrLJKCynkH226dBwe0i.jpg",
+    "first_air_date": "2010-09-06",
+    "name": "Regular Show",
+    "vote_average": 8.629,
+    "vote_count": 2120
   },
   {
     "adult": false,
@@ -470,7 +464,7 @@
     "original_language": "ja",
     "original_name": "金田一少年の事件簿",
     "overview": "Kindaichi Hajime may look dumb, but he is one of the smartest you will ever see. He encounters mysteries after mysteries with his good friend, Miyuki, and he swears to solve them in the name of his grandfather, which was a great detective.",
-    "popularity": 159.7692,
+    "popularity": 152.5282,
     "poster_path": "/eMCA5F3szGY3ckx2EDWWgwHZdh9.jpg",
     "first_air_date": "1997-04-07",
     "name": "Kindaichi Case Files",
@@ -491,7 +485,7 @@
     "original_language": "en",
     "original_name": "South Park",
     "overview": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-    "popularity": 156.5145,
+    "popularity": 156.0701,
     "poster_path": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
     "first_air_date": "1997-08-13",
     "name": "South Park",
@@ -515,7 +509,7 @@
     "original_language": "en",
     "original_name": "The Powerpuff Girls",
     "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
-    "popularity": 154.0552,
+    "popularity": 132.8963,
     "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
     "first_air_date": "1998-11-18",
     "name": "The Powerpuff Girls",
@@ -537,7 +531,7 @@
     "original_language": "en",
     "original_name": "King of the Hill",
     "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
-    "popularity": 153.078,
+    "popularity": 122.8708,
     "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
     "first_air_date": "1997-01-12",
     "name": "King of the Hill",
@@ -558,7 +552,7 @@
     "original_language": "ja",
     "original_name": "まんが日本昔ばなし",
     "overview": "\"Manga Nippon Mukashibanashi\" was a series running from 1975 to 1994 (with a short stop) in japanese tv. Each episode contained 1 to 3 short folk tales from the rich tradition of Japanese storytelling. Ghosts, samurai, goddesses, famous doomed romances, wandering heroes, legendary creatures, mysterious magical visitors... all presented in a simple cartoon style which varies from silly to quite charming.",
-    "popularity": 151.5208,
+    "popularity": 146.5765,
     "poster_path": "/zVN6kwwmqHCA1rQNrzzSasus2lc.jpg",
     "first_air_date": "1975-01-03",
     "name": "Japanese Folklore Tales",
@@ -580,7 +574,7 @@
     "original_language": "ja",
     "original_name": "オバケのQ太郎",
     "overview": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his body into other things like other monsters do. He is a scattered mind, and he always makes mistakes and causes trouble.\n\nSequel of Shin Obake no Q-tarou.",
-    "popularity": 145.7094,
+    "popularity": 138.4868,
     "poster_path": "/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
     "first_air_date": "1985-04-01",
     "name": "Obake no Q-tarō",
@@ -602,7 +596,7 @@
     "original_language": "ja",
     "original_name": "Dr.スランプ アラレちゃん",
     "overview": "Follows the humorous adventures of the little girl robot Arale Norimaki, her creator Senbei Norimaki, and the other residents of the bizarre Penguin Village.",
-    "popularity": 144.0764,
+    "popularity": 138.8708,
     "poster_path": "/q19uWJMNLcyQ0I14DaH4XVwW8TQ.jpg",
     "first_air_date": "1981-04-08",
     "name": "Dr. Slump",
@@ -625,7 +619,7 @@
     "original_language": "ja",
     "original_name": "らんま1/2",
     "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
-    "popularity": 142.2184,
+    "popularity": 142.0049,
     "poster_path": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
     "first_air_date": "1989-04-15",
     "name": "Ranma ½",
@@ -649,7 +643,7 @@
     "original_language": "en",
     "original_name": "Teenage Mutant Ninja Turtles",
     "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
-    "popularity": 140.1576,
+    "popularity": 130.8289,
     "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
     "first_air_date": "2012-09-28",
     "name": "Teenage Mutant Ninja Turtles",
@@ -671,7 +665,7 @@
     "original_language": "ja",
     "original_name": "怪獣８号",
     "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
-    "popularity": 138.9459,
+    "popularity": 132.2862,
     "poster_path": "/PDe8WZHxH6XxM6Buxoo99aQrgw.jpg",
     "first_air_date": "2024-04-13",
     "name": "Kaiju No. 8",
@@ -696,7 +690,7 @@
     "original_language": "en",
     "original_name": "The Loud House",
     "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
-    "popularity": 138.1789,
+    "popularity": 131.3945,
     "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
     "first_air_date": "2016-05-02",
     "name": "The Loud House",
@@ -717,7 +711,7 @@
     "original_language": "en",
     "original_name": "Peppa Pig",
     "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
-    "popularity": 135.3673,
+    "popularity": 136.0112,
     "poster_path": "/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
     "first_air_date": "2004-05-31",
     "name": "Peppa Pig",
@@ -738,7 +732,7 @@
     "original_language": "ja",
     "original_name": "キテレツ大百科",
     "overview": "The main character is a scientific genius boy named Kiteretsu, who has built a companion robot named Korosuke. He frequently travels in time with his friends and Korosuke in the time machine he built. Miyoko is a girl in his neighborhood who is basically his girlfriend. Tongari is his rival, who happen to share some similar traits of Honekawa Suneo. Buta Gorilla is a typical neighborhood bully, who also share similar traits of Gian except that he often antagonizes Korosuke (though they are in grade school).",
-    "popularity": 134.7859,
+    "popularity": 135.9628,
     "poster_path": "/tUEcAoJ2HxU2MSYN3dIXnLhQ83I.jpg",
     "first_air_date": "1988-03-27",
     "name": "Kiteretsu Daihyakka",
@@ -760,7 +754,7 @@
     "original_language": "ja",
     "original_name": "BLEACH",
     "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "popularity": 133.8777,
+    "popularity": 131.4134,
     "poster_path": "/7bSQNQuhHeInFMfzMwevfCiqcTm.jpg",
     "first_air_date": "2004-10-05",
     "name": "Bleach",
@@ -784,7 +778,7 @@
     "original_language": "en",
     "original_name": "Summer Camp Island",
     "overview": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
-    "popularity": 132.7641,
+    "popularity": 127.8881,
     "poster_path": "/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
     "first_air_date": "2018-07-07",
     "name": "Summer Camp Island",
@@ -808,7 +802,7 @@
     "original_language": "en",
     "original_name": "Teen Titans Go!",
     "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "popularity": 127.9892,
+    "popularity": 128.2138,
     "poster_path": "/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg",
     "first_air_date": "2013-04-23",
     "name": "Teen Titans Go!",
@@ -830,7 +824,7 @@
     "original_language": "fr",
     "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
     "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-    "popularity": 127.6769,
+    "popularity": 130.0469,
     "poster_path": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
     "first_air_date": "2015-10-19",
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -854,7 +848,7 @@
     "original_language": "zh",
     "original_name": "喜羊羊与灰太狼",
     "overview": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting and Luo Yinggeng, and produced by Creative Power Entertaining. The show is about a group of goats living on the Green Pasture, Qing Qing Grasslands/Plains, and the story revolving around a clumsy wolf who wants to eat them.  Toon Express Group owns the copyrights of the characters.",
-    "popularity": 125.4309,
+    "popularity": 116.3744,
     "poster_path": "/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
     "first_air_date": "2005-08-03",
     "name": "Pleasant Goat and Big Big Wolf",
@@ -876,7 +870,7 @@
     "original_language": "zh",
     "original_name": "武神主宰",
     "overview": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
-    "popularity": 125.4234,
+    "popularity": 121.3847,
     "poster_path": "/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
     "first_air_date": "2020-03-07",
     "name": "Martial Master",
@@ -898,345 +892,7 @@
     "original_language": "ja",
     "original_name": "クレヨンしんちゃん",
     "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-    "popularity": 124.0323,
-    "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
-    "first_air_date": "1992-04-13",
-    "name": "Shin Chan",
-    "vote_average": 7.8,
-    "vote_count": 100
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "id": 207468,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "怪獣８号",
-    "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
-    "popularity": 138.9459,
-    "poster_path": "/PDe8WZHxH6XxM6Buxoo99aQrgw.jpg",
-    "first_air_date": "2024-04-13",
-    "name": "Kaiju No. 8",
-    "vote_average": 8.6,
-    "vote_count": 562
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762,
-      9648
-    ],
-    "id": 68073,
-    "origin_country": [
-      "GB",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Loud House",
-    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
-    "popularity": 138.1789,
-    "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
-    "first_air_date": "2016-05-02",
-    "name": "The Loud House",
-    "vote_average": 7.837,
-    "vote_count": 541
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fc8CGrZ4cWLdBArzlGQDihURsN5.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10751,
-      10762,
-      10765
-    ],
-    "id": 72468,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "OK K.O.! Let's Be Heroes",
-    "overview": "Animated comedy set in the futuristic year of 201X, where the world is populated by video game and manga-esque characters.",
-    "popularity": 75.7125,
-    "poster_path": "/3V2IL48S9l5iLz4LtdWl9x5aXLZ.jpg",
-    "first_air_date": "2017-08-01",
-    "name": "OK K.O.! Let's Be Heroes",
-    "vote_average": 7.9,
-    "vote_count": 79
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bAyTzm2othKTdmhoGECmzam0lM5.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      35,
-      10762
-    ],
-    "id": 17631,
-    "origin_country": [
-      "CA",
-      "US",
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "League of Super Evil",
-    "overview": "League of Super Evil is a Canadian animated television series inspired by the sketch \"Once Were Heroes\" by Ryan Harper-Brown, co-created by Philippe Ivanusic-Vallee, Davila LeBlanc, Peter Ricq, developed by Asaph Fipke, and produced by Nerd Corps Entertainment in conjunction with YTV. On YTV, it premiered on March 9, 2009, at 10:30 a.m. ET. The show is airing on Nickelodeon in Canada, Spain, the Netherlands, Portugal and on Cartoon Network in most of Southeast Asia, India, Australia, New Zealand, The United States, CBBC in United Kingdom and Canal Plus, Canal J, and Gulli in France. The first season consisted of 26 episodes. The second season consisted of 13 episodes. In total, 52 episodes have aired. In Latin America, it is aired on Disney XD. The second season started airing in Canada in September 2010 and the third season aired from June 2012 to August 2012. The series ended on August 25, 2012.",
-    "popularity": 78.1728,
-    "poster_path": "/xqS940bPXAKlBWvzBArEaDhuUDH.jpg",
-    "first_air_date": "2009-03-07",
-    "name": "League of Super Evil",
-    "vote_average": 6.9,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ooIYvpusdiXzULeUlL1Ul7XljQK.jpg",
-    "genre_ids": [
-      16,
-      10762
-    ],
-    "id": 12225,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Peppa Pig",
-    "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
-    "popularity": 135.3673,
-    "poster_path": "/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-    "first_air_date": "2004-05-31",
-    "name": "Peppa Pig",
-    "vote_average": 6.6,
-    "vote_count": 705
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/39bnzUkZTfekyz1HVXN4eHxiCaX.jpg",
-    "genre_ids": [
-      16,
-      35
-    ],
-    "id": 80609,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "キテレツ大百科",
-    "overview": "The main character is a scientific genius boy named Kiteretsu, who has built a companion robot named Korosuke. He frequently travels in time with his friends and Korosuke in the time machine he built. Miyoko is a girl in his neighborhood who is basically his girlfriend. Tongari is his rival, who happen to share some similar traits of Honekawa Suneo. Buta Gorilla is a typical neighborhood bully, who also share similar traits of Gian except that he often antagonizes Korosuke (though they are in grade school).",
-    "popularity": 134.7859,
-    "poster_path": "/tUEcAoJ2HxU2MSYN3dIXnLhQ83I.jpg",
-    "first_air_date": "1988-03-27",
-    "name": "Kiteretsu Daihyakka",
-    "vote_average": 8.1,
-    "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/k7t2FSSeoTiPPb9hhyUHTVz7R8p.jpg",
-    "genre_ids": [
-      16
-    ],
-    "id": 42245,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "James Bond Jr.",
-    "overview": "While attending prep school at Warfield Academy, James Bond Jr. with the help of his friends I.Q. (supposedly the grandson of Q) and Gordo Leiter (supposedly the son of Felix Leiter), fights against the evil terrorist organization SCUM (Saboteurs and Criminals United in Mayhem). Expanding on his uncle's famous line, James Bond Jr.'s catch phrase was \"Bond, James Bond. Junior.\"",
-    "popularity": 94.6012,
-    "poster_path": "/cwUnbz31k7K5fV0zximhN2nPM14.jpg",
-    "first_air_date": "1991-09-16",
-    "name": "James Bond Jr.",
-    "vote_average": 4.6,
-    "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765
-    ],
-    "id": 30984,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "BLEACH",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "popularity": 133.8777,
-    "poster_path": "/7bSQNQuhHeInFMfzMwevfCiqcTm.jpg",
-    "first_air_date": "2004-10-05",
-    "name": "Bleach",
-    "vote_average": 8.373,
-    "vote_count": 1965
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/97ISGjkQVlfwjlD6g8cvihjK35C.jpg",
-    "genre_ids": [
-      16
-    ],
-    "id": 43598,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "GREGORY HORROR SHOW",
-    "overview": "Gregory Horror Show is a 3D CGI animated television series created by Naomi Iwata and televised by the Asahi National Broadcasting Co.",
-    "popularity": 75.9742,
-    "poster_path": "/xdy252rf4JpcMyf0BqJxK1GU0rQ.jpg",
-    "first_air_date": "1999-10-01",
-    "name": "Gregory Horror Show",
-    "vote_average": 7.833,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1bq8PZPmjVouMqcQq5rTpxezik.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "id": 113025,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "今日から㋮王!",
-    "overview": "",
-    "popularity": 47.1584,
-    "poster_path": "/iysaZoJzgq8Rjs5LZQ0e8gC1Vkq.jpg",
-    "first_air_date": "2004-04-03",
-    "name": "今日から㋮王!",
-    "vote_average": 6.5,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      35,
-      10751,
-      10765
-    ],
-    "id": 45140,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Teen Titans Go!",
-    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "popularity": 127.9892,
-    "poster_path": "/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg",
-    "first_air_date": "2013-04-23",
-    "name": "Teen Titans Go!",
-    "vote_average": 6.482,
-    "vote_count": 662
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h8Lxf8gCI6uQqmnoWfQxjaJgrul.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10762
-    ],
-    "id": 65334,
-    "origin_country": [
-      "FR"
-    ],
-    "original_language": "fr",
-    "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
-    "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-    "popularity": 127.6769,
-    "poster_path": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-    "first_air_date": "2015-10-19",
-    "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "vote_average": 8,
-    "vote_count": 4491
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/d0uzkTgU8YHrz1vw9MN5bYKhiYx.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10765
-    ],
-    "id": 18828,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "T.U.F.F. Puppy",
-    "overview": "In the fictional city of Petropolis dog Dudley Puppy works as a spy for the organization T.U.F.F. (Turbo Undercover Fighting Force). Together with his partner, a cat named Kitty Katswell, Dudley works to protect Petropolis.",
-    "popularity": 108.2277,
-    "poster_path": "/mzJSwX75Gjty8hZIEbqblPbEvkl.jpg",
-    "first_air_date": "2010-10-02",
-    "name": "T.U.F.F. Puppy",
-    "vote_average": 7.2,
-    "vote_count": 60
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4rqGhqQ3aHv5TN7z59OsnLFhD8t.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      10759,
-      35,
-      10765
-    ],
-    "id": 6732,
-    "origin_country": [
-      "CN"
-    ],
-    "original_language": "zh",
-    "original_name": "喜羊羊与灰太狼",
-    "overview": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting and Luo Yinggeng, and produced by Creative Power Entertaining. The show is about a group of goats living on the Green Pasture, Qing Qing Grasslands/Plains, and the story revolving around a clumsy wolf who wants to eat them.  Toon Express Group owns the copyrights of the characters.",
-    "popularity": 125.4309,
-    "poster_path": "/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
-    "first_air_date": "2005-08-03",
-    "name": "Pleasant Goat and Big Big Wolf",
-    "vote_average": 7.4,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10762
-    ],
-    "id": 30623,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "クレヨンしんちゃん",
-    "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-    "popularity": 124.0323,
+    "popularity": 116.9901,
     "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
     "first_air_date": "1992-04-13",
     "name": "Shin Chan",
@@ -1258,7 +914,7 @@
     "original_language": "ja",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "overview": "A 34-year-old hikikomori is kicked out of his home by his family after the death of his parents. After his eviction, he saves a group of teenagers from being killed by a speeding truck, but loses his life in the process. When he comes to, he realizes he has been reborn as Rudeus Greyrat, in a world of swords and sorcery.",
-    "popularity": 122.7612,
+    "popularity": 119.5906,
     "poster_path": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
     "first_air_date": "2021-01-11",
     "name": "Mushoku Tensei: Jobless Reincarnation",
@@ -1267,47 +923,26 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/hF1LFAol3GaubZ6YkDR6AQeJz7q.jpg",
+    "backdrop_path": "/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg",
     "genre_ids": [
       16,
       10759,
-      10765
+      35,
+      9648
     ],
-    "id": 152271,
+    "id": 88786,
     "origin_country": [
-      "JP"
+      "US"
     ],
-    "original_language": "ja",
-    "original_name": "ニンジャラ",
-    "overview": "After years of experiments, three researchers finally create Ninja-Gum. This substance awakens dormant power within people descended from ninjas, but its creation isn’t without consequences and will lead them to the mysterious Ninjala Tournament.",
-    "popularity": 112.6131,
-    "poster_path": "/2EkTiYPBvW3R1221Sk4436PkoHt.jpg",
-    "first_air_date": "2022-01-08",
-    "name": "Ninjala the Animation",
-    "vote_average": 7.667,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rIw7de0fxJ0sUklCnqkXLoP6SDV.jpg",
-    "genre_ids": [
-      10765,
-      16,
-      35
-    ],
-    "id": 42858,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ギャラクシーエンジェル",
-    "overview": "The Angel Brigade, an elite branch of the Transbaal Empire military, are assigned to search for The Lost Technology, mysterious items from the past that hold unknown powers. Led by the soon-to-retire Colonel Volcott O' Huey, the Angel Brigade travel to different planets using their specially designed Emblem Frame ships to search for Lost Technology. Unfortunately, they often mess up somehow and end up getting into all kinds of awkward and troublesome situations.",
-    "popularity": 80.1326,
-    "poster_path": "/sYFBemT73ZxBRQcjWWCUmD2FY4Y.jpg",
-    "first_air_date": "2001-04-07",
-    "name": "Galaxy Angel",
-    "vote_average": 6.5,
-    "vote_count": 8
+    "original_language": "en",
+    "original_name": "Victor and Valentino",
+    "overview": "Two half-brothers spend a summer with their grandma in Monte Macabre, a small and mysterious town, where the myths and legends of Latin American folklore come to life.",
+    "popularity": 103.9113,
+    "poster_path": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
+    "first_air_date": "2019-03-30",
+    "name": "Victor and Valentino",
+    "vote_average": 6,
+    "vote_count": 16
   },
   {
     "adult": false,
@@ -1324,12 +959,12 @@
     "original_language": "ja",
     "original_name": "べるぜバブ",
     "overview": "Violent delinquent Oga encounters a baby one day, which crawls onto his back and immediately forms an attachment to him. Though he doesn't know it yet, this baby is named Kaiser de Emperana Beelzebub IV, or \"Baby Beel\" for short—the son of the Demon Lord!",
-    "popularity": 117.8468,
+    "popularity": 113.3652,
     "poster_path": "/41QZ3NTTBY3nZcGrkIL1fXbDFBK.jpg",
     "first_air_date": "2011-01-09",
     "name": "Beelzebub",
-    "vote_average": 8.289,
-    "vote_count": 251
+    "vote_average": 8.296,
+    "vote_count": 252
   },
   {
     "adult": false,
@@ -1348,11 +983,370 @@
     "original_language": "en",
     "original_name": "Mickey Mouse Clubhouse",
     "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
-    "popularity": 117.7024,
+    "popularity": 96.6987,
     "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
     "first_air_date": "2006-05-05",
     "name": "Mickey Mouse Clubhouse",
     "vote_average": 6.8,
     "vote_count": 360
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qZXhYuCZR6lkspbu400oWwh6uCs.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762,
+      10765
+    ],
+    "id": 194916,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ちいかわ",
+    "overview": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" (Nanka Chiisakute Kawaii Yatsu) known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.",
+    "popularity": 111.0469,
+    "poster_path": "/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
+    "first_air_date": "2022-04-04",
+    "name": "Chiikawa",
+    "vote_average": 8.8,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 95479,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "呪術廻戦",
+    "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "popularity": 110.2689,
+    "poster_path": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "first_air_date": "2020-10-03",
+    "name": "JUJUTSU KAISEN",
+    "vote_average": 8.581,
+    "vote_count": 3900
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kxHkP4YnRIWEcW08CpCRqnxiMSH.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 102321,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Looney Tunes Cartoons",
+    "overview": "A series of short form cartoons starring the iconic and beloved Looney Tunes characters. Bugs Bunny, Daffy Duck, Porky Pig and other marquee Looney Tunes characters are featured in their classic pairings in simple, gag-driven and visually vibrant stories.",
+    "popularity": 98.4296,
+    "poster_path": "/2pDQfZMJq95hckoaez9ou93Hmqy.jpg",
+    "first_air_date": "2020-05-27",
+    "name": "Looney Tunes Cartoons",
+    "vote_average": 7.7,
+    "vote_count": 266
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10765
+    ],
+    "id": 1877,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Phineas and Ferb",
+    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+    "popularity": 103.1318,
+    "poster_path": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+    "first_air_date": "2007-08-17",
+    "name": "Phineas and Ferb",
+    "vote_average": 7.9,
+    "vote_count": 929
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hF1LFAol3GaubZ6YkDR6AQeJz7q.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 152271,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ニンジャラ",
+    "overview": "After years of experiments, three researchers finally create Ninja-Gum. This substance awakens dormant power within people descended from ninjas, but its creation isn’t without consequences and will lead them to the mysterious Ninjala Tournament.",
+    "popularity": 103.8986,
+    "poster_path": "/2EkTiYPBvW3R1221Sk4436PkoHt.jpg",
+    "first_air_date": "2022-01-08",
+    "name": "Ninjala the Animation",
+    "vote_average": 7.667,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765
+    ],
+    "id": 240411,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダンダダン",
+    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
+    "popularity": 104.9068,
+    "poster_path": "/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
+    "first_air_date": "2024-10-04",
+    "name": "Dan Da Dan",
+    "vote_average": 8.649,
+    "vote_count": 563
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2WBO3C7CjsOTT5wgi9Inn5iQhVv.jpg",
+    "genre_ids": [
+      16,
+      35,
+      18,
+      9648
+    ],
+    "id": 46195,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "化物語",
+    "overview": "Although there are still traces of the brief period he became a vampire, third-year high school student Koyomi Araragi is human again. He happens upon others with their own supernatural problems and finds that he can empathize. Koyomi becomes involved in their lives, seeking to help them and occasionally asking for advice from Meme Oshino, the homeless man who helped him become human again.",
+    "popularity": 106.809,
+    "poster_path": "/zCEjjb1NH3LLsWeZx47wOeqkezf.jpg",
+    "first_air_date": "2009-07-03",
+    "name": "Monogatari",
+    "vote_average": 8.1,
+    "vote_count": 484
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vExXJEVz2g9AELIGGA51OMAZgtv.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 62068,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ゲゲゲの鬼太郎",
+    "overview": "The classic tale of Gegege no Kitaro told yet again. The story is the usual in the Gegege no Kitaro series. Kitaro is a boy living in the Gegege Forest/Cemetery (lands where many Yokai roam) with his mostly dead father (who survives only in his eye), Sunakake Babaa, NekoMusume, and Konaki Jiji. One difference between this Kitaro and all of the others that came before him, is that this one has brown hair instead of the standard grayish silver.",
+    "popularity": 97.8134,
+    "poster_path": "/1oQI6xLEQbqJRrNcyFB0MxWKLuY.jpg",
+    "first_air_date": "2007-04-01",
+    "name": "Cackling Kitarou",
+    "vote_average": 8.6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7gGSzCBjGkokJLd9zPryHpWiqwr.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      9648
+    ],
+    "id": 8864,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": ".hack",
+    "overview": ".hack follows several young players as they navigate the vast, mysterious MMORPG known as “The World” – a place, it turns out, that is sometimes impossible to leave.",
+    "popularity": 97.8949,
+    "poster_path": "/wNplB2ViLejqtyU76Qz2iv3oZPM.jpg",
+    "first_air_date": "2002-04-04",
+    "name": ".hack",
+    "vote_average": 6.9,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+    "genre_ids": [
+      16,
+      18,
+      9648
+    ],
+    "id": 220542,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "薬屋のひとりごと",
+    "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+    "popularity": 107.0983,
+    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+    "first_air_date": "2023-10-22",
+    "name": "The Apothecary Diaries",
+    "vote_average": 8.665,
+    "vote_count": 392
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d0uzkTgU8YHrz1vw9MN5bYKhiYx.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10765
+    ],
+    "id": 18828,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "T.U.F.F. Puppy",
+    "overview": "In the fictional city of Petropolis dog Dudley Puppy works as a spy for the organization T.U.F.F. (Turbo Undercover Fighting Force). Together with his partner, a cat named Kitty Katswell, Dudley works to protect Petropolis.",
+    "popularity": 97.7144,
+    "poster_path": "/mzJSwX75Gjty8hZIEbqblPbEvkl.jpg",
+    "first_air_date": "2010-10-02",
+    "name": "T.U.F.F. Puppy",
+    "vote_average": 7.2,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vV1EQ1zLuZ5yPL7LaBqPayVsggC.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      10759
+    ],
+    "id": 34891,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Jake and the Never Land Pirates",
+    "overview": "A crew of kid pirates - leader Jake and pals Izzy and Cubby - and their Never Land adventures as they work to outwit two infamous characters, the one and only Captain Hook and Smee.",
+    "popularity": 102.7911,
+    "poster_path": "/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
+    "first_air_date": "2011-02-14",
+    "name": "Jake and the Never Land Pirates",
+    "vote_average": 6.264,
+    "vote_count": 55
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jCWMWclOVImgkpZgryFd6AvYIu5.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 79481,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "斗破苍穹",
+    "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
+    "popularity": 100.094,
+    "poster_path": "/a9bJPlezCXF6u0siDxf7cZaSXaJ.jpg",
+    "first_air_date": "2017-01-07",
+    "name": "Fights Break Sphere",
+    "vote_average": 8.3,
+    "vote_count": 46
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fcJp0XZsnlkIfhEgxrL9m0MkOFg.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      35
+    ],
+    "id": 154820,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Alice's Wonderland Bakery",
+    "overview": "Alice, the great-granddaughter of the original Alice and a budding young baker at the enchanted Wonderland Bakery, where treats bring a new generation of characters together.",
+    "popularity": 95.808,
+    "poster_path": "/gZCirprTOUIHYnKAMU2WwPtVh5j.jpg",
+    "first_air_date": "2022-02-09",
+    "name": "Alice's Wonderland Bakery",
+    "vote_average": 6.1,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gtUeN6UBY0GzdZWJ8y7c0wZfbLB.jpg",
+    "genre_ids": [
+      16,
+      35
+    ],
+    "id": 9537,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "あたしンち",
+    "overview": "A light hearted comedy based on the about the daily life of a \"normal\" Japanese family. The Tachibana family consists of a housewife mom, a salary-man dad, and teenager Mikan and Yuzuhiko.",
+    "popularity": 100.988,
+    "poster_path": "/yzXniZFkPjpfroSSQoG4aCCKT7B.jpg",
+    "first_air_date": "2002-04-19",
+    "name": "My Family",
+    "vote_average": 8.643,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10751,
+      10765
+    ],
+    "id": 61175,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Steven Universe",
+    "overview": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
+    "popularity": 95.7327,
+    "poster_path": "/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg",
+    "first_air_date": "2013-11-04",
+    "name": "Steven Universe",
+    "vote_average": 8.411,
+    "vote_count": 1245
   }
 ]

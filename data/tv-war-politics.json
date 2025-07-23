@@ -1,28 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/4L38sYtXVOedaQxXmA42wrqFh7x.jpg",
-    "genre_ids": [
-      10768,
-      10751,
-      18
-    ],
-    "id": 49599,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Sakarya Fırat",
-    "overview": "",
-    "popularity": 88.6693,
-    "poster_path": "/esqyip0atCBKfaTsFQJrvO1GiXW.jpg",
-    "first_air_date": "2009-12-16",
-    "name": "Sakarya Fırat",
-    "vote_average": 7.2,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
     "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
     "genre_ids": [
       18,
@@ -43,27 +21,6 @@
     "name": "Valley of the Wolves: Ambush",
     "vote_average": 6.2,
     "vote_count": 30
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg",
-    "genre_ids": [
-      10768,
-      35
-    ],
-    "id": 4068,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Hogan's Heroes",
-    "overview": "Hogan's Heroes is an American television sitcom that ran for 168 episodes from September 17, 1965, to July 4, 1971, on the CBS network. The show was set in a German prisoner of war camp during World War II. Bob Crane starred as Colonel Robert E. Hogan, coordinating an international crew of Allied prisoners running a Special Operations group from the camp. Werner Klemperer played Colonel Wilhelm Klink, the commandant of the camp, and John Banner was the inept sergeant-of-the-guard, Hans Schultz.\n\nThe series was popular during its six-season run. In 2013, creators Bernard Fein through his estate and Albert S. Ruddy acquired the sequel and other separate rights to Hogan's Heroes from Mark Cuban through arbitration and a movie based on the show has been planned.",
-    "popularity": 93.8748,
-    "poster_path": "/qifpp3AmNx54Ko4obdwxOWNf0lo.jpg",
-    "first_air_date": "1965-09-17",
-    "name": "Hogan's Heroes",
-    "vote_average": 7.535,
-    "vote_count": 170
   },
   {
     "adult": false,
@@ -89,28 +46,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10768
-    ],
-    "id": 63333,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Last Kingdom",
-    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
-    "popularity": 78.5066,
-    "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-    "first_air_date": "2015-10-10",
-    "name": "The Last Kingdom",
-    "vote_average": 8.254,
-    "vote_count": 1830
-  },
-  {
-    "adult": false,
     "backdrop_path": "/cO1Cr88WEIDIvjI5Q2oRl7GILR4.jpg",
     "genre_ids": [
       10763,
@@ -133,89 +68,46 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/a97Q8f3dWiaMg2nq79zG5oZVotp.jpg",
     "genre_ids": [
       10768,
+      35
+    ],
+    "id": 4068,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hogan's Heroes",
+    "overview": "Hogan's Heroes is an American television sitcom that ran for 168 episodes from September 17, 1965, to July 4, 1971, on the CBS network. The show was set in a German prisoner of war camp during World War II. Bob Crane starred as Colonel Robert E. Hogan, coordinating an international crew of Allied prisoners running a Special Operations group from the camp. Werner Klemperer played Colonel Wilhelm Klink, the commandant of the camp, and John Banner was the inept sergeant-of-the-guard, Hans Schultz.\n\nThe series was popular during its six-season run. In 2013, creators Bernard Fein through his estate and Albert S. Ruddy acquired the sequel and other separate rights to Hogan's Heroes from Mark Cuban through arbitration and a movie based on the show has been planned.",
+    "popularity": 93.8748,
+    "poster_path": "/qifpp3AmNx54Ko4obdwxOWNf0lo.jpg",
+    "first_air_date": "1965-09-17",
+    "name": "Hogan's Heroes",
+    "vote_average": 7.535,
+    "vote_count": 170
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4L38sYtXVOedaQxXmA42wrqFh7x.jpg",
+    "genre_ids": [
+      10768,
+      10751,
       18
     ],
-    "id": 13813,
+    "id": 49599,
     "origin_country": [
-      "US"
+      "TR"
     ],
-    "original_language": "en",
-    "original_name": "Navy Log",
-    "overview": "Navy Log is an American drama anthology series that initially aired for one season on CBS. It relates the greatest survival war stories in the history of the United States Navy. This series premiered on September 20, 1955, but the following year, it was moved to ABC, where it aired until September 25, 1958. The program aired for a total of three seasons and 102 episodes.",
-    "popularity": 59.4797,
-    "poster_path": null,
-    "first_air_date": "1955-09-20",
-    "name": "Navy Log",
-    "vote_average": 4.5,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10768
-    ],
-    "id": 71789,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "SEAL Team",
-    "overview": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.",
-    "popularity": 69.4402,
-    "poster_path": "/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
-    "first_air_date": "2017-09-27",
-    "name": "SEAL Team",
-    "vote_average": 8.038,
-    "vote_count": 1568
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 113962,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "popularity": 78.2741,
-    "poster_path": "/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
-    "first_air_date": "2023-07-23",
-    "name": "Lioness",
-    "vote_average": 8.046,
-    "vote_count": 1023
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
-    "genre_ids": [
-      18,
-      10765,
-      10768
-    ],
-    "id": 87917,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "For All Mankind",
-    "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
-    "popularity": 76.1503,
-    "poster_path": "/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
-    "first_air_date": "2019-11-01",
-    "name": "For All Mankind",
-    "vote_average": 7.71,
-    "vote_count": 801
+    "original_language": "tr",
+    "original_name": "Sakarya Fırat",
+    "overview": "",
+    "popularity": 88.6693,
+    "poster_path": "/esqyip0atCBKfaTsFQJrvO1GiXW.jpg",
+    "first_air_date": "2009-12-16",
+    "name": "Sakarya Fırat",
+    "vote_average": 7.2,
+    "vote_count": 5
   },
   {
     "adult": false,
@@ -241,6 +133,71 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 63333,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Last Kingdom",
+    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+    "popularity": 78.5066,
+    "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+    "first_air_date": "2015-10-10",
+    "name": "The Last Kingdom",
+    "vote_average": 8.253,
+    "vote_count": 1831
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 113962,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "popularity": 78.2741,
+    "poster_path": "/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
+    "first_air_date": "2023-07-23",
+    "name": "Lioness",
+    "vote_average": 8.039,
+    "vote_count": 1025
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10768
+    ],
+    "id": 87917,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "For All Mankind",
+    "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+    "popularity": 76.1503,
+    "poster_path": "/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
+    "first_air_date": "2019-11-01",
+    "name": "For All Mankind",
+    "vote_average": 7.701,
+    "vote_count": 802
+  },
+  {
+    "adult": false,
     "backdrop_path": "/eUBeiFHzCk92zhENaSKM1AIoG56.jpg",
     "genre_ids": [
       10763,
@@ -263,24 +220,47 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/8nkOWsMtWZvp7IGuYdVbJeoWzQx.jpg",
     "genre_ids": [
       10768,
+      18,
       35
     ],
-    "id": 34887,
+    "id": 918,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Dennis Miller",
-    "overview": "",
-    "popularity": 46.0296,
-    "poster_path": "/88NOmH9e99Q9FWUzEXpCQRL2qvt.jpg",
-    "first_air_date": "2004-01-26",
-    "name": "Dennis Miller",
-    "vote_average": 0,
-    "vote_count": 0
+    "original_name": "M*A*S*H",
+    "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
+    "popularity": 69.5507,
+    "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
+    "first_air_date": "1972-09-17",
+    "name": "M*A*S*H",
+    "vote_average": 7.925,
+    "vote_count": 694
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ojyo33io8HGxNCRg21Z1o87YEZX.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 71789,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "SEAL Team",
+    "overview": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.",
+    "popularity": 69.4402,
+    "poster_path": "/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
+    "first_air_date": "2017-09-27",
+    "name": "SEAL Team",
+    "vote_average": 8.038,
+    "vote_count": 1568
   },
   {
     "adult": false,
@@ -305,134 +285,155 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/qc6Acd7rkOJz79rlVmYbmxS73eR.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 76948,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "西郷どん",
-    "overview": "Saigo Takamori, the hero of the Meiji Restoration, was born to a poor, low-ranking samurai family in the Satsuma domain (present day Kagoshima Prefecture). His simple honesty caught the attention of its charismatic feudal lord of Satsuma, Shimazu Nariakira. Nariakira’s assertion that the love of people is what will enrich and strengthen the nation captivated Saigo who took on Nariakira’s secret mission and eventually became a key person for Satsuma. Not a portrait of him survives today and much of his life is a mystery. He is a man who was twice exiled and thrice married. He overthrew the Tokugawa Shogunate with exceptional bravery and action. Although he accomplished the restoration, he lost his life in a fight with the new Meiji government.",
-    "popularity": 45.6389,
-    "poster_path": "/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg",
-    "first_air_date": "2018-01-07",
-    "name": "Segodon",
-    "vote_average": 8.3,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5XGftDCYAaAeZJtiacNF5ORV4VD.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      9648,
-      10768
-    ],
-    "id": 34639,
-    "origin_country": [
-      "CA",
-      "FR"
-    ],
-    "original_language": "en",
-    "original_name": "XIII: The Series",
-    "overview": "After a plot to kill the president of the USA an agent with lost memories tries to recover his life and memories. Others use him to cover up some dirty business involving high ranking officials from the CIA and the White House.",
-    "popularity": 43.7275,
-    "poster_path": "/jGr9iZFXCl8XOnHOAj17AYz85fr.jpg",
-    "first_air_date": "2011-04-18",
-    "name": "XIII: The Series",
-    "vote_average": 6.2,
-    "vote_count": 50
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o1nR94dBFSeqIObHdT8C0WllR67.jpg",
-    "genre_ids": [
-      10759,
-      10768
-    ],
-    "id": 138171,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Alparslan: Büyük Selçuklu",
-    "overview": "It deals with the state structure, political events, wars of the Great Seljuk Empire and the life of Sultan Alparslan.",
-    "popularity": 34.2609,
-    "poster_path": "/4wKqK8T1wTdhXfhnZzz2TuJE2Zh.jpg",
-    "first_air_date": "2021-11-08",
-    "name": "Alparslan: The Great Seljuks",
-    "vote_average": 8.6,
-    "vote_count": 15
-  },
-  {
-    "adult": false,
     "backdrop_path": null,
     "genre_ids": [
       10768,
-      35
+      18
     ],
-    "id": 7918,
+    "id": 13813,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Ensign O'Toole",
-    "overview": "Ensign O'Toole is a military comedy that aired on NBC from September 23, 1962, to May 5, 1963, with 31-year-old Dean Jones in the title role of a nonchalant United States Navy ensign during the early 1960s. Jones, born in 1931 in Alabama and a Navy veteran of the Korean War, played an officer aboard the fictional U.S. Navy destroyer USS Appleby, which roamed the Pacific Ocean.",
-    "popularity": 42.2203,
-    "poster_path": "/vnNC5cCgL62wVk9afNj3kN074QJ.jpg",
-    "first_air_date": "1962-09-23",
-    "name": "Ensign O'Toole",
-    "vote_average": 6.5,
+    "original_name": "Navy Log",
+    "overview": "Navy Log is an American drama anthology series that initially aired for one season on CBS. It relates the greatest survival war stories in the history of the United States Navy. This series premiered on September 20, 1955, but the following year, it was moved to ABC, where it aired until September 25, 1958. The program aired for a total of three seasons and 102 episodes.",
+    "popularity": 59.4797,
+    "poster_path": null,
+    "first_air_date": "1955-09-20",
+    "name": "Navy Log",
+    "vote_average": 4.5,
     "vote_count": 4
   },
   {
     "adult": false,
-    "backdrop_path": "/hDZYGMlf01vEYJvDacoI8enxFCx.jpg",
+    "backdrop_path": "/xVmFF9v7JzAXJf4OSMuTQpsqXK0.jpg",
     "genre_ids": [
-      10768,
+      10765,
       18,
-      80
+      10768
     ],
-    "id": 4963,
+    "id": 32152,
     "origin_country": [
-      "GB"
+      "HK"
     ],
-    "original_language": "en",
-    "original_name": "Judge John Deed",
-    "overview": "Judge John Deed is a British legal drama television series produced by the BBC in association with One-Eyed Dog for BBC One. It was created by G.F. Newman and stars Martin Shaw as Sir John Deed, a High Court judge who tries to seek real justice in the cases before him. It also stars Jenny Seagrove as the barrister Jo Mills, frequently the object of Deed's desire. A pilot episode was broadcast on 9 January 2001, followed by the first full series on 26 November 2001. The sixth and last series concluded on 18 January 2007. The programme then went on an indefinite break after Shaw became involved in another television programme, and he and Seagrove expressed a wish for the format of the series to change before they filmed new episodes. By 2009, the series had officially been cancelled. The six series produced make it the longest-running BBC legal drama.\n\nThe factual accuracy of the series is often criticised by legal professionals and journalists; many of the decisions taken by Deed are unlikely to happen in a real court. The romanticised vision of the court system created by Newman caused a judge to issue a warning to a jury not to let the series influence their view of trials—referring to an episode where Deed flouts rules when called up for jury duty. Another episode led to complaints about biased and incorrect information about the MMR vaccine, leading the BBC to ban repeats of it in its original form. All six series have been released on DVD in the UK.",
-    "popularity": 24.8005,
-    "poster_path": "/ltAeTRyVxmWeU4G0vTZZtulNFSJ.jpg",
-    "first_air_date": "2001-11-26",
-    "name": "Judge John Deed",
-    "vote_average": 6.727,
-    "vote_count": 11
+    "original_language": "cn",
+    "original_name": "神鵰俠侶",
+    "overview": "The Return of the Condor Heroes is a Hong Kong television series adapted from Louis Cha's novel of the same title. It was first broadcast on TVB Jade from 31 October 1983 to 6 January 1984 in Hong Kong.",
+    "popularity": 56.7685,
+    "poster_path": "/6I0eu1qFArRchIt7ds1VW1dCJXZ.jpg",
+    "first_air_date": "1983-10-31",
+    "name": "The Return of the Condor Heroes",
+    "vote_average": 7.2,
+    "vote_count": 4
   },
   {
     "adult": false,
-    "backdrop_path": "/lSYcgYOedOTLOg92WwncU726PoE.jpg",
+    "backdrop_path": "/ndLd4IIc90ajv5VpCaLfqmmEYOb.jpg",
     "genre_ids": [
       10768,
-      18,
-      10759
+      10759,
+      18
     ],
-    "id": 11095,
+    "id": 95603,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Kuruluş Osman",
+    "overview": "The life of Osman Bey, the son of Ertuğrul and the founder of the Ottoman Empire, as he established and controlled it, facing internal and external struggles against Byzantium and the Mongol Ilkhanate.",
+    "popularity": 56.3286,
+    "poster_path": "/tu4BWsGFHcYDWulZwHxylA91vo0.jpg",
+    "first_air_date": "2019-11-20",
+    "name": "Kuruluş Osman",
+    "vote_average": 8,
+    "vote_count": 276
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wcAlFoCFuFUS6fZ6MfJ1nQhubDY.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 117839,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "峠の群像",
+    "overview": "",
+    "popularity": 55.7492,
+    "poster_path": "/w2ByMLnavVdsW9oouV68LJ5gosz.jpg",
+    "first_air_date": "1982-01-10",
+    "name": "Toge no Gunzo",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 73375,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Tour of Duty",
-    "overview": "The trials of a U.S. Army platoon serving in the field during the Vietnam War.",
-    "popularity": 45.8267,
-    "poster_path": "/uVH3fzDl5vqYolREnppV4Os45gd.jpg",
-    "first_air_date": "1987-09-24",
-    "name": "Tour of Duty",
-    "vote_average": 8,
-    "vote_count": 167
+    "original_name": "Tom Clancy's Jack Ryan",
+    "overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+    "popularity": 53.9229,
+    "poster_path": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
+    "first_air_date": "2018-08-30",
+    "name": "Tom Clancy's Jack Ryan",
+    "vote_average": 7.684,
+    "vote_count": 1635
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6snBXmgkscLEJQmxx46qEIlqYlB.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 46518,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Masters of the Air",
+    "overview": "During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.",
+    "popularity": 53.7061,
+    "poster_path": "/rSAmgcoA74371rplbqM27yVsd3y.jpg",
+    "first_air_date": "2024-01-25",
+    "name": "Masters of the Air",
+    "vote_average": 7.777,
+    "vote_count": 489
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vP1hpd9TwacAQxSEKf6Wfgucr0z.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      10768,
+      80
+    ],
+    "id": 3163,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Foyle's War",
+    "overview": "As WW2 rages around the world, DCS Foyle fights his own war on the home-front as he investigates crimes on the south coast of England. Foyle's War opens in southern England in the year 1940. Later series sees the retired detective working as an MI5 agent operating in the aftermath of the war.",
+    "popularity": 50.8611,
+    "poster_path": "/avPXLCHNUGVtTu52X5VStZRoHDD.jpg",
+    "first_air_date": "2002-10-27",
+    "name": "Foyle's War",
+    "vote_average": 7.907,
+    "vote_count": 97
   },
   {
     "adult": false,
@@ -895,7 +896,7 @@
     "original_language": "ja",
     "original_name": "どうする家康",
     "overview": "The drama series depicts the life of Tokugawa Ieyasu (January 31, 1543 – June 1, 1616).\n\nTakechiyo (who later becomes Tokugawa Ieyasu) was born as the son of a poor and powerless daimyo. Takechiyo lost his father during a war. He grew up lonely and away from his mother. Takechiyo didn't have a clue about what his future would hold. He then has a dramatic meeting with the young Oda Nobunaga.",
-    "popularity": 41.498,
+    "popularity": 40.0517,
     "poster_path": "/yIA6KveOCGwacod51XfMUoNGBMR.jpg",
     "first_air_date": "2023-01-08",
     "name": "What Will You Do, Ieyasu?",
@@ -918,7 +919,7 @@
     "original_language": "ja",
     "original_name": "聖戦士ダンバイン",
     "overview": "After a motocross accident, Sho Zama was pulled from Japan into the mystical world of Byston Well, where he and others from Earth were reicruited by Lord Drake Luft to pilot his newest weapons, the Aura Battlers, a combination of Byston Well magic and Earthien technology. However, in the heat of battle, Sho is approached by Marvel, a woman from Earth, who convinces him of Luft's sinister intentions.",
-    "popularity": 41.452,
+    "popularity": 40.3826,
     "poster_path": "/5PtPwM1r86RoBCCyHfpPCKdOtPt.jpg",
     "first_air_date": "1983-02-05",
     "name": "Aura Battler Dunbine",
@@ -940,7 +941,7 @@
     "original_language": "zh",
     "original_name": "隋唐英雄",
     "overview": "Heroes emerged in large numbers during the tumultuous and short-lived Sui to early Tang dynasty period. Most famous among them are Qin Qiong, Luo Cheng, Cheng Yao Jin, Shan Xiong Xin and Wei Chi Gong, known as the \"Five Tigers of Sui and Tang\", who would help Li Shi Min defeat rebels and rivals and pacify the land. The drama will start with the establishment of the Sui dynasty and end with Li Shi Min's ascension to the throne.",
-    "popularity": 41.3748,
+    "popularity": 40.7839,
     "poster_path": "/xDWhzwXcp8dAn6unvA87nE7Dqh3.jpg",
     "first_air_date": "2012-12-03",
     "name": "Heroes of Sui and Tang Dynasties",
@@ -961,7 +962,7 @@
     "original_language": "en",
     "original_name": "Designated Survivor",
     "overview": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
-    "popularity": 41.01,
+    "popularity": 42.0625,
     "poster_path": "/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
     "first_air_date": "2016-09-21",
     "name": "Designated Survivor",
@@ -983,7 +984,7 @@
     "original_language": "en",
     "original_name": "Shooter",
     "overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
-    "popularity": 40.3934,
+    "popularity": 40.1272,
     "poster_path": "/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg",
     "first_air_date": "2016-11-15",
     "name": "Shooter",
@@ -1005,7 +1006,7 @@
     "original_language": "cn",
     "original_name": "滿清十三皇朝",
     "overview": "",
-    "popularity": 40.3478,
+    "popularity": 35.1785,
     "poster_path": "/t7cE4FcRhZ394D2yCi2Wl7tampO.jpg",
     "first_air_date": "1987-09-07",
     "name": "Rise & Fall of Qing Dynasty",
@@ -1027,7 +1028,7 @@
     "original_language": "en",
     "original_name": "Vikings: Valhalla",
     "overview": "In this sequel to \"Vikings,\" a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
-    "popularity": 40.0296,
+    "popularity": 40.8699,
     "poster_path": "/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg",
     "first_air_date": "2022-02-25",
     "name": "Vikings: Valhalla",
@@ -1048,7 +1049,7 @@
     "original_language": "en",
     "original_name": "TURN: Washington's Spies",
     "overview": "The story of New York farmer, Abe Woodhull, who bands together with a group of childhood friends to form The Culper Ring, an unlikely group of spies who turn the tide in America’s fight for independence.",
-    "popularity": 38.6993,
+    "popularity": 34.8416,
     "poster_path": "/AehTUycX0VSvCkOOkZzurLnjHsS.jpg",
     "first_air_date": "2014-04-06",
     "name": "TURN: Washington's Spies",
@@ -1072,7 +1073,7 @@
     "original_language": "ja",
     "original_name": "銀河英雄伝説 Die Neue These",
     "overview": "In this retelling of Yoshiki Tanaka's space opera, two interstellar states -- Galactic Empire and Free Planets Alliance -- battle for space supremacy.",
-    "popularity": 38.5722,
+    "popularity": 33.6219,
     "poster_path": "/aOXYjnJqGYIELPEMg1shcPXBbhj.jpg",
     "first_air_date": "2018-03-31",
     "name": "The Legend of the Galactic Heroes: Die Neue These",
@@ -1093,7 +1094,7 @@
     "original_language": "en",
     "original_name": "Combat!",
     "overview": "Combat! is an American television program that originally aired on ABC from 1962 until 1967. The show covered the grim lives of a squad of American soldiers fighting the Germans in France during World War II. The program starred Rick Jason as platoon leader Second Lieutenant Gil Hanley and Vic Morrow as Sergeant \"Chip\" Saunders.",
-    "popularity": 38.2627,
+    "popularity": 39.3804,
     "poster_path": "/4Xk9VQ5Xa6jkRHBINkHiRzRNgde.jpg",
     "first_air_date": "1962-10-02",
     "name": "Combat!",
@@ -1114,7 +1115,7 @@
     "original_language": "cn",
     "original_name": "滿清十三皇朝 (II)",
     "overview": "",
-    "popularity": 37.9984,
+    "popularity": 36.7895,
     "poster_path": "/fqwxoG5aS5S3dsFrYGVUrFOnHBY.jpg",
     "first_air_date": "1988-06-29",
     "name": "Rise & Fall of Qing Dynasty (II)",
@@ -1135,7 +1136,7 @@
     "original_language": "en",
     "original_name": "I, Claudius",
     "overview": "Acclaimed blackly comic historical drama series. Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
-    "popularity": 37.4143,
+    "popularity": 34.2226,
     "poster_path": "/oztxNqan7wKvFuCDS55WyUmKNMU.jpg",
     "first_air_date": "1976-09-20",
     "name": "I, Claudius",
@@ -1156,7 +1157,7 @@
     "original_language": "tr",
     "original_name": "Mehmed: Fetihler Sultanı",
     "overview": "The project, which will follow the story on the life of one of the most important rulers in Ottoman history, Fatih Sultan Mehmed, will also feature important stages of the life of Eyüp el Ensari, an important figure in the Islamic world, in parallel with Fatih's life.",
-    "popularity": 37.4077,
+    "popularity": 35.7433,
     "poster_path": "/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg",
     "first_air_date": "2024-02-27",
     "name": "Mehmed: Sultan of Conquests",
@@ -1179,35 +1180,12 @@
     "original_language": "ja",
     "original_name": "機動武闘伝Gガンダム",
     "overview": "In the Year F.C. (Future Century) 60, much of mankind inhabits space colonies which orbit the Earth. Dominance over the colonies is decided once every four years by a large tournament in which each nation sends a single representative to fight the others with a giant robot called a Gundam. Domon Kashuu is selected to represent Neo-Japan in one of these tournaments, but he fights less to ensure his nation's victory than to find his brother, who has been blamed for the deaths of Domon's parents and the disappearance of a very dangerous weapon, the Devil Gundam (Dark Gundam).",
-    "popularity": 36.9928,
+    "popularity": 36.3797,
     "poster_path": "/iuA29rs5TCFED8qVcEjJdn9YJKr.jpg",
     "first_air_date": "1994-04-22",
     "name": "Mobile Fighter G Gundam",
     "vote_average": 7.4,
     "vote_count": 24
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gI3rLwLZ9fHuqcEXYiCBvVpUHb0.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10765,
-      10768
-    ],
-    "id": 69346,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "幼女戦記",
-    "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
-    "popularity": 36.8942,
-    "poster_path": "/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
-    "first_air_date": "2017-01-06",
-    "name": "Saga of Tanya the Evil",
-    "vote_average": 8.29,
-    "vote_count": 384
   },
   {
     "adult": false,
@@ -1226,7 +1204,7 @@
     "original_language": "ja",
     "original_name": "蒼き流星SPTレイズナー",
     "overview": "Blue Comet SPT Layzner, sometimes translated as Blue Meteor SPT Layzner, is an anime series produced by Sunrise and Tatsunoko Production between 1985 and 1986. Its original creator was Ryousuke Takahashi of Armored Trooper Votoms fame who served as the writer and wrote the scripts for such shows as Panzer World Galient, Tetsuwan Atom, Zero Tester, Fang of the Sun Dougram, Cyborg 009, Gasaraki and Blue Gender.",
-    "popularity": 36.8921,
+    "popularity": 35.8572,
     "poster_path": "/pSpWOFawvb8crIHEl05Nl4Br92J.jpg",
     "first_air_date": "1985-10-03",
     "name": "Blue Comet SPT Layzner",
@@ -1247,7 +1225,7 @@
     "original_language": "ja",
     "original_name": "勝海舟",
     "overview": "Katsu Kaishū deals with end of the Edo period. Based on Kan Shimozawa's novels \"Katsu Kaishū \"",
-    "popularity": 36.6165,
+    "popularity": 34.4765,
     "poster_path": "/dVqB58Be5z1TAxgEeliAVhOo3zN.jpg",
     "first_air_date": "1974-01-06",
     "name": "Katsu Kaishu",
@@ -1268,7 +1246,7 @@
     "original_language": "ko",
     "original_name": "기황후",
     "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
-    "popularity": 36.4269,
+    "popularity": 36.566,
     "poster_path": "/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
     "first_air_date": "2013-10-28",
     "name": "Empress Ki",
@@ -1289,7 +1267,7 @@
     "original_language": "zh",
     "original_name": "大秦帝国",
     "overview": "The rise of the Qin state in the Warring States period during the reign of Duke Xiao of Qin.",
-    "popularity": 35.9763,
+    "popularity": 33.7557,
     "poster_path": "/zfuObpAXqGEI3FCSTsBw3GKRyOE.jpg",
     "first_air_date": "2009-12-18",
     "name": "The Qin Empire",
@@ -1310,11 +1288,32 @@
     "original_language": "ja",
     "original_name": "徳川家康",
     "overview": "The story chronicles the life of Tokugawa Ieyasu.",
-    "popularity": 35.8531,
+    "popularity": 33.2491,
     "poster_path": "/8i6vn7yCJ2Z4bifeNeCXCI8MMmY.jpg",
     "first_air_date": "1983-01-09",
     "name": "Tokugawa Ieyasu",
     "vote_average": 10,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zikfQiVbo3PTrEdRc2w6kowFmuY.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 95495,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "秀吉",
+    "overview": "A dramatized biography of the second of Japan's three legendary leaders. Rising from obscurity, Hideyoshi served under the command of Oda Nobunaga. With an extraordinary combination of intelligence, bravery and military skill, Hideyoshi rose to near-absolute power and greatly expanded upon Nobunaga's unification of Japan's warlords. This series also focused on Hideyoshi's personal life, particularly his relationships with his mother and his wife, and the pair's rivalry for influence over him.",
+    "popularity": 34.6502,
+    "poster_path": "/z5iM8xexccatdttujrVWCAaBYdi.jpg",
+    "first_air_date": "1996-01-07",
+    "name": "Hideyoshi",
+    "vote_average": 9.5,
+    "vote_count": 2
   }
 ]

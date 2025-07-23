@@ -17,8 +17,8 @@
     "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "first_air_date": "1996-07-22",
     "name": "The Daily Show",
-    "vote_average": 6.374,
-    "vote_count": 585
+    "vote_average": 6.38,
+    "vote_count": 586
   },
   {
     "adult": false,
@@ -40,47 +40,6 @@
     "name": "Meet the Press",
     "vote_average": 4.3,
     "vote_count": 19
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xXXt9FWD0coqGrj8FqbeowR69MY.jpg",
-    "genre_ids": [
-      10763,
-      99
-    ],
-    "id": 4225,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Gadget Show",
-    "overview": "The Gadget Show is a British television series which focuses on consumer technology. The show, which is broadcast on Channel 5 is currently presented by Jason Bradbury and Rachel Riley with Jon Bentley and Pollyanna Woodward.\n\nOriginally a thirty-minute show, it was extended to forty-five minutes, then later to sixty minutes. Repeats have also aired on the digital channel 5*, syndicated broadcasts on Discovery Science and Dave, and Channel 5's Internet on-demand service Demand 5. In Australia, it is aired on The Lifestyle Channel.",
-    "popularity": 105.8841,
-    "poster_path": "/b8hftDjIoVBiGP2gaBxjAU6GHdz.jpg",
-    "first_air_date": "2004-06-07",
-    "name": "The Gadget Show",
-    "vote_average": 6.7,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nI3tKuIqtSA0efUA8pe2BZz3Efm.jpg",
-    "genre_ids": [
-      10763
-    ],
-    "id": 841,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Newsnight",
-    "overview": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of senior politicians.",
-    "popularity": 144.434,
-    "poster_path": "/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-    "first_air_date": "1980-01-30",
-    "name": "Newsnight",
-    "vote_average": 6.2,
-    "vote_count": 10
   },
   {
     "adult": false,
@@ -126,6 +85,26 @@
   },
   {
     "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10763
+    ],
+    "id": 22073,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Good Day Live",
+    "overview": "Good Day Live was a nationwide talk show seen weekdays on FOX affiliates throughout the US.  Each FOX owned and operated station airs a separate Good Day program as part of its newscast. Some FOX stations air up to five hours on weekday mornings, up to three on weekend mornings, (and almost 50% of the programming on these stations contains a locally produced newscast of local news, traffic, national news, weather, sports, business, and public affairs.)",
+    "popularity": 155.2913,
+    "poster_path": null,
+    "first_air_date": "2001-09-17",
+    "name": "Good Day Live",
+    "vote_average": 3,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
     "backdrop_path": "/7ZgTIEbvm72a7nkNy2eWnkFNmdj.jpg",
     "genre_ids": [
       10767,
@@ -148,23 +127,44 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/nI3tKuIqtSA0efUA8pe2BZz3Efm.jpg",
     "genre_ids": [
       10763
     ],
-    "id": 22073,
+    "id": 841,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Newsnight",
+    "overview": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of senior politicians.",
+    "popularity": 144.434,
+    "poster_path": "/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
+    "first_air_date": "1980-01-30",
+    "name": "Newsnight",
+    "vote_average": 6.2,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
+    "genre_ids": [
+      10763,
+      35
+    ],
+    "id": 4385,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Good Day Live",
-    "overview": "Good Day Live was a nationwide talk show seen weekdays on FOX affiliates throughout the US.  Each FOX owned and operated station airs a separate Good Day program as part of its newscast. Some FOX stations air up to five hours on weekday mornings, up to three on weekend mornings, (and almost 50% of the programming on these stations contains a locally produced newscast of local news, traffic, national news, weather, sports, business, and public affairs.)",
-    "popularity": 155.2913,
-    "poster_path": null,
-    "first_air_date": "2001-09-17",
-    "name": "Good Day Live",
-    "vote_average": 3,
-    "vote_count": 4
+    "original_name": "The Colbert Report",
+    "overview": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, a former correspondent for The Daily Show with Jon Stewart. The Colbert Report is a spin-off from and counterpart to The Daily Show that comments on politics and the media in a similar way. The show focuses on a fictional anchorman character named Stephen Colbert, played by his real-life namesake. The character, described by Colbert as a \"well-intentioned, poorly informed, high-status idiot\", is a caricature of televised political pundits.",
+    "popularity": 125.1308,
+    "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+    "first_air_date": "2005-10-17",
+    "name": "The Colbert Report",
+    "vote_average": 6.885,
+    "vote_count": 279
   },
   {
     "adult": false,
@@ -209,111 +209,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/Ajku4m7jbMpCTEPr794Imv19mCA.jpg",
-    "genre_ids": [
-      10763,
-      35
-    ],
-    "id": 4385,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Colbert Report",
-    "overview": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, a former correspondent for The Daily Show with Jon Stewart. The Colbert Report is a spin-off from and counterpart to The Daily Show that comments on politics and the media in a similar way. The show focuses on a fictional anchorman character named Stephen Colbert, played by his real-life namesake. The character, described by Colbert as a \"well-intentioned, poorly informed, high-status idiot\", is a caricature of televised political pundits.",
-    "popularity": 125.1308,
-    "poster_path": "/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-    "first_air_date": "2005-10-17",
-    "name": "The Colbert Report",
-    "vote_average": 6.885,
-    "vote_count": 279
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zkQe0Pvi3xFw47g0eAZ5kAMBJh8.jpg",
-    "genre_ids": [
-      10767,
-      10763
-    ],
-    "id": 26338,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Tavis Smiley",
-    "overview": "Tavis Smiley features a unique mix of news and pop culture to combine for one thought-provoking and entertaining program. A hybrid of news, issues and entertainment, it features interviews with artists, activists, newsmakers, politicians and everyday people.\n\nSince its first season, the show has won four NAACP Image Awards for \"Outstanding Television, News, Talk, or Information (Series or Special).\"\n\nTaped at KCET studios, Tavis Smiley is the first West Coast talk show for PBS and is produced by The Smiley Group Inc./TS Media Inc. in association with KCET/Hollywood.",
-    "popularity": 53.8276,
-    "poster_path": "/miACRlSfqYIrw4WtdY8snSMaSHz.jpg",
-    "first_air_date": "2004-01-05",
-    "name": "Tavis Smiley",
-    "vote_average": 7.3,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5EZwuwszeei0vDQzdxWTCWKQKtq.jpg",
-    "genre_ids": [
-      10763,
-      10767
-    ],
-    "id": 13354,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Question Time",
-    "overview": "This topical debate series based on Any Questions? typically features politicians from at least the three major political parties as well as other public figures who answer pre-selected questions put to them by a carefully selected audience.",
-    "popularity": 78.0899,
-    "poster_path": "/nLGgjwQNnCKuDdJMDmp02pxB0u9.jpg",
-    "first_air_date": "1979-09-25",
-    "name": "Question Time",
-    "vote_average": 5.5,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/51X8OTROsfVlV4oOD2pGPW5EP7c.jpg",
-    "genre_ids": [
-      10763
-    ],
-    "id": 67584,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "VICE News Tonight",
-    "overview": "VICE News' half-hour nightly newscast. We now interrupt your regularly scheduled worldview.",
-    "popularity": 56.7255,
-    "poster_path": "/ll2mHKFz0EYcnpQf3Hs9q5rgbgS.jpg",
-    "first_air_date": "2016-10-10",
-    "name": "VICE News Tonight",
-    "vote_average": 6.6,
-    "vote_count": 28
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10763,
-      35,
-      10751
-    ],
-    "id": 12552,
-    "origin_country": [
-      "AU"
-    ],
-    "original_language": "en",
-    "original_name": "Good News Week",
-    "overview": "Good News Week was an Australian satirical panel game show hosted by Paul McDermott that aired from 19 April 1996 to 27 May 2000, and 11 February 2008 to 28 April 2012. The show's initial run aired on ABC until being bought by Network Ten in 1999. The show was revived for its second run when the 2007–2008 Writers Guild of America strike caused many of Network Ten's imported US programmes to cease production.\n\nGood News Week drew its comedy and satire from recent news stories, political figures, media organisations, and often, aspects of the show itself. The show opened with a monologue by McDermott relating to recent headlines, after which two teams of three panellists competed in recurring segments to gain points.\n\nThe show has spawned three short-lived spin-off series, the ABC's Good News Weekend, Ten's GNW Night Lite and Ten's skit-based Good News World.",
-    "popularity": 57.0189,
-    "poster_path": "/x8GPWUUJe8jbGe3ac3OvU455Y41.jpg",
-    "first_air_date": "1996-04-12",
-    "name": "Good News Week",
-    "vote_average": 8.8,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
     "backdrop_path": "/fv3K9SWlXQaCzVsnh6RnzLu84xA.jpg",
     "genre_ids": [
       99,
@@ -335,47 +230,66 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/2z85pmHUqfkktqDuqaxksGSW8S8.jpg",
+    "backdrop_path": "/cO1Cr88WEIDIvjI5Q2oRl7GILR4.jpg",
     "genre_ids": [
       10763,
-      35
+      10767,
+      10768
     ],
-    "id": 70,
+    "id": 40619,
     "origin_country": [
-      "CA"
+      "US"
     ],
     "original_language": "en",
-    "original_name": "This Hour Has 22 Minutes",
-    "overview": "This Hour Has 22 Minutes is a weekly Canadian television comedy that airs on CBC Television. Launched in 1993 during Canada's 35th general election, the show focuses on Canadian politics, combining news parody, sketch comedy and satirical editorials. Originally featuring Cathy Jones, Rick Mercer, Greg Thomey and Mary Walsh, the series featured satirical sketches of the weekly news and Canadian political events. The show's format is a mock news program, intercut with comic sketches, parody commercials and humorous interviews of public figures. The on-location segments are frequently filmed with slanted camera angles.",
-    "popularity": 67.6961,
-    "poster_path": "/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg",
-    "first_air_date": "1993-10-11",
-    "name": "This Hour Has 22 Minutes",
-    "vote_average": 6.608,
-    "vote_count": 51
+    "original_name": "The Young Turks",
+    "overview": "Online American liberal/progressive political and social commentary program hosted by Cenk Uygur and Ana Kasparian",
+    "popularity": 107.7211,
+    "poster_path": "/zTQaglWNTPn4fWoE2r7bORH0i2F.jpg",
+    "first_air_date": "",
+    "name": "The Young Turks",
+    "vote_average": 6.1,
+    "vote_count": 13
   },
   {
     "adult": false,
-    "backdrop_path": "/7nt61RTJ1RJW86rQVEBqMmw2Wi6.jpg",
+    "backdrop_path": "/xXXt9FWD0coqGrj8FqbeowR69MY.jpg",
     "genre_ids": [
-      99,
-      35,
-      10751,
-      10763
+      10763,
+      99
     ],
-    "id": 6078,
+    "id": 4225,
     "origin_country": [
       "GB"
     ],
     "original_language": "en",
-    "original_name": "That's Life!",
-    "overview": "A magazine-style television series on BBC1 which was broadcast from May 1973 to June 1994, presented by Esther Rantzen, with various changes of co-presenters. The show presented hard-hitting investigations alongside satire and occasional light entertainment.",
-    "popularity": 43.7674,
-    "poster_path": "/w92eGLtdxJ037OQm80uZnkQ9G6W.jpg",
-    "first_air_date": "1973-05-26",
-    "name": "That's Life!",
+    "original_name": "The Gadget Show",
+    "overview": "The Gadget Show is a British television series which focuses on consumer technology. The show, which is broadcast on Channel 5 is currently presented by Jason Bradbury and Rachel Riley with Jon Bentley and Pollyanna Woodward.\n\nOriginally a thirty-minute show, it was extended to forty-five minutes, then later to sixty minutes. Repeats have also aired on the digital channel 5*, syndicated broadcasts on Discovery Science and Dave, and Channel 5's Internet on-demand service Demand 5. In Australia, it is aired on The Lifestyle Channel.",
+    "popularity": 105.8841,
+    "poster_path": "/b8hftDjIoVBiGP2gaBxjAU6GHdz.jpg",
+    "first_air_date": "2004-06-07",
+    "name": "The Gadget Show",
+    "vote_average": 6.7,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10763
+    ],
+    "id": 119579,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_name": "360°",
+    "overview": "Debate, opinions and controversial matters under the look of Daniel Matamala.",
+    "popularity": 101.1084,
+    "poster_path": "/f09CHk38lQ3MeP1rgBCSVNbt8BQ.jpg",
+    "first_air_date": "2018-07-18",
+    "name": "360°",
     "vote_average": 0,
-    "vote_count": 1
+    "vote_count": 0
   },
   {
     "adult": false,
@@ -422,94 +336,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/l418EclewHc7BWxR00fg4CwBm2m.jpg",
-    "genre_ids": [
-      10763,
-      35,
-      10767,
-      10764
-    ],
-    "id": 88033,
-    "origin_country": [
-      "FR"
-    ],
-    "original_language": "fr",
-    "original_name": "Les Guignols de l'info",
-    "overview": "",
-    "popularity": 68.989,
-    "poster_path": "/9u7oDri9TvJXffoe6cyD2EDkQi2.jpg",
-    "first_air_date": "1988-08-29",
-    "name": "Les Guignols de l'info",
-    "vote_average": 7.9,
-    "vote_count": 19
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10763
-    ],
-    "id": 119579,
-    "origin_country": [
-      "CL"
-    ],
-    "original_language": "es",
-    "original_name": "360°",
-    "overview": "Debate, opinions and controversial matters under the look of Daniel Matamala.",
-    "popularity": 101.1084,
-    "poster_path": "/f09CHk38lQ3MeP1rgBCSVNbt8BQ.jpg",
-    "first_air_date": "2018-07-18",
-    "name": "360°",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cO1Cr88WEIDIvjI5Q2oRl7GILR4.jpg",
-    "genre_ids": [
-      10763,
-      10767,
-      10768
-    ],
-    "id": 40619,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Young Turks",
-    "overview": "Online American liberal/progressive political and social commentary program hosted by Cenk Uygur and Ana Kasparian",
-    "popularity": 107.7211,
-    "poster_path": "/zTQaglWNTPn4fWoE2r7bORH0i2F.jpg",
-    "first_air_date": "",
-    "name": "The Young Turks",
-    "vote_average": 6.1,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      99,
-      10751,
-      10762,
-      10763
-    ],
-    "id": 99611,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Henry Ford's Innovation Nation",
-    "overview": "The Henry Ford’s Innovation Nation is a weekly Saturday morning show on CBS that showcases present-day change-makers from all over the world who are creating solutions to real needs. It is hosted by news correspondent and CBS Sunday Morning regular Mo Rocca. Each episode presents stories related to the process of innovation and also includes one story on The Henry Ford—its Archive of American Innovation, its unique visitor experiences and its unparalleled expertise. The intent is to stimulate curiosity and to inspire audiences with entertaining yet educational stories about yesterday and today’s visionaries and turning points that changed the course of history, as well as innovations and inventions that are changing the world today. The Henry Ford’s Innovation Nation is produced in partnership by The Henry Ford and Litton Entertainment, a leading independent production and distribution company.",
-    "popularity": 60.0961,
-    "poster_path": "/7YDU977mxN8Z67RT5CfSa8mpZgk.jpg",
-    "first_air_date": "2014-09-27",
-    "name": "The Henry Ford's Innovation Nation",
-    "vote_average": 5,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
     "backdrop_path": "/b35HZ74miNItNQhJotYM9WWVJdp.jpg",
     "genre_ids": [
       10763
@@ -527,135 +353,6 @@
     "name": "Access Hollywood",
     "vote_average": 5.125,
     "vote_count": 8
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gjTFqgp5IRL9NGuoIQlTjFuaNa5.jpg",
-    "genre_ids": [
-      99,
-      10763
-    ],
-    "id": 20097,
-    "origin_country": [
-      "CA"
-    ],
-    "original_language": "fr",
-    "original_name": "Découverte",
-    "overview": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports delving into technological breakthroughs and developments in scientific research, environmental issues, space exploration, as well as health and medicine.",
-    "popularity": 57.9327,
-    "poster_path": "/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
-    "first_air_date": "1988-09-11",
-    "name": "Découverte",
-    "vote_average": 6.3,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8xipQC0RfaMFsflRdVlIozAXlX7.jpg",
-    "genre_ids": [
-      35,
-      10763
-    ],
-    "id": 46056,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "heute-show",
-    "overview": "Oliver Welke and his team report on political topics as well as international news giving them their own satirical, comedic twist.",
-    "popularity": 37.4386,
-    "poster_path": "/y7SD3fDHBdhEyeXorsXVM5RKU4K.jpg",
-    "first_air_date": "2009-09-08",
-    "name": "heute-show",
-    "vote_average": 6.556,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
-    "genre_ids": [
-      10767,
-      10763,
-      35
-    ],
-    "id": 138147,
-    "origin_country": [
-      "NL"
-    ],
-    "original_language": "nl",
-    "original_name": "De Avondshow met Arjen Lubach",
-    "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
-    "popularity": 49.8855,
-    "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
-    "first_air_date": "2022-02-21",
-    "name": "De Avondshow met Arjen Lubach",
-    "vote_average": 7.4,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ilosPiBOGCAjxPIds74xcdwwxmm.jpg",
-    "genre_ids": [
-      99,
-      80,
-      18,
-      10763
-    ],
-    "id": 63367,
-    "origin_country": [
-      "ES"
-    ],
-    "original_language": "es",
-    "original_name": "Equipo de investigación",
-    "overview": "",
-    "popularity": 57.42,
-    "poster_path": "/8PAbFyA1ERvS85VJRbTmjTd5Pwb.jpg",
-    "first_air_date": "2011-01-31",
-    "name": "Equipo de investigación",
-    "vote_average": 7.3,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oRGlrvL9D72bZmWzeIRTyCn0tuo.jpg",
-    "genre_ids": [
-      10763,
-      10767
-    ],
-    "id": 70345,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "All In with Chris Hayes",
-    "overview": "Chris Hayes delivers the biggest news and political stories of the day with a commitment to in-depth reporting that consistently seeks to hold the nation's leaders accountable for their actions. Drawing from his background as a reporter, Hayes at times reports directly from the scene of a news event as it occurs to provide a firsthand account, digging deep and speaking with people who represent different points of view. Hayes brings the nation's officials, legislators, policymakers, and local activists to the table to address key issues affecting communities across America.",
-    "popularity": 34.2639,
-    "poster_path": "/6B4gsW6e7fV01mNuXYaoG563FmP.jpg",
-    "first_air_date": "2013-04-01",
-    "name": "All In with Chris Hayes",
-    "vote_average": 5,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uq7amVOlWTMdDpDSYwO0s3wiGT4.jpg",
-    "genre_ids": [
-      10763,
-      99
-    ],
-    "id": 2035,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "20/20",
-    "overview": "20/20 is an American television newsmagazine that has been broadcast on ABC since June 6, 1978. Created by ABC News executive Roone Arledge, the show was designed similarly to CBS's 60 Minutes but focuses more on human interest stories than international and political subjects. The program's name derives from the \"20/20\" measurement of visual acuity.\n\nThe hour-long program has been a staple on Friday evenings for much of the time since it moved to that timeslot from Thursdays in September 1987, though special editions of the program occasionally air on other nights.",
-    "popularity": 73.8169,
-    "poster_path": "/cmqmilQ6l9zAWImNCvRLtXlvQ3Q.jpg",
-    "first_air_date": "1978-06-06",
-    "name": "20/20",
-    "vote_average": 6.1,
-    "vote_count": 33
   },
   {
     "adult": false,
@@ -681,24 +378,24 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/nLycYS1oOw2iCYvWxK7VpxkjcQ6.jpg",
+    "backdrop_path": "/5EZwuwszeei0vDQzdxWTCWKQKtq.jpg",
     "genre_ids": [
-      10767,
-      10763
+      10763,
+      10767
     ],
-    "id": 158532,
+    "id": 13354,
     "origin_country": [
-      "FR"
+      "GB"
     ],
-    "original_language": "fr",
-    "original_name": "Clique",
-    "overview": "",
-    "popularity": 74.8737,
-    "poster_path": "/e1e44kWC2XhXDotHPQDxyO5qs1B.jpg",
-    "first_air_date": "2013-09-01",
-    "name": "Clique",
-    "vote_average": 4.5,
-    "vote_count": 3
+    "original_language": "en",
+    "original_name": "Question Time",
+    "overview": "This topical debate series based on Any Questions? typically features politicians from at least the three major political parties as well as other public figures who answer pre-selected questions put to them by a carefully selected audience.",
+    "popularity": 78.0899,
+    "poster_path": "/nLGgjwQNnCKuDdJMDmp02pxB0u9.jpg",
+    "first_air_date": "1979-09-25",
+    "name": "Question Time",
+    "vote_average": 5.5,
+    "vote_count": 13
   },
   {
     "adult": false,
@@ -720,6 +417,48 @@
     "name": "Frontline",
     "vote_average": 7.4,
     "vote_count": 46
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nLycYS1oOw2iCYvWxK7VpxkjcQ6.jpg",
+    "genre_ids": [
+      10767,
+      10763
+    ],
+    "id": 158532,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Clique",
+    "overview": "",
+    "popularity": 74.8737,
+    "poster_path": "/e1e44kWC2XhXDotHPQDxyO5qs1B.jpg",
+    "first_air_date": "2013-09-01",
+    "name": "Clique",
+    "vote_average": 4.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uq7amVOlWTMdDpDSYwO0s3wiGT4.jpg",
+    "genre_ids": [
+      10763,
+      99
+    ],
+    "id": 2035,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "20/20",
+    "overview": "20/20 is an American television newsmagazine that has been broadcast on ABC since June 6, 1978. Created by ABC News executive Roone Arledge, the show was designed similarly to CBS's 60 Minutes but focuses more on human interest stories than international and political subjects. The program's name derives from the \"20/20\" measurement of visual acuity.\n\nThe hour-long program has been a staple on Friday evenings for much of the time since it moved to that timeslot from Thursdays in September 1987, though special editions of the program occasionally air on other nights.",
+    "popularity": 73.8169,
+    "poster_path": "/cmqmilQ6l9zAWImNCvRLtXlvQ3Q.jpg",
+    "first_air_date": "1978-06-06",
+    "name": "20/20",
+    "vote_average": 6.1,
+    "vote_count": 33
   },
   {
     "adult": false,
@@ -765,64 +504,26 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/uz74E24XvlmfXhXjIenBhNpjWA5.jpg",
+    "backdrop_path": "/l418EclewHc7BWxR00fg4CwBm2m.jpg",
     "genre_ids": [
+      10763,
+      35,
       10767,
-      10763
+      10764
     ],
-    "id": 3231,
+    "id": 88033,
     "origin_country": [
-      "GB"
+      "FR"
     ],
-    "original_language": "en",
-    "original_name": "Match of the Day 2",
-    "overview": "A light-hearted look at the United Kingdom's Premier League action, rounding-up the weekend's football action.",
-    "popularity": 67.2921,
-    "poster_path": "/ftMUYGMA45FEAlRVMnYDuYdvWN2.jpg",
-    "first_air_date": "2004-08-15",
-    "name": "Match of the Day 2",
-    "vote_average": 6.913,
-    "vote_count": 23
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10763
-    ],
-    "id": 88795,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "Grimme-Preis-Verleihung",
+    "original_language": "fr",
+    "original_name": "Les Guignols de l'info",
     "overview": "",
-    "popularity": 49.9915,
-    "poster_path": null,
-    "first_air_date": "1964-01-16",
-    "name": "Grimme Awards Ceremony",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5jbuPMtZrilFg70CGx47dztBCKf.jpg",
-    "genre_ids": [
-      10763
-    ],
-    "id": 58287,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "PBS News Weekend",
-    "overview": "A summary of the day’s national and international news, using renowned experts to provide in-depth analysis. Each weekend broadcast contains original, in-depth field reporting on topics including education, healthcare, the economy, energy, science and technology, religion, finance and the arts.",
-    "popularity": 64.3856,
-    "poster_path": "/qIccOtBz8uzAbK0HsiB4o0JjpIH.jpg",
-    "first_air_date": "2013-09-07",
-    "name": "PBS News Weekend",
-    "vote_average": 4.8,
-    "vote_count": 12
+    "popularity": 68.989,
+    "poster_path": "/9u7oDri9TvJXffoe6cyD2EDkQi2.jpg",
+    "first_air_date": "1988-08-29",
+    "name": "Les Guignols de l'info",
+    "vote_average": 7.9,
+    "vote_count": 19
   },
   {
     "adult": false,
@@ -847,24 +548,24 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+    "backdrop_path": "/2z85pmHUqfkktqDuqaxksGSW8S8.jpg",
     "genre_ids": [
-      10767,
-      10763
+      10763,
+      35
     ],
-    "id": 224,
+    "id": 70,
     "origin_country": [
-      "GB"
+      "CA"
     ],
     "original_language": "en",
-    "original_name": "Match of the Day",
-    "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
-    "popularity": 55.1507,
-    "poster_path": "/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-    "first_air_date": "1964-08-22",
-    "name": "Match of the Day",
-    "vote_average": 7.511,
-    "vote_count": 47
+    "original_name": "This Hour Has 22 Minutes",
+    "overview": "This Hour Has 22 Minutes is a weekly Canadian television comedy that airs on CBC Television. Launched in 1993 during Canada's 35th general election, the show focuses on Canadian politics, combining news parody, sketch comedy and satirical editorials. Originally featuring Cathy Jones, Rick Mercer, Greg Thomey and Mary Walsh, the series featured satirical sketches of the weekly news and Canadian political events. The show's format is a mock news program, intercut with comic sketches, parody commercials and humorous interviews of public figures. The on-location segments are frequently filmed with slanted camera angles.",
+    "popularity": 67.6961,
+    "poster_path": "/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg",
+    "first_air_date": "1993-10-11",
+    "name": "This Hour Has 22 Minutes",
+    "vote_average": 6.608,
+    "vote_count": 51
   },
   {
     "adult": false,
@@ -889,128 +590,44 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/chHqexlQ5eL6EB0CUnYfUarJQ6q.jpg",
+    "backdrop_path": "/uz74E24XvlmfXhXjIenBhNpjWA5.jpg",
     "genre_ids": [
-      10763,
-      35
+      10767,
+      10763
     ],
-    "id": 31160,
+    "id": 3231,
     "origin_country": [
-      "NZ"
+      "GB"
     ],
     "original_language": "en",
-    "original_name": "7 Days",
-    "overview": "7 Days is a New Zealand comedy gameshow similar in some ways to the British program Mock the Week, hosted by Jeremy Corbett and created by The Down Low Concept. Paul Ego and Dai Henwood usually appear on each episode, along with other comedians, who form teams and answer questions about news stories from the last week.",
-    "popularity": 46.9318,
-    "poster_path": "/em9i6PK67n7qDhnDl8NCfXzQRy6.jpg",
-    "first_air_date": "2009-08-21",
-    "name": "7 Days",
-    "vote_average": 7,
-    "vote_count": 1
+    "original_name": "Match of the Day 2",
+    "overview": "A light-hearted look at the United Kingdom's Premier League action, rounding-up the weekend's football action.",
+    "popularity": 67.2921,
+    "poster_path": "/ftMUYGMA45FEAlRVMnYDuYdvWN2.jpg",
+    "first_air_date": "2004-08-15",
+    "name": "Match of the Day 2",
+    "vote_average": 6.913,
+    "vote_count": 23
   },
   {
     "adult": false,
-    "backdrop_path": "/leeu1k4xUaM8P28ZZYpM22rzGXx.jpg",
+    "backdrop_path": "/5jbuPMtZrilFg70CGx47dztBCKf.jpg",
     "genre_ids": [
       10763
     ],
-    "id": 85791,
-    "origin_country": [
-      "CA"
-    ],
-    "original_language": "fr",
-    "original_name": "Entrée principale",
-    "overview": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and greatest the scene has to offer.",
-    "popularity": 62.7206,
-    "poster_path": "/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
-    "first_air_date": "2013-09-09",
-    "name": "Entrée principale",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/shPFtgmSEsZavARvqHtJzhkvodr.jpg",
-    "genre_ids": [
-      10763,
-      10767
-    ],
-    "id": 66688,
-    "origin_country": [
-      "CA"
-    ],
-    "original_language": "fr",
-    "original_name": "Les francs-tireurs",
-    "overview": "",
-    "popularity": 58.1423,
-    "poster_path": "/zCCgOtuD6sC3CTaisWtlpX3aEyN.jpg",
-    "first_air_date": "1998-09-08",
-    "name": "Les francs-tireurs",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xjQAet7tu6dVwU6Z1XxKlFDoEtg.jpg",
-    "genre_ids": [
-      10763,
-      35
-    ],
-    "id": 9253,
-    "origin_country": [
-      "IT"
-    ],
-    "original_language": "it",
-    "original_name": "Le Iene",
-    "overview": "Comedy/satirical show, with sketches and reports into political affairs and consumer issues. Recurring features of the show, besides the reportage, are the double interviews in which two famous people are asked the same questions, and are edited together on a split screen, side by side so that they answer one after the other.",
-    "popularity": 54.4326,
-    "poster_path": "/4PMQejuRcxYyi5Y0VTykZvPZ7N8.jpg",
-    "first_air_date": "1997-09-22",
-    "name": "Le Iene",
-    "vote_average": 6.8,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gVGElSmAqL7zYbtU06qqlfR1GJq.jpg",
-    "genre_ids": [
-      10763,
-      10767,
-      35
-    ],
-    "id": 65592,
+    "id": 58287,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Full Frontal with Samantha Bee",
-    "overview": "Samantha Bee breaks up late-night's all-male sausage fest with her nuanced view of political and cultural issues, her sharp interview skills, her repartee with world leaders and, of course, her 10-pound lady balls.",
-    "popularity": 52.4146,
-    "poster_path": "/Rr5QFKeao5G35dddh7iXpF2ePz.jpg",
-    "first_air_date": "2016-02-08",
-    "name": "Full Frontal with Samantha Bee",
-    "vote_average": 5.86,
-    "vote_count": 89
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5RqHBcbUqXGjxIPOZRu7PvKu7N9.jpg",
-    "genre_ids": [
-      10763
-    ],
-    "id": 227430,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Bom Dia Brasil",
-    "overview": "This show features the main news in Brazil and the world in a magazine format, with commentary on politics, economy, sports and gastronomy.",
-    "popularity": 27.4564,
-    "poster_path": "/5ihWJlxDuak2LzNVWRTGAuL4kB0.jpg",
-    "first_air_date": "1983-01-03",
-    "name": "Bom Dia Brasil",
-    "vote_average": 0,
-    "vote_count": 0
+    "original_name": "PBS News Weekend",
+    "overview": "A summary of the day’s national and international news, using renowned experts to provide in-depth analysis. Each weekend broadcast contains original, in-depth field reporting on topics including education, healthcare, the economy, energy, science and technology, religion, finance and the arts.",
+    "popularity": 64.3856,
+    "poster_path": "/qIccOtBz8uzAbK0HsiB4o0JjpIH.jpg",
+    "first_air_date": "2013-09-07",
+    "name": "PBS News Weekend",
+    "vote_average": 4.8,
+    "vote_count": 12
   },
   {
     "adult": false,
@@ -1035,46 +652,23 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/hmxB1meDdUe3e6x81OOjp5NU2Bz.jpg",
+    "backdrop_path": "/leeu1k4xUaM8P28ZZYpM22rzGXx.jpg",
     "genre_ids": [
-      10763,
-      10767,
-      10768
+      10763
     ],
-    "id": 15437,
+    "id": 85791,
     "origin_country": [
-      "GB"
+      "CA"
     ],
-    "original_language": "en",
-    "original_name": "The Big Questions",
-    "overview": "Nicky Campbell hosts a series of moral, ethical and religious debates.",
-    "popularity": 45.0417,
-    "poster_path": "/zVaxHUQ4uHMyn4FDWdmrj5Sp22G.jpg",
-    "first_air_date": "2007-09-09",
-    "name": "The Big Questions",
-    "vote_average": 6.7,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pglAYhRnuMaNkmsQs5sMsYJuhAi.jpg",
-    "genre_ids": [
-      10763,
-      99
-    ],
-    "id": 61153,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Profissão Repórter",
-    "overview": "Caco Barcellos and a team of young journalists go to the streets, together, to present different angles of the same fact, from the same news. Each reporter always has a mission to fulfill, which involves tasks both in the performance of the live report and in its completion.",
-    "popularity": 46.8572,
-    "poster_path": "/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
-    "first_air_date": "2008-06-03",
-    "name": "Profissão Repórter",
-    "vote_average": 7,
-    "vote_count": 2
+    "original_language": "fr",
+    "original_name": "Entrée principale",
+    "overview": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and greatest the scene has to offer.",
+    "popularity": 62.7206,
+    "poster_path": "/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
+    "first_air_date": "2013-09-09",
+    "name": "Entrée principale",
+    "vote_average": 0,
+    "vote_count": 0
   },
   {
     "adult": false,
@@ -1099,86 +693,217 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10763
-    ],
-    "id": 35340,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "OK! TV",
-    "overview": "OK! TV is an early evening magazine programme, broadcast on Channel 5 as a brand extension of celebrity title OK! Magazine. It replaced the former magazine and discussion show Live from Studio Five on 14 February 2011, and was presented by Kate Walsh and Matt Johnson, both of whom later left the programme. Jeff Brazier and Jenny Frost replaced Walsh and Johnson in August 2011 and presented the show until its cancellation. The show was made by the 5 News team and produced by Sky News for Channel 5. On 8 November 2011, it was announced that the show has been cancelled by Channel 5. The show aired its final edition on 16 December after ten months on air due to the contract for 5 News returning to ITN.",
-    "popularity": 50.6971,
-    "poster_path": "/AbKHleMiAEqz471pRvOINFKij0K.jpg",
-    "first_air_date": "2011-02-14",
-    "name": "OK! TV",
-    "vote_average": 4,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3lUiaEvom2dDPgjJPiBaqSwCTkI.jpg",
+    "backdrop_path": "/kCcH5XGInPxDuhwfZJUBUFb0JUi.jpg",
     "genre_ids": [
       10763,
       10767
     ],
-    "id": 209415,
+    "id": 42265,
     "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Sunday with Laura Kuenssberg",
-    "overview": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
-    "popularity": 51.2729,
-    "poster_path": "/le6vaFe9E0en3znFhy8eFhP3DQV.jpg",
-    "first_air_date": "2022-09-04",
-    "name": "Sunday with Laura Kuenssberg",
-    "vote_average": 2.7,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10763,
-      10767
-    ],
-    "id": 116796,
-    "origin_country": [
-      "CH"
+      "DE"
     ],
     "original_language": "de",
-    "original_name": "G&G – Gesichter und Geschichten",
-    "overview": "",
-    "popularity": 32.0021,
-    "poster_path": null,
-    "first_air_date": "2005-03-29",
-    "name": "G&G – Gesichter und Geschichten",
-    "vote_average": 4,
+    "original_name": "Taff",
+    "overview": "Taff is a tabloid news magazine airing on the German television network, ProSieben.",
+    "popularity": 61.0459,
+    "poster_path": "/2XJlnWPmoNLuaa85ol8Xe3GXYVm.jpg",
+    "first_air_date": "1997-03-11",
+    "name": "Taff",
+    "vote_average": 3.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      99,
+      10751,
+      10762,
+      10763
+    ],
+    "id": 99611,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Henry Ford's Innovation Nation",
+    "overview": "The Henry Ford’s Innovation Nation is a weekly Saturday morning show on CBS that showcases present-day change-makers from all over the world who are creating solutions to real needs. It is hosted by news correspondent and CBS Sunday Morning regular Mo Rocca. Each episode presents stories related to the process of innovation and also includes one story on The Henry Ford—its Archive of American Innovation, its unique visitor experiences and its unparalleled expertise. The intent is to stimulate curiosity and to inspire audiences with entertaining yet educational stories about yesterday and today’s visionaries and turning points that changed the course of history, as well as innovations and inventions that are changing the world today. The Henry Ford’s Innovation Nation is produced in partnership by The Henry Ford and Litton Entertainment, a leading independent production and distribution company.",
+    "popularity": 60.0961,
+    "poster_path": "/7YDU977mxN8Z67RT5CfSa8mpZgk.jpg",
+    "first_air_date": "2014-09-27",
+    "name": "The Henry Ford's Innovation Nation",
+    "vote_average": 5,
     "vote_count": 1
   },
   {
     "adult": false,
-    "backdrop_path": "/7ctOjFE6AnXlAuKm4aFvybJ6VPM.jpg",
+    "backdrop_path": "/shPFtgmSEsZavARvqHtJzhkvodr.jpg",
+    "genre_ids": [
+      10763,
+      10767
+    ],
+    "id": 66688,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "fr",
+    "original_name": "Les francs-tireurs",
+    "overview": "",
+    "popularity": 58.1423,
+    "poster_path": "/zCCgOtuD6sC3CTaisWtlpX3aEyN.jpg",
+    "first_air_date": "1998-09-08",
+    "name": "Les francs-tireurs",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gjTFqgp5IRL9NGuoIQlTjFuaNa5.jpg",
     "genre_ids": [
       99,
       10763
     ],
-    "id": 6507,
+    "id": 20097,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "fr",
+    "original_name": "Découverte",
+    "overview": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports delving into technological breakthroughs and developments in scientific research, environmental issues, space exploration, as well as health and medicine.",
+    "popularity": 57.9327,
+    "poster_path": "/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
+    "first_air_date": "1988-09-11",
+    "name": "Découverte",
+    "vote_average": 6.3,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ilosPiBOGCAjxPIds74xcdwwxmm.jpg",
+    "genre_ids": [
+      99,
+      80,
+      18,
+      10763
+    ],
+    "id": 63367,
+    "origin_country": [
+      "ES"
+    ],
+    "original_language": "es",
+    "original_name": "Equipo de investigación",
+    "overview": "",
+    "popularity": 57.42,
+    "poster_path": "/8PAbFyA1ERvS85VJRbTmjTd5Pwb.jpg",
+    "first_air_date": "2011-01-31",
+    "name": "Equipo de investigación",
+    "vote_average": 7.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10763,
+      35,
+      10751
+    ],
+    "id": 12552,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Good News Week",
+    "overview": "Good News Week was an Australian satirical panel game show hosted by Paul McDermott that aired from 19 April 1996 to 27 May 2000, and 11 February 2008 to 28 April 2012. The show's initial run aired on ABC until being bought by Network Ten in 1999. The show was revived for its second run when the 2007–2008 Writers Guild of America strike caused many of Network Ten's imported US programmes to cease production.\n\nGood News Week drew its comedy and satire from recent news stories, political figures, media organisations, and often, aspects of the show itself. The show opened with a monologue by McDermott relating to recent headlines, after which two teams of three panellists competed in recurring segments to gain points.\n\nThe show has spawned three short-lived spin-off series, the ABC's Good News Weekend, Ten's GNW Night Lite and Ten's skit-based Good News World.",
+    "popularity": 57.0189,
+    "poster_path": "/x8GPWUUJe8jbGe3ac3OvU455Y41.jpg",
+    "first_air_date": "1996-04-12",
+    "name": "Good News Week",
+    "vote_average": 8.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/51X8OTROsfVlV4oOD2pGPW5EP7c.jpg",
+    "genre_ids": [
+      10763
+    ],
+    "id": 67584,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "VICE News Tonight",
+    "overview": "VICE News' half-hour nightly newscast. We now interrupt your regularly scheduled worldview.",
+    "popularity": 56.7255,
+    "poster_path": "/ll2mHKFz0EYcnpQf3Hs9q5rgbgS.jpg",
+    "first_air_date": "2016-10-10",
+    "name": "VICE News Tonight",
+    "vote_average": 6.6,
+    "vote_count": 28
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+    "genre_ids": [
+      10767,
+      10763
+    ],
+    "id": 224,
     "origin_country": [
       "GB"
     ],
     "original_language": "en",
-    "original_name": "Dispatches",
-    "overview": "Dispatches is the British TV current affairs documentary series on Channel 4, first transmitted in 1987. The programme covers issues about British society, politics, health, religion, international current affairs and the environment, and often features a mole inside organisations under journalistic investigation.",
-    "popularity": 48.7845,
-    "poster_path": "/u1QfxSMvcofJ4gCF29AOmOcpRpg.jpg",
-    "first_air_date": "1987-10-30",
-    "name": "Dispatches",
-    "vote_average": 6.7,
-    "vote_count": 12
+    "original_name": "Match of the Day",
+    "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
+    "popularity": 54.1911,
+    "poster_path": "/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+    "first_air_date": "1964-08-22",
+    "name": "Match of the Day",
+    "vote_average": 7.511,
+    "vote_count": 47
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xjQAet7tu6dVwU6Z1XxKlFDoEtg.jpg",
+    "genre_ids": [
+      10763,
+      35
+    ],
+    "id": 9253,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_name": "Le Iene",
+    "overview": "Comedy/satirical show, with sketches and reports into political affairs and consumer issues. Recurring features of the show, besides the reportage, are the double interviews in which two famous people are asked the same questions, and are edited together on a split screen, side by side so that they answer one after the other.",
+    "popularity": 50.8184,
+    "poster_path": "/4PMQejuRcxYyi5Y0VTykZvPZ7N8.jpg",
+    "first_air_date": "1997-09-22",
+    "name": "Le Iene",
+    "vote_average": 6.8,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zkQe0Pvi3xFw47g0eAZ5kAMBJh8.jpg",
+    "genre_ids": [
+      10767,
+      10763
+    ],
+    "id": 26338,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tavis Smiley",
+    "overview": "Tavis Smiley features a unique mix of news and pop culture to combine for one thought-provoking and entertaining program. A hybrid of news, issues and entertainment, it features interviews with artists, activists, newsmakers, politicians and everyday people.\n\nSince its first season, the show has won four NAACP Image Awards for \"Outstanding Television, News, Talk, or Information (Series or Special).\"\n\nTaped at KCET studios, Tavis Smiley is the first West Coast talk show for PBS and is produced by The Smiley Group Inc./TS Media Inc. in association with KCET/Hollywood.",
+    "popularity": 52.5655,
+    "poster_path": "/miACRlSfqYIrw4WtdY8snSMaSHz.jpg",
+    "first_air_date": "2004-01-05",
+    "name": "Tavis Smiley",
+    "vote_average": 7.3,
+    "vote_count": 3
   },
   {
     "adult": false,
@@ -1194,12 +919,243 @@
     "original_language": "sv",
     "original_name": "Uppdrag granskning",
     "overview": "Swedish investigative journalism series known for the use of concealed cameras and microphones.",
-    "popularity": 52.5676,
+    "popularity": 48.7846,
     "poster_path": "/neUG4vI2JTiiP28nB7HR9t2kHRe.jpg",
     "first_air_date": "2001-01-17",
     "name": "Uppdrag granskning",
     "vote_average": 7.333,
     "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gVGElSmAqL7zYbtU06qqlfR1GJq.jpg",
+    "genre_ids": [
+      10763,
+      10767,
+      35
+    ],
+    "id": 65592,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Full Frontal with Samantha Bee",
+    "overview": "Samantha Bee breaks up late-night's all-male sausage fest with her nuanced view of political and cultural issues, her sharp interview skills, her repartee with world leaders and, of course, her 10-pound lady balls.",
+    "popularity": 46.5228,
+    "poster_path": "/Rr5QFKeao5G35dddh7iXpF2ePz.jpg",
+    "first_air_date": "2016-02-08",
+    "name": "Full Frontal with Samantha Bee",
+    "vote_average": 5.86,
+    "vote_count": 89
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3lUiaEvom2dDPgjJPiBaqSwCTkI.jpg",
+    "genre_ids": [
+      10763,
+      10767
+    ],
+    "id": 209415,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Sunday with Laura Kuenssberg",
+    "overview": "The big names behind the big stories. Laura Kuenssberg talks to those making the news, inside and outside politics.",
+    "popularity": 51.5664,
+    "poster_path": "/le6vaFe9E0en3znFhy8eFhP3DQV.jpg",
+    "first_air_date": "2022-09-04",
+    "name": "Sunday with Laura Kuenssberg",
+    "vote_average": 2.7,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lpSZ7gr51W0ZEhV7m4VF7AUfJ0w.jpg",
+    "genre_ids": [
+      10763,
+      10767
+    ],
+    "id": 7562,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Q&A",
+    "overview": "Hosted by Hamish Macdonald, Q&A puts punters, pollies and pundits together in the studio to thrash out the hot issues of the week. It's about democracy in action - the audience gets to ask the questions.",
+    "popularity": 52.8971,
+    "poster_path": "/fkO0LWXU6R21J3GUIbzCZclZObp.jpg",
+    "first_air_date": "2008-05-22",
+    "name": "Q&A",
+    "vote_average": 3.8,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10763
+    ],
+    "id": 35340,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "OK! TV",
+    "overview": "OK! TV is an early evening magazine programme, broadcast on Channel 5 as a brand extension of celebrity title OK! Magazine. It replaced the former magazine and discussion show Live from Studio Five on 14 February 2011, and was presented by Kate Walsh and Matt Johnson, both of whom later left the programme. Jeff Brazier and Jenny Frost replaced Walsh and Johnson in August 2011 and presented the show until its cancellation. The show was made by the 5 News team and produced by Sky News for Channel 5. On 8 November 2011, it was announced that the show has been cancelled by Channel 5. The show aired its final edition on 16 December after ten months on air due to the contract for 5 News returning to ITN.",
+    "popularity": 46.8036,
+    "poster_path": "/AbKHleMiAEqz471pRvOINFKij0K.jpg",
+    "first_air_date": "2011-02-14",
+    "name": "OK! TV",
+    "vote_average": 4,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mJnv7ZTQTevNz8pQCN3FiGoJWW8.jpg",
+    "genre_ids": [
+      10763,
+      10767
+    ],
+    "id": 107130,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Joy Reid Show",
+    "overview": "Joy Reid conducts one-on-one conversations with politicians and newsmakers while addressing provocative political issues both inside and outside of the beltway. Reid, who is also a best-selling author and public speaker, joined MSNBC in 2011 as a contributor. Drawing from her decades-long experience in politics, passion for addressing the intersection of race, justice and culture, as well as her signature tenacious interviewing style, Reid kicks off MSNBC’s primetime lineup by delving into American politics as they unfold.",
+    "popularity": 52.0323,
+    "poster_path": "/nf3mfTtbENhEtRLTejw1ZzBybJf.jpg",
+    "first_air_date": "2020-07-20",
+    "name": "The Joy Reid Show",
+    "vote_average": 4,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mMJ6lKsjgOcuZKxNYlt2hIA070B.jpg",
+    "genre_ids": [
+      10763,
+      35
+    ],
+    "id": 9179,
+    "origin_country": [
+      "IL"
+    ],
+    "original_language": "he",
+    "original_name": "ארץ נהדרת",
+    "overview": "An Israeli satire show featuring satirical references to current affairs of the past week through parodies of the people involved, as well as the thoughts of recurring characters. One of the most watched and influential shows on Israeli TV.",
+    "popularity": 48.42,
+    "poster_path": "/lzc1arU7a6qFDpNisLuoJK4R3N6.jpg",
+    "first_air_date": "2003-11-02",
+    "name": "Eretz Nehederet",
+    "vote_average": 7.125,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10763
+    ],
+    "id": 88795,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Grimme-Preis-Verleihung",
+    "overview": "",
+    "popularity": 42.7532,
+    "poster_path": null,
+    "first_air_date": "1964-01-16",
+    "name": "Grimme Awards Ceremony",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pVWQHcdFuVHicmbflfMncGklvAZ.jpg",
+    "genre_ids": [
+      10767,
+      10763,
+      35
+    ],
+    "id": 138147,
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "De Avondshow met Arjen Lubach",
+    "overview": "Arjen Lubach dives through the issues of the day past inspiring guests to the bottom of the news. Everyone always wants to go from the issues of the day to deepening. Arjen is really looking forward to the issues of the day.",
+    "popularity": 47.6718,
+    "poster_path": "/lXQqKsUQvgBrv9t1S3Q3CGkTUAg.jpg",
+    "first_air_date": "2022-02-21",
+    "name": "De Avondshow met Arjen Lubach",
+    "vote_average": 7.4,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7ctOjFE6AnXlAuKm4aFvybJ6VPM.jpg",
+    "genre_ids": [
+      99,
+      10763
+    ],
+    "id": 6507,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Dispatches",
+    "overview": "Dispatches is the British TV current affairs documentary series on Channel 4, first transmitted in 1987. The programme covers issues about British society, politics, health, religion, international current affairs and the environment, and often features a mole inside organisations under journalistic investigation.",
+    "popularity": 45.4245,
+    "poster_path": "/u1QfxSMvcofJ4gCF29AOmOcpRpg.jpg",
+    "first_air_date": "1987-10-30",
+    "name": "Dispatches",
+    "vote_average": 6.7,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/chHqexlQ5eL6EB0CUnYfUarJQ6q.jpg",
+    "genre_ids": [
+      10763,
+      35
+    ],
+    "id": 31160,
+    "origin_country": [
+      "NZ"
+    ],
+    "original_language": "en",
+    "original_name": "7 Days",
+    "overview": "7 Days is a New Zealand comedy gameshow similar in some ways to the British program Mock the Week, hosted by Jeremy Corbett and created by The Down Low Concept. Paul Ego and Dai Henwood usually appear on each episode, along with other comedians, who form teams and answer questions about news stories from the last week.",
+    "popularity": 43.2002,
+    "poster_path": "/em9i6PK67n7qDhnDl8NCfXzQRy6.jpg",
+    "first_air_date": "2009-08-21",
+    "name": "7 Days",
+    "vote_average": 7,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pglAYhRnuMaNkmsQs5sMsYJuhAi.jpg",
+    "genre_ids": [
+      10763,
+      99
+    ],
+    "id": 61153,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Profissão Repórter",
+    "overview": "Caco Barcellos and a team of young journalists go to the streets, together, to present different angles of the same fact, from the same news. Each reporter always has a mission to fulfill, which involves tasks both in the performance of the live report and in its completion.",
+    "popularity": 43.0297,
+    "poster_path": "/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
+    "first_air_date": "2008-06-03",
+    "name": "Profissão Repórter",
+    "vote_average": 7,
+    "vote_count": 2
   },
   {
     "adult": false,
@@ -1215,7 +1171,7 @@
     "original_language": "en",
     "original_name": "This Week",
     "overview": "Andrew Neil, Michael Portillo and friends with late night political chat.",
-    "popularity": 45.9059,
+    "popularity": 41.387,
     "poster_path": "/cWGOOkcLTlZesrb113NOOUN4V3I.jpg",
     "first_air_date": "2003-01-16",
     "name": "This Week",
@@ -1236,7 +1192,7 @@
     "original_language": "en",
     "original_name": "On Air with Ryan Seacrest",
     "overview": "On Air with Ryan Seacrest is an American syndicated television talk show, which ran from January 12, 2004 through September 17, 2004. It was distributed in the United States and Canada by Twentieth Television.",
-    "popularity": 45.0989,
+    "popularity": 45.5755,
     "poster_path": "/c2ioh1Bgk8l2GJSOUvq0OEi03pT.jpg",
     "first_air_date": "2004-01-01",
     "name": "On Air with Ryan Seacrest",
@@ -1245,23 +1201,68 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/mJnv7ZTQTevNz8pQCN3FiGoJWW8.jpg",
+    "backdrop_path": "/hmxB1meDdUe3e6x81OOjp5NU2Bz.jpg",
     "genre_ids": [
       10763,
-      10767
+      10767,
+      10768
     ],
-    "id": 107130,
+    "id": 15437,
     "origin_country": [
-      "US"
+      "GB"
     ],
     "original_language": "en",
-    "original_name": "The Joy Reid Show",
-    "overview": "Joy Reid conducts one-on-one conversations with politicians and newsmakers while addressing provocative political issues both inside and outside of the beltway. Reid, who is also a best-selling author and public speaker, joined MSNBC in 2011 as a contributor. Drawing from her decades-long experience in politics, passion for addressing the intersection of race, justice and culture, as well as her signature tenacious interviewing style, Reid kicks off MSNBC’s primetime lineup by delving into American politics as they unfold.",
-    "popularity": 50.3522,
-    "poster_path": "/nf3mfTtbENhEtRLTejw1ZzBybJf.jpg",
-    "first_air_date": "2020-07-20",
-    "name": "The Joy Reid Show",
-    "vote_average": 4,
-    "vote_count": 8
+    "original_name": "The Big Questions",
+    "overview": "Nicky Campbell hosts a series of moral, ethical and religious debates.",
+    "popularity": 36.6014,
+    "poster_path": "/zVaxHUQ4uHMyn4FDWdmrj5Sp22G.jpg",
+    "first_air_date": "2007-09-09",
+    "name": "The Big Questions",
+    "vote_average": 6.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gpcQcESWCzPNQ3l4Vg5RLIiNa9q.jpg",
+    "genre_ids": [
+      99,
+      10763
+    ],
+    "id": 8898,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "imagine…",
+    "overview": "The biggest names from the world of art, film, music, literature and dance. Alan Yentob gets close up with those shaping today's cultural world.",
+    "popularity": 41.4855,
+    "poster_path": "/vjTnEZ5QBzs7OPQxG18xtmeaFiT.jpg",
+    "first_air_date": "2003-06-11",
+    "name": "imagine…",
+    "vote_average": 5.6,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7nt61RTJ1RJW86rQVEBqMmw2Wi6.jpg",
+    "genre_ids": [
+      99,
+      35,
+      10751,
+      10763
+    ],
+    "id": 6078,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "That's Life!",
+    "overview": "A magazine-style television series on BBC1 which was broadcast from May 1973 to June 1994, presented by Esther Rantzen, with various changes of co-presenters. The show presented hard-hitting investigations alongside satire and occasional light entertainment.",
+    "popularity": 42.6392,
+    "poster_path": "/w92eGLtdxJ037OQm80uZnkQ9G6W.jpg",
+    "first_air_date": "1973-05-26",
+    "name": "That's Life!",
+    "vote_average": 0,
+    "vote_count": 1
   }
 ]

@@ -23,29 +23,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
-    "genre_ids": [
-      10759,
-      80,
-      18,
-      9648
-    ],
-    "id": 4333,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Saint",
-    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
-    "popularity": 204.1751,
-    "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
-    "first_air_date": "1962-10-04",
-    "name": "The Saint",
-    "vote_average": 7.312,
-    "vote_count": 117
-  },
-  {
-    "adult": false,
     "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
     "genre_ids": [
       80,
@@ -63,52 +40,8 @@
     "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
     "first_air_date": "2018-10-16",
     "name": "The Rookie",
-    "vote_average": 8.532,
-    "vote_count": 2567
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
-    "genre_ids": [
-      9648,
-      10765,
-      80
-    ],
-    "id": 4087,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The X-Files",
-    "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
-    "popularity": 182.7413,
-    "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
-    "first_air_date": "1993-09-10",
-    "name": "The X-Files",
-    "vote_average": 8.378,
-    "vote_count": 3281
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 4057,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Criminal Minds",
-    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-    "popularity": 233.6858,
-    "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
-    "first_air_date": "2005-09-22",
-    "name": "Criminal Minds",
-    "vote_average": 8.302,
-    "vote_count": 3875
+    "vote_average": 8.533,
+    "vote_count": 2569
   },
   {
     "adult": false,
@@ -134,28 +67,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      80,
-      18,
-      10759
-    ],
-    "id": 58677,
-    "origin_country": [
-      "PH"
-    ],
-    "original_language": "tl",
-    "original_name": "Recuerdo de Amor",
-    "overview": "Recuerdo de Amor is a Philippine afternoon drama series which aired on ABS-CBN in 2001-2003. It starred Carmina Villaroel and Diether Ocampo in successful roles.\n\nThe TV Series was delayed on May 14 to May 15,2001 and ended on its original end date Worldwide on TFC series also nominated Isabel Rivas for Best Actress in a Drama Series by the PMPC in 2002 alongside Seasoned Actress Pinky De Leon who was also part of the series was also known to use fast paced TV Filmography in its 45 Min Premiere of its Pilot Episode the series was also known for getting outstanding reviews throughout its run to Filipino Customers who had The Filipino Channel Internationally because of its memorable storyline and breathtaking Visual Effects similar to a U.S Soap Opera. The series was also Pinky De Leons last TV Series as she decided to retire from TV and Film Work. The Afternoon Series was also competing with Dramas such as Pangako Sa ’Yo and GMA-7s Rival Soap Kung Mawawala Ka.",
-    "popularity": 186.2306,
-    "poster_path": null,
-    "first_air_date": "2001-05-14",
-    "name": "Recuerdo de Amor",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
     "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
     "genre_ids": [
       80,
@@ -177,25 +88,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/mrGd5M3kPkAKynZruOAwsadsr9w.jpg",
+    "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
     "genre_ids": [
       80,
       18,
       9648
     ],
-    "id": 69050,
+    "id": 4057,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Riverdale",
-    "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
-    "popularity": 137.4996,
-    "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
-    "first_air_date": "2017-01-26",
-    "name": "Riverdale",
-    "vote_average": 8.4,
-    "vote_count": 13580
+    "original_name": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "popularity": 233.6858,
+    "poster_path": "/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+    "first_air_date": "2005-09-22",
+    "name": "Criminal Minds",
+    "vote_average": 8.302,
+    "vote_count": 3875
   },
   {
     "adult": false,
@@ -222,29 +133,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
-    "genre_ids": [
-      18,
-      10768,
-      10759,
-      80
-    ],
-    "id": 49071,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Kurtlar Vadisi: Pusu",
-    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
-    "popularity": 138.2562,
-    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
-    "first_air_date": "2007-04-19",
-    "name": "Valley of the Wolves: Ambush",
-    "vote_average": 6.2,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
     "backdrop_path": "/kkfqNkGQR5og5sDjJTxTVmI9PW.jpg",
     "genre_ids": [
       80,
@@ -264,28 +152,6 @@
     "name": "Tomorrow Is Ours",
     "vote_average": 6.343,
     "vote_count": 67
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 1405,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Dexter",
-    "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
-    "popularity": 178.6046,
-    "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-    "first_air_date": "2006-10-01",
-    "name": "Dexter",
-    "vote_average": 8.2,
-    "vote_count": 4747
   },
   {
     "adult": false,
@@ -312,69 +178,70 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/3ZCXONnWefrTDGG3ZuRIF7ZrYBF.jpg",
+    "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
     "genre_ids": [
       80,
-      9648,
-      18
-    ],
-    "id": 75439,
-    "origin_country": [
-      "IN"
-    ],
-    "original_language": "hi",
-    "original_name": "Ishq Mein Marjawan",
-    "overview": "She had the perfect life, the perfect man but little did she know that she was walking into the perfect trap. What happens when the man you love turns out to be a genius manipulator?",
-    "popularity": 69.7558,
-    "poster_path": "/6GxRfPAGIq1qVFVo55rQp39klfV.jpg",
-    "first_air_date": "2017-09-20",
-    "name": "Ishq Mein Marjawan",
-    "vote_average": 4.2,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
-    "genre_ids": [
-      10766,
       18,
-      80
+      10759
     ],
-    "id": 1871,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "EastEnders",
-    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-    "popularity": 172.4988,
-    "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
-    "first_air_date": "1985-02-19",
-    "name": "EastEnders",
-    "vote_average": 4.146,
-    "vote_count": 213
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
-    "genre_ids": [
-      10759,
-      80,
-      18
-    ],
-    "id": 2288,
+    "id": 32798,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Prison Break",
-    "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
-    "popularity": 160.959,
-    "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-    "first_air_date": "2005-08-29",
-    "name": "Prison Break",
-    "vote_average": 8.078,
-    "vote_count": 5498
+    "original_name": "Hawaii Five-0",
+    "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+    "popularity": 207.008,
+    "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+    "first_air_date": "2010-09-20",
+    "name": "Hawaii Five-0",
+    "vote_average": 7.751,
+    "vote_count": 1785
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18,
+      9648
+    ],
+    "id": 4333,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Saint",
+    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
+    "popularity": 204.1751,
+    "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
+    "first_air_date": "1962-10-04",
+    "name": "The Saint",
+    "vote_average": 7.312,
+    "vote_count": 117
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 58677,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Recuerdo de Amor",
+    "overview": "Recuerdo de Amor is a Philippine afternoon drama series which aired on ABS-CBN in 2001-2003. It starred Carmina Villaroel and Diether Ocampo in successful roles.\n\nThe TV Series was delayed on May 14 to May 15,2001 and ended on its original end date Worldwide on TFC series also nominated Isabel Rivas for Best Actress in a Drama Series by the PMPC in 2002 alongside Seasoned Actress Pinky De Leon who was also part of the series was also known to use fast paced TV Filmography in its 45 Min Premiere of its Pilot Episode the series was also known for getting outstanding reviews throughout its run to Filipino Customers who had The Filipino Channel Internationally because of its memorable storyline and breathtaking Visual Effects similar to a U.S Soap Opera. The series was also Pinky De Leons last TV Series as she decided to retire from TV and Film Work. The Afternoon Series was also competing with Dramas such as Pangako Sa ’Yo and GMA-7s Rival Soap Kung Mawawala Ka.",
+    "popularity": 186.2306,
+    "poster_path": null,
+    "first_air_date": "2001-05-14",
+    "name": "Recuerdo de Amor",
+    "vote_average": 0,
+    "vote_count": 0
   },
   {
     "adult": false,
@@ -400,6 +267,136 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+    "genre_ids": [
+      9648,
+      10765,
+      80
+    ],
+    "id": 4087,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The X-Files",
+    "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+    "popularity": 182.7413,
+    "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+    "first_air_date": "1993-09-10",
+    "name": "The X-Files",
+    "vote_average": 8.378,
+    "vote_count": 3281
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 1405,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dexter",
+    "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+    "popularity": 178.6046,
+    "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "first_air_date": "2006-10-01",
+    "name": "Dexter",
+    "vote_average": 8.216,
+    "vote_count": 4748
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      80
+    ],
+    "id": 1871,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "EastEnders",
+    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+    "popularity": 172.4988,
+    "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+    "first_air_date": "1985-02-19",
+    "name": "EastEnders",
+    "vote_average": 4.146,
+    "vote_count": 213
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1396,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "popularity": 163.0917,
+    "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "first_air_date": "2008-01-20",
+    "name": "Breaking Bad",
+    "vote_average": 8.925,
+    "vote_count": 15821
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7w165QdHmJuTHSQwEyJDBDpuDT7.jpg",
+    "genre_ids": [
+      10759,
+      80,
+      18
+    ],
+    "id": 2288,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Prison Break",
+    "overview": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+    "popularity": 160.959,
+    "poster_path": "/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+    "first_air_date": "2005-08-29",
+    "name": "Prison Break",
+    "vote_average": 8.078,
+    "vote_count": 5498
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
+    "genre_ids": [
+      80,
+      10765
+    ],
+    "id": 63174,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lucifer",
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "popularity": 155.5233,
+    "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "first_air_date": "2016-01-25",
+    "name": "Lucifer",
+    "vote_average": 8.4,
+    "vote_count": 15058
+  },
+  {
+    "adult": false,
     "backdrop_path": "/e9n87p3Ax67spq3eUgLB6rjIEow.jpg",
     "genre_ids": [
       80,
@@ -421,90 +418,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
     "genre_ids": [
       80,
       18,
-      10759
+      9648
     ],
-    "id": 32798,
+    "id": 1431,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Hawaii Five-0",
-    "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
-    "popularity": 207.008,
-    "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
-    "first_air_date": "2010-09-20",
-    "name": "Hawaii Five-0",
-    "vote_average": 7.751,
-    "vote_count": 1785
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dVlgfcTHLEe3RvYEYmb0nECRVyW.jpg",
-    "genre_ids": [
-      80,
-      18,
-      10759
-    ],
-    "id": 11574,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Richard Diamond, Private Detective",
-    "overview": "Richard Diamond, Private Detective is an American detective drama which aired on radio from 1949 to 1953, and on television from 1957 to 1960.",
-    "popularity": 81.6888,
-    "poster_path": "/reHCk6hs895e96oC6LAUtnzIQ78.jpg",
-    "first_air_date": "1957-07-01",
-    "name": "Richard Diamond, Private Detective",
-    "vote_average": 6.2,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
-    "genre_ids": [
-      80,
-      10765
-    ],
-    "id": 63174,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lucifer",
-    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
-    "popularity": 155.5233,
-    "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-    "first_air_date": "2016-01-25",
-    "name": "Lucifer",
-    "vote_average": 8.446,
-    "vote_count": 15058
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lAsz5DYQpXcOONSVuZdZIrtZoIv.jpg",
-    "genre_ids": [
-      9648,
-      18,
-      80
-    ],
-    "id": 4920,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Damages",
-    "overview": "Damages is an American legal thriller television series created by the writing and production trio of Daniel Zelman and brothers Glenn and Todd A. Kessler. The plot revolves around the brilliant, ruthless lawyer Patty Hewes and her protégée, recent law school graduate Ellen Parsons. Each season features a major case that Hewes and her firm take on, while also examining a chapter of the complicated relationship between Ellen and Patty. The first two seasons center around the law firm Hewes & Associates. Later seasons center more on Patty and Ellen's relationship as Ellen begins to distance herself from Hewes & Associates and begins an independent career.",
-    "popularity": 95.2445,
-    "poster_path": "/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
-    "first_air_date": "2007-07-24",
-    "name": "Damages",
-    "vote_average": 7.457,
-    "vote_count": 220
+    "original_name": "CSI: Crime Scene Investigation",
+    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+    "popularity": 149.7442,
+    "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+    "first_air_date": "2000-10-06",
+    "name": "CSI: Crime Scene Investigation",
+    "vote_average": 7.636,
+    "vote_count": 1303
   },
   {
     "adult": false,
@@ -526,28 +458,6 @@
     "name": "Mula Sa Puso",
     "vote_average": 6,
     "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ffGBWJwd327nprZI9vF8kD4V6dS.jpg",
-    "genre_ids": [
-      18,
-      80,
-      9648
-    ],
-    "id": 40663,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "相棒",
-    "overview": "Detective Ukyo Sugishita confronts crime on the basis of his own convictions. He has a partner that works for him in the Special Task Unit. For the first 7 seasons, Ukyo’s first partner is Kaoru Kameyama. He is a good-natured, hot-tempered, straightforward and somewhat scattered detective. Beginning in Season 8, Takeru Kanbe replaces Kameyama. Contrary to his predecessor, Takeru is a lanky, cool, conceited and confident detective. From Season 11 to Season 13, Ukyo’s partner is a young detective Toru Kai. Toru is a son of Deputy Director-General of The National Police Agency. But he became a detective by his own effort. And starting with Season 14, Ukyo’s current partner is Wataru Kaburagi, an elite bureaucrat who came to the Metropolitan Police Department on temporary assignment. As the first partner without any career of a police officer, he will face challenging cases together with Ukyo.",
-    "popularity": 107.7077,
-    "poster_path": "/8u8rCCeuBufMQ1VlGX0lruhDaPR.jpg",
-    "first_air_date": "2002-10-09",
-    "name": "AIBOU: Tokyo Detective Duo",
-    "vote_average": 7.9,
-    "vote_count": 16
   },
   {
     "adult": false,
@@ -594,24 +504,70 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
     "genre_ids": [
       18,
+      10768,
+      10759,
       80
     ],
-    "id": 1396,
+    "id": 49071,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Kurtlar Vadisi: Pusu",
+    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
+    "popularity": 138.2562,
+    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
+    "first_air_date": "2007-04-19",
+    "name": "Valley of the Wolves: Ambush",
+    "vote_average": 6.2,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mrGd5M3kPkAKynZruOAwsadsr9w.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 69050,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Breaking Bad",
-    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    "popularity": 163.0917,
-    "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-    "first_air_date": "2008-01-20",
-    "name": "Breaking Bad",
-    "vote_average": 8.925,
-    "vote_count": 15819
+    "original_name": "Riverdale",
+    "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+    "popularity": 137.4996,
+    "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
+    "first_air_date": "2017-01-26",
+    "name": "Riverdale",
+    "vote_average": 8.427,
+    "vote_count": 13581
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 764,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Midsomer Murders",
+    "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+    "popularity": 133.333,
+    "poster_path": "/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg",
+    "first_air_date": "1997-03-23",
+    "name": "Midsomer Murders",
+    "vote_average": 7.534,
+    "vote_count": 325
   },
   {
     "adult": false,
@@ -637,197 +593,88 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/rtqAI6zRR8K6drC3pIMo6Z8OWnI.jpg",
-    "genre_ids": [
-      80,
-      99
-    ],
-    "id": 25181,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "On the Case with Paula Zahn",
-    "overview": "Award winning journalist Paula Zahn unravels shocking crimes interviewing those closest to the case including lawyers, the victim's family, detectives and the convicted murderer themselves.",
-    "popularity": 73.5624,
-    "poster_path": "/5Hbir2fSCFr52t3snqMnzKRreV7.jpg",
-    "first_air_date": "2009-10-18",
-    "name": "On the Case with Paula Zahn",
-    "vote_average": 8.389,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Zef1eiCoLb7vWutWNAa3zeyxd6.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      80
-    ],
-    "id": 2751,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The New Alfred Hitchcock Presents",
-    "overview": "The New Alfred Hitchcock Presents is an American anthology series that aired on NBC from 1985 to 1986, and on the USA Network from 1987 to 1989. The series is an updated re-imagining of the classic 1955 series Alfred Hitchcock Presents.",
-    "popularity": 70.2435,
-    "poster_path": "/mCJgmCdMZRArcP3pOg6cZ6OpxpV.jpg",
-    "first_air_date": "1985-09-29",
-    "name": "The New Alfred Hitchcock Presents",
-    "vote_average": 7.2,
-    "vote_count": 52
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8osZ4yzRcdR8LXt4JpIi13WA6YN.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "id": 87940,
-    "origin_country": [
-      "CA"
-    ],
-    "original_language": "en",
-    "original_name": "Hudson & Rex",
-    "overview": "Detective Charlie Hudson teams up with what he calls his \"highly trained law enforcement animal\" German Shepherd dog named Rex who he prefers to team up with because he doesn't talk his ear off.",
-    "popularity": 98.2659,
-    "poster_path": "/up0MUqFzDBNxjhdWrbNG6Ak2kSi.jpg",
-    "first_air_date": "2019-02-25",
-    "name": "Hudson & Rex",
-    "vote_average": 8.408,
-    "vote_count": 103
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
+    "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
     "genre_ids": [
       80,
       18
     ],
-    "id": 43348,
-    "origin_country": [
-      "CO"
-    ],
-    "original_language": "es",
-    "original_name": "Pablo Escobar: El Patrón del Mal",
-    "overview": "Pablo is a man with a natural ability for business. Early in his life, Pablo is introduced to the business of cocaine and the power it yields. A young life of crime lands Pablo in and out of jail as he builds his criminal empire. Pablo expands his power through politics but it is not long before his conflicts as a Congressman and a drug lord collide. Pablo has his enemies executed, but not before the United States activates its own war on the Medellin cartel.",
-    "popularity": 94.5505,
-    "poster_path": "/5u02bo70uzUFpEV9Pd0lFkLA9Es.jpg",
-    "first_air_date": "2012-05-28",
-    "name": "Pablo Escobar: The Drug Lord",
-    "vote_average": 7.626,
-    "vote_count": 3632
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/66Qqh7rJTCOSZgJkVAJa3wfUMMI.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "id": 3716,
+    "id": 32692,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Dragnet",
-    "overview": "Follows the cases of a dedicated Los Angeles police detective, Sergeant Joe Friday, and his partners. The show takes its name from the police term \"dragnet\", meaning a system of coordinated measures for apprehending criminals or suspects.",
-    "popularity": 113.6289,
-    "poster_path": "/393BVqnVaioYBE5f3LMUwFRAwPQ.jpg",
-    "first_air_date": "1951-12-16",
-    "name": "Dragnet",
-    "vote_average": 6.4,
-    "vote_count": 32
+    "original_name": "Blue Bloods",
+    "overview": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+    "popularity": 129.7012,
+    "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+    "first_air_date": "2010-09-24",
+    "name": "Blue Bloods",
+    "vote_average": 7.794,
+    "vote_count": 935
   },
   {
     "adult": false,
-    "backdrop_path": "/j8NSaQJqnSOx8vsxwEukY3oATNj.jpg",
+    "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
     "genre_ids": [
       80,
       18
     ],
-    "id": 64513,
+    "id": 1398,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "American Crime Story",
-    "overview": "An anthology series centered around some of history's most famous criminal investigations.",
-    "popularity": 66.1712,
-    "poster_path": "/51Gihm701NoaXSzR7Zb7flVtbu0.jpg",
-    "first_air_date": "2016-02-02",
-    "name": "American Crime Story",
-    "vote_average": 7.6,
-    "vote_count": 986
+    "original_name": "The Sopranos",
+    "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+    "popularity": 126.026,
+    "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+    "first_air_date": "1999-01-10",
+    "name": "The Sopranos",
+    "vote_average": 8.656,
+    "vote_count": 3040
   },
   {
     "adult": false,
-    "backdrop_path": "/ijtcLjEHo7kFpQVg9NsATZsPayv.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      18,
-      80
-    ],
-    "id": 12598,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "BLACK LAGOON",
-    "overview": "The story follows a team of pirate mercenaries known as the Lagoon Company, that smuggles goods in and around the seas of Southeast Asia in the early to mid 1990s. Their base of operations is located in the fictional harbor city of Roanapur in southeast Thailand near the border of Cambodia.",
-    "popularity": 71.0813,
-    "poster_path": "/sQlHhWScg6qmakL1ywtcjjVKKqV.jpg",
-    "first_air_date": "2006-04-09",
-    "name": "Black Lagoon",
-    "vote_average": 8.027,
-    "vote_count": 477
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5qNlwCIPJm4RkO3MnxfPnnwB310.jpg",
+    "backdrop_path": "/4oAB2qs7lwfhw1BaUmp7xkryM7E.jpg",
     "genre_ids": [
       80,
-      9648,
-      18
+      35
     ],
-    "id": 21728,
+    "id": 41149,
     "origin_country": [
-      "US"
+      "DE"
     ],
-    "original_language": "en",
-    "original_name": "The Alfred Hitchcock Hour",
-    "overview": "A continuation of the anthology series “Alfred Hitchcock Presents”, hosted by the master of suspense and featuring thrillers and mysteries.",
-    "popularity": 61.1556,
-    "poster_path": "/6bnJU1YmobWBNokjLruUsZ6cykC.jpg",
-    "first_air_date": "1962-09-20",
-    "name": "The Alfred Hitchcock Hour",
-    "vote_average": 7.847,
-    "vote_count": 72
+    "original_language": "de",
+    "original_name": "Die Rosenheim-Cops",
+    "overview": "A team of inspectors investigates murders in and around the small Upper Bavarian town of Rosenheim, and they still have plenty of time to see idyllic landscapes and luxurious pre-alpine villas and enjoy sumptuous Bavarian fare with beer.",
+    "popularity": 125.9896,
+    "poster_path": "/kAhi0xY6gIEMvHtmChC44pBwOWG.jpg",
+    "first_air_date": "2002-01-09",
+    "name": "Die Rosenheim-Cops",
+    "vote_average": 6.5,
+    "vote_count": 24
   },
   {
     "adult": false,
-    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+    "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
     "genre_ids": [
       80,
       18,
       9648
     ],
-    "id": 1431,
+    "id": 5920,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "CSI: Crime Scene Investigation",
-    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
-    "popularity": 149.7442,
-    "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
-    "first_air_date": "2000-10-06",
-    "name": "CSI: Crime Scene Investigation",
-    "vote_average": 7.636,
-    "vote_count": 1303
+    "original_name": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "popularity": 125.1841,
+    "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "first_air_date": "2008-09-23",
+    "name": "The Mentalist",
+    "vote_average": 8.361,
+    "vote_count": 3955
   },
   {
     "adult": false,
@@ -875,6 +722,159 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg",
+    "genre_ids": [
+      99,
+      18,
+      80
+    ],
+    "id": 90,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Mayday",
+    "overview": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
+    "popularity": 124.5638,
+    "poster_path": "/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+    "first_air_date": "2003-09-03",
+    "name": "Mayday",
+    "vote_average": 8.198,
+    "vote_count": 265
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hYwZR2P8MNJZz2Dnj68M8bUOfLt.jpg",
+    "genre_ids": [
+      80,
+      35,
+      10759
+    ],
+    "id": 231280,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "굿보이",
+    "overview": "After 11 years, the police revive their special recruitment for former national athletes. Once hailed as heroes, these world-class medalists now face harsh realities. Despite financial struggles, unexpected tragedies, and discrimination within the force, the athletes, each with their own story, reunite as a special task force to take on major crimes with the grit and skills they honed as athletes.",
+    "popularity": 121.8325,
+    "poster_path": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg",
+    "first_air_date": "2025-05-31",
+    "name": "Good Boy",
+    "vote_average": 8.8,
+    "vote_count": 68
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      80
+    ],
+    "id": 1620,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "CSI: Miami",
+    "overview": "CSI: Miami follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+    "popularity": 116.4811,
+    "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+    "first_air_date": "2002-09-23",
+    "name": "CSI: Miami",
+    "vote_average": 7.712,
+    "vote_count": 1638
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2r5lC7UDUEf5KBhULs6Fu4exoFZ.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 58841,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Chicago P.D.",
+    "overview": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+    "popularity": 115.2125,
+    "poster_path": "/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+    "first_air_date": "2014-01-08",
+    "name": "Chicago P.D.",
+    "vote_average": 8.41,
+    "vote_count": 2478
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/66Qqh7rJTCOSZgJkVAJa3wfUMMI.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 3716,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dragnet",
+    "overview": "Follows the cases of a dedicated Los Angeles police detective, Sergeant Joe Friday, and his partners. The show takes its name from the police term \"dragnet\", meaning a system of coordinated measures for apprehending criminals or suspects.",
+    "popularity": 113.6289,
+    "poster_path": "/393BVqnVaioYBE5f3LMUwFRAwPQ.jpg",
+    "first_air_date": "1951-12-16",
+    "name": "Dragnet",
+    "vote_average": 6.4,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fZPWqLYlbEu8fRdEj4AI2moDPIO.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "id": 34522,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "अदालत",
+    "overview": "K.D Pathak is a suave, sophisticated, witty and yet unconventional defence lawyer with an impeccable track record. He stands not for his client, but for Justice.",
+    "popularity": 113.2383,
+    "poster_path": "/m2G5WVHX4n2ETdBpAUHGK71C0J7.jpg",
+    "first_air_date": "2010-11-20",
+    "name": "Adaalat",
+    "vote_average": 7.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dAepkmD4vdfhS82r2OIqF1nwGR5.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      80,
+      9648
+    ],
+    "id": 17610,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "NCIS: Los Angeles",
+    "overview": "The exploits of the Los Angeles–based Office of Special Projects (OSP), an elite division of the Naval Criminal Investigative Service that specializes in undercover assignments.",
+    "popularity": 112.7025,
+    "poster_path": "/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+    "first_air_date": "2009-09-22",
+    "name": "NCIS: Los Angeles",
+    "vote_average": 7.538,
+    "vote_count": 1192
+  },
+  {
+    "adult": false,
     "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
     "genre_ids": [
       9648,
@@ -893,7 +893,7 @@
     "first_air_date": "2015-01-14",
     "name": "Bosch",
     "vote_average": 7.927,
-    "vote_count": 632
+    "vote_count": 633
   },
   {
     "adult": false,
@@ -935,7 +935,7 @@
     "poster_path": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
     "first_air_date": "2015-02-08",
     "name": "Better Call Saul",
-    "vote_average": 8.696,
+    "vote_average": 8.7,
     "vote_count": 5747
   },
   {
@@ -979,7 +979,7 @@
     "first_air_date": "2013-09-12",
     "name": "Peaky Blinders",
     "vote_average": 8.53,
-    "vote_count": 10468
+    "vote_count": 10469
   },
   {
     "adult": false,
@@ -1064,8 +1064,8 @@
     "poster_path": "/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
     "first_air_date": "2025-07-13",
     "name": "Dexter: Resurrection",
-    "vote_average": 9.1,
-    "vote_count": 59
+    "vote_average": 8.959,
+    "vote_count": 61
   },
   {
     "adult": false,
@@ -1148,8 +1148,8 @@
     "poster_path": "/bowEbW8Q3Oc02BvHBKTL5gWv9Nx.jpg",
     "first_air_date": "2007-07-24",
     "name": "Damages",
-    "vote_average": 7.457,
-    "vote_count": 220
+    "vote_average": 7.468,
+    "vote_count": 221
   },
   {
     "adult": false,
@@ -1192,8 +1192,8 @@
     "poster_path": "/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg",
     "first_air_date": "2025-03-30",
     "name": "MobLand",
-    "vote_average": 8.466,
-    "vote_count": 308
+    "vote_average": 8.434,
+    "vote_count": 310
   },
   {
     "adult": false,
@@ -1276,8 +1276,8 @@
     "poster_path": "/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
     "first_air_date": "2018-09-09",
     "name": "You",
-    "vote_average": 8.035,
-    "vote_count": 3588
+    "vote_average": 8.033,
+    "vote_count": 3589
   },
   {
     "adult": false,

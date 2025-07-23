@@ -1,23 +1,26 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "backdrop_path": "/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg",
     "genre_ids": [
-      35
+      16,
+      35,
+      18,
+      10765
     ],
-    "id": 65701,
+    "id": 244808,
     "origin_country": [
-      "US"
+      "JP"
     ],
-    "original_language": "en",
-    "original_name": "Good Mythical Morning",
-    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
-    "popularity": 514.562,
-    "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
-    "first_air_date": "2012-01-09",
-    "name": "Good Mythical Morning",
-    "vote_average": 7,
-    "vote_count": 84
+    "original_language": "ja",
+    "original_name": "ぬきたし THE ANIMATION",
+    "overview": "On Seiran Island, secret society NLNS is united by Junnosuke Tachibana, who is determined to crush a law. They have found a benefactor, an unknown rich man, who offers them a secret base and cash. Their mission is to locate a mysterious girl and stop the law, keeping the SHO off their trail.",
+    "popularity": 1278.8726,
+    "poster_path": "/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg",
+    "first_air_date": "2025-07-19",
+    "name": "Nukitashi the Animation",
+    "vote_average": 4.9,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -33,33 +36,12 @@
     "original_language": "en",
     "original_name": "The Tonight Show Starring Jimmy Fallon",
     "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-    "popularity": 623.0438,
+    "popularity": 490.5644,
     "poster_path": "/if7ECoH4xaYw5S8gomNIEmtwTxP.jpg",
     "first_air_date": "2014-02-17",
     "name": "The Tonight Show Starring Jimmy Fallon",
     "vote_average": 5.846,
     "vote_count": 344
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
-    "genre_ids": [
-      10767,
-      35
-    ],
-    "id": 61818,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Late Night with Seth Meyers",
-    "overview": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
-    "popularity": 411.6516,
-    "poster_path": "/rw0QaegwgKbRoB2CZe2lfewltT9.jpg",
-    "first_air_date": "2014-02-25",
-    "name": "Late Night with Seth Meyers",
-    "vote_average": 5.377,
-    "vote_count": 110
   },
   {
     "adult": false,
@@ -75,32 +57,12 @@
     "original_language": "hu",
     "original_name": "Barátok közt",
     "overview": "Miklós introduces viewers into the world of Money and Charm.",
-    "popularity": 567.7452,
+    "popularity": 558.8335,
     "poster_path": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
     "first_air_date": "1998-10-26",
     "name": "Among Friends",
     "vote_average": 3.1,
     "vote_count": 15
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9daf0KXr3xUkMt2NCI0ZhDIZJEa.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 12415,
-    "origin_country": [
-      "ZA"
-    ],
-    "original_language": "af",
-    "original_name": "Egoli: Place of Gold",
-    "overview": "A South African television soap opera created by Franz Marx which revolves around the daily ups, downs, trials and tribulations of a handful of families in and around Johannesburg (which is often referred to as eGoli - the City of Gold)",
-    "popularity": 385.6109,
-    "poster_path": "/5X0SWyNJ5IjN9YSXlbHBOVMzh1G.jpg",
-    "first_air_date": "1992-04-06",
-    "name": "Egoli: Place of Gold",
-    "vote_average": 6.8,
-    "vote_count": 4
   },
   {
     "adult": false,
@@ -115,7 +77,7 @@
     "original_language": "nl",
     "original_name": "Goede Tijden, Slechte Tijden",
     "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "popularity": 519.0022,
+    "popularity": 461.8469,
     "poster_path": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
     "first_air_date": "1990-10-01",
     "name": "Goede Tijden, Slechte Tijden",
@@ -136,12 +98,32 @@
     "original_language": "en",
     "original_name": "Watch What Happens Live with Andy Cohen",
     "overview": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
-    "popularity": 517.1011,
+    "popularity": 503.5339,
     "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
     "first_air_date": "2009-07-16",
     "name": "Watch What Happens Live with Andy Cohen",
     "vote_average": 5.1,
     "vote_count": 77
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 65701,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Good Mythical Morning",
+    "overview": "Two \"Internetainers\" (Rhett & Link) go far out and do the weirdest things, giving you a daily dose of casual comedy every Monday-Friday.",
+    "popularity": 479.1669,
+    "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+    "first_air_date": "2012-01-09",
+    "name": "Good Mythical Morning",
+    "vote_average": 7,
+    "vote_count": 84
   },
   {
     "adult": false,
@@ -158,12 +140,12 @@
     "original_language": "ko",
     "original_name": "오징어 게임",
     "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
-    "popularity": 466.8509,
+    "popularity": 437.2913,
     "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
     "first_air_date": "2021-09-17",
     "name": "Squid Game",
     "vote_average": 7.866,
-    "vote_count": 16412
+    "vote_count": 16416
   },
   {
     "adult": false,
@@ -179,12 +161,32 @@
     "original_language": "en",
     "original_name": "The Daily Show",
     "overview": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-    "popularity": 453.8452,
+    "popularity": 421.2077,
     "poster_path": "/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
     "first_air_date": "1996-07-22",
     "name": "The Daily Show",
-    "vote_average": 6.374,
-    "vote_count": 585
+    "vote_average": 6.38,
+    "vote_count": 586
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "genre_ids": [
+      10767
+    ],
+    "id": 65270,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "라디오스타",
+    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
+    "popularity": 427.7818,
+    "poster_path": "/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
+    "first_air_date": "2007-05-30",
+    "name": "Radio Star",
+    "vote_average": 7.3,
+    "vote_count": 3
   },
   {
     "adult": false,
@@ -204,7 +206,7 @@
     "original_language": "ja",
     "original_name": "ドラえもん",
     "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    "popularity": 441.816,
+    "popularity": 443.259,
     "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
     "first_air_date": "2005-04-22",
     "name": "Doraemon",
@@ -225,32 +227,12 @@
     "original_language": "fr",
     "original_name": "Ici tout commence",
     "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-    "popularity": 421.2922,
+    "popularity": 400.6474,
     "poster_path": "/x9HeaagUAyyGl1fQ6exQcpELBxP.jpg",
     "first_air_date": "2020-11-02",
     "name": "Ici tout commence",
     "vote_average": 6.839,
     "vote_count": 90
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1416,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Grey's Anatomy",
-    "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
-    "popularity": 403.6544,
-    "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
-    "first_air_date": "2005-03-27",
-    "name": "Grey's Anatomy",
-    "vote_average": 8.2,
-    "vote_count": 10571
   },
   {
     "adult": false,
@@ -267,12 +249,53 @@
     "original_language": "en",
     "original_name": "Law & Order: Special Victims Unit",
     "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
-    "popularity": 420.5745,
+    "popularity": 313.0787,
     "poster_path": "/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
     "first_air_date": "1999-09-20",
     "name": "Law & Order: Special Victims Unit",
     "vote_average": 7.933,
     "vote_count": 3981
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iEg2LHsFV3vC6LywkBAL3c1n9PP.jpg",
+    "genre_ids": [
+      10767,
+      35
+    ],
+    "id": 61818,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Late Night with Seth Meyers",
+    "overview": "Seth Meyers, who is \"Saturday Night Live’s\" longest serving anchor on the show’s wildly popular \"Weekend Update,\" takes over as host of NBC’s \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+    "popularity": 402.6102,
+    "poster_path": "/rw0QaegwgKbRoB2CZe2lfewltT9.jpg",
+    "first_air_date": "2014-02-25",
+    "name": "Late Night with Seth Meyers",
+    "vote_average": 5.377,
+    "vote_count": 110
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fgvM6m7gAd8kDAaLF16aflbOSAK.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1416,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Grey's Anatomy",
+    "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+    "popularity": 389.5684,
+    "poster_path": "/7jEVqXC14bhfAzSPgr896dMdDv6.jpg",
+    "first_air_date": "2005-03-27",
+    "name": "Grey's Anatomy",
+    "vote_average": 8.2,
+    "vote_count": 10571
   },
   {
     "adult": false,
@@ -288,32 +311,32 @@
     "original_language": "es",
     "original_name": "Chespirito: Sin querer queriendo",
     "overview": "Miniseries that follow the life and career of Mexican actor, comedian and producer Roberto Gómez Bolaños, known for being the creator of El Chavo del 8, El Chapulín Colorado and Chespirito.",
-    "popularity": 392.9877,
+    "popularity": 382.736,
     "poster_path": "/mwsuIxLL84wfJGWhN7oOrFfpZ6d.jpg",
     "first_air_date": "2025-06-05",
     "name": "Chespirito: Not Really on Purpose",
-    "vote_average": 7.946,
-    "vote_count": 288
+    "vote_average": 7.927,
+    "vote_count": 294
   },
   {
     "adult": false,
-    "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "backdrop_path": "/9daf0KXr3xUkMt2NCI0ZhDIZJEa.jpg",
     "genre_ids": [
-      10767
+      10766
     ],
-    "id": 65270,
+    "id": 12415,
     "origin_country": [
-      "KR"
+      "ZA"
     ],
-    "original_language": "ko",
-    "original_name": "라디오스타",
-    "overview": "“Radio Star” is a South Korean music talk show where the guests and hosts talk openly and intimately about their lives, their pasts and their work. It is part of Munhwa Broadcasting Corporation's \"Golden Fishery\" programming block.",
-    "popularity": 447.3383,
-    "poster_path": "/uRUZDsvUfIP3JUEgOC8ReBlQQUU.jpg",
-    "first_air_date": "2007-05-30",
-    "name": "Radio Star",
-    "vote_average": 7.3,
-    "vote_count": 3
+    "original_language": "af",
+    "original_name": "Egoli: Place of Gold",
+    "overview": "A South African television soap opera created by Franz Marx which revolves around the daily ups, downs, trials and tribulations of a handful of families in and around Johannesburg (which is often referred to as eGoli - the City of Gold)",
+    "popularity": 317.6308,
+    "poster_path": "/5X0SWyNJ5IjN9YSXlbHBOVMzh1G.jpg",
+    "first_air_date": "1992-04-06",
+    "name": "Egoli: Place of Gold",
+    "vote_average": 6.8,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -329,7 +352,7 @@
     "original_language": "ko",
     "original_name": "아는 형님",
     "overview": "Male celebs play make-believe as high schoolers, welcoming star transfer students every week and engaging in battles of witty humor and slapstick.",
-    "popularity": 363.2189,
+    "popularity": 360.5845,
     "poster_path": "/2jIi55JtYKJTL1km8qHMuUilOWo.jpg",
     "first_air_date": "2015-12-05",
     "name": "Men on a Mission",
@@ -338,24 +361,67 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+    "backdrop_path": "/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
     "genre_ids": [
       35,
-      10767
+      10764
     ],
-    "id": 63770,
+    "id": 30801,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "1박 2일",
+    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
+    "popularity": 337.9423,
+    "poster_path": "/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
+    "first_air_date": "2007-08-05",
+    "name": "2 Days and 1 Night",
+    "vote_average": 7.288,
+    "vote_count": 26
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "id": 79744,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The Late Show with Stephen Colbert",
-    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
-    "popularity": 288.4264,
-    "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-    "first_air_date": "2015-09-08",
-    "name": "The Late Show with Stephen Colbert",
-    "vote_average": 6.314,
-    "vote_count": 317
+    "original_name": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "popularity": 329.598,
+    "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+    "first_air_date": "2018-10-16",
+    "name": "The Rookie",
+    "vote_average": 8.533,
+    "vote_count": 2569
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 30957,
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Amazing Race",
+    "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+    "popularity": 339.3305,
+    "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+    "first_air_date": "2001-09-05",
+    "name": "The Amazing Race",
+    "vote_average": 6.9,
+    "vote_count": 154
   },
   {
     "adult": false,
@@ -374,7 +440,7 @@
     "original_language": "ja",
     "original_name": "忍たま乱太郎",
     "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
-    "popularity": 309.4555,
+    "popularity": 274.2538,
     "poster_path": "/raKlXyICQBeTxYavErIRybR6g8d.jpg",
     "first_air_date": "1993-04-10",
     "name": "Ninja Boy Rantaro",
@@ -383,198 +449,23 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/oJuDMcM8LZA5F5Ahgc9mZg2LRIO.jpg",
+    "backdrop_path": "/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
     "genre_ids": [
-      16,
-      35
+      18
     ],
-    "id": 32726,
+    "id": 194766,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Bob's Burgers",
-    "overview": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their three kids. Bob and his quirky family have big ideas about burgers, but fall short on service and sophistication. Despite the greasy counters, lousy location and a dearth of customers, Bob and his family are determined to make Bob's Burgers \"grand re-re-re-opening\" a success.",
-    "popularity": 195.0653,
-    "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
-    "first_air_date": "2011-01-09",
-    "name": "Bob's Burgers",
-    "vote_average": 7.82,
-    "vote_count": 1003
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/32iRX9xqNH3ErJN6FowxdtgYmiY.jpg",
-    "genre_ids": [
-      35,
-      10764
-    ],
-    "id": 30801,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "1박 2일",
-    "overview": "2 Days & 1 Night is a South Korean reality-variety show with the motto \"real wild road variety.\" Its main concept is to recommend various places of interest that viewers can visit in South Korea.",
-    "popularity": 349.2994,
-    "poster_path": "/qezeCEkIKHQM5iwyVeYBuXmYA2h.jpg",
-    "first_air_date": "2007-08-05",
-    "name": "2 Days and 1 Night",
-    "vote_average": 7.54,
-    "vote_count": 25
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
-    "genre_ids": [
-      10759,
-      80,
-      18,
-      9648
-    ],
-    "id": 4333,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Saint",
-    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
-    "popularity": 204.1751,
-    "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
-    "first_air_date": "1962-10-04",
-    "name": "The Saint",
-    "vote_average": 7.312,
-    "vote_count": 117
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
-    "genre_ids": [
-      80,
-      18,
-      35
-    ],
-    "id": 79744,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Rookie",
-    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-    "popularity": 331.9215,
-    "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
-    "first_air_date": "2018-10-16",
-    "name": "The Rookie",
-    "vote_average": 8.532,
-    "vote_count": 2567
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765,
-      35,
-      10751,
-      10762
-    ],
-    "id": 132791,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "パーマン",
-    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
-    "popularity": 244.2892,
-    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
-    "first_air_date": "1983-04-04",
-    "name": "SUPERKID",
-    "vote_average": 8.75,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 30957,
-    "origin_country": [
-      "US",
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Amazing Race",
-    "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
-    "popularity": 331.5629,
-    "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
-    "first_air_date": "2001-09-05",
-    "name": "The Amazing Race",
-    "vote_average": 6.9,
-    "vote_count": 154
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/p09oos2PjdtJjOjvLbqAFnRPHRN.jpg",
-    "genre_ids": [
-      10762,
-      10751
-    ],
-    "id": 49281,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "CBeebies Bedtime Stories",
-    "overview": "Join a host of different celebrities for a different story read each night just before bedtime.",
-    "popularity": 217.1372,
-    "poster_path": "/b0ScjqTEs9XNpGsFueXdwPbWHtC.jpg",
-    "first_air_date": "2009-03-09",
-    "name": "CBeebies Bedtime Stories",
-    "vote_average": 7.7,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 3626,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "American Idol",
-    "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
-    "popularity": 170.9762,
-    "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
-    "first_air_date": "2002-06-11",
-    "name": "American Idol",
-    "vote_average": 5.117,
-    "vote_count": 166
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 45789,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "Sturm der Liebe",
-    "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
-    "popularity": 234.2216,
-    "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
-    "first_air_date": "2005-09-26",
-    "name": "Sturm der Liebe",
-    "vote_average": 6.068,
-    "vote_count": 37
+    "original_name": "The Summer I Turned Pretty",
+    "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
+    "popularity": 279.8773,
+    "poster_path": "/s85u6WqkfkVBOrWDMKrefnU1g1n.jpg",
+    "first_air_date": "2022-06-16",
+    "name": "The Summer I Turned Pretty",
+    "vote_average": 8.148,
+    "vote_count": 836
   },
   {
     "adult": false,
@@ -590,7 +481,7 @@
     "original_language": "en",
     "original_name": "WWE 205 Live",
     "overview": "WWE's division of Cruiserweight's battle it out to decide who is the greatest wrestler under 205lbs.",
-    "popularity": 298.3442,
+    "popularity": 286.5521,
     "poster_path": "/f6NlvoEJH8KxQI58ecTBkcsbQVF.jpg",
     "first_air_date": "2016-11-29",
     "name": "WWE 205 Live",
@@ -612,309 +503,12 @@
     "original_language": "en",
     "original_name": "Rooster Teeth Animated Adventures",
     "overview": "The animated shenanigans of the Rooster Teeth staff. Audio taken from the Rooster Teeth Podcast.",
-    "popularity": 298.3292,
+    "popularity": 285.1217,
     "poster_path": "/xrcOsjmuBcmf1YhqyQ6qrGCcsvE.jpg",
     "first_air_date": "2011-09-28",
     "name": "Rooster Teeth Animated Adventures",
     "vote_average": 8.6,
     "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jCQV3rHNbgHKo3N4G6CARbVEjPV.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 194766,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Summer I Turned Pretty",
-    "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
-    "popularity": 305.3811,
-    "poster_path": "/s85u6WqkfkVBOrWDMKrefnU1g1n.jpg",
-    "first_air_date": "2022-06-16",
-    "name": "The Summer I Turned Pretty",
-    "vote_average": 8.2,
-    "vote_count": 832
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 291,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "popularity": 209.9546,
-    "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "first_air_date": "1960-12-09",
-    "name": "Coronation Street",
-    "vote_average": 5.4,
-    "vote_count": 112
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
-    "genre_ids": [
-      9648,
-      10765,
-      80
-    ],
-    "id": 4087,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The X-Files",
-    "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
-    "popularity": 182.7413,
-    "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
-    "first_air_date": "1993-09-10",
-    "name": "The X-Files",
-    "vote_average": 8.378,
-    "vote_count": 3281
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3q7cCjq2cEcYjuOIpL46n11l1Gs.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1966,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Horizon",
-    "overview": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
-    "popularity": 292.4656,
-    "poster_path": "/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-    "first_air_date": "1964-02-04",
-    "name": "Horizon",
-    "vote_average": 7.516,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      10759
-    ],
-    "id": 1399,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Game of Thrones",
-    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-    "popularity": 282.0275,
-    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-    "first_air_date": "2011-04-17",
-    "name": "Game of Thrones",
-    "vote_average": 8.457,
-    "vote_count": 25273
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bWCAkYs4Sd8MOYHkzwbhrw2lgWh.jpg",
-    "genre_ids": [
-      10763,
-      10767
-    ],
-    "id": 4496,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Meet the Press",
-    "overview": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running television series in American broadcasting history, despite bearing little resemblance to the original format of the program seen in its television debut on November 6, 1947. Meet the Press is the highest-rated of the American television Sunday morning talk shows.\n\nIt has been hosted by 11 moderators, beginning with Martha Rountree.  Meet the Press and similar shows specialize in interviewing national leaders on issues of politics, economics, foreign policy and other public affairs.",
-    "popularity": 261.4757,
-    "poster_path": "/lisjDmT2xTykSZxCNvd7E3gQ9AI.jpg",
-    "first_air_date": "1947-11-06",
-    "name": "Meet the Press",
-    "vote_average": 4.3,
-    "vote_count": 19
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AqCZow3yUrQn8ltGgS0p1dcBqLo.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10765,
-      9648
-    ],
-    "id": 81665,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Summer Camp Island",
-    "overview": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
-    "popularity": 132.7641,
-    "poster_path": "/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
-    "first_air_date": "2018-07-07",
-    "name": "Summer Camp Island",
-    "vote_average": 7.8,
-    "vote_count": 45
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sKlF9YrVu84DYMDAUZEZDCvDxK2.jpg",
-    "genre_ids": [
-      16,
-      35,
-      18,
-      10765
-    ],
-    "id": 244808,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ぬきたし THE ANIMATION",
-    "overview": "On Seiran Island, secret society NLNS is united by Junnosuke Tachibana, who is determined to crush a law. They have found a benefactor, an unknown rich man, who offers them a secret base and cash. Their mission is to locate a mysterious girl and stop the law, keeping the SHO off their trail.",
-    "popularity": 1282.2128,
-    "poster_path": "/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg",
-    "first_air_date": "2025-07-19",
-    "name": "Nukitashi the Animation",
-    "vote_average": 6,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ovnj5NSQRAn54e81ecIyAIfKRZK.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 17887,
-    "origin_country": [
-      "ZA"
-    ],
-    "original_language": "af",
-    "original_name": "7de Laan",
-    "overview": "7de Laan is an extraordinary microcosm where good and bad, evil and wholesome characters find themselves forming part of a wholesome community where no matter what – everyone counts and everyone cares…",
-    "popularity": 267.5296,
-    "poster_path": "/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
-    "first_air_date": "2000-04-04",
-    "name": "7de Laan",
-    "vote_average": 7.5,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qCW9ztyYsRtywJXKvzw5FIXIkQl.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 59804,
-    "origin_country": [
-      "LT"
-    ],
-    "original_language": "lt",
-    "original_name": "Moterys meluoja geriau",
-    "overview": "Moterys meluoja geriau is a Lithuanian TV series produced by TV3. It is the most watched Lithuanian drama of all time. It is based on a novel by Daiva Vaitkevičiūtė. The series follows four young women and their love interests.",
-    "popularity": 138.2365,
-    "poster_path": "/wXv3Fv7TQE0UC7goU587M9CiMkt.jpg",
-    "first_air_date": "2008-02-04",
-    "name": "Moterys meluoja geriau",
-    "vote_average": 8,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1fXznFH7cmHxSli5PRbnNvvte3Y.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 41822,
-    "origin_country": [
-      "BR",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Top Chef",
-    "overview": "An American reality competition show in which chefs compete against each other in culinary challenges and are judged by a panel of professional chefs and other notables from the food and wine industry with one or more contestants eliminated in each episode.",
-    "popularity": 164.4852,
-    "poster_path": "/z61ri5TRlMCdFLlcdOnyQt4OzAd.jpg",
-    "first_air_date": "2006-03-08",
-    "name": "Top Chef",
-    "vote_average": 6.738,
-    "vote_count": 63
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1fXznFH7cmHxSli5PRbnNvvte3Y.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 41822,
-    "origin_country": [
-      "BR",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Top Chef",
-    "overview": "An American reality competition show in which chefs compete against each other in culinary challenges and are judged by a panel of professional chefs and other notables from the food and wine industry with one or more contestants eliminated in each episode.",
-    "popularity": 164.4852,
-    "poster_path": "/z61ri5TRlMCdFLlcdOnyQt4OzAd.jpg",
-    "first_air_date": "2006-03-08",
-    "name": "Top Chef",
-    "vote_average": 6.738,
-    "vote_count": 63
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/60dGNoEA0FMU5DmofZVpIkrGGu0.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 92461,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Bob Hearts Abishola",
-    "overview": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
-    "popularity": 176.6857,
-    "poster_path": "/7NQRz0RcN2ohT98fZv287YEddtW.jpg",
-    "first_air_date": "2019-09-23",
-    "name": "Bob Hearts Abishola",
-    "vote_average": 7.5,
-    "vote_count": 65
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yVIudr5ZNtFvomu6CdFGKAa3njk.jpg",
-    "genre_ids": [
-      35,
-      18,
-      10766
-    ],
-    "id": 36062,
-    "origin_country": [
-      "NL"
-    ],
-    "original_language": "nl",
-    "original_name": "SpangaS",
-    "overview": "Best Friends follows the life of a group of friends at their high school ‘Spangalis College’. Inside and outside of school exciting and challenging experiences take place. Growing up is never easy; every character has its own, unique story of love, friendship, loneliness, sorrow, discovery. There is drama and joy in school, family, teachers, parents, divorce, bullying, and always dreams for the future.",
-    "popularity": 240.7293,
-    "poster_path": "/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
-    "first_air_date": "2007-09-03",
-    "name": "Best Friends",
-    "vote_average": 3,
-    "vote_count": 6
   },
   {
     "adult": false,
@@ -933,12 +527,75 @@
     "original_language": "ja",
     "original_name": "忍者ハットリくん",
     "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
-    "popularity": 293.5559,
+    "popularity": 287.6065,
     "poster_path": "/zVSx7lXxRKqXiQMgN6QNGgNyF5R.jpg",
     "first_air_date": "1981-09-28",
     "name": "Ninja Hattori-kun",
     "vote_average": 6.8,
     "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3q7cCjq2cEcYjuOIpL46n11l1Gs.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1966,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Horizon",
+    "overview": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+    "popularity": 296.3714,
+    "poster_path": "/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+    "first_air_date": "1964-02-04",
+    "name": "Horizon",
+    "vote_average": 7.516,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+    "genre_ids": [
+      35,
+      10767
+    ],
+    "id": 63770,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Late Show with Stephen Colbert",
+    "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+    "popularity": 283.338,
+    "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+    "first_air_date": "2015-09-08",
+    "name": "The Late Show with Stephen Colbert",
+    "vote_average": 6.314,
+    "vote_count": 317
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 1399,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "popularity": 259.7432,
+    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "first_air_date": "2011-04-17",
+    "name": "Game of Thrones",
+    "vote_average": 8.457,
+    "vote_count": 25276
   },
   {
     "adult": false,
@@ -955,54 +612,99 @@
     "original_language": "en",
     "original_name": "Supernatural",
     "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-    "popularity": 280.2779,
+    "popularity": 277.7763,
     "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
     "first_air_date": "2005-09-13",
     "name": "Supernatural",
-    "vote_average": 8.3,
-    "vote_count": 7897
+    "vote_average": 8.299,
+    "vote_count": 7899
   },
   {
     "adult": false,
-    "backdrop_path": "/o5bErhFspYxSEsJecV7rVLy9ax8.jpg",
+    "backdrop_path": "/s2qJb1FLwp1Mse9lY08JqgMp0kw.jpg",
     "genre_ids": [
-      10765,
-      9648,
-      18
+      10764,
+      35
     ],
-    "id": 1606,
+    "id": 5092,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "무한도전",
+    "overview": "Infinite Challenge has been reported as the first \"Real-Variety\" show in Korean television history. The program is largely unscripted, and follows a similar format of challenge-based Reality Television programs, familiar to the audiences in the West, but the challenges are often silly, absurd, or impossible to achieve, so the program takes on the aspect of a satirical comedy variety show, rather than a more standard reality or contest program. In order to achieve its comedic purposes its 6 hosts and staff continuously proclaim, the elements of this show are the 3-Ds, Dirty, Dangerous, and Difficult.",
+    "popularity": 286.6018,
+    "poster_path": "/3ZIPTvMnzI5ThmdGeEYQFxJV5Sg.jpg",
+    "first_air_date": "2005-04-23",
+    "name": "Infinite Challenge",
+    "vote_average": 7.7,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ovnj5NSQRAn54e81ecIyAIfKRZK.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 17887,
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "af",
+    "original_name": "7de Laan",
+    "overview": "7de Laan is an extraordinary microcosm where good and bad, evil and wholesome characters find themselves forming part of a wholesome community where no matter what – everyone counts and everyone cares…",
+    "popularity": 265.8304,
+    "poster_path": "/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
+    "first_air_date": "2000-04-04",
+    "name": "7de Laan",
+    "vote_average": 7.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bWCAkYs4Sd8MOYHkzwbhrw2lgWh.jpg",
+    "genre_ids": [
+      10763,
+      10767
+    ],
+    "id": 4496,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Ghost Whisperer",
-    "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
-    "popularity": 157.6452,
-    "poster_path": "/23oIfiF2wdbvIJh87c90QYhOtbw.jpg",
-    "first_air_date": "2005-09-23",
-    "name": "Ghost Whisperer",
-    "vote_average": 8.08,
-    "vote_count": 1784
+    "original_name": "Meet the Press",
+    "overview": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running television series in American broadcasting history, despite bearing little resemblance to the original format of the program seen in its television debut on November 6, 1947. Meet the Press is the highest-rated of the American television Sunday morning talk shows.\n\nIt has been hosted by 11 moderators, beginning with Martha Rountree.  Meet the Press and similar shows specialize in interviewing national leaders on issues of politics, economics, foreign policy and other public affairs.",
+    "popularity": 249.0234,
+    "poster_path": "/lisjDmT2xTykSZxCNvd7E3gQ9AI.jpg",
+    "first_air_date": "1947-11-06",
+    "name": "Meet the Press",
+    "vote_average": 4.3,
+    "vote_count": 19
   },
   {
     "adult": false,
-    "backdrop_path": "/41SCPogkdI91cI460JLWXCUMBdz.jpg",
+    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
     "genre_ids": [
-      18
+      16,
+      10759,
+      10765,
+      35,
+      10751,
+      10762
     ],
-    "id": 31214,
+    "id": 132791,
     "origin_country": [
-      "MX"
+      "JP"
     ],
-    "original_language": "es",
-    "original_name": "Corazón salvaje",
-    "overview": "Corazón salvaje is a Mexican telenovela produced by Salvador Mejía Alejandre in conjunction with Televisa and broadcast on El Canal de las Estrellas. The telenovela debuted on 12 October 2009 at 9:00 pm, replacing Sortilegio, and aired for a total of 135 episodes. The final episode was broadcast on 16 April 2010, and the program was replaced with Soy tu dueña. In the United States, the telenovela debuted on 22 February 2010 at 9:00 pm on Univisión, again replacing Sortilegio. However, beginning on 26 April, the program was moved from prime time to the 12:00 midnight time slot.",
-    "popularity": 89.3711,
-    "poster_path": "/AvCYAvFatdPo5oA1gI98BKSysHK.jpg",
-    "first_air_date": "2009-10-12",
-    "name": "Wild Heart",
-    "vote_average": 6.375,
-    "vote_count": 8
+    "original_language": "ja",
+    "original_name": "パーマン",
+    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
+    "popularity": 233.8388,
+    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+    "first_air_date": "1983-04-04",
+    "name": "SUPERKID",
+    "vote_average": 8.75,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -1018,54 +720,141 @@
     "original_language": "en",
     "original_name": "Family Guy",
     "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
-    "popularity": 243.7185,
+    "popularity": 246.266,
     "poster_path": "/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg",
     "first_air_date": "1999-01-31",
     "name": "Family Guy",
     "vote_average": 7.388,
-    "vote_count": 4605
+    "vote_count": 4606
   },
   {
     "adult": false,
-    "backdrop_path": "/qMFJgJrrSArM69NXLAPiWx7JCa1.jpg",
+    "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
     "genre_ids": [
-      18
+      80,
+      18,
+      10759
     ],
-    "id": 14944,
+    "id": 4614,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Robert Montgomery Presents",
-    "overview": "Robert Montgomery Presents is an American dramatic television series which was produced by NBC from January 30, 1950 until June 24, 1957. The live show had several sponsors during its seven-year run, and the title was altered to feature the sponsor, usually Lucky Strike cigarettes, for example, Robert Montgomery Presents Your Lucky Strike Theater, ....The Johnson's Wax Program, and so on.",
-    "popularity": 172.5301,
-    "poster_path": "/jZLS9pS4JGltYIB43c2UvXhqZqW.jpg",
-    "first_air_date": "1950-01-30",
-    "name": "Robert Montgomery Presents",
-    "vote_average": 5.6,
-    "vote_count": 7
+    "original_name": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
+    "popularity": 237.4045,
+    "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "first_air_date": "2003-09-23",
+    "name": "NCIS",
+    "vote_average": 7.625,
+    "vote_count": 2379
   },
   {
     "adult": false,
-    "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+    "backdrop_path": "/yVIudr5ZNtFvomu6CdFGKAa3njk.jpg",
     "genre_ids": [
-      16,
-      10759,
-      10765
+      35,
+      18,
+      10766
     ],
-    "id": 60572,
+    "id": 36062,
     "origin_country": [
-      "JP"
+      "NL"
     ],
-    "original_language": "ja",
-    "original_name": "ポケットモンスター",
-    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
-    "popularity": 220.2825,
-    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
-    "first_air_date": "1997-04-01",
-    "name": "Pokémon",
-    "vote_average": 7.926,
-    "vote_count": 1994
+    "original_language": "nl",
+    "original_name": "SpangaS",
+    "overview": "Best Friends follows the life of a group of friends at their high school ‘Spangalis College’. Inside and outside of school exciting and challenging experiences take place. Growing up is never easy; every character has its own, unique story of love, friendship, loneliness, sorrow, discovery. There is drama and joy in school, family, teachers, parents, divorce, bullying, and always dreams for the future.",
+    "popularity": 207.907,
+    "poster_path": "/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
+    "first_air_date": "2007-09-03",
+    "name": "Best Friends",
+    "vote_average": 3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 549,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "popularity": 230.6386,
+    "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+    "first_air_date": "1990-09-13",
+    "name": "Law & Order",
+    "vote_average": 7.402,
+    "vote_count": 623
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35
+    ],
+    "id": 456,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "popularity": 234.5631,
+    "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+    "first_air_date": "1989-12-17",
+    "name": "The Simpsons",
+    "vote_average": 8.012,
+    "vote_count": 10279
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mcfXcRhpmawDb7hFdzrUNCcKc7p.jpg",
+    "genre_ids": [
+      35,
+      10764
+    ],
+    "id": 98031,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "奔跑吧兄弟",
+    "overview": "Hurry Up, Brother! is a Chinese variety show based off the original Korean variety show, Running Man. It is created by SBS and co-produced with Zhejiang Television. It first aired on October 10, 2014. This show is classified as a game-variety show, where the MCs and guests complete missions in a landmark to win a race. In 2017, the show officially changed its name to \"Keep Running\".",
+    "popularity": 211.617,
+    "poster_path": "/jOl12DTFiMcp9ga2KaEKwt5H8oo.jpg",
+    "first_air_date": "2014-10-10",
+    "name": "Keep Running",
+    "vote_average": 5.8,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pLn4lsSBtGUY1whHyCoEJhgziaP.jpg",
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "id": 2912,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Jeopardy!",
+    "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+    "popularity": 225.771,
+    "poster_path": "/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+    "first_air_date": "1984-09-10",
+    "name": "Jeopardy!",
+    "vote_average": 6.907,
+    "vote_count": 145
   },
   {
     "adult": false,
@@ -1086,6 +875,27 @@
     "name": "The Kelly Clarkson Show",
     "vote_average": 6.5,
     "vote_count": 65
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 45789,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Sturm der Liebe",
+    "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+    "popularity": 234.2216,
+    "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+    "first_air_date": "2005-09-26",
+    "name": "Sturm der Liebe",
+    "vote_average": 6.068,
+    "vote_count": 37
   },
   {
     "adult": false,
@@ -1111,320 +921,21 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/s2qJb1FLwp1Mse9lY08JqgMp0kw.jpg",
-    "genre_ids": [
-      10764,
-      35
-    ],
-    "id": 5092,
+    "backdrop_path": "/17g7A3nmW23GLpHfp6F1TJTIExV.jpg",
+    "genre_ids": [],
+    "id": 96816,
     "origin_country": [
       "KR"
     ],
-    "original_language": "ko",
-    "original_name": "무한도전",
-    "overview": "Infinite Challenge has been reported as the first \"Real-Variety\" show in Korean television history. The program is largely unscripted, and follows a similar format of challenge-based Reality Television programs, familiar to the audiences in the West, but the challenges are often silly, absurd, or impossible to achieve, so the program takes on the aspect of a satirical comedy variety show, rather than a more standard reality or contest program. In order to achieve its comedic purposes its 6 hosts and staff continuously proclaim, the elements of this show are the 3-Ds, Dirty, Dangerous, and Difficult.",
-    "popularity": 268.9134,
-    "poster_path": "/3ZIPTvMnzI5ThmdGeEYQFxJV5Sg.jpg",
-    "first_air_date": "2005-04-23",
-    "name": "Infinite Challenge",
-    "vote_average": 7.7,
-    "vote_count": 20
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-    "genre_ids": [
-      80,
-      18,
-      10759
-    ],
-    "id": 4614,
-    "origin_country": [
-      "US"
-    ],
     "original_language": "en",
-    "original_name": "NCIS",
-    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.",
-    "popularity": 241.2423,
-    "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-    "first_air_date": "2003-09-23",
-    "name": "NCIS",
-    "vote_average": 7.625,
-    "vote_count": 2379
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      80,
-      18,
-      10759
-    ],
-    "id": 58677,
-    "origin_country": [
-      "PH"
-    ],
-    "original_language": "tl",
-    "original_name": "Recuerdo de Amor",
-    "overview": "Recuerdo de Amor is a Philippine afternoon drama series which aired on ABS-CBN in 2001-2003. It starred Carmina Villaroel and Diether Ocampo in successful roles.\n\nThe TV Series was delayed on May 14 to May 15,2001 and ended on its original end date Worldwide on TFC series also nominated Isabel Rivas for Best Actress in a Drama Series by the PMPC in 2002 alongside Seasoned Actress Pinky De Leon who was also part of the series was also known to use fast paced TV Filmography in its 45 Min Premiere of its Pilot Episode the series was also known for getting outstanding reviews throughout its run to Filipino Customers who had The Filipino Channel Internationally because of its memorable storyline and breathtaking Visual Effects similar to a U.S Soap Opera. The series was also Pinky De Leons last TV Series as she decided to retire from TV and Film Work. The Afternoon Series was also competing with Dramas such as Pangako Sa ’Yo and GMA-7s Rival Soap Kung Mawawala Ka.",
-    "popularity": 186.2306,
-    "poster_path": null,
-    "first_air_date": "2001-05-14",
-    "name": "Recuerdo de Amor",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg",
-    "genre_ids": [
-      80,
-      18
-    ],
-    "id": 549,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "popularity": 239.2449,
-    "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
-    "first_air_date": "1990-09-13",
-    "name": "Law & Order",
-    "vote_average": 7.402,
-    "vote_count": 623
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
-    "genre_ids": [
-      35,
-      10751,
-      18
-    ],
-    "id": 52,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "That '70s Show",
-    "overview": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric’s basement, life in the ‘70s isn’t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they’ve learned one thing for sure: they’ll always get by with a little help from their friends.",
-    "popularity": 140.4522,
-    "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
-    "first_air_date": "1998-08-23",
-    "name": "That '70s Show",
-    "vote_average": 7.943,
-    "vote_count": 1482
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      18
-    ],
-    "id": 11441,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "West Point",
-    "overview": "The West Point Story is a dramatic anthology television series shown in the United States by Columbia Broadcasting System during the 1956-57 season and by ABC during the 1957-58 season.\n\nThe West Point Story, produced with the full cooperation of the United States Department of Defense and the United States Military Academy, was said to be based on actual files documenting many of the real-life dramatic occurrences at West Point over the years. Names and dates were altered in order to protect the privacy of the real people portrayed, however. The program was at first hosted by a fictional cadet, Charles C. Thompson, but this device was discontinued prior to the end of 1956.\n\nDuring its second season on ABC, The West Point Story was in competition with NBC's The Californians, set in San Francisco during the gold rush of the 1850s, and with The $64,000 Question quiz series on CBS. The West Point Story was replaced on the summer schedule in 1958 by Jack Wyatt's Confession, which continued to air during the first half of the 1958-1959 season in the 10 p.m. Tuesday evening time slot.\n\nAt the time that The West Point Story was broadcast, four other military dramas aired either through syndication or on the major networks: Harbor Command, Navy Log, The Silent Service, and Men of Annapolis.",
-    "popularity": 102.1825,
-    "poster_path": "/kyGfo1lapbHu0hB1LRl7KlWQtyS.jpg",
-    "first_air_date": "1956-10-05",
-    "name": "West Point",
-    "vote_average": 5,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 331,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "America's Next Top Model",
-    "overview": "Aspiring models compete for a chance to break into the business with a panel of judges critiquing their progress throughout the competition.",
-    "popularity": 224.5979,
-    "poster_path": "/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg",
-    "first_air_date": "2003-05-20",
-    "name": "America's Next Top Model",
-    "vote_average": 5.304,
-    "vote_count": 135
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kHAxjfdl1cMgDpIjuxKWa1nE44i.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 93421,
-    "origin_country": [
-      "PT"
-    ],
-    "original_language": "pt",
-    "original_name": "A Impostora",
-    "overview": "An airplane disappears mysteriously; on board was Verónica, the twin sister of Vitória, the victim of a fraud by a millionaire. Presumed dead, Verónica assumes the identity of her sister and plans to avenge herself on the entrepreneur's family.",
-    "popularity": 153.1971,
-    "poster_path": "/yLtLTnivr3CwnBwKW7E7008u363.jpg",
-    "first_air_date": "2016-09-04",
-    "name": "A Impostora",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mrGd5M3kPkAKynZruOAwsadsr9w.jpg",
-    "genre_ids": [
-      80,
-      18,
-      9648
-    ],
-    "id": 69050,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Riverdale",
-    "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
-    "popularity": 137.4996,
-    "poster_path": "/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg",
-    "first_air_date": "2017-01-26",
-    "name": "Riverdale",
-    "vote_average": 8.4,
-    "vote_count": 13580
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "id": 60735,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Flash",
-    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
-    "popularity": 172.1339,
-    "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "first_air_date": "2014-10-07",
-    "name": "The Flash",
-    "vote_average": 7.77,
-    "vote_count": 11342
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fzKVh8VDvasbzYUmRNnpV6CRdj.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 4360,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Iron Chef America",
-    "overview": "Iron Chef America: The Series is an American cooking show based on Fuji Television's Iron Chef, and is the second American adaptation of the series, following the failed Iron Chef USA. The show is produced by Food Network, which also carried a dubbed version of the original Iron Chef. Like the original Japanese program, the program is a culinary game show. In each episode, a new challenger chef competes against one of the resident \"Iron Chefs\" in a one-hour cooking competition based on a secret ingredient or ingredients, and sometimes theme.\n\nThe show is presented as a successor to the original Iron Chef, as opposed to being a remake. The Chairman is portrayed by actor and martial artist Mark Dacascos, who is introduced as the nephew of the original Japanese chairman Takeshi Kaga. The commentary is provided solely by Alton Brown, & Kevin Brauch is the floor reporter. The music is written by composer Craig Marks, who released the soundtrack titled \"Iron Chef America & The Next Iron Chef\" by the end of 2010. In addition, regular ICA judge and Chopped host Ted Allen provided additional floor commentary for two special battles: Battle First Thanksgiving and Battle White House Produce.",
-    "popularity": 133.0486,
-    "poster_path": "/qHTuJ9LvGlLImr7n8Rg0KaTxG9L.jpg",
-    "first_air_date": "2005-01-16",
-    "name": "Iron Chef America",
-    "vote_average": 6.6,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
-    "genre_ids": [
-      16,
-      10765,
-      10759
-    ],
-    "id": 12971,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ドラゴンボールゼット",
-    "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
-    "popularity": 195.5045,
-    "poster_path": "/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
-    "first_air_date": "1989-04-26",
-    "name": "Dragon Ball Z",
-    "vote_average": 8.35,
-    "vote_count": 4623
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xXXt9FWD0coqGrj8FqbeowR69MY.jpg",
-    "genre_ids": [
-      10763,
-      99
-    ],
-    "id": 4225,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Gadget Show",
-    "overview": "The Gadget Show is a British television series which focuses on consumer technology. The show, which is broadcast on Channel 5 is currently presented by Jason Bradbury and Rachel Riley with Jon Bentley and Pollyanna Woodward.\n\nOriginally a thirty-minute show, it was extended to forty-five minutes, then later to sixty minutes. Repeats have also aired on the digital channel 5*, syndicated broadcasts on Discovery Science and Dave, and Channel 5's Internet on-demand service Demand 5. In Australia, it is aired on The Lifestyle Channel.",
-    "popularity": 105.8841,
-    "poster_path": "/b8hftDjIoVBiGP2gaBxjAU6GHdz.jpg",
-    "first_air_date": "2004-06-07",
-    "name": "The Gadget Show",
-    "vote_average": 6.7,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/q8fmM50In8xGVW0iYoENPa71kAA.jpg",
-    "genre_ids": [
-      10764
-    ],
-    "id": 1636,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Top of the Pops",
-    "overview": "The biggest stars, the most iconic performances, the most outrageous outfits – it’s Britain’s number one pop show.",
-    "popularity": 198.8793,
-    "poster_path": "/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
-    "first_air_date": "1964-01-01",
-    "name": "Top of the Pops",
-    "vote_average": 6.6,
-    "vote_count": 42
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4L38sYtXVOedaQxXmA42wrqFh7x.jpg",
-    "genre_ids": [
-      10768,
-      10751,
-      18
-    ],
-    "id": 49599,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Sakarya Fırat",
-    "overview": "",
-    "popularity": 88.6693,
-    "poster_path": "/esqyip0atCBKfaTsFQJrvO1GiXW.jpg",
-    "first_air_date": "2009-12-16",
-    "name": "Sakarya Fırat",
-    "vote_average": 7.2,
-    "vote_count": 5
+    "original_name": "After School Club",
+    "overview": "After School Club is the Live Music Request show for K-Pop fans all around the world. On our weekly live show, you can join our video chat sessions through Google Hangouts, send us tweets, and share status. Connect directly with AARON, ALLEN, TAEYOUNG, as well as our awesome guests!",
+    "popularity": 226.3508,
+    "poster_path": "/eBCJc0GS0eiOhZf5PqRapE4iKNw.jpg",
+    "first_air_date": "2013-04-17",
+    "name": "After School Club",
+    "vote_average": 6,
+    "vote_count": 3
   },
   {
     "adult": false,
@@ -1451,132 +962,109 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
+    "backdrop_path": "/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
     "genre_ids": [
-      18,
-      10768,
-      10759,
-      80
-    ],
-    "id": 49071,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Kurtlar Vadisi: Pusu",
-    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
-    "popularity": 138.2562,
-    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
-    "first_air_date": "2007-04-19",
-    "name": "Valley of the Wolves: Ambush",
-    "vote_average": 6.2,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      35
-    ],
-    "id": 1408,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "House",
-    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
-    "popularity": 216.5788,
-    "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-    "first_air_date": "2004-11-16",
-    "name": "House",
-    "vote_average": 8.589,
-    "vote_count": 7008
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      99
-    ],
-    "id": 15157,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Tomorrow's World",
-    "overview": "Tomorrow's World was a long-running BBC television series on new developments in science and technology. First transmitted on 7 July 1965 on BBC1, it ran for 38 years until it was cancelled at the beginning of 2003.",
-    "popularity": 101.4978,
-    "poster_path": "/lUCdXsaEf237clRJjaw82fSPuYm.jpg",
-    "first_air_date": "1965-07-07",
-    "name": "Tomorrow's World",
-    "vote_average": 6.2,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
-    "genre_ids": [
-      10767,
-      35
-    ],
-    "id": 498,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Late Show with David Letterman",
-    "overview": "Late Show with David Letterman is an American late-night talk show hosted by David Letterman on CBS. The show debuted on August 30, 1993, and is produced by Letterman's production company, Worldwide Pants Incorporated and CBS Television Studios. The show's music director and band-leader of the house band, the CBS Orchestra, is Paul Shaffer. The head writer is Matt Roberts and the announcer is Alan Kalter. Of the major U.S. late-night programs, Late Show ranks second in cumulative average viewers over time and third in number of episodes over time. The show leads other late night shows in ad revenue with $271 million in 2009.\n\nIn most U.S. markets the show airs at 11:35 p.m. Eastern/Pacific time, but is recorded Monday through Wednesday at 4:30 p.m., and Thursdays at 3:30 p.m and 6:00 p.m. The second Thursday episode usually airs on Friday of that week.\n\nIn 2002, Late Show with David Letterman was ranked No. 7 on TV Guide's 50 Greatest TV Shows of All Time. CBS has a contract with Worldwide Pants to continue the show through 2014; by then, Letterman will surpass Johnny Carson as the longest tenured late-night talk show host.",
-    "popularity": 201.9939,
-    "poster_path": "/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
-    "first_air_date": "1993-08-30",
-    "name": "Late Show with David Letterman",
-    "vote_average": 6.372,
-    "vote_count": 156
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      99,
+      16,
       35,
+      10765,
+      10759
+    ],
+    "id": 60625,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rick and Morty",
+    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+    "popularity": 225.7596,
+    "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "first_air_date": "2013-12-02",
+    "name": "Rick and Morty",
+    "vote_average": 8.689,
+    "vote_count": 10297
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9kuUPHz99Oojm6GG7mawtIjv4lv.jpg",
+    "genre_ids": [
       10764
     ],
-    "id": 116958,
+    "id": 331,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Being The Elite",
-    "overview": "The Young Bucks, Matt & Nick Jackson, along with Kenny \"The Cleaner\" Omega, make up The ELITE. Follow our adventures as WE RULE THE WORLD and dominate the professional wrestling business.",
-    "popularity": 99.4585,
-    "poster_path": "/yt018aeDWJjZA3uxo5Rvr0N03i.jpg",
-    "first_air_date": "2016-05-05",
-    "name": "Being The Elite",
-    "vote_average": 6.25,
-    "vote_count": 4
+    "original_name": "America's Next Top Model",
+    "overview": "Aspiring models compete for a chance to break into the business with a panel of judges critiquing their progress throughout the competition.",
+    "popularity": 224.5979,
+    "poster_path": "/47EIfjYrT80AOfpAIkvSxdpwGOv.jpg",
+    "first_air_date": "2003-05-20",
+    "name": "America's Next Top Model",
+    "vote_average": 5.304,
+    "vote_count": 135
   },
   {
     "adult": false,
-    "backdrop_path": "/iPSzjcRXIdDEPtwEkUZCLv6qmIE.jpg",
+    "backdrop_path": "/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
     "genre_ids": [
-      18,
-      10751
+      10764,
+      10767
     ],
-    "id": 68604,
+    "id": 72896,
     "origin_country": [
-      "IN"
+      "KR"
     ],
-    "original_language": "hi",
-    "original_name": "इश्कबाज़",
-    "overview": "Follows three brothers - Shivaay, Omkara and Rudra -- who share an unbreakable bond despite their dysfunctional family.",
-    "popularity": 156.6188,
-    "poster_path": "/lOa6zZVA9q6tBVZobRhWIdRMtEp.jpg",
-    "first_air_date": "2016-06-27",
-    "name": "Ishqbaaaz",
-    "vote_average": 9,
-    "vote_count": 3
+    "original_language": "ko",
+    "original_name": "미운 우리 새끼",
+    "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
+    "popularity": 221.1644,
+    "poster_path": "/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
+    "first_air_date": "2016-08-26",
+    "name": "My Little Old Boy",
+    "vote_average": 6.1,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7xQR6ixywZofrEHKfI1z6CWKFsC.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 3670,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Cops",
+    "overview": "Follow real-life law enforcement officers from various regions and departments of the United States armed with nothing but with cameras to capture their actions, performing their daily duty to serve and protect the public.",
+    "popularity": 220.7809,
+    "poster_path": "/nUsdcwmoYP4DiZtJcAWkpxjRnay.jpg",
+    "first_air_date": "1989-03-11",
+    "name": "Cops",
+    "vote_average": 6.636,
+    "vote_count": 177
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 60572,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ポケットモンスター",
+    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "popularity": 220.2825,
+    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+    "first_air_date": "1997-04-01",
+    "name": "Pokémon",
+    "vote_average": 7.926,
+    "vote_count": 1994
   },
   {
     "adult": false,
@@ -1602,230 +1090,66 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/yg6goCewFMVYQC9Vypz6YpwVOUf.jpg",
+    "backdrop_path": "/p09oos2PjdtJjOjvLbqAFnRPHRN.jpg",
     "genre_ids": [
-      10764,
-      18
-    ],
-    "id": 46910,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Catfish: The TV Show",
-    "overview": "Nev and his co-hosts -- from Max to Kamie to celebrity guests -- help people in dubious online relationships track down their baes IRL so they can sort out what's fact and what's fiction.",
-    "popularity": 179.6818,
-    "poster_path": "/gy6kqWfIWaVyjU7ifa3KkkTDSHd.jpg",
-    "first_air_date": "2012-11-12",
-    "name": "Catfish: The TV Show",
-    "vote_average": 6.767,
-    "vote_count": 129
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10765,
-      10759
-    ],
-    "id": 60625,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Rick and Morty",
-    "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
-    "popularity": 225.7596,
-    "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "first_air_date": "2013-12-02",
-    "name": "Rick and Morty",
-    "vote_average": 8.689,
-    "vote_count": 10297
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
-    "genre_ids": [
-      16
-    ],
-    "id": 60761,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ダイヤのA",
-    "overview": "Eijun Sawamura is a pitcher who joins an elite school with a brilliant catcher named Kazuya Miyuki. Together with the rest of the team, they strive for Japan's storied Koushien championships through hard work and determination.",
-    "popularity": 92.1849,
-    "poster_path": "/pp5tCc1wlhR9XmtO1YcHrPB8CDb.jpg",
-    "first_air_date": "2013-10-06",
-    "name": "Ace of the Diamond",
-    "vote_average": 8,
-    "vote_count": 64
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aG9lB7wVTeStYZ8eCQN0t7VVmW8.jpg",
-    "genre_ids": [
-      10767,
-      35
-    ],
-    "id": 76949,
-    "origin_country": [
-      "ES"
-    ],
-    "original_language": "es",
-    "original_name": "La resistencia",
-    "overview": "",
-    "popularity": 84.2789,
-    "poster_path": "/yFwkWTDUjLN0LQmidsUJWEViCmo.jpg",
-    "first_air_date": "2018-02-01",
-    "name": "La resistencia",
-    "vote_average": 6,
-    "vote_count": 20
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pNdUVPm6RwvG9Ycd2cuYpLbM7lk.jpg",
-    "genre_ids": [
-      35,
-      10764
-    ],
-    "id": 78648,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "놀라운 토요일",
-    "overview": "A group of hungry celebrities listen to poppin’ tunes, from recent hits to all-time-favorites, to correctly dictate a part of the lyrics.\n\nThe songs may sound familiar, but the part they must dictate are unclear to the naked ear, as the lyrics are slurred, muffled by strong beats, etc.\n\nIf they get the lyrics right, they get to share exquisite regional dishes. But if they get them wrong, a professional eater gobbles it up instead.",
-    "popularity": 206.1243,
-    "poster_path": "/nEwybsfZBSPjcZamPpKDTaTI5g.jpg",
-    "first_air_date": "2018-04-07",
-    "name": "Amazing Saturday",
-    "vote_average": 7.6,
-    "vote_count": 10
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pLn4lsSBtGUY1whHyCoEJhgziaP.jpg",
-    "genre_ids": [
-      10764,
+      10762,
       10751
     ],
-    "id": 2912,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Jeopardy!",
-    "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-    "popularity": 235.971,
-    "poster_path": "/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-    "first_air_date": "1984-09-10",
-    "name": "Jeopardy!",
-    "vote_average": 6.907,
-    "vote_count": 145
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 30826,
-    "origin_country": [
-      "MX"
-    ],
-    "original_language": "es",
-    "original_name": "La rosa de Guadalupe",
-    "overview": "Stories about people who get into problems who use the help of Virgin Mary and where a rose appears and their problems are solved.",
-    "popularity": 144.5973,
-    "poster_path": "/9RaNva340arNWeZn2uKpKePkg91.jpg",
-    "first_air_date": "2008-02-05",
-    "name": "La rosa de Guadalupe",
-    "vote_average": 6.965,
-    "vote_count": 273
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6wX6105dCfRqTrwvoQgA8bGxUCo.jpg",
-    "genre_ids": [
-      35,
-      10767
-    ],
-    "id": 1220,
+    "id": 49281,
     "origin_country": [
       "GB"
     ],
     "original_language": "en",
-    "original_name": "The Graham Norton Show",
-    "overview": "Each week celebrity guests join Irish comedian Graham Norton to discuss what's being going on around the world that week. The guests poke fun and share their opinions on the main news stories. Graham is often joined by a band or artist to play the show out.",
-    "popularity": 143.7659,
-    "poster_path": "/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
-    "first_air_date": "2007-02-22",
-    "name": "The Graham Norton Show",
-    "vote_average": 7.197,
-    "vote_count": 269
+    "original_name": "CBeebies Bedtime Stories",
+    "overview": "Join a host of different celebrities for a different story read each night just before bedtime.",
+    "popularity": 217.1372,
+    "poster_path": "/b0ScjqTEs9XNpGsFueXdwPbWHtC.jpg",
+    "first_air_date": "2009-03-09",
+    "name": "CBeebies Bedtime Stories",
+    "vote_average": 7.7,
+    "vote_count": 7
   },
   {
     "adult": false,
-    "backdrop_path": "/qnTBxxv7q4xVwgZBLb0vtILLelh.jpg",
+    "backdrop_path": "/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
     "genre_ids": [
-      10764
+      18,
+      9648,
+      35
     ],
-    "id": 14814,
+    "id": 1408,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Keeping Up with the Kardashians",
-    "overview": "A peek inside the exploits and privileged private lives of the blended Kardashian-Jenner family, including sisters Kim, Kourtney and Khloé.",
-    "popularity": 115.3441,
-    "poster_path": "/nddXOC8wYpIDv7giLzjjqIg8WDA.jpg",
-    "first_air_date": "2007-10-14",
-    "name": "Keeping Up with the Kardashians",
-    "vote_average": 7.384,
-    "vote_count": 907
+    "original_name": "House",
+    "overview": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+    "popularity": 216.5788,
+    "poster_path": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "first_air_date": "2004-11-16",
+    "name": "House",
+    "vote_average": 8.589,
+    "vote_count": 7008
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
     "genre_ids": [
       10767
     ],
-    "id": 127157,
+    "id": 62223,
     "origin_country": [
-      "CL"
-    ],
-    "original_language": "es",
-    "original_name": "Sin dios, ni late",
-    "overview": "",
-    "popularity": 131.9541,
-    "poster_path": "/kaqwnYopQ8mHyE9ky0c2aDtydd8.jpg",
-    "first_air_date": "2008-07-07",
-    "name": "Sin dios, ni late",
-    "vote_average": 2,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/17g7A3nmW23GLpHfp6F1TJTIExV.jpg",
-    "genre_ids": [],
-    "id": 96816,
-    "origin_country": [
-      "KR"
+      "US"
     ],
     "original_language": "en",
-    "original_name": "After School Club",
-    "overview": "After School Club is the Live Music Request show for K-Pop fans all around the world. On our weekly live show, you can join our video chat sessions through Google Hangouts, send us tweets, and share status. Connect directly with AARON, ALLEN, TAEYOUNG, as well as our awesome guests!",
-    "popularity": 226.3508,
-    "poster_path": "/eBCJc0GS0eiOhZf5PqRapE4iKNw.jpg",
-    "first_air_date": "2013-04-17",
-    "name": "After School Club",
-    "vote_average": 6,
-    "vote_count": 3
+    "original_name": "The Late Late Show with James Corden",
+    "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+    "popularity": 213.1941,
+    "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+    "first_air_date": "2015-03-23",
+    "name": "The Late Late Show with James Corden",
+    "vote_average": 5.281,
+    "vote_count": 139
   },
   {
     "adult": false,
@@ -1844,72 +1168,98 @@
     "poster_path": "/vY8Bep9K9oFSz0C9gnTVipfBciU.jpg",
     "first_air_date": "2013-08-24",
     "name": "Beat Bobby Flay",
-    "vote_average": 6.7,
-    "vote_count": 25
+    "vote_average": 6.519,
+    "vote_count": 26
   },
   {
     "adult": false,
-    "backdrop_path": "/taVpgDdtwqgPbgwIFEBSU4I5vuV.jpg",
+    "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
     "genre_ids": [
-      10762,
-      10751,
       10766
     ],
-    "id": 58566,
-    "origin_country": [
-      "AR",
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Chiquititas",
-    "overview": "Based on the original version of same name created by Cris Morena, the series tells the story of a group of orphans living in a manor, known as Raio de Luz, struggling and being guided by a young woman, Carol, that assumes a maternal figure for them. Their experiences such as discovering first love, deceptions, loneliness and friendship, as well as adventures in fantasy, are depicted throughout the series. The narrative is followed by musical themes and videoclips.",
-    "popularity": 112.2466,
-    "poster_path": "/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg",
-    "first_air_date": "2013-07-15",
-    "name": "Chiquititas",
-    "vote_average": 8.45,
-    "vote_count": 40
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mEuIP3V5yOqkxsS8MGu7yniqYDL.jpg",
-    "genre_ids": [
-      16,
-      9648
-    ],
-    "id": 23587,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "金田一少年の事件簿",
-    "overview": "Kindaichi Hajime may look dumb, but he is one of the smartest you will ever see. He encounters mysteries after mysteries with his good friend, Miyuki, and he swears to solve them in the name of his grandfather, which was a great detective.",
-    "popularity": 159.7692,
-    "poster_path": "/eMCA5F3szGY3ckx2EDWWgwHZdh9.jpg",
-    "first_air_date": "1997-04-07",
-    "name": "Kindaichi Case Files",
-    "vote_average": 8.3,
-    "vote_count": 20
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nI3tKuIqtSA0efUA8pe2BZz3Efm.jpg",
-    "genre_ids": [
-      10763
-    ],
-    "id": 841,
+    "id": 291,
     "origin_country": [
       "GB"
     ],
     "original_language": "en",
-    "original_name": "Newsnight",
-    "overview": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of senior politicians.",
-    "popularity": 144.434,
-    "poster_path": "/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-    "first_air_date": "1980-01-30",
-    "name": "Newsnight",
-    "vote_average": 6.2,
-    "vote_count": 10
+    "original_name": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "popularity": 209.9546,
+    "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "first_air_date": "1960-12-09",
+    "name": "Coronation Street",
+    "vote_average": 5.4,
+    "vote_count": 112
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f1OoogO23fHdm7NzCsCxjFPoQit.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10765,
+      18
+    ],
+    "id": 80559,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "パズドラ",
+    "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
+    "popularity": 209.114,
+    "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
+    "first_air_date": "2018-04-02",
+    "name": "Puzzle & Dragons",
+    "vote_average": 8,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
+    "genre_ids": [
+      16,
+      80,
+      9648,
+      35
+    ],
+    "id": 30983,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "名探偵コナン",
+    "overview": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "popularity": 207.3821,
+    "poster_path": "/ibd5jpPu2oxup9ecU8xvwlRZF0O.jpg",
+    "first_air_date": "1996-01-08",
+    "name": "Case Closed",
+    "vote_average": 8,
+    "vote_count": 702
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tLccUh3uazZ9TkLhe53UwprJhI4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 32798,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hawaii Five-0",
+    "overview": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+    "popularity": 207.008,
+    "poster_path": "/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg",
+    "first_air_date": "2010-09-20",
+    "name": "Hawaii Five-0",
+    "vote_average": 7.751,
+    "vote_count": 1785
   },
   {
     "adult": false,
@@ -1934,109 +1284,276 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/mcfXcRhpmawDb7hFdzrUNCcKc7p.jpg",
+    "backdrop_path": "/1AwRQTVV1M8eEce3aUa6f3BEwap.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 153485,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "サザエさん",
+    "overview": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
+    "popularity": 206.3203,
+    "poster_path": "/sR3tqK13hhpohIfnpd2z3HkpnUb.jpg",
+    "first_air_date": "1969-10-14",
+    "name": "Sazae-san",
+    "vote_average": 6.5,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pNdUVPm6RwvG9Ycd2cuYpLbM7lk.jpg",
     "genre_ids": [
       35,
       10764
     ],
-    "id": 98031,
+    "id": 78648,
     "origin_country": [
-      "CN"
+      "KR"
     ],
-    "original_language": "zh",
-    "original_name": "奔跑吧兄弟",
-    "overview": "Hurry Up, Brother! is a Chinese variety show based off the original Korean variety show, Running Man. It is created by SBS and co-produced with Zhejiang Television. It first aired on October 10, 2014. This show is classified as a game-variety show, where the MCs and guests complete missions in a landmark to win a race. In 2017, the show officially changed its name to \"Keep Running\".",
-    "popularity": 237.372,
-    "poster_path": "/jOl12DTFiMcp9ga2KaEKwt5H8oo.jpg",
-    "first_air_date": "2014-10-10",
-    "name": "Keep Running",
-    "vote_average": 5.8,
-    "vote_count": 9
+    "original_language": "ko",
+    "original_name": "놀라운 토요일",
+    "overview": "A group of hungry celebrities listen to poppin’ tunes, from recent hits to all-time-favorites, to correctly dictate a part of the lyrics.\n\nThe songs may sound familiar, but the part they must dictate are unclear to the naked ear, as the lyrics are slurred, muffled by strong beats, etc.\n\nIf they get the lyrics right, they get to share exquisite regional dishes. But if they get them wrong, a professional eater gobbles it up instead.",
+    "popularity": 206.1243,
+    "poster_path": "/nEwybsfZBSPjcZamPpKDTaTI5g.jpg",
+    "first_air_date": "2018-04-07",
+    "name": "Amazing Saturday",
+    "vote_average": 7.6,
+    "vote_count": 10
   },
   {
     "adult": false,
-    "backdrop_path": "/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg",
+    "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
     "genre_ids": [
-      16,
       10759,
-      35,
+      80,
+      18,
       9648
     ],
-    "id": 88786,
+    "id": 4333,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Saint",
+    "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
+    "popularity": 204.1751,
+    "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
+    "first_air_date": "1962-10-04",
+    "name": "The Saint",
+    "vote_average": 7.312,
+    "vote_count": 117
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "genre_ids": [
+      10762,
+      35
+    ],
+    "id": 502,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Victor and Valentino",
-    "overview": "Two half-brothers spend a summer with their grandma in Monte Macabre, a small and mysterious town, where the myths and legends of Latin American folklore come to life.",
-    "popularity": 122.0807,
-    "poster_path": "/4EmKaihMUGP8hyEvvTApQj19e1c.jpg",
-    "first_air_date": "2019-03-30",
-    "name": "Victor and Valentino",
-    "vote_average": 6,
-    "vote_count": 16
+    "original_name": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "popularity": 202.5176,
+    "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "first_air_date": "1969-11-10",
+    "name": "Sesame Street",
+    "vote_average": 7.082,
+    "vote_count": 267
   },
   {
     "adult": false,
-    "backdrop_path": "/pxeqQX4qFQ0cVxPt5SWZENV5BH3.jpg",
+    "backdrop_path": "/7jEnft2CLNbILWAiBRIBrXNN7Qh.jpg",
     "genre_ids": [
-      10751,
+      10767,
+      35
+    ],
+    "id": 498,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Late Show with David Letterman",
+    "overview": "Late Show with David Letterman is an American late-night talk show hosted by David Letterman on CBS. The show debuted on August 30, 1993, and is produced by Letterman's production company, Worldwide Pants Incorporated and CBS Television Studios. The show's music director and band-leader of the house band, the CBS Orchestra, is Paul Shaffer. The head writer is Matt Roberts and the announcer is Alan Kalter. Of the major U.S. late-night programs, Late Show ranks second in cumulative average viewers over time and third in number of episodes over time. The show leads other late night shows in ad revenue with $271 million in 2009.\n\nIn most U.S. markets the show airs at 11:35 p.m. Eastern/Pacific time, but is recorded Monday through Wednesday at 4:30 p.m., and Thursdays at 3:30 p.m and 6:00 p.m. The second Thursday episode usually airs on Friday of that week.\n\nIn 2002, Late Show with David Letterman was ranked No. 7 on TV Guide's 50 Greatest TV Shows of All Time. CBS has a contract with Worldwide Pants to continue the show through 2014; by then, Letterman will surpass Johnny Carson as the longest tenured late-night talk show host.",
+    "popularity": 201.9939,
+    "poster_path": "/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+    "first_air_date": "1993-08-30",
+    "name": "Late Show with David Letterman",
+    "vote_average": 6.372,
+    "vote_count": 156
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9YteO4VWteiPmEbWYJRAeBTQZPD.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 1100,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "How I Met Your Mother",
+    "overview": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+    "popularity": 199.7471,
+    "poster_path": "/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+    "first_air_date": "2005-09-19",
+    "name": "How I Met Your Mother",
+    "vote_average": 8.14,
+    "vote_count": 5285
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q8fmM50In8xGVW0iYoENPa71kAA.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 1636,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Top of the Pops",
+    "overview": "The biggest stars, the most iconic performances, the most outrageous outfits – it’s Britain’s number one pop show.",
+    "popularity": 198.8793,
+    "poster_path": "/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
+    "first_air_date": "1964-01-01",
+    "name": "Top of the Pops",
+    "vote_average": 6.6,
+    "vote_count": 42
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
+    "genre_ids": [
+      9648,
+      18
+    ],
+    "id": 248852,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "UNTAMED",
+    "overview": "In the vast expanse of Yosemite National Park, a woman's death draws a federal agent into lawless terrain — where nature obeys no rules but its own.",
+    "popularity": 196.9988,
+    "poster_path": "/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
+    "first_air_date": "2025-07-17",
+    "name": "UNTAMED",
+    "vote_average": 7.4,
+    "vote_count": 83
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/phc7wS5j4anfu9EoD5NMNRozoDC.jpg",
+    "genre_ids": [
+      10763
+    ],
+    "id": 651,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "60 Minutes",
+    "overview": "America's popular television News magazine in which an ever changing team of CBS News correspondents contribute segments ranging from hard news coverage to politics to lifestyle and pop culture.",
+    "popularity": 196.1994,
+    "poster_path": "/qDSKxeHoN9pvVChXXc2YZN4KwBJ.jpg",
+    "first_air_date": "1968-09-24",
+    "name": "60 Minutes",
+    "vote_average": 6.74,
+    "vote_count": 75
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "id": 12971,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンボールゼット",
+    "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+    "popularity": 195.5045,
+    "poster_path": "/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
+    "first_air_date": "1989-04-26",
+    "name": "Dragon Ball Z",
+    "vote_average": 8.35,
+    "vote_count": 4624
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oJuDMcM8LZA5F5Ahgc9mZg2LRIO.jpg",
+    "genre_ids": [
       16,
       35
     ],
-    "id": 456,
+    "id": 32726,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The Simpsons",
-    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-    "popularity": 238.1723,
-    "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
-    "first_air_date": "1989-12-17",
-    "name": "The Simpsons",
-    "vote_average": 8.012,
-    "vote_count": 10279
+    "original_name": "Bob's Burgers",
+    "overview": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their three kids. Bob and his quirky family have big ideas about burgers, but fall short on service and sophistication. Despite the greasy counters, lousy location and a dearth of customers, Bob and his family are determined to make Bob's Burgers \"grand re-re-re-opening\" a success.",
+    "popularity": 195.0653,
+    "poster_path": "/yVz5foNr6nCfathj0igg8RLVGfn.jpg",
+    "first_air_date": "2011-01-09",
+    "name": "Bob's Burgers",
+    "vote_average": 7.82,
+    "vote_count": 1003
   },
   {
     "adult": false,
-    "backdrop_path": "/hFioMJQj0ofiZYFoC4mrnsItmzS.jpg",
+    "backdrop_path": "/2OeS0YPFpqCmi7SA5W6aOPIChc3.jpg",
     "genre_ids": [
-      10764
+      16,
+      35
     ],
-    "id": 14658,
+    "id": 1433,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Survivor",
-    "overview": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
-    "popularity": 191.5774,
-    "poster_path": "/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
-    "first_air_date": "2000-05-31",
-    "name": "Survivor",
-    "vote_average": 7.338,
-    "vote_count": 404
+    "original_name": "American Dad!",
+    "overview": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+    "popularity": 194.1738,
+    "poster_path": "/j84ZtVRoxKWTsQUya77um4l8Dqs.jpg",
+    "first_air_date": "2005-02-06",
+    "name": "American Dad!",
+    "vote_average": 6.97,
+    "vote_count": 2224
   },
   {
     "adult": false,
-    "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "backdrop_path": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
     "genre_ids": [
-      10767
+      10766
     ],
-    "id": 2261,
+    "id": 206559,
     "origin_country": [
-      "US"
+      "ZA"
     ],
-    "original_language": "en",
-    "original_name": "The Tonight Show Starring Johnny Carson",
-    "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
-    "popularity": 95.3837,
-    "poster_path": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
-    "first_air_date": "1962-10-01",
-    "name": "The Tonight Show Starring Johnny Carson",
-    "vote_average": 7.459,
-    "vote_count": 86
+    "original_language": "af",
+    "original_name": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "popularity": 192.5219,
+    "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "first_air_date": "2005-10-13",
+    "name": "Binnelanders",
+    "vote_average": 5.624,
+    "vote_count": 97
   },
   {
     "adult": false,
@@ -2061,64 +1578,546 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/vrLDuQ5L45f7vFWpMT17WopdWx0.jpg",
+    "backdrop_path": "/hFioMJQj0ofiZYFoC4mrnsItmzS.jpg",
     "genre_ids": [
-      10764,
-      10767
+      10764
     ],
-    "id": 72896,
+    "id": 14658,
     "origin_country": [
-      "KR"
+      "US"
     ],
-    "original_language": "ko",
-    "original_name": "미운 우리 새끼",
-    "overview": "How much do you know about your grown up son? In Mom’s Diary, the daily lives of the grown up celebrity sons are closely observed by their mothers. Do you know why your son drinks so much these days? How much do you know about your son’s philosophy in his life style? Heart-warming moments of observational communication between a mother and a son can be seen on Mom’s Diary.",
-    "popularity": 221.1644,
-    "poster_path": "/fgeWRIiigNHLxy3qEzM0HqNcFHT.jpg",
-    "first_air_date": "2016-08-26",
-    "name": "My Little Old Boy",
-    "vote_average": 6.1,
+    "original_language": "en",
+    "original_name": "Survivor",
+    "overview": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
+    "popularity": 191.5774,
+    "poster_path": "/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
+    "first_air_date": "2000-05-31",
+    "name": "Survivor",
+    "vote_average": 7.338,
+    "vote_count": 404
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7iRADsDRzMzjlVvDmFp1tUducvJ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 127947,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Game Grumps",
+    "overview": "Game Grumps: Dan and Arin playin' games, gettin' mad and being bad!",
+    "popularity": 188.9878,
+    "poster_path": "/dTHPGgWS2vxuxnvnOaGje4eU6eq.jpg",
+    "first_air_date": "2012-07-18",
+    "name": "Game Grumps",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "id": 57532,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "PAW Patrol",
+    "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+    "popularity": 187.9131,
+    "poster_path": "/9S65uEjDqepU7d71CNmxIBHHdo.jpg",
+    "first_air_date": "2013-08-12",
+    "name": "PAW Patrol",
+    "vote_average": 7.001,
+    "vote_count": 779
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ynd225o8GuCahYGjHtFdEt8Xizm.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 235484,
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "af",
+    "original_name": "Suidooster",
+    "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+    "popularity": 187.5261,
+    "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+    "first_air_date": "2015-11-16",
+    "name": "Suidooster",
+    "vote_average": 7.217,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 58677,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Recuerdo de Amor",
+    "overview": "Recuerdo de Amor is a Philippine afternoon drama series which aired on ABS-CBN in 2001-2003. It starred Carmina Villaroel and Diether Ocampo in successful roles.\n\nThe TV Series was delayed on May 14 to May 15,2001 and ended on its original end date Worldwide on TFC series also nominated Isabel Rivas for Best Actress in a Drama Series by the PMPC in 2002 alongside Seasoned Actress Pinky De Leon who was also part of the series was also known to use fast paced TV Filmography in its 45 Min Premiere of its Pilot Episode the series was also known for getting outstanding reviews throughout its run to Filipino Customers who had The Filipino Channel Internationally because of its memorable storyline and breathtaking Visual Effects similar to a U.S Soap Opera. The series was also Pinky De Leons last TV Series as she decided to retire from TV and Film Work. The Afternoon Series was also competing with Dramas such as Pangako Sa ’Yo and GMA-7s Rival Soap Kung Mawawala Ka.",
+    "popularity": 186.2306,
+    "poster_path": null,
+    "first_air_date": "2001-05-14",
+    "name": "Recuerdo de Amor",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u4oCL0YEl2vGH7J42QyqLgzyuKR.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 6489,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "Klan",
+    "overview": "Family is the most important thing, and the children of Władysław and Maria Lubicz from Warsaw can always count on each other, no matter what surprises life offers.",
+    "popularity": 185.9139,
+    "poster_path": "/vuSKqHmKLrKG2AYFOyQ4Ci9wTAj.jpg",
+    "first_air_date": "1997-09-22",
+    "name": "Klan",
+    "vote_average": 4.7,
     "vote_count": 7
   },
   {
     "adult": false,
-    "backdrop_path": "/phc7wS5j4anfu9EoD5NMNRozoDC.jpg",
+    "backdrop_path": "/jhXr4zRl12IK9xqUI9JZ5e26ptY.jpg",
     "genre_ids": [
-      10763
+      10767
     ],
-    "id": 651,
+    "id": 53411,
     "origin_country": [
-      "US"
+      "CZ"
     ],
-    "original_language": "en",
-    "original_name": "60 Minutes",
-    "overview": "America's popular television News magazine in which an ever changing team of CBS News correspondents contribute segments ranging from hard news coverage to politics to lifestyle and pop culture.",
-    "popularity": 196.1994,
-    "poster_path": "/qDSKxeHoN9pvVChXXc2YZN4KwBJ.jpg",
-    "first_air_date": "1968-09-24",
-    "name": "60 Minutes",
-    "vote_average": 6.74,
-    "vote_count": 75
+    "original_language": "cs",
+    "original_name": "Krásný ztráty",
+    "overview": "",
+    "popularity": 185.9137,
+    "poster_path": "/l0LooMApU3L78y601FGTPlpXft1.jpg",
+    "first_air_date": "2000-02-10",
+    "name": "Krásný ztráty",
+    "vote_average": 5.7,
+    "vote_count": 3
   },
   {
     "adult": false,
-    "backdrop_path": "/oGsh97JAA6LYu92B6TEswrjac8W.jpg",
+    "backdrop_path": "/psedRtpZwLUoDN3d7b2BgPTBtJi.jpg",
     "genre_ids": [
-      9648,
-      18
+      10766,
+      18,
+      35
     ],
-    "id": 248852,
+    "id": 42883,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Paraíso Tropical",
+    "overview": "The search for a successor provokes the beginning of a clash between two young and talented executives of his group: Daniel Bastos, a lad of simple origins and excellent character, who is not only handsome and charming, but also intelligent and skilled, and Olavo Novaes, an ambitious and unscrupulous man who is ready to fight for the position, at any cost. To fight against Olavo‘s treacherous plans, Daniel will have the help of the sweet and sensitive Paula, a young lady raised as an only child who founds, on the eve of her mother‘s death, that she is adopted and has a family. What Paula does not know is that she has an identical twin sister, the wicked Taís, who is as ambitious and unscrupulous as the man who becomes her main ally, Olavo Novaes. Antenor, for his part, decides on having an heir when he meets the headstrong and honest Lúcia, a woman who will make this cold businessman find true love is and a real reason to live.",
+    "popularity": 184.245,
+    "poster_path": "/1njDNkBHYLL7LS6KmvAsmxqnMxD.jpg",
+    "first_air_date": "2007-03-05",
+    "name": "Paraíso Tropical",
+    "vote_average": 8.2,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "id": 46952,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "UNTAMED",
-    "overview": "In the vast expanse of Yosemite National Park, a woman's death draws a federal agent into lawless terrain — where nature obeys no rules but its own.",
-    "popularity": 196.9988,
-    "poster_path": "/wCJSNZcLT7EuKKW35my9VLmrkR7.jpg",
-    "first_air_date": "2025-07-17",
-    "name": "UNTAMED",
+    "original_name": "The Blacklist",
+    "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+    "popularity": 183.9461,
+    "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+    "first_air_date": "2013-09-23",
+    "name": "The Blacklist",
+    "vote_average": 7.6,
+    "vote_count": 3317
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
+    "genre_ids": [
+      9648,
+      10765,
+      80
+    ],
+    "id": 4087,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The X-Files",
+    "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+    "popularity": 182.7413,
+    "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+    "first_air_date": "1993-09-10",
+    "name": "The X-Files",
+    "vote_average": 8.378,
+    "vote_count": 3281
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 134864,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "MBC 베스트극장",
+    "overview": "",
+    "popularity": 182.7353,
+    "poster_path": "/u93t32JtNJlyQu3UNQS2GI9kCA6.jpg",
+    "first_air_date": "1991-07-07",
+    "name": "MBC Bests Theater",
+    "vote_average": 7,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gDXbMKDChOWUjXlXMB0nNvLwRTQ.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 43689,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Be Careful With My Heart",
+    "overview": "Be Careful With My Heart is a 2012 Philippine daytime television drama which premiered on ABS-CBN on July 9, 2012 airing before It's Showtime. It is also broadcast worldwide on The Filipino Channel. It is topbilled by Jodi Sta. Maria and Richard Yap. It is one of the most successful teleserye of ABS-CBN.\n\nIt is the first television drama in the Philippines made by ABS-CBN to be filmed and broadcast in high definition.",
+    "popularity": 179.9669,
+    "poster_path": "/kJlUmgQh6chfGsHgwcrtjNmg2t1.jpg",
+    "first_air_date": "2012-07-09",
+    "name": "Be Careful With My Heart",
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yg6goCewFMVYQC9Vypz6YpwVOUf.jpg",
+    "genre_ids": [
+      10764,
+      18
+    ],
+    "id": 46910,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Catfish: The TV Show",
+    "overview": "Nev and his co-hosts -- from Max to Kamie to celebrity guests -- help people in dubious online relationships track down their baes IRL so they can sort out what's fact and what's fiction.",
+    "popularity": 179.6818,
+    "poster_path": "/gy6kqWfIWaVyjU7ifa3KkkTDSHd.jpg",
+    "first_air_date": "2012-11-12",
+    "name": "Catfish: The TV Show",
+    "vote_average": 6.767,
+    "vote_count": 129
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ug8VmeqBEpXzvSgLiCwbAZ3AkLI.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 3947,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Verliebt in Berlin",
+    "overview": "The original season follows the life of the unsophisticated but good-natured Lisa Plenske, and her incongruous job at the ultra-chic Berlin fashion house Kerima Moda; while the second season revolved around Lisa's ham-fisted but sly half-brother Bruno and junior designer Hannah Refrath.",
+    "popularity": 179.3874,
+    "poster_path": "/gw00a3X2xZ8avePAMyD4olZtN9u.jpg",
+    "first_air_date": "2005-02-28",
+    "name": "Verliebt in Berlin",
+    "vote_average": 3.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 1405,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dexter",
+    "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+    "popularity": 178.6046,
+    "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "first_air_date": "2006-10-01",
+    "name": "Dexter",
+    "vote_average": 8.216,
+    "vote_count": 4748
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2Ib8kvWa9gGhJrAfGlhIvbmtbWn.jpg",
+    "genre_ids": [
+      10767,
+      35,
+      10763
+    ],
+    "id": 32415,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Conan",
+    "overview": "A late night television talk show hosted by  Conan O'Brien.",
+    "popularity": 178.3601,
+    "poster_path": "/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+    "first_air_date": "2010-11-08",
+    "name": "Conan",
+    "vote_average": 7.101,
+    "vote_count": 238
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      9648
+    ],
+    "id": 232402,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "S라인",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "popularity": 178.1356,
+    "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "first_air_date": "2025-07-11",
+    "name": "S Line",
+    "vote_average": 7.8,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/60dGNoEA0FMU5DmofZVpIkrGGu0.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 92461,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bob Hearts Abishola",
+    "overview": "A love story about a middle-aged compression sock businessman from Detroit who unexpectedly falls for his cardiac nurse, a Nigerian immigrant, while recovering from a heart attack and sets his sights on winning her over.",
+    "popularity": 176.6857,
+    "poster_path": "/7NQRz0RcN2ohT98fZv287YEddtW.jpg",
+    "first_air_date": "2019-09-23",
+    "name": "Bob Hearts Abishola",
     "vote_average": 7.5,
-    "vote_count": 74
+    "vote_count": 65
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n2sp8LcMza8lK83Q4BatOc4zgrM.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 517,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Ultimate Fighter",
+    "overview": "The Ultimate Fighter is an American reality television series and mixed martial arts (MMA) competition produced by the Ultimate Fighting Championship (UFC) and Pilgrim Media Group currently airing on ESPN+. It previously aired for fourteen seasons on Spike TV. The show features professional MMA fighters living together in Las Vegas, Nevada, and follows them as they train and compete against each other for a prized six-figure contract with the UFC. The series debuted on January 17, 2005.",
+    "popularity": 175.7102,
+    "poster_path": "/k3NlkqDeYmKTsx7QIQWjXXo0DeW.jpg",
+    "first_air_date": "2005-01-17",
+    "name": "The Ultimate Fighter",
+    "vote_average": 6.286,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qMFJgJrrSArM69NXLAPiWx7JCa1.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 14944,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Robert Montgomery Presents",
+    "overview": "Robert Montgomery Presents is an American dramatic television series which was produced by NBC from January 30, 1950 until June 24, 1957. The live show had several sponsors during its seven-year run, and the title was altered to feature the sponsor, usually Lucky Strike cigarettes, for example, Robert Montgomery Presents Your Lucky Strike Theater, ....The Johnson's Wax Program, and so on.",
+    "popularity": 172.5301,
+    "poster_path": "/jZLS9pS4JGltYIB43c2UvXhqZqW.jpg",
+    "first_air_date": "1950-01-30",
+    "name": "Robert Montgomery Presents",
+    "vote_average": 5.6,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      80
+    ],
+    "id": 1871,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "EastEnders",
+    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+    "popularity": 172.4988,
+    "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+    "first_air_date": "1985-02-19",
+    "name": "EastEnders",
+    "vote_average": 4.146,
+    "vote_count": 213
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "id": 60735,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "popularity": 172.1339,
+    "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "first_air_date": "2014-10-07",
+    "name": "The Flash",
+    "vote_average": 7.8,
+    "vote_count": 11343
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jB66SWgijY4bU8J4msxj768U9Qe.jpg",
+    "genre_ids": [
+      10764
+    ],
+    "id": 3626,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "American Idol",
+    "overview": "Each year, hopeful singers from all over the country audition to be part of one of the biggest shows in American television history. Who will become the new American Idol?",
+    "popularity": 170.9762,
+    "poster_path": "/iIlKBCqv5YkjQIWj7hYcFndxoLp.jpg",
+    "first_air_date": "2002-06-11",
+    "name": "American Idol",
+    "vote_average": 5.117,
+    "vote_count": 166
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/shJhgNuC2a4hPdqvm8IDXFvYwLx.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 67136,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "This Is Us",
+    "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+    "popularity": 170.3583,
+    "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+    "first_air_date": "2016-09-20",
+    "name": "This Is Us",
+    "vote_average": 8.229,
+    "vote_count": 1519
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765
+    ],
+    "id": 15260,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Adventure Time",
+    "overview": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
+    "popularity": 170.0827,
+    "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+    "first_air_date": "2010-04-05",
+    "name": "Adventure Time",
+    "vote_average": 8.5,
+    "vote_count": 2909
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      9648
+    ],
+    "id": 66732,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stranger Things",
+    "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "popularity": 168.3139,
+    "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "first_air_date": "2016-07-15",
+    "name": "Stranger Things",
+    "vote_average": 8.596,
+    "vote_count": 18533
   }
 ]
