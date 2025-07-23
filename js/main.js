@@ -989,21 +989,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function initializeApp() {
-    console.log('Initializing app...');
-    
-    // Set up navigation state
-    setupNavigationState();
-    sectionTitle.textContent = 'New Movies';
-    showListView();
-    
-    // Auto-click "New Movie" after a short delay
-    setTimeout(() => {
-        const newMovieButton = movieGenreList.querySelector('[data-genre-key="upcoming"]');
-        if (newMovieButton) {
-            newMovieButton.click();
+        console.log('Initializing app...');
+        try {
+            await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
+            showListView();
+            console.log('App initialized successfully');
+        } catch (error) {
+            console.error('Failed to initialize app:', error);
+            movieGrid.innerHTML = `<p class="placeholder-message">Failed to load initial content: ${error.message}</p>`;
         }
-    }, 300);
-}
+    }
 
     initializeApp();
 });
