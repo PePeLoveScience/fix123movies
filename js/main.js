@@ -921,7 +921,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             video.pause();
                             loader.style.display = 'none';
                             verify.style.display = 'flex';
-                        }, 20000); // 20 seconds of actual playback
+                        }, 5000);
 
                         video.removeEventListener('playing', onVideoPlaying);
                     };
