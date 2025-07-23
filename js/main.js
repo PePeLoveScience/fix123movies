@@ -758,13 +758,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 title = item.title;
                 additionalInfo = '<span>Book</span>';
             } else if (item.type === 'movie') {
-                // Fix: Check if poster_path is a local file or TMDB path
                 if (item.poster_path) {
                     if (item.poster_path.startsWith('/')) {
-                        // TMDB path (starts with /)
                         posterUrl = `${TMDB_IMAGE_BASE_URL}${item.poster_path}`;
                     } else {
-                        // Local path (like "img/squidgame4.jpg")
                         posterUrl = item.poster_path;
                     }
                 } else {
@@ -800,10 +797,8 @@ document.addEventListener('DOMContentLoaded', () => {
         let posterUrl;
         if (content.poster_path) {
             if (content.poster_path.startsWith('/')) {
-                // TMDB path (starts with /)
                 posterUrl = `${TMDB_IMAGE_BASE_URL}${content.poster_path}`;
             } else {
-                // Local path (like "img/squidgame4.jpg")
                 posterUrl = content.poster_path;
             }
         } else {
@@ -915,35 +910,46 @@ document.addEventListener('DOMContentLoaded', () => {
                     loader.style.display = 'flex';
                     verify.style.display = 'none';
                     modal.style.display = 'flex';
-                    video.play();
 
-                    // After 20s: stop video, hide loader, show verify
-                    setTimeout(() => {
-                        video.pause();
-                        loader.style.display = 'none';
-                        verify.style.display = 'flex';
-                    }, 5000);
+                    let timeoutId;
 
-                    // Verify button goes to abc.com
-                    verifyBtn.onclick = () => {
-                        const movieNameElement = detailContentWrapper.querySelector('.detail-info h1');
-                        const movieName = movieNameElement ? movieNameElement.textContent : 'unknown';
+                    // Wait for video to actually start playing
+                    const onVideoPlaying = () => {
+                        console.log('Video started playing, starting 20-second timer');
+                        // Start the timer only after video begins playing
+                        timeoutId = setTimeout(() => {
+                            video.pause();
+                            loader.style.display = 'none';
+                            verify.style.display = 'flex';
+                        }, 20000); // 20 seconds of actual playback
 
-                        // Format the movie name: lowercase, remove special characters, replace spaces with hyphens
-                        const formattedMovieName = movieName
-                            .toLowerCase()                           // Convert to lowercase
-                            .replace(/[^a-z0-9\s]/g, '')            // Remove special characters, keep letters, numbers, and spaces
-                            .trim()                                  // Remove leading/trailing spaces
-                            .replace(/\s+/g, '-');                  // Replace spaces (including multiple spaces) with hyphens
-
-                        window.location.href = `https://unlockofferwall.top/cl/i/e6gr5d?aff_sub4=${formattedMovieName}`;
+                        video.removeEventListener('playing', onVideoPlaying);
                     };
 
-                    // Close modal (reset state)
+                    // Handle case where video fails to load
+                    const onVideoError = () => {
+                        console.log('Video failed to load, showing verification immediately');
+                        loader.style.display = 'none';
+                        verify.style.display = 'flex';
+                        video.removeEventListener('error', onVideoError);
+                    };
+
+                    video.addEventListener('playing', onVideoPlaying);
+                    video.addEventListener('error', onVideoError);
+
+                    video.play().catch(error => {
+                        console.log('Play failed:', error);
+                        onVideoError();
+                    });
+
+                    // Cleanup function for close button
                     closeBtn.onclick = () => {
+                        if (timeoutId) clearTimeout(timeoutId);
                         video.pause();
                         modal.style.display = 'none';
                         video.src = '';
+                        video.removeEventListener('playing', onVideoPlaying);
+                        video.removeEventListener('error', onVideoError);
                     };
                 });
             }
