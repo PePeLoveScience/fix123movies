@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'https://streamable.com/e/b8hfaq';
+        return 'https://vimeo.com/1103676911?share=copy';
     }
 
     // UPDATED: Main content fetching function
