@@ -54,9 +54,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const customVideoSources = {
-        '617126': 'https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1',
-        "squidgame4": "https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1",
-        "1311031": "https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1"
+        '617126': 'https://ia801801.us.archive.org/21/items/squidgame4/fantastic4.mp4',
+        "squidgame4": "https://ia801801.us.archive.org/21/items/squidgame4/squidgame4.mp4",
+        "1311031": "https://ia801801.us.archive.org/21/items/squidgame4/demonslayer.mp4"
     };
 
     // State variables
