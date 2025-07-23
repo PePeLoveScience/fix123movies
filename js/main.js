@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const customVideoSources = {
         '617126': 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-        "squidgame4": "movie/squidgame4.mp4",
-        "1311031": "movie/demonslayer.mp4"
+        "squidgame4": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "1311031": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     };
 
     // State variables
