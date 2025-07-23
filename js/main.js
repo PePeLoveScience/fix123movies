@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'https://vimeo.com/1103676911?share=copy';
+        return 'https://archive.org/embed/default_20250723';
     }
 
     // UPDATED: Main content fetching function
