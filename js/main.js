@@ -54,9 +54,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const customVideoSources = {
-        '617126': 'https://streamable.com/e/tep23r',
-        "squidgame4": "https://streamable.com/e/h0fy03",
-        "1311031": "https://streamable.com/e/h0h19g"
+        '617126': 'https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1',
+        "squidgame4": "https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1",
+        "1311031": "https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1"
     };
 
     // State variables
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (customVideoSources[content.id]) {
             return customVideoSources[content.id];
         }
-        return 'https://www.youtube.com/embed/Uj7EUhWKx40?autoplay=1&mute=1';
+        return 'https://dn721909.ca.archive.org/0/items/default_20250723/default.ia.mp4';
     }
 
     // UPDATED: Main content fetching function
