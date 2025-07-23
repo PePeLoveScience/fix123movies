@@ -989,11 +989,9 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function initializeApp() {
-        console.log('Initializing app...');
         try {
             await fetchAndDisplayContent('movie', 'upcoming', movieGrid, true);
             showListView();
-            console.log('App initialized successfully');
         } catch (error) {
             console.error('Failed to initialize app:', error);
             movieGrid.innerHTML = `<p class="placeholder-message">Failed to load initial content: ${error.message}</p>`;
