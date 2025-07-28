@@ -1,7 +1,7 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/etT14XfDEqhQZdD47ywpyihXPyW.jpg",
+    "backdrop_path": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
     "genre_ids": [
       14,
       10751,
@@ -11,17 +11,17 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon",
     "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
-    "popularity": 1206.4161,
+    "popularity": 793.171,
     "poster_path": "/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg",
     "release_date": "2025-06-06",
     "title": "How to Train Your Dragon",
     "video": false,
-    "vote_average": 8.132,
-    "vote_count": 1090
+    "vote_average": 8.082,
+    "vote_count": 1281
   },
   {
     "adult": false,
-    "backdrop_path": "/63RnEJRNzRDvi0Fv4jhrT2eh0fl.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
     "genre_ids": [
       16,
       28,
@@ -32,13 +32,34 @@
     "original_language": "ja",
     "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
     "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
-    "popularity": 467.9188,
+    "popularity": 675.0133,
     "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
     "release_date": "2025-07-18",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "video": false,
-    "vote_average": 6.885,
-    "vote_count": 13
+    "vote_average": 6.7,
+    "vote_count": 34
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+    "genre_ids": [
+      27,
+      28,
+      14,
+      12
+    ],
+    "id": 1058537,
+    "original_language": "en",
+    "original_title": "Angels Fallen: Warriors of Peace",
+    "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
+    "popularity": 281.3527,
+    "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+    "release_date": "2024-07-09",
+    "title": "Angels Fallen: Warriors of Peace",
+    "video": false,
+    "vote_average": 5.779,
+    "vote_count": 34
   },
   {
     "adult": false,
@@ -55,13 +76,13 @@
     "original_language": "en",
     "original_title": "KPop Demon Hunters",
     "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
-    "popularity": 214.8998,
-    "poster_path": "/jfS5KEfiwsS35ieZvdUdJKkwLlZ.jpg",
+    "popularity": 218.7749,
+    "poster_path": "/22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
     "release_date": "2025-06-20",
     "title": "KPop Demon Hunters",
     "video": false,
-    "vote_average": 8.537,
-    "vote_count": 737
+    "vote_average": 8.487,
+    "vote_count": 829
   },
   {
     "adult": false,
@@ -74,13 +95,35 @@
     "original_language": "en",
     "original_title": "The Old Guard 2",
     "overview": "Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
-    "popularity": 204.1518,
+    "popularity": 166.9309,
     "poster_path": "/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
     "release_date": "2025-07-01",
     "title": "The Old Guard 2",
     "video": false,
-    "vote_average": 6.064,
-    "vote_count": 528
+    "vote_average": 6.039,
+    "vote_count": 567
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wcFV4uOdSbC0cSjs7ecAyOU6t59.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      14,
+      35
+    ],
+    "id": 947478,
+    "original_language": "en",
+    "original_title": "Diplodocus",
+    "overview": "When the world around him is mysteriously erased, a little green dinosaur named Diplodocus must travel through the pages of a comic book and adventure through time to bring color back to his land. Alongside a wizard and two scientists, Diplo’s plans go awry as he learns that there may be a dimension to his world that he never considered.",
+    "popularity": 130.9182,
+    "poster_path": "/9mnMMiwv20EL5weJrLZCaF8cM2u.jpg",
+    "release_date": "2024-10-04",
+    "title": "The Green Dinosaur",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 9
   },
   {
     "adult": false,
@@ -94,34 +137,35 @@
     "original_language": "zh",
     "original_title": "哪吒之魔童降世",
     "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
-    "popularity": 106.2337,
+    "popularity": 99.739,
     "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
     "release_date": "2019-07-26",
     "title": "Ne Zha",
     "video": false,
-    "vote_average": 7.945,
-    "vote_count": 568
+    "vote_average": 7.956,
+    "vote_count": 571
   },
   {
     "adult": false,
     "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "genre_ids": [
-      10751,
+      14,
       35,
+      10751,
       12,
-      14
+      28
     ],
     "id": 950387,
     "original_language": "en",
     "original_title": "A Minecraft Movie",
     "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-    "popularity": 90.3454,
+    "popularity": 85.3503,
     "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
     "release_date": "2025-03-31",
     "title": "A Minecraft Movie",
     "video": false,
-    "vote_average": 6.447,
-    "vote_count": 2098
+    "vote_average": 6.445,
+    "vote_count": 2124
   },
   {
     "adult": false,
@@ -135,33 +179,13 @@
     "original_language": "en",
     "original_title": "Intimacy",
     "overview": "Failed musician Jay abandoned his family and now earns a living as head bartender in a trendy London pub. Every Wednesday afternoon, a woman comes to his house for graphic, almost wordless, sex. One day, Jay follows her and learns about her. This eventually disrupts their relationship.",
-    "popularity": 62.477,
+    "popularity": 80.7056,
     "poster_path": "/I0mlv1FahaLJqu2ByffMXEn4NN.jpg",
     "release_date": "2001-01-20",
     "title": "Intimacy",
     "video": false,
-    "vote_average": 6.2,
-    "vote_count": 524
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14
-    ],
-    "id": 936108,
-    "original_language": "en",
-    "original_title": "Smurfs",
-    "overview": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
-    "popularity": 58.8008,
-    "poster_path": "/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
-    "release_date": "2025-07-05",
-    "title": "Smurfs",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 28
+    "vote_average": 6.24,
+    "vote_count": 526
   },
   {
     "adult": false,
@@ -174,13 +198,13 @@
     "original_language": "en",
     "original_title": "Snow White",
     "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
-    "popularity": 47.8334,
+    "popularity": 40.9499,
     "poster_path": "/xWWg47tTfparvjK0WJNX4xL8lW2.jpg",
     "release_date": "2025-03-12",
     "title": "Snow White",
     "video": false,
-    "vote_average": 4.287,
-    "vote_count": 1290
+    "vote_average": 4.295,
+    "vote_count": 1297
   },
   {
     "adult": false,
@@ -195,13 +219,72 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon",
     "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
-    "popularity": 46.8547,
+    "popularity": 38.8494,
     "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
     "release_date": "2010-03-18",
     "title": "How to Train Your Dragon",
     "video": false,
-    "vote_average": 7.85,
-    "vote_count": 13619
+    "vote_average": 7.849,
+    "vote_count": 13644
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 936108,
+    "original_language": "en",
+    "original_title": "Smurfs",
+    "overview": "When Papa Smurf is mysteriously taken by evil wizards, Razamel and Gargamel, Smurfette leads the Smurfs on a mission into the real world to save him. With the help of new friends, the Smurfs must discover what defines their destiny to save the universe.",
+    "popularity": 37.9612,
+    "poster_path": "/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
+    "release_date": "2025-07-05",
+    "title": "Smurfs",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 37
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 671,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "popularity": 38.6512,
+    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "release_date": "2001-11-16",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "video": false,
+    "vote_average": 7.902,
+    "vote_count": 28421
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "id": 9738,
+    "original_language": "en",
+    "original_title": "Fantastic Four",
+    "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+    "popularity": 46.8947,
+    "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+    "release_date": "2005-06-29",
+    "title": "Fantastic Four",
+    "video": false,
+    "vote_average": 5.793,
+    "vote_count": 9561
   },
   {
     "adult": false,
@@ -218,53 +301,74 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon 2",
     "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
-    "popularity": 43.4443,
+    "popularity": 36.67,
     "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "release_date": "2014-06-05",
     "title": "How to Train Your Dragon 2",
     "video": false,
-    "vote_average": 7.676,
-    "vote_count": 9949
+    "vote_average": 7.675,
+    "vote_count": 9958
   },
   {
     "adult": false,
-    "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
     "genre_ids": [
-      27,
+      16,
+      14,
+      12,
+      28
+    ],
+    "id": 980477,
+    "original_language": "zh",
+    "original_title": "哪吒之魔童闹海",
+    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
+    "popularity": 35.227,
+    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
+    "release_date": "2025-01-29",
+    "title": "Ne Zha 2",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 186
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 297762,
+    "original_language": "en",
+    "original_title": "Wonder Woman",
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "popularity": 34.3777,
+    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "release_date": "2017-05-30",
+    "title": "Wonder Woman",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 20344
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "genre_ids": [
       28,
       14,
       12
     ],
-    "id": 1058537,
+    "id": 324544,
     "original_language": "en",
-    "original_title": "Angels Fallen: Warriors of Peace",
-    "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
-    "popularity": 42.3506,
-    "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
-    "release_date": "2024-07-09",
-    "title": "Angels Fallen: Warriors of Peace",
+    "original_title": "In the Lost Lands",
+    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+    "popularity": 35.4685,
+    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+    "release_date": "2025-02-27",
+    "title": "In the Lost Lands",
     "video": false,
-    "vote_average": 4.8,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/17OB3LPZUbe80l893OCT9EXibCO.jpg",
-    "genre_ids": [
-      28,
-      14
-    ],
-    "id": 1072890,
-    "original_language": "zh",
-    "original_title": "异人之下",
-    "overview": "Zhang Chulan, who has been hiding his identity as an Inhuman, is caught up in the vortex of fighting between different Inhuman sects since he meets Feng Baobao, who has a mysterious background. As the secret that Zhang Chulan is the heir to the mysterious technique \"Air Body Source Stream\" is made public, the Inhuman world has started a fierce battle around him, with forces such as Nadutong, Quanxie Sect, Tianyi Sect, and so on appearing one by one and the battle is about to break out, but at this time, Zhang Chulan accidentally unveils the secret of the year....",
-    "popularity": 37.5493,
-    "poster_path": "/iBBXdLCqxRrqTAXe0iIzhSAHc1Q.jpg",
-    "release_date": "2024-07-26",
-    "title": "The Traveller",
-    "video": false,
-    "vote_average": 6.167,
-    "vote_count": 12
+    "vote_average": 6.49,
+    "vote_count": 561
   },
   {
     "adult": false,
@@ -281,74 +385,72 @@
     "original_language": "en",
     "original_title": "Kung Fu Panda 4",
     "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
-    "popularity": 36.4739,
+    "popularity": 29.4591,
     "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
     "release_date": "2024-03-02",
     "title": "Kung Fu Panda 4",
     "video": false,
-    "vote_average": 7.056,
-    "vote_count": 3146
+    "vote_average": 7.058,
+    "vote_count": 3151
   },
   {
     "adult": false,
-    "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
     "genre_ids": [
       12,
-      14
-    ],
-    "id": 671,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Philosopher's Stone",
-    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
-    "popularity": 36.432,
-    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
-    "release_date": "2001-11-16",
-    "title": "Harry Potter and the Philosopher's Stone",
-    "video": false,
-    "vote_average": 7.902,
-    "vote_count": 28406
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
-    "genre_ids": [
-      28,
       14,
-      12
+      28
     ],
-    "id": 324544,
+    "id": 120,
     "original_language": "en",
-    "original_title": "In the Lost Lands",
-    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-    "popularity": 36.1321,
-    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-    "release_date": "2025-02-27",
-    "title": "In the Lost Lands",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "popularity": 31.2789,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "release_date": "2001-12-18",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
     "video": false,
-    "vote_average": 6.477,
-    "vote_count": 550
+    "vote_average": 8.4,
+    "vote_count": 26188
   },
   {
     "adult": false,
-    "backdrop_path": "/wcFV4uOdSbC0cSjs7ecAyOU6t59.jpg",
+    "backdrop_path": "/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
     "genre_ids": [
-      16,
-      10751,
-      12,
+      27,
       14,
       35
     ],
-    "id": 947478,
+    "id": 1153714,
     "original_language": "en",
-    "original_title": "Diplodocus",
-    "overview": "When the world around him is mysteriously erased, a little green dinosaur named Diplodocus must travel through the pages of a comic book and adventure through time to bring color back to his land. Alongside a wizard and two scientists, Diplo’s plans go awry as he learns that there may be a dimension to his world that he never considered.",
-    "popularity": 35.6938,
-    "poster_path": "/9mnMMiwv20EL5weJrLZCaF8cM2u.jpg",
-    "release_date": "2024-10-04",
-    "title": "The Green Dinosaur",
+    "original_title": "Death of a Unicorn",
+    "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
+    "popularity": 31.5856,
+    "poster_path": "/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
+    "release_date": "2025-03-27",
+    "title": "Death of a Unicorn",
     "video": false,
-    "vote_average": 8,
-    "vote_count": 8
+    "vote_average": 6.462,
+    "vote_count": 377
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/17OB3LPZUbe80l893OCT9EXibCO.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 1072890,
+    "original_language": "zh",
+    "original_title": "异人之下",
+    "overview": "Zhang Chulan, who has been hiding his identity as an Inhuman, is caught up in the vortex of fighting between different Inhuman sects since he meets Feng Baobao, who has a mysterious background. As the secret that Zhang Chulan is the heir to the mysterious technique \"Air Body Source Stream\" is made public, the Inhuman world has started a fierce battle around him, with forces such as Nadutong, Quanxie Sect, Tianyi Sect, and so on appearing one by one and the battle is about to break out, but at this time, Zhang Chulan accidentally unveils the secret of the year....",
+    "popularity": 25.8862,
+    "poster_path": "/iBBXdLCqxRrqTAXe0iIzhSAHc1Q.jpg",
+    "release_date": "2024-07-26",
+    "title": "The Traveller",
+    "video": false,
+    "vote_average": 6.167,
+    "vote_count": 12
   },
   {
     "adult": false,
@@ -363,196 +465,13 @@
     "original_language": "ja",
     "original_title": "劇場版「鬼滅の刃」無限列車編",
     "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
-    "popularity": 31.9345,
+    "popularity": 25.7657,
     "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
     "release_date": "2020-10-16",
     "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
     "video": false,
     "vote_average": 8.206,
-    "vote_count": 4131
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "id": 297762,
-    "original_language": "en",
-    "original_title": "Wonder Woman",
-    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "popularity": 30.3438,
-    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
-    "release_date": "2017-05-30",
-    "title": "Wonder Woman",
-    "video": false,
-    "vote_average": 7.215,
-    "vote_count": 20335
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9ayjPfWtDyooj4ErcgZcoC22dVJ.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14
-    ],
-    "id": 1449951,
-    "original_language": "en",
-    "original_title": "Snow White",
-    "overview": "When the Queen’s jealousy turns deadly, Snow White must join forces with gnomes to fight back against her stepmother’s wrath.",
-    "popularity": 30.225,
-    "poster_path": "/ilFLHU1OxUS1YDvUMCr8K3hW28r.jpg",
-    "release_date": "2025-03-07",
-    "title": "Snow White",
-    "video": false,
-    "vote_average": 7.176,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12,
-      28
-    ],
-    "id": 980477,
-    "original_language": "zh",
-    "original_title": "哪吒之魔童闹海",
-    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
-    "popularity": 31.6149,
-    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
-    "release_date": "2025-01-29",
-    "title": "Ne Zha 2",
-    "video": false,
-    "vote_average": 8.1,
-    "vote_count": 186
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dHjAdJcst9DKZZG1vXe6Y8HlCI5.jpg",
-    "genre_ids": [
-      16,
-      14,
-      28
-    ],
-    "id": 1144107,
-    "original_language": "zh",
-    "original_title": "罗小黑战记 2",
-    "overview": "Xiaohei had lived a peaceful life with Master Wuxian in a village and had gradually adapted to life in the human world. Two years later, the Spirit Hall was suddenly attacked and Wuxian and Xiaohei received a request to go to the guild hall. Can Xiaohei overcome this sudden trial? In the face of unexpected enemies, what choice will Xiaohei make...",
-    "popularity": 28.9273,
-    "poster_path": "/5KDVDjqDUxVyXryfBOgMBjND8u7.jpg",
-    "release_date": "2025-07-18",
-    "title": "The Legend of Hei 2",
-    "video": false,
-    "vote_average": 8.6,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
-    "genre_ids": [
-      27,
-      35,
-      14,
-      18
-    ],
-    "id": 1284120,
-    "original_language": "no",
-    "original_title": "Den stygge stesøsteren",
-    "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
-    "popularity": 23.3286,
-    "poster_path": "/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
-    "release_date": "2025-03-07",
-    "title": "The Ugly Stepsister",
-    "video": false,
-    "vote_average": 7.2,
-    "vote_count": 269
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
-    "genre_ids": [
-      16,
-      12,
-      14,
-      10751
-    ],
-    "id": 823219,
-    "original_language": "lv",
-    "original_title": "Straume",
-    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-    "popularity": 27.4637,
-    "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
-    "release_date": "2024-08-29",
-    "title": "Flow",
-    "video": false,
-    "vote_average": 8.17,
-    "vote_count": 2136
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
-    "genre_ids": [
-      27,
-      14,
-      35
-    ],
-    "id": 1153714,
-    "original_language": "en",
-    "original_title": "Death of a Unicorn",
-    "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature’s miraculous curative properties.",
-    "popularity": 25.4621,
-    "poster_path": "/xWlF2i51zUq7BUq4iJte1g9NyIM.jpg",
-    "release_date": "2025-03-27",
-    "title": "Death of a Unicorn",
-    "video": false,
-    "vote_average": 6.467,
-    "vote_count": 359
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
-    "genre_ids": [
-      12,
-      14,
-      28
-    ],
-    "id": 120,
-    "original_language": "en",
-    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
-    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-    "popularity": 26.3486,
-    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-    "release_date": "2001-12-18",
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "video": false,
-    "vote_average": 8.4,
-    "vote_count": 26168
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
-    "genre_ids": [
-      10751,
-      14,
-      12
-    ],
-    "id": 896536,
-    "original_language": "en",
-    "original_title": "The Legend of Ochi",
-    "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
-    "popularity": 25.4793,
-    "poster_path": "/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
-    "release_date": "2025-04-18",
-    "title": "The Legend of Ochi",
-    "video": false,
-    "vote_average": 6.329,
-    "vote_count": 149
+    "vote_count": 4139
   },
   {
     "adult": false,
@@ -566,53 +485,33 @@
     "original_language": "en",
     "original_title": "Batman v Superman: Dawn of Justice",
     "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
-    "popularity": 24.5166,
+    "popularity": 28.6341,
     "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
     "release_date": "2016-03-23",
     "title": "Batman v Superman: Dawn of Justice",
     "video": false,
     "vote_average": 6,
-    "vote_count": 18383
+    "vote_count": 18398
   },
   {
     "adult": false,
-    "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+    "backdrop_path": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
     "genre_ids": [
-      12,
-      10751,
+      18,
+      27,
       14
     ],
-    "id": 411,
+    "id": 426063,
     "original_language": "en",
-    "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
-    "popularity": 24.8183,
-    "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
-    "release_date": "2005-12-07",
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "original_title": "Nosferatu",
+    "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "popularity": 27.8629,
+    "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+    "release_date": "2024-12-25",
+    "title": "Nosferatu",
     "video": false,
-    "vote_average": 7.134,
-    "vote_count": 10992
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/91BAmpop4AJ5Pf7E0zuQiHdSV4Q.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14
-    ],
-    "id": 14836,
-    "original_language": "en",
-    "original_title": "Coraline",
-    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
-    "popularity": 23.3317,
-    "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
-    "release_date": "2009-02-05",
-    "title": "Coraline",
-    "video": false,
-    "vote_average": 7.897,
-    "vote_count": 8466
+    "vote_average": 6.704,
+    "vote_count": 2869
   },
   {
     "adult": false,
@@ -626,192 +525,13 @@
     "original_language": "en",
     "original_title": "Wicked",
     "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
-    "popularity": 23.1461,
+    "popularity": 26.9295,
     "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
     "release_date": "2024-11-20",
     "title": "Wicked",
     "video": false,
-    "vote_average": 6.935,
-    "vote_count": 2274
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yHzyPJrVqlTySQ9mc379yxrLBYQ.jpg",
-    "genre_ids": [
-      12,
-      14
-    ],
-    "id": 672,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Chamber of Secrets",
-    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
-    "popularity": 23.1459,
-    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
-    "release_date": "2002-11-13",
-    "title": "Harry Potter and the Chamber of Secrets",
-    "video": false,
-    "vote_average": 7.707,
-    "vote_count": 22669
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
-    "genre_ids": [
-      14,
-      18,
-      10749
-    ],
-    "id": 8966,
-    "original_language": "en",
-    "original_title": "Twilight",
-    "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
-    "popularity": 22.5611,
-    "poster_path": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
-    "release_date": "2008-11-20",
-    "title": "Twilight",
-    "video": false,
-    "vote_average": 6.3,
-    "vote_count": 13868
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "id": 791373,
-    "original_language": "en",
-    "original_title": "Zack Snyder's Justice League",
-    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
-    "popularity": 21.586,
-    "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
-    "release_date": "2021-03-18",
-    "title": "Zack Snyder's Justice League",
-    "video": false,
-    "vote_average": 8.116,
-    "vote_count": 10298
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aESb695wTIF0tB7RTGRebnYrjFK.jpg",
-    "genre_ids": [
-      12,
-      14,
-      9648
-    ],
-    "id": 1098006,
-    "original_language": "en",
-    "original_title": "Fountain of Youth",
-    "overview": "A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.",
-    "popularity": 22.1067,
-    "poster_path": "/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
-    "release_date": "2025-05-19",
-    "title": "Fountain of Youth",
-    "video": false,
-    "vote_average": 6.4,
-    "vote_count": 592
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14,
-      16
-    ],
-    "id": 1357633,
-    "original_language": "ja",
-    "original_title": "俺だけレベルアップな件 -ReAwakening-",
-    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
-    "popularity": 21.1689,
-    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
-    "release_date": "2024-11-26",
-    "title": "Solo Leveling -ReAwakening-",
-    "video": false,
-    "vote_average": 7,
-    "vote_count": 229
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
-    "genre_ids": [
-      12,
-      14,
-      28
-    ],
-    "id": 22,
-    "original_language": "en",
-    "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
-    "popularity": 21.6866,
-    "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
-    "release_date": "2003-07-09",
-    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-    "video": false,
-    "vote_average": 7.8,
-    "vote_count": 21267
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/y08GwxG5uDtHJkOf8w5dnygKyvz.jpg",
-    "genre_ids": [
-      28,
-      14,
-      12
-    ],
-    "id": 931285,
-    "original_language": "en",
-    "original_title": "Mortal Kombat II",
-    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-    "popularity": 19.9838,
-    "poster_path": "/lGamD2f6xEZJSoXlntAd5wvQnWZ.jpg",
-    "release_date": "2025-10-22",
-    "title": "Mortal Kombat II",
-    "video": false,
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
-    "genre_ids": [
-      28,
-      35,
-      14
-    ],
-    "id": 845781,
-    "original_language": "en",
-    "original_title": "Red One",
-    "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
-    "popularity": 21.3759,
-    "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
-    "release_date": "2024-10-31",
-    "title": "Red One",
-    "video": false,
-    "vote_average": 7,
-    "vote_count": 2580
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/d53MM15mO9EEiHzNlfvJK0otaaM.jpg",
-    "genre_ids": [
-      10751,
-      14
-    ],
-    "id": 1241894,
-    "original_language": "de",
-    "original_title": "Woodwalkers",
-    "overview": "Humans who can shapeshift into animals struggle to integrate with others without giving away their special abilities. As a group, they strive to inform and institute change in the world perspective of deforestation and the importance of natural habitats. However, when that can’t happen, they are forced to take matters into their own hands.",
-    "popularity": 19.2067,
-    "poster_path": "/bC1r04ohuxv5feaGDzQ0lXz7Bbl.jpg",
-    "release_date": "2024-10-17",
-    "title": "Woodwalkers",
-    "video": false,
-    "vote_average": 6.297,
-    "vote_count": 32
+    "vote_average": 6.9,
+    "vote_count": 2284
   },
   {
     "adult": false,
@@ -827,74 +547,233 @@
     "original_language": "en",
     "original_title": "Shrek",
     "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-    "popularity": 21.1585,
+    "popularity": 22.5275,
     "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
     "release_date": "2001-05-18",
     "title": "Shrek",
     "video": false,
     "vote_average": 7.753,
-    "vote_count": 17821
+    "vote_count": 17833
   },
   {
     "adult": false,
-    "backdrop_path": "/lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg",
+    "backdrop_path": "/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
     "genre_ids": [
       16,
-      14,
       12,
-      28,
+      14,
       10751
     ],
-    "id": 638507,
-    "original_language": "en",
-    "original_title": "How to Train Your Dragon: Homecoming",
-    "overview": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own...",
-    "popularity": 20.8169,
-    "poster_path": "/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
-    "release_date": "2019-12-03",
-    "title": "How to Train Your Dragon: Homecoming",
+    "id": 823219,
+    "original_language": "lv",
+    "original_title": "Straume",
+    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "popularity": 25.023,
+    "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+    "release_date": "2024-08-29",
+    "title": "Flow",
     "video": false,
-    "vote_average": 8.03,
-    "vote_count": 1045
+    "vote_average": 8.2,
+    "vote_count": 2151
   },
   {
     "adult": false,
-    "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "backdrop_path": "/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
     "genre_ids": [
+      878,
       12,
-      14,
-      28
+      14
     ],
-    "id": 122,
+    "id": 83533,
     "original_language": "en",
-    "original_title": "The Lord of the Rings: The Return of the King",
-    "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
-    "popularity": 20.1013,
-    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
-    "release_date": "2003-12-17",
-    "title": "The Lord of the Rings: The Return of the King",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "popularity": 23.9764,
+    "poster_path": "/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+    "release_date": "2025-12-17",
+    "title": "Avatar: Fire and Ash",
     "video": false,
-    "vote_average": 8.488,
-    "vote_count": 25267
+    "vote_average": 0,
+    "vote_count": 0
   },
   {
     "adult": false,
-    "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
     "genre_ids": [
       12,
       14
     ],
-    "id": 673,
+    "id": 674,
     "original_language": "en",
-    "original_title": "Harry Potter and the Prisoner of Azkaban",
-    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
-    "popularity": 19.8558,
-    "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
-    "release_date": "2004-05-31",
-    "title": "Harry Potter and the Prisoner of Azkaban",
+    "original_title": "Harry Potter and the Goblet of Fire",
+    "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+    "popularity": 23.0669,
+    "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+    "release_date": "2005-11-16",
+    "title": "Harry Potter and the Goblet of Fire",
     "video": false,
-    "vote_average": 8.012,
-    "vote_count": 22245
+    "vote_average": 7.8,
+    "vote_count": 21309
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+    "genre_ids": [
+      28,
+      35,
+      14
+    ],
+    "id": 845781,
+    "original_language": "en",
+    "original_title": "Red One",
+    "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+    "popularity": 25.0879,
+    "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+    "release_date": "2024-10-31",
+    "title": "Red One",
+    "video": false,
+    "vote_average": 7.031,
+    "vote_count": 2585
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+    "genre_ids": [
+      14,
+      18,
+      80
+    ],
+    "id": 497,
+    "original_language": "en",
+    "original_title": "The Green Mile",
+    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+    "popularity": 24.1063,
+    "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+    "release_date": "1999-12-10",
+    "title": "The Green Mile",
+    "video": false,
+    "vote_average": 8.504,
+    "vote_count": 18231
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14
+    ],
+    "id": 411,
+    "original_language": "en",
+    "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+    "popularity": 24.6492,
+    "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+    "release_date": "2005-12-07",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "video": false,
+    "vote_average": 7.134,
+    "vote_count": 10995
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dHjAdJcst9DKZZG1vXe6Y8HlCI5.jpg",
+    "genre_ids": [
+      16,
+      14,
+      28
+    ],
+    "id": 1144107,
+    "original_language": "zh",
+    "original_title": "罗小黑战记 2",
+    "overview": "Xiaohei had lived a peaceful life with Master Wuxian in a village and had gradually adapted to life in the human world. Two years later, the Spirit Hall was suddenly attacked and Wuxian and Xiaohei received a request to go to the guild hall. Can Xiaohei overcome this sudden trial? In the face of unexpected enemies, what choice will Xiaohei make...",
+    "popularity": 19.9204,
+    "poster_path": "/mG100a5DAdQYly72YwPjstrKiet.jpg",
+    "release_date": "2025-07-18",
+    "title": "The Legend of Hei 2",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xACx8htL9Ubz1qGe0gU2ggHonxV.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 672,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Chamber of Secrets",
+    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
+    "popularity": 24.517,
+    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+    "release_date": "2002-11-13",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "video": false,
+    "vote_average": 7.707,
+    "vote_count": 22680
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 791373,
+    "original_language": "en",
+    "original_title": "Zack Snyder's Justice League",
+    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "popularity": 24.3683,
+    "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "release_date": "2021-03-18",
+    "title": "Zack Snyder's Justice League",
+    "video": false,
+    "vote_average": 8.115,
+    "vote_count": 10320
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9ayjPfWtDyooj4ErcgZcoC22dVJ.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 1449951,
+    "original_language": "en",
+    "original_title": "Snow White",
+    "overview": "When the Queen’s jealousy turns deadly, Snow White must join forces with gnomes to fight back against her stepmother’s wrath.",
+    "popularity": 24.4016,
+    "poster_path": "/ilFLHU1OxUS1YDvUMCr8K3hW28r.jpg",
+    "release_date": "2025-03-07",
+    "title": "Snow White",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14,
+      18
+    ],
+    "id": 1284120,
+    "original_language": "no",
+    "original_title": "Den stygge stesøsteren",
+    "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
+    "popularity": 27.0705,
+    "poster_path": "/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
+    "release_date": "2025-03-07",
+    "title": "The Ugly Stepsister",
+    "video": false,
+    "vote_average": 7.241,
+    "vote_count": 278
   },
   {
     "adult": false,
@@ -909,32 +788,113 @@
     "original_language": "en",
     "original_title": "Avatar",
     "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-    "popularity": 19.4085,
+    "popularity": 23.5433,
     "poster_path": "/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
     "release_date": "2009-12-15",
     "title": "Avatar",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 32409
+    "vote_average": 7.591,
+    "vote_count": 32424
   },
   {
     "adult": false,
-    "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+    "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
     "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 122,
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+    "popularity": 23.4026,
+    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "release_date": "2003-12-17",
+    "title": "The Lord of the Rings: The Return of the King",
+    "video": false,
+    "vote_average": 8.488,
+    "vote_count": 25282
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 14836,
+    "original_language": "en",
+    "original_title": "Coraline",
+    "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+    "popularity": 21.5662,
+    "poster_path": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+    "release_date": "2009-02-05",
+    "title": "Coraline",
+    "video": false,
+    "vote_average": 7.897,
+    "vote_count": 8472
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jfEOzpsjc6JDlKhUHb4toWQPt.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 121,
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Two Towers",
+    "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "popularity": 21.3673,
+    "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+    "release_date": "2002-12-18",
+    "title": "The Lord of the Rings: The Two Towers",
+    "video": false,
+    "vote_average": 8.408,
+    "vote_count": 22757
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/XSTGtPVegdHD1xy5GPuK0tURTQ.jpg",
+    "genre_ids": [
+      28,
       12,
       14
     ],
-    "id": 674,
+    "id": 464052,
     "original_language": "en",
-    "original_title": "Harry Potter and the Goblet of Fire",
-    "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
-    "popularity": 19.2972,
-    "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
-    "release_date": "2005-11-16",
-    "title": "Harry Potter and the Goblet of Fire",
+    "original_title": "Wonder Woman 1984",
+    "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+    "popularity": 21.2576,
+    "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    "release_date": "2020-12-16",
+    "title": "Wonder Woman 1984",
     "video": false,
-    "vote_average": 7.8,
-    "vote_count": 21299
+    "vote_average": 6.405,
+    "vote_count": 8693
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      12
+    ],
+    "id": 896536,
+    "original_language": "en",
+    "original_title": "The Legend of Ochi",
+    "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+    "popularity": 21.0723,
+    "poster_path": "/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
+    "release_date": "2025-04-18",
+    "title": "The Legend of Ochi",
+    "video": false,
+    "vote_average": 6.373,
+    "vote_count": 153
   },
   {
     "adult": false,
@@ -950,34 +910,13 @@
     "original_language": "en",
     "original_title": "The Super Mario Bros. Movie",
     "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
-    "popularity": 19.2586,
+    "popularity": 20.5795,
     "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
     "release_date": "2023-04-05",
     "title": "The Super Mario Bros. Movie",
     "video": false,
-    "vote_average": 7.617,
-    "vote_count": 9830
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      12,
-      14
-    ],
-    "id": 109445,
-    "original_language": "en",
-    "original_title": "Frozen",
-    "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
-    "popularity": 18.8759,
-    "poster_path": "/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
-    "release_date": "2013-11-20",
-    "title": "Frozen",
-    "video": false,
-    "vote_average": 7.247,
-    "vote_count": 16957
+    "vote_average": 7.616,
+    "vote_count": 9843
   },
   {
     "adult": false,
@@ -990,93 +929,93 @@
     "original_language": "en",
     "original_title": "Harry Potter and the Order of the Phoenix",
     "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
-    "popularity": 18.5579,
+    "popularity": 20.4926,
     "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
     "release_date": "2007-07-08",
     "title": "Harry Potter and the Order of the Phoenix",
     "video": false,
     "vote_average": 7.675,
-    "vote_count": 20011
+    "vote_count": 20019
   },
   {
     "adult": false,
-    "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
-    "genre_ids": [
-      28,
-      14
-    ],
-    "id": 547016,
-    "original_language": "en",
-    "original_title": "The Old Guard",
-    "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
-    "popularity": 18.4608,
-    "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
-    "release_date": "2020-07-09",
-    "title": "The Old Guard",
-    "video": false,
-    "vote_average": 7.138,
-    "vote_count": 4469
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
-    "genre_ids": [
-      28,
-      14,
-      12
-    ],
-    "id": 460465,
-    "original_language": "en",
-    "original_title": "Mortal Kombat",
-    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
-    "popularity": 18.4028,
-    "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
-    "release_date": "2021-04-07",
-    "title": "Mortal Kombat",
-    "video": false,
-    "vote_average": 7.016,
-    "vote_count": 6020
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      14
-    ],
-    "id": 2062,
-    "original_language": "en",
-    "original_title": "Ratatouille",
-    "overview": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
-    "popularity": 18.355,
-    "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-    "release_date": "2007-06-28",
-    "title": "Ratatouille",
-    "video": false,
-    "vote_average": 7.829,
-    "vote_count": 17641
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jfEOzpsjc6JDlKhUHb4toWQPt.jpg",
+    "backdrop_path": "/rrCc7dONpjAt8N8VO0dGpdIXCVU.jpg",
     "genre_ids": [
       12,
       14,
       28
     ],
-    "id": 121,
+    "id": 22,
     "original_language": "en",
-    "original_title": "The Lord of the Rings: The Two Towers",
-    "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
-    "popularity": 18.0877,
-    "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
-    "release_date": "2002-12-18",
-    "title": "The Lord of the Rings: The Two Towers",
+    "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
+    "popularity": 20.2945,
+    "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+    "release_date": "2003-07-09",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "video": false,
-    "vote_average": 8.408,
-    "vote_count": 22740
+    "vote_average": 7.811,
+    "vote_count": 21282
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14,
+      16
+    ],
+    "id": 1357633,
+    "original_language": "ja",
+    "original_title": "俺だけレベルアップな件 -ReAwakening-",
+    "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+    "popularity": 20.1235,
+    "poster_path": "/dblIFen0bNZAq8icJXHwrjfymDW.jpg",
+    "release_date": "2024-11-26",
+    "title": "Solo Leveling -ReAwakening-",
+    "video": false,
+    "vote_average": 6.998,
+    "vote_count": 230
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+    "genre_ids": [
+      14,
+      18,
+      10749
+    ],
+    "id": 8966,
+    "original_language": "en",
+    "original_title": "Twilight",
+    "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+    "popularity": 20.0711,
+    "poster_path": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+    "release_date": "2008-11-20",
+    "title": "Twilight",
+    "video": false,
+    "vote_average": 6.288,
+    "vote_count": 13874
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 673,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Prisoner of Azkaban",
+    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "popularity": 20.014,
+    "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "release_date": "2004-05-31",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "video": false,
+    "vote_average": 8.012,
+    "vote_count": 22258
   },
   {
     "adult": false,
@@ -1089,73 +1028,13 @@
     "original_language": "en",
     "original_title": "Harry Potter and the Deathly Hallows: Part 2",
     "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
-    "popularity": 18.0872,
+    "popularity": 18.8041,
     "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
     "release_date": "2011-07-12",
     "title": "Harry Potter and the Deathly Hallows: Part 2",
     "video": false,
-    "vote_average": 8.087,
-    "vote_count": 21142
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
-    "genre_ids": [
-      14,
-      18,
-      80
-    ],
-    "id": 497,
-    "original_language": "en",
-    "original_title": "The Green Mile",
-    "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
-    "popularity": 18.0537,
-    "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
-    "release_date": "1999-12-10",
-    "title": "The Green Mile",
-    "video": false,
-    "vote_average": 8.504,
-    "vote_count": 18217
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
-    "genre_ids": [
-      18,
-      27,
-      14
-    ],
-    "id": 426063,
-    "original_language": "en",
-    "original_title": "Nosferatu",
-    "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-    "popularity": 18.0139,
-    "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
-    "release_date": "2024-12-25",
-    "title": "Nosferatu",
-    "video": false,
-    "vote_average": 6.7,
-    "vote_count": 2832
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
-    "genre_ids": [
-      28,
-      14,
-      878
-    ],
-    "id": 9738,
-    "original_language": "en",
-    "original_title": "Fantastic Four",
-    "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
-    "popularity": 17.7403,
-    "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
-    "release_date": "2005-06-29",
-    "title": "Fantastic Four",
-    "video": false,
-    "vote_average": 5.791,
-    "vote_count": 9539
+    "vote_average": 8.086,
+    "vote_count": 21155
   },
   {
     "adult": false,
@@ -1169,7 +1048,7 @@
     "original_language": "en",
     "original_title": "Freakier Friday",
     "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
-    "popularity": 17.6233,
+    "popularity": 18.7096,
     "poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
     "release_date": "2025-08-06",
     "title": "Freakier Friday",
@@ -1179,23 +1058,125 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/zn13a7U9eMTJq8sHthe3bCgsVm4.jpg",
+    "backdrop_path": "/aESb695wTIF0tB7RTGRebnYrjFK.jpg",
     "genre_ids": [
-      28,
+      12,
+      14,
+      9648
+    ],
+    "id": 1098006,
+    "original_language": "en",
+    "original_title": "Fountain of Youth",
+    "overview": "A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.",
+    "popularity": 18.6084,
+    "poster_path": "/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
+    "release_date": "2025-05-19",
+    "title": "Fountain of Youth",
+    "video": false,
+    "vote_average": 6.385,
+    "vote_count": 607
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 129,
+    "original_language": "ja",
+    "original_title": "千と千尋の神隠し",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "popularity": 18.4949,
+    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "release_date": "2001-07-20",
+    "title": "Spirited Away",
+    "video": false,
+    "vote_average": 8.537,
+    "vote_count": 17306
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d53MM15mO9EEiHzNlfvJK0otaaM.jpg",
+    "genre_ids": [
+      10751,
+      14
+    ],
+    "id": 1241894,
+    "original_language": "de",
+    "original_title": "Woodwalkers",
+    "overview": "Humans who can shapeshift into animals struggle to integrate with others without giving away their special abilities. As a group, they strive to inform and institute change in the world perspective of deforestation and the importance of natural habitats. However, when that can’t happen, they are forced to take matters into their own hands.",
+    "popularity": 17.7427,
+    "poster_path": "/bC1r04ohuxv5feaGDzQ0lXz7Bbl.jpg",
+    "release_date": "2024-10-17",
+    "title": "Woodwalkers",
+    "video": false,
+    "vote_average": 6.309,
+    "vote_count": 34
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+    "genre_ids": [
       12,
       14
     ],
-    "id": 122917,
+    "id": 12444,
     "original_language": "en",
-    "original_title": "The Hobbit: The Battle of the Five Armies",
-    "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
-    "popularity": 17.3989,
-    "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
-    "release_date": "2014-12-10",
-    "title": "The Hobbit: The Battle of the Five Armies",
+    "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "popularity": 17.2578,
+    "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+    "release_date": "2010-11-17",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
     "video": false,
-    "vote_average": 7.325,
-    "vote_count": 14703
+    "vote_average": 7.742,
+    "vote_count": 19614
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      35,
+      10751
+    ],
+    "id": 315162,
+    "original_language": "en",
+    "original_title": "Puss in Boots: The Last Wish",
+    "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "popularity": 16.9238,
+    "poster_path": "/aV1KGO9X3S4kzqEptVDAvGjccql.jpg",
+    "release_date": "2022-12-07",
+    "title": "Puss in Boots: The Last Wish",
+    "video": false,
+    "vote_average": 8.216,
+    "vote_count": 8304
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lI2AHx0QQrNnEkUqUG01QHUdLDW.jpg",
+    "genre_ids": [
+      16,
+      14,
+      12,
+      28,
+      10751
+    ],
+    "id": 638507,
+    "original_language": "en",
+    "original_title": "How to Train Your Dragon: Homecoming",
+    "overview": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own...",
+    "popularity": 16.9018,
+    "poster_path": "/kXj2Qrfm994yLeuADqbOieU1mUH.jpg",
+    "release_date": "2019-12-03",
+    "title": "How to Train Your Dragon: Homecoming",
+    "video": false,
+    "vote_average": 8.028,
+    "vote_count": 1048
   },
   {
     "adult": false,
@@ -1208,12 +1189,32 @@
     "original_language": "en",
     "original_title": "Harry Potter and the Half-Blood Prince",
     "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
-    "popularity": 17.3316,
+    "popularity": 16.834,
     "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
     "release_date": "2009-07-15",
     "title": "Harry Potter and the Half-Blood Prince",
     "video": false,
     "vote_average": 7.684,
-    "vote_count": 19989
+    "vote_count": 19998
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 572802,
+    "original_language": "en",
+    "original_title": "Aquaman and the Lost Kingdom",
+    "overview": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
+    "popularity": 16.8161,
+    "poster_path": "/jcA2QFJ4wuFcG79P97wA7OBLQoL.jpg",
+    "release_date": "2023-12-20",
+    "title": "Aquaman and the Lost Kingdom",
+    "video": false,
+    "vote_average": 6.596,
+    "vote_count": 3147
   }
 ]

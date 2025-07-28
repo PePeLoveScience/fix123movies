@@ -15,12 +15,12 @@
     "original_language": "ja",
     "original_name": "ぬきたし THE ANIMATION",
     "overview": "On Seiran Island, secret society NLNS is united by Junnosuke Tachibana, who is determined to crush a law. They have found a benefactor, an unknown rich man, who offers them a secret base and cash. Their mission is to locate a mysterious girl and stop the law, keeping the SHO off their trail.",
-    "popularity": 1282.2128,
+    "popularity": 1185.9429,
     "poster_path": "/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg",
     "first_air_date": "2025-07-19",
     "name": "Nukitashi the Animation",
-    "vote_average": 4.9,
-    "vote_count": 4
+    "vote_average": 6.9,
+    "vote_count": 7
   },
   {
     "adult": false,
@@ -40,34 +40,12 @@
     "original_language": "ja",
     "original_name": "ドラえもん",
     "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    "popularity": 441.816,
+    "popularity": 440.3081,
     "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
     "first_air_date": "2005-04-22",
     "name": "Doraemon",
     "vote_average": 8.1,
-    "vote_count": 184
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      10759
-    ],
-    "id": 1399,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Game of Thrones",
-    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
-    "popularity": 282.0275,
-    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-    "first_air_date": "2011-04-17",
-    "name": "Game of Thrones",
-    "vote_average": 8.457,
-    "vote_count": 25274
+    "vote_count": 185
   },
   {
     "adult": false,
@@ -84,37 +62,34 @@
     "original_language": "en",
     "original_name": "Supernatural",
     "overview": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
-    "popularity": 280.2779,
+    "popularity": 252.725,
     "poster_path": "/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
     "first_air_date": "2005-09-13",
     "name": "Supernatural",
     "vote_average": 8.299,
-    "vote_count": 7898
+    "vote_count": 7910
   },
   {
     "adult": false,
-    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
+    "backdrop_path": "/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
     "genre_ids": [
-      16,
-      10759,
       10765,
-      35,
-      10751,
-      10762
+      18,
+      10759
     ],
-    "id": 132791,
+    "id": 1399,
     "origin_country": [
-      "JP"
+      "US"
     ],
-    "original_language": "ja",
-    "original_name": "パーマン",
-    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
-    "popularity": 244.2892,
-    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
-    "first_air_date": "1983-04-04",
-    "name": "SUPERKID",
-    "vote_average": 8.75,
-    "vote_count": 4
+    "original_language": "en",
+    "original_name": "Game of Thrones",
+    "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+    "popularity": 217.811,
+    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "first_air_date": "2011-04-17",
+    "name": "Game of Thrones",
+    "vote_average": 8.456,
+    "vote_count": 25290
   },
   {
     "adult": false,
@@ -132,34 +107,12 @@
     "original_language": "en",
     "original_name": "Rick and Morty",
     "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
-    "popularity": 225.7596,
+    "popularity": 195.8527,
     "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "first_air_date": "2013-12-02",
     "name": "Rick and Morty",
     "vote_average": 8.689,
-    "vote_count": 10297
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "id": 60572,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ポケットモンスター",
-    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
-    "popularity": 220.2825,
-    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
-    "first_air_date": "1997-04-01",
-    "name": "Pokémon",
-    "vote_average": 7.926,
-    "vote_count": 1994
+    "vote_count": 10302
   },
   {
     "adult": false,
@@ -179,7 +132,7 @@
     "original_language": "ja",
     "original_name": "パズドラ",
     "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
-    "popularity": 209.114,
+    "popularity": 188.315,
     "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
     "first_air_date": "2018-04-02",
     "name": "Puzzle & Dragons",
@@ -188,112 +141,50 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
     "genre_ids": [
       16,
+      10759,
       10765,
-      10759
+      35,
+      10751,
+      10762
     ],
-    "id": 12971,
+    "id": 132791,
     "origin_country": [
       "JP"
     ],
     "original_language": "ja",
-    "original_name": "ドラゴンボールゼット",
-    "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
-    "popularity": 195.5045,
-    "poster_path": "/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
-    "first_air_date": "1989-04-26",
-    "name": "Dragon Ball Z",
-    "vote_average": 8.35,
-    "vote_count": 4623
+    "original_name": "パーマン",
+    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
+    "popularity": 178.2999,
+    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+    "first_air_date": "1983-04-04",
+    "name": "SUPERKID",
+    "vote_average": 8.75,
+    "vote_count": 4
   },
   {
     "adult": false,
-    "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
-    "genre_ids": [
-      9648,
-      10765,
-      80
-    ],
-    "id": 4087,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The X-Files",
-    "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
-    "popularity": 182.7413,
-    "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
-    "first_air_date": "1993-09-10",
-    "name": "The X-Files",
-    "vote_average": 8.378,
-    "vote_count": 3281
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      9648
-    ],
-    "id": 232402,
-    "origin_country": [
-      "KR"
-    ],
-    "original_language": "ko",
-    "original_name": "S라인",
-    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
-    "popularity": 178.1356,
-    "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
-    "first_air_date": "2025-07-11",
-    "name": "S Line",
-    "vote_average": 7.837,
-    "vote_count": 49
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "id": 60735,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Flash",
-    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
-    "popularity": 172.1339,
-    "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
-    "first_air_date": "2014-10-07",
-    "name": "The Flash",
-    "vote_average": 7.8,
-    "vote_count": 11343
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
+    "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
     "genre_ids": [
       16,
-      35,
+      10759,
       10765
     ],
-    "id": 15260,
+    "id": 60572,
     "origin_country": [
-      "US"
+      "JP"
     ],
-    "original_language": "en",
-    "original_name": "Adventure Time",
-    "overview": "Unlikely heroes Finn and Jake are buddies who traverse the mystical Land of Ooo. The best of friends, our heroes always find themselves in the middle of escapades. Finn and Jake depend on each other through thick and thin.",
-    "popularity": 170.0827,
-    "poster_path": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
-    "first_air_date": "2010-04-05",
-    "name": "Adventure Time",
-    "vote_average": 8.5,
-    "vote_count": 2909
+    "original_language": "ja",
+    "original_name": "ポケットモンスター",
+    "overview": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challenges on his quest to become a Pokémon Master.",
+    "popularity": 171.0944,
+    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+    "first_air_date": "1997-04-01",
+    "name": "Pokémon",
+    "vote_average": 7.9,
+    "vote_count": 1996
   },
   {
     "adult": false,
@@ -310,163 +201,34 @@
     "original_language": "en",
     "original_name": "Stranger Things",
     "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-    "popularity": 168.3139,
+    "popularity": 148.0964,
     "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
     "first_air_date": "2016-07-15",
     "name": "Stranger Things",
-    "vote_average": 8.596,
-    "vote_count": 18533
+    "vote_average": 8.6,
+    "vote_count": 18543
   },
   {
     "adult": false,
-    "backdrop_path": "/yqKI437ohJAF9EQYkPYH0PTBDEt.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10765
-    ],
-    "id": 4229,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Dexter's Laboratory",
-    "overview": "Dexter, a boy-genius with a secret laboratory, constantly battles his sister Dee Dee, who always gains access despite his best efforts to keep her out, as well as his arch-rival and neighbor, Mandark.",
-    "popularity": 167.4531,
-    "poster_path": "/inJJn8lUPWdvdy2h259UnoHWVqC.jpg",
-    "first_air_date": "1996-04-28",
-    "name": "Dexter's Laboratory",
-    "vote_average": 7.658,
-    "vote_count": 832
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o5bErhFspYxSEsJecV7rVLy9ax8.jpg",
+    "backdrop_path": "/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
     "genre_ids": [
       10765,
-      9648,
-      18
-    ],
-    "id": 1606,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Ghost Whisperer",
-    "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
-    "popularity": 157.6452,
-    "poster_path": "/23oIfiF2wdbvIJh87c90QYhOtbw.jpg",
-    "first_air_date": "2005-09-23",
-    "name": "Ghost Whisperer",
-    "vote_average": 8.08,
-    "vote_count": 1784
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
-    "genre_ids": [
-      80,
-      10765
-    ],
-    "id": 63174,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lucifer",
-    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
-    "popularity": 155.5233,
-    "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-    "first_air_date": "2016-01-25",
-    "name": "Lucifer",
-    "vote_average": 8.4,
-    "vote_count": 15058
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-    "genre_ids": [
-      10759,
       18,
-      10765
+      9648
     ],
-    "id": 57243,
+    "id": 232402,
     "origin_country": [
-      "GB"
+      "KR"
     ],
-    "original_language": "en",
-    "original_name": "Doctor Who",
-    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
-    "popularity": 149.9491,
-    "poster_path": "/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
-    "first_air_date": "2005-03-26",
-    "name": "Doctor Who",
-    "vote_average": 7.555,
-    "vote_count": 3166
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "id": 18165,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Vampire Diaries",
-    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
-    "popularity": 149.4343,
-    "poster_path": "/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
-    "first_air_date": "2009-09-10",
-    "name": "The Vampire Diaries",
-    "vote_average": 8.3,
-    "vote_count": 9253
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4K9mqtNbipQI7qfmLN4xCNitLL4.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10765
-    ],
-    "id": 37567,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "Dr.スランプ アラレちゃん",
-    "overview": "Follows the humorous adventures of the little girl robot Arale Norimaki, her creator Senbei Norimaki, and the other residents of the bizarre Penguin Village.",
-    "popularity": 144.0764,
-    "poster_path": "/q19uWJMNLcyQ0I14DaH4XVwW8TQ.jpg",
-    "first_air_date": "1981-04-08",
-    "name": "Dr. Slump",
-    "vote_average": 8,
-    "vote_count": 128
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/b3GAivKdLzZz1PG1Bmdb0fPPayU.jpg",
-    "genre_ids": [
-      18,
-      10765
-    ],
-    "id": 39272,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Once Upon a Time",
-    "overview": "There is a town in Maine where every story book character you've ever known is trapped between two worlds, victims of a powerful curse. Only one knows the truth and only one can break the spell.\n\nEmma Swan is a 28-year-old bail bonds collector who has been supporting herself since she was abandoned as a baby. Things change for her when her son Henry, whom she abandoned years ago, finds her and asks for her help explaining that she is from a different world where she is Snow White's missing daughter.",
-    "popularity": 142.8489,
-    "poster_path": "/u95scYysMZvBoekSLmMNJjeqXcY.jpg",
-    "first_air_date": "2011-10-23",
-    "name": "Once Upon a Time",
-    "vote_average": 7.378,
-    "vote_count": 2352
+    "original_language": "ko",
+    "original_name": "S라인",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "popularity": 117.0477,
+    "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "first_air_date": "2025-07-11",
+    "name": "S Line",
+    "vote_average": 7.882,
+    "vote_count": 68
   },
   {
     "adult": false,
@@ -484,58 +246,76 @@
     "original_language": "ja",
     "original_name": "らんま1/2",
     "overview": "Ranma Saotome, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns into a girl and a cute, well-built redhead at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Akane Tendo, a girl who hates boys.",
-    "popularity": 142.2184,
+    "popularity": 141.855,
     "poster_path": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
     "first_air_date": "1989-04-15",
     "name": "Ranma ½",
-    "vote_average": 8.611,
+    "vote_average": 8.6,
     "vote_count": 1449
   },
   {
     "adult": false,
-    "backdrop_path": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
-    "genre_ids": [
-      10759,
-      10762,
-      16,
-      10765,
-      35
-    ],
-    "id": 51817,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Teenage Mutant Ninja Turtles",
-    "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
-    "popularity": 140.1576,
-    "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-    "first_air_date": "2012-09-28",
-    "name": "Teenage Mutant Ninja Turtles",
-    "vote_average": 8.328,
-    "vote_count": 746
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+    "backdrop_path": "/4K9mqtNbipQI7qfmLN4xCNitLL4.jpg",
     "genre_ids": [
       16,
-      10759,
+      35,
       10765
     ],
-    "id": 207468,
+    "id": 37567,
     "origin_country": [
       "JP"
     ],
     "original_language": "ja",
-    "original_name": "怪獣８号",
-    "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
-    "popularity": 138.9459,
-    "poster_path": "/PDe8WZHxH6XxM6Buxoo99aQrgw.jpg",
-    "first_air_date": "2024-04-13",
-    "name": "Kaiju No. 8",
-    "vote_average": 8.6,
-    "vote_count": 562
+    "original_name": "Dr.スランプ アラレちゃん",
+    "overview": "Follows the humorous adventures of the little girl robot Arale Norimaki, her creator Senbei Norimaki, and the other residents of the bizarre Penguin Village.",
+    "popularity": 132.9759,
+    "poster_path": "/q19uWJMNLcyQ0I14DaH4XVwW8TQ.jpg",
+    "first_air_date": "1981-04-08",
+    "name": "Dr. Slump",
+    "vote_average": 8,
+    "vote_count": 128
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mAXOCbZzvmDa6PCh5dcIPOB51Qc.jpg",
+    "genre_ids": [
+      80,
+      10765
+    ],
+    "id": 63174,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lucifer",
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "popularity": 126.7303,
+    "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "first_air_date": "2016-01-25",
+    "name": "Lucifer",
+    "vote_average": 8.446,
+    "vote_count": 15059
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cJYLon9ejKJV7ua03ab8Tj9u067.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "id": 18165,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Vampire Diaries",
+    "overview": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+    "popularity": 128.7411,
+    "poster_path": "/b3vl6wV1W8PBezFfntKTrhrehCY.jpg",
+    "first_air_date": "2009-09-10",
+    "name": "The Vampire Diaries",
+    "vote_average": 8.314,
+    "vote_count": 9258
   },
   {
     "adult": false,
@@ -552,58 +332,12 @@
     "original_language": "en",
     "original_name": "The Walking Dead",
     "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
-    "popularity": 137.0649,
-    "poster_path": "/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+    "popularity": 127.7588,
+    "poster_path": "/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
     "first_air_date": "2010-10-31",
     "name": "The Walking Dead",
     "vote_average": 8.095,
-    "vote_count": 17081
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765
-    ],
-    "id": 30984,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "BLEACH",
-    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-    "popularity": 133.8777,
-    "poster_path": "/7bSQNQuhHeInFMfzMwevfCiqcTm.jpg",
-    "first_air_date": "2004-10-05",
-    "name": "Bleach",
-    "vote_average": 8.373,
-    "vote_count": 1965
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AqCZow3yUrQn8ltGgS0p1dcBqLo.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10765,
-      9648
-    ],
-    "id": 81665,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Summer Camp Island",
-    "overview": "Oscar and Hedgehog are dropped off at a strange summer camp, full of fantastical things ranging from magical camp counselors to sticky notes that are portals to other dimensions.",
-    "popularity": 132.7641,
-    "poster_path": "/syipk7iIpV4DTvGuBuEqrVbAbaY.jpg",
-    "first_air_date": "2018-07-07",
-    "name": "Summer Camp Island",
-    "vote_average": 7.8,
-    "vote_count": 45
+    "vote_count": 17086
   },
   {
     "adult": false,
@@ -622,12 +356,232 @@
     "original_language": "en",
     "original_name": "Teen Titans Go!",
     "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
-    "popularity": 127.9892,
+    "popularity": 123.6692,
     "poster_path": "/udaLIJ6Na7GOHjvTlyP9JFPTccv.jpg",
     "first_air_date": "2013-04-23",
     "name": "Teen Titans Go!",
-    "vote_average": 6.482,
+    "vote_average": 6.5,
     "vote_count": 662
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 207468,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "怪獣８号",
+    "overview": "In a world plagued by creatures known as Kaiju, Kafka Hibino aspired to enlist in The Defense Force. He makes a promise to enlist with his childhood friend, Mina Ashiro. Soon, life takes them in separate ways. While employed cleaning up after Kaiju battles, Kafka meets Reno Ichikawa. Reno's determination to join The Defense Force reawakens Kafka's promise to join Mina and protect humanity.",
+    "popularity": 125.324,
+    "poster_path": "/PDe8WZHxH6XxM6Buxoo99aQrgw.jpg",
+    "first_air_date": "2024-04-13",
+    "name": "Kaiju No. 8",
+    "vote_average": 8.553,
+    "vote_count": 569
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/54QqXezmKARpwdnRTzuU68z6kuc.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      16
+    ],
+    "id": 110181,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "武神主宰",
+    "overview": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
+    "popularity": 123.8658,
+    "poster_path": "/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
+    "first_air_date": "2020-03-07",
+    "name": "Martial Master",
+    "vote_average": 8.3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 95479,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "呪術廻戦",
+    "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+    "popularity": 121.8396,
+    "poster_path": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+    "first_air_date": "2020-10-03",
+    "name": "JUJUTSU KAISEN",
+    "vote_average": 8.579,
+    "vote_count": 3902
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 30984,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BLEACH",
+    "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+    "popularity": 119.6414,
+    "poster_path": "/7bSQNQuhHeInFMfzMwevfCiqcTm.jpg",
+    "first_air_date": "2004-10-05",
+    "name": "Bleach",
+    "vote_average": 8.373,
+    "vote_count": 1965
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765
+    ],
+    "id": 240411,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ダンダダン",
+    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
+    "popularity": 116.1875,
+    "poster_path": "/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+    "first_air_date": "2024-10-04",
+    "name": "Dan Da Dan",
+    "vote_average": 8.64,
+    "vote_count": 575
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uxrP5yB9h6Dh6SbojI018pMYIIH.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 90802,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Sandman",
+    "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+    "popularity": 120.7073,
+    "poster_path": "/dhbqyYjLfTNAHodDDjDELzwO6F4.jpg",
+    "first_air_date": "2022-08-05",
+    "name": "The Sandman",
+    "vote_average": 7.917,
+    "vote_count": 2284
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      9648
+    ],
+    "id": 232402,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "S라인",
+    "overview": "A young woman with the ability to see mysterious red connections between lovers discovers her secret gift is no longer unique when special glasses granting similar powers appear on the black market.",
+    "popularity": 117.0477,
+    "poster_path": "/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+    "first_air_date": "2025-07-11",
+    "name": "S Line",
+    "vote_average": 7.855,
+    "vote_count": 69
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ydf1CeiBLfdxiyNTpskM0802TKl.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759
+    ],
+    "id": 12971,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラゴンボールゼット",
+    "overview": "Now happily married and with a son, martial arts champion Goku must defend Earth from a series of extraterrestrial invaders bent on destruction.",
+    "popularity": 97.3369,
+    "poster_path": "/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
+    "first_air_date": "1989-04-26",
+    "name": "Dragon Ball Z",
+    "vote_average": 8.351,
+    "vote_count": 4625
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+    "genre_ids": [
+      18,
+      10765
+    ],
+    "id": 60735,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Flash",
+    "overview": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+    "popularity": 100.6129,
+    "poster_path": "/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+    "first_air_date": "2014-10-07",
+    "name": "The Flash",
+    "vote_average": 7.769,
+    "vote_count": 11345
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yOyzlRw54oYaGvhUBdPr7TFwtrX.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "id": 4629,
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stargate SG-1",
+    "overview": "The story of Stargate SG-1 begins about a year after the events of the feature film, when the United States government learns that an ancient alien device called the Stargate can access a network of such devices on a multitude of planets. SG-1 is an elite Air Force special operations team, one of more than two dozen teams from Earth who explore the galaxy and defend against alien threats such as the Goa'uld, Replicators, and the Ori.",
+    "popularity": 108.049,
+    "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+    "first_air_date": "1997-07-27",
+    "name": "Stargate SG-1",
+    "vote_average": 8.288,
+    "vote_count": 1671
   },
   {
     "adult": false,
@@ -646,7 +600,7 @@
     "original_language": "zh",
     "original_name": "喜羊羊与灰太狼",
     "overview": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting and Luo Yinggeng, and produced by Creative Power Entertaining. The show is about a group of goats living on the Green Pasture, Qing Qing Grasslands/Plains, and the story revolving around a clumsy wolf who wants to eat them.  Toon Express Group owns the copyrights of the characters.",
-    "popularity": 125.4309,
+    "popularity": 105.6705,
     "poster_path": "/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
     "first_air_date": "2005-08-03",
     "name": "Pleasant Goat and Big Big Wolf",
@@ -655,71 +609,47 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/54QqXezmKARpwdnRTzuU68z6kuc.jpg",
+    "backdrop_path": "/hyyplCgNuVoVdSBi3K4TJZzNZTO.jpg",
     "genre_ids": [
-      10759,
       10765,
-      16
-    ],
-    "id": 110181,
-    "origin_country": [
-      "CN"
-    ],
-    "original_language": "zh",
-    "original_name": "武神主宰",
-    "overview": "The protagonist Qin Chen, who was originally the top genius in the military domain, was conspired by the people to fall into the death canyon in the forbidden land of the mainland. Qin Chen, who was inevitably dead, unexpectedly triggered the power of the mysterious ancient sword.\n\nThree hundred years later, in a remote part of the Tianwu mainland, a boy of the same name accidentally inherited Qin Chen’s will. As the beloved grandson of King Dingwu of the Daqi National Army, due to the birth father’s birth, the mother and son were treated coldly in Dingwu’s palace and lived together. In order to rewrite the myth of the strong man in hope of the sun, and to protect everything he loves, Qin Chen resolutely took up the responsibility of maintaining the five kingdoms of the world and set foot on the road of martial arts again.",
-    "popularity": 125.4234,
-    "poster_path": "/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
-    "first_air_date": "2020-03-07",
-    "name": "Martial Master",
-    "vote_average": 8.3,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-    "genre_ids": [
       10759,
-      16,
-      10765
+      18,
+      9648
     ],
-    "id": 94664,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "無職転生 ～異世界行ったら本気だす～",
-    "overview": "A 34-year-old hikikomori is kicked out of his home by his family after the death of his parents. After his eviction, he saves a group of teenagers from being killed by a speeding truck, but loses his life in the process. When he comes to, he realizes he has been reborn as Rudeus Greyrat, in a world of swords and sorcery.",
-    "popularity": 122.7612,
-    "poster_path": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "first_air_date": "2021-01-11",
-    "name": "Mushoku Tensei: Jobless Reincarnation",
-    "vote_average": 8.556,
-    "vote_count": 1310
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dGvW61JwuqwtShk849PHZflOAX.jpg",
-    "genre_ids": [
-      10762,
-      16,
-      35,
-      10765,
-      10759
-    ],
-    "id": 3934,
+    "id": 655,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Mickey Mouse Clubhouse",
-    "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
-    "popularity": 117.7024,
-    "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
-    "first_air_date": "2006-05-05",
-    "name": "Mickey Mouse Clubhouse",
-    "vote_average": 6.8,
-    "vote_count": 360
+    "original_name": "Star Trek: The Next Generation",
+    "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
+    "popularity": 105.0425,
+    "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+    "first_air_date": "1987-09-28",
+    "name": "Star Trek: The Next Generation",
+    "vote_average": 8.4,
+    "vote_count": 1601
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
+    "genre_ids": [
+      10765,
+      10759
+    ],
+    "id": 76479,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Boys",
+    "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+    "popularity": 108.6526,
+    "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
+    "first_air_date": "2019-07-25",
+    "name": "The Boys",
+    "vote_average": 8.453,
+    "vote_count": 11131
   },
   {
     "adult": false,
@@ -738,7 +668,7 @@
     "original_language": "ja",
     "original_name": "ちいかわ",
     "overview": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" (Nanka Chiisakute Kawaii Yatsu) known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.",
-    "popularity": 115.1959,
+    "popularity": 102.9544,
     "poster_path": "/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
     "first_air_date": "2022-04-04",
     "name": "Chiikawa",
@@ -747,158 +677,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+    "backdrop_path": "/w00lfexrsOeR25dO4hsWhbcUnmD.jpg",
     "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "id": 95479,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "呪術廻戦",
-    "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-    "popularity": 114.5058,
-    "poster_path": "/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-    "first_air_date": "2020-10-03",
-    "name": "JUJUTSU KAISEN",
-    "vote_average": 8.581,
-    "vote_count": 3900
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10765
-    ],
-    "id": 1877,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Phineas and Ferb",
-    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
-    "popularity": 113.0649,
-    "poster_path": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-    "first_air_date": "2007-08-17",
-    "name": "Phineas and Ferb",
-    "vote_average": 7.9,
-    "vote_count": 929
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bSlYHSM9m2OuzPX73xU2KWWY1yk.jpg",
-    "genre_ids": [
+      9648,
       10765,
-      10759,
-      18
+      80
     ],
-    "id": 67198,
+    "id": 4087,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Star Trek: Discovery",
-    "overview": "Follow the voyages of Starfleet on their missions to discover new worlds and new life forms, and one Starfleet officer who must learn that to truly understand all things alien, you must first understand yourself.",
-    "popularity": 112.7277,
-    "poster_path": "/xwpOHgym48Ftz7fbJq5te5xoiwu.jpg",
-    "first_air_date": "2017-09-24",
-    "name": "Star Trek: Discovery",
-    "vote_average": 7.044,
-    "vote_count": 1875
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hF1LFAol3GaubZ6YkDR6AQeJz7q.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765
-    ],
-    "id": 152271,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ニンジャラ",
-    "overview": "After years of experiments, three researchers finally create Ninja-Gum. This substance awakens dormant power within people descended from ninjas, but its creation isn’t without consequences and will lead them to the mysterious Ninjala Tournament.",
-    "popularity": 112.6131,
-    "poster_path": "/2EkTiYPBvW3R1221Sk4436PkoHt.jpg",
-    "first_air_date": "2022-01-08",
-    "name": "Ninjala the Animation",
-    "vote_average": 7.667,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      35,
-      10765
-    ],
-    "id": 240411,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ダンダダン",
-    "overview": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
-    "popularity": 112.368,
-    "poster_path": "/tiF5I6wF6tEUy39gmNtw3G1GYyz.jpg",
-    "first_air_date": "2024-10-04",
-    "name": "Dan Da Dan",
-    "vote_average": 8.649,
-    "vote_count": 563
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7cqKGQMnNabzOpi7qaIgZvQ7NGV.jpg",
-    "genre_ids": [
-      10765,
-      10759
-    ],
-    "id": 76479,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Boys",
-    "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-    "popularity": 110.9482,
-    "poster_path": "/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-    "first_air_date": "2019-07-25",
-    "name": "The Boys",
-    "vote_average": 8.453,
-    "vote_count": 11124
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mt3SRKq7uRBKVntaBg2ofsDfOdg.jpg",
-    "genre_ids": [
-      10765,
-      10759
-    ],
-    "id": 4629,
-    "origin_country": [
-      "CA",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Stargate SG-1",
-    "overview": "The story of Stargate SG-1 begins about a year after the events of the feature film, when the United States government learns that an ancient alien device called the Stargate can access a network of such devices on a multitude of planets. SG-1 is an elite Air Force special operations team, one of more than two dozen teams from Earth who explore the galaxy and defend against alien threats such as the Goa'uld, Replicators, and the Ori.",
-    "popularity": 110.7218,
-    "poster_path": "/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-    "first_air_date": "1997-07-27",
-    "name": "Stargate SG-1",
-    "vote_average": 8.287,
-    "vote_count": 1670
+    "original_name": "The X-Files",
+    "overview": "The exploits of FBI Special Agents Fox Mulder and Dana Scully who investigate X-Files: marginalized, unsolved cases involving paranormal phenomena. Mulder believes in the existence of aliens and the paranormal while Scully, a skeptic, is assigned to make scientific analyses of Mulder's discoveries that debunk Mulder's work and thus return him to mainstream cases.",
+    "popularity": 98.9453,
+    "poster_path": "/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+    "first_air_date": "1993-09-10",
+    "name": "The X-Files",
+    "vote_average": 8.378,
+    "vote_count": 3285
   },
   {
     "adult": false,
@@ -915,58 +712,12 @@
     "original_language": "en",
     "original_name": "FROM",
     "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-    "popularity": 108.7821,
+    "popularity": 101.5716,
     "poster_path": "/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
     "first_air_date": "2022-02-20",
     "name": "FROM",
-    "vote_average": 8.186,
-    "vote_count": 2021
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/d0uzkTgU8YHrz1vw9MN5bYKhiYx.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10765
-    ],
-    "id": 18828,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "T.U.F.F. Puppy",
-    "overview": "In the fictional city of Petropolis dog Dudley Puppy works as a spy for the organization T.U.F.F. (Turbo Undercover Fighting Force). Together with his partner, a cat named Kitty Katswell, Dudley works to protect Petropolis.",
-    "popularity": 97.7144,
-    "poster_path": "/mzJSwX75Gjty8hZIEbqblPbEvkl.jpg",
-    "first_air_date": "2010-10-02",
-    "name": "T.U.F.F. Puppy",
-    "vote_average": 7.2,
-    "vote_count": 60
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5uxpTGMvH0taHAkMYxOQHYJcsws.jpg",
-    "genre_ids": [
-      10765,
-      10759,
-      18,
-      9648
-    ],
-    "id": 655,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Star Trek: The Next Generation",
-    "overview": "Follow the intergalactic adventures of Capt. Jean-Luc Picard and his loyal crew aboard the all-new USS Enterprise NCC-1701D, as they explore new worlds.",
-    "popularity": 107.9596,
-    "poster_path": "/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
-    "first_air_date": "1987-09-28",
-    "name": "Star Trek: The Next Generation",
-    "vote_average": 8.367,
-    "vote_count": 1601
+    "vote_average": 8.189,
+    "vote_count": 2031
   },
   {
     "adult": false,
@@ -983,7 +734,7 @@
     "original_language": "zh",
     "original_name": "斗破苍穹",
     "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-    "popularity": 100.094,
+    "popularity": 95.6643,
     "poster_path": "/a9bJPlezCXF6u0siDxf7cZaSXaJ.jpg",
     "first_air_date": "2017-01-07",
     "name": "Fights Break Sphere",
@@ -1005,100 +756,33 @@
     "original_language": "en",
     "original_name": "Black Mirror",
     "overview": "Twisted tales run wild in this mind-bending anthology series that reveals humanity's worst traits, greatest innovations and more.",
-    "popularity": 105.4847,
+    "popularity": 97.3054,
     "poster_path": "/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
     "first_air_date": "2011-12-04",
     "name": "Black Mirror",
-    "vote_average": 8.3,
-    "vote_count": 5593
+    "vote_average": 8.287,
+    "vote_count": 5601
   },
   {
     "adult": false,
-    "backdrop_path": "/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
-    "genre_ids": [
-      10765
-    ],
-    "id": 103516,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Star Trek: Strange New Worlds",
-    "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-    "popularity": 96.2975,
-    "poster_path": "/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg",
-    "first_air_date": "2022-05-05",
-    "name": "Star Trek: Strange New Worlds",
-    "vote_average": 8.1,
-    "vote_count": 627
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1V7WuDv5kmzwCCNd9CNQvOmqHdm.jpg",
+    "backdrop_path": "/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg",
     "genre_ids": [
       18,
-      10759,
       10765
     ],
-    "id": 4616,
+    "id": 69478,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Xena: Warrior Princess",
-    "overview": "Xena is an infamous warrior on a quest to seek redemption for her past sins against the innocent. Accompanied by her comrade-in-arms Gabrielle, the campy couple use their formidable fighting skills to help those who are unable to defend themselves.",
-    "popularity": 91.49,
-    "poster_path": "/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg",
-    "first_air_date": "1995-09-04",
-    "name": "Xena: Warrior Princess",
-    "vote_average": 7.5,
-    "vote_count": 1317
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/e5YSF0Inv9eL77jv2WQtNOOB3Bg.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10751,
-      10765
-    ],
-    "id": 61175,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Steven Universe",
-    "overview": "A young boy takes his mother's place in a group of gemstone-based beings, and must learn to control his powers.",
-    "popularity": 95.7327,
-    "poster_path": "/qkcZqbfvXEenUAwoFi6YTBB3WLO.jpg",
-    "first_air_date": "2013-11-04",
-    "name": "Steven Universe",
-    "vote_average": 8.411,
-    "vote_count": 1245
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
-    "genre_ids": [
-      10765,
-      10759,
-      18
-    ],
-    "id": 4604,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Smallville",
-    "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
-    "popularity": 99.8571,
-    "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
-    "first_air_date": "2001-10-16",
-    "name": "Smallville",
-    "vote_average": 8.203,
-    "vote_count": 4213
+    "original_name": "The Handmaid's Tale",
+    "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+    "popularity": 94.9093,
+    "poster_path": "/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg",
+    "first_air_date": "2017-04-26",
+    "name": "The Handmaid's Tale",
+    "vote_average": 8.169,
+    "vote_count": 2984
   },
   {
     "adult": false,
@@ -1114,102 +798,12 @@
     "original_language": "en",
     "original_name": "Foundation",
     "overview": "Follow a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.",
-    "popularity": 100.062,
+    "popularity": 101.5315,
     "poster_path": "/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
     "first_air_date": "2021-09-23",
     "name": "Foundation",
-    "vote_average": 7.755,
-    "vote_count": 1414
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      35
-    ],
-    "id": 34524,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Teen Wolf",
-    "overview": "Scott McCall, a high school student living in the town of Beacon Hills has his life drastically changed when he's bitten by a werewolf, becoming one himself. He must henceforth learn to balance his problematic new identity with his day-to-day teenage life. The following characters are instrumental to his struggle: Stiles, his best friend; Allison, his love interest who comes from a family of werewolf hunters; and Derek, a mysterious werewolf with a dark past. Throughout the series, he strives to keep his loved ones safe while maintaining normal relationships with them.",
-    "popularity": 105.7759,
-    "poster_path": "/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg",
-    "first_air_date": "2011-06-05",
-    "name": "Teen Wolf",
-    "vote_average": 8.465,
-    "vote_count": 4473
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/flychdbFnPuxl4SjMeODR8RmuKr.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765,
-      35
-    ],
-    "id": 38693,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Ninjago: Masters of Spinjitzu",
-    "overview": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
-    "popularity": 95.5756,
-    "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
-    "first_air_date": "2012-01-11",
-    "name": "Ninjago: Masters of Spinjitzu",
-    "vote_average": 7.932,
-    "vote_count": 745
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
-    "genre_ids": [
-      18,
-      9648,
-      10765
-    ],
-    "id": 1413,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "American Horror Story",
-    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-    "popularity": 100.5163,
-    "poster_path": "/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
-    "first_air_date": "2011-10-05",
-    "name": "American Horror Story",
-    "vote_average": 8.11,
-    "vote_count": 5794
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1xlpfYGGFXOlYqQSUlFKEv4hqbt.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765,
-      10762
-    ],
-    "id": 46392,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "デュエル・マスターズ",
-    "overview": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
-    "popularity": 91.1946,
-    "poster_path": "/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
-    "first_air_date": "2002-10-21",
-    "name": "Duel Masters",
-    "vote_average": 6.1,
-    "vote_count": 17
+    "vote_average": 7.758,
+    "vote_count": 1427
   },
   {
     "adult": false,
@@ -1226,57 +820,12 @@
     "original_language": "ja",
     "original_name": "遊☆戯☆王ARC-V",
     "overview": "Yuya Sakaki's dream is to follow in his father's footsteps and become the greatest \"duel-tainer\" in history - and he just might pull it off when he suddenly discovers Pendulum Summoning, a never-before-seen technique that lets him summon many monsters at once!",
-    "popularity": 99.0728,
+    "popularity": 95.2917,
     "poster_path": "/nVST01k1PpOZGbGEmCZhevRWhEL.jpg",
     "first_air_date": "2014-04-06",
     "name": "Yu-Gi-Oh! Arc-V",
     "vote_average": 7.1,
     "vote_count": 36
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1Be0q7wRrSADtXTQueGWOggxpEm.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      35,
-      10765
-    ],
-    "id": 45013,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Wander Over Yonder",
-    "overview": "The adventures of Wander, an eternally-optimistic intergalactic traveler and constant do-gooder, and his quick-tempered but loyal steed and best friend, Sylvia.  The friendliest face in outer space, Wander journeys across the galaxies to spread good cheer and to help anyone he can — much to his overly pragmatic stallion’s chagrin. Their fun-loving escapades often lead them to clash with the evil villain Lord Hater and his army of Watchdogs, who travel from planet to planet trying to make hate the order of the day. Together, the best friends travel through the cosmos, happening upon one freewheeling adventure after another and making new friends and foes.",
-    "popularity": 94.4542,
-    "poster_path": "/ow88KmFUXMb6S4EKOWyTBy8ta7O.jpg",
-    "first_air_date": "2013-09-13",
-    "name": "Wander Over Yonder",
-    "vote_average": 7.4,
-    "vote_count": 91
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
-    "genre_ids": [
-      18,
-      10759,
-      10765
-    ],
-    "id": 121,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Doctor Who",
-    "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
-    "popularity": 97.9007,
-    "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-    "first_air_date": "1963-11-23",
-    "name": "Doctor Who",
-    "vote_average": 7.867,
-    "vote_count": 664
   },
   {
     "adult": false,
@@ -1294,12 +843,34 @@
     "original_language": "en",
     "original_name": "The 100",
     "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
-    "popularity": 99.745,
+    "popularity": 96.0456,
     "poster_path": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
     "first_air_date": "2014-03-19",
     "name": "The 100",
     "vote_average": 7.892,
-    "vote_count": 8317
+    "vote_count": 8319
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10765
+    ],
+    "id": 57243,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "popularity": 82.9216,
+    "poster_path": "/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+    "first_air_date": "2005-03-26",
+    "name": "Doctor Who",
+    "vote_average": 7.555,
+    "vote_count": 3168
   },
   {
     "adult": false,
@@ -1316,32 +887,462 @@
     "original_language": "ja",
     "original_name": "俺だけレベルアップな件",
     "overview": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
-    "popularity": 97.5856,
+    "popularity": 96.7572,
     "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
     "first_air_date": "2024-01-07",
     "name": "Solo Leveling",
-    "vote_average": 8.608,
-    "vote_count": 1276
+    "vote_average": 8.611,
+    "vote_count": 1285
   },
   {
     "adult": false,
-    "backdrop_path": "/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+    "backdrop_path": "/1F2RnXLc0fmRt7iWfBK4mNVsjno.jpg",
     "genre_ids": [
-      9648,
-      10765
+      10765,
+      18,
+      35
     ],
-    "id": 253372,
+    "id": 34524,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The Institute",
-    "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-    "popularity": 88.2157,
-    "poster_path": "/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
-    "first_air_date": "2025-07-13",
-    "name": "The Institute",
-    "vote_average": 7.821,
-    "vote_count": 28
+    "original_name": "Teen Wolf",
+    "overview": "Scott McCall, a high school student living in the town of Beacon Hills has his life drastically changed when he's bitten by a werewolf, becoming one himself. He must henceforth learn to balance his problematic new identity with his day-to-day teenage life. The following characters are instrumental to his struggle: Stiles, his best friend; Allison, his love interest who comes from a family of werewolf hunters; and Derek, a mysterious werewolf with a dark past. Throughout the series, he strives to keep his loved ones safe while maintaining normal relationships with them.",
+    "popularity": 90.8146,
+    "poster_path": "/8Ij1O2nU8exLgwPXU8Eo6PZdCDC.jpg",
+    "first_air_date": "2011-06-05",
+    "name": "Teen Wolf",
+    "vote_average": 8.463,
+    "vote_count": 4479
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a4doyPOabvQor0RGkWdhVENAR3G.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 1413,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "American Horror Story",
+    "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+    "popularity": 92.9113,
+    "poster_path": "/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
+    "first_air_date": "2011-10-05",
+    "name": "American Horror Story",
+    "vote_average": 8.109,
+    "vote_count": 5798
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/SLAPI1h9SWBMLTCO8ULvTGiP9G.jpg",
+    "genre_ids": [
+      10765,
+      10759,
+      18
+    ],
+    "id": 2290,
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stargate Atlantis",
+    "overview": "With the Ancients' city of Atlantis discovered in the Pegasus Galaxy by Stargate Command, Dr. Elizabeth Weir and Major Sheppard lead a scientific expedition to the ancient abandoned city. Once there, the team not only find themselves unable to contact Earth, but their explorations unexpectedly reawaken the Ancients' deadly enemies, The Wraith, who hunger for this new prey. Now with the help of newfound local allies like Teyla Emmagan, the Atlantis Team sets about to uncover their new home's secrets even as their war of survival against the Wraith begins.",
+    "popularity": 92.3004,
+    "poster_path": "/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
+    "first_air_date": "2004-07-15",
+    "name": "Stargate Atlantis",
+    "vote_average": 8.028,
+    "vote_count": 1085
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+    "genre_ids": [
+      10765,
+      18,
+      10759
+    ],
+    "id": 1855,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Star Trek: Voyager",
+    "overview": "Pulled to the far side of the galaxy, where the Federation is 75 years away at maximum warp speed, a Starfleet ship must cooperate with Maquis rebels to find a way home.",
+    "popularity": 88.1491,
+    "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+    "first_air_date": "1995-01-16",
+    "name": "Star Trek: Voyager",
+    "vote_average": 7.8,
+    "vote_count": 1002
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765
+    ],
+    "id": 46260,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ナルト",
+    "overview": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hokage, the village's leader and strongest ninja.",
+    "popularity": 92.319,
+    "poster_path": "/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "first_air_date": "2002-10-03",
+    "name": "Naruto",
+    "vote_average": 8.364,
+    "vote_count": 5737
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m6eRgkR1KC6Mr6gKx6gKCzSn6vD.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      16
+    ],
+    "id": 4194,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Star Wars: The Clone Wars",
+    "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+    "popularity": 88.7696,
+    "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+    "first_air_date": "2008-10-03",
+    "name": "Star Wars: The Clone Wars",
+    "vote_average": 8.469,
+    "vote_count": 2172
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
+    "genre_ids": [
+      10765,
+      10759,
+      18
+    ],
+    "id": 4604,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Smallville",
+    "overview": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+    "popularity": 87.1259,
+    "poster_path": "/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+    "first_air_date": "2001-10-16",
+    "name": "Smallville",
+    "vote_average": 8.2,
+    "vote_count": 4214
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/flychdbFnPuxl4SjMeODR8RmuKr.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      35
+    ],
+    "id": 38693,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Ninjago: Masters of Spinjitzu",
+    "overview": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd and Nya to save the world.",
+    "popularity": 85.8908,
+    "poster_path": "/fqb9X4th2p2voefRLqdv1xoZQmC.jpg",
+    "first_air_date": "2012-01-11",
+    "name": "Ninjago: Masters of Spinjitzu",
+    "vote_average": 7.9,
+    "vote_count": 745
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765
+    ],
+    "id": 94664,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "無職転生 ～異世界行ったら本気だす～",
+    "overview": "A 34-year-old hikikomori is kicked out of his home by his family after the death of his parents. After his eviction, he saves a group of teenagers from being killed by a speeding truck, but loses his life in the process. When he comes to, he realizes he has been reborn as Rudeus Greyrat, in a world of swords and sorcery.",
+    "popularity": 80.2649,
+    "poster_path": "/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "first_air_date": "2021-01-11",
+    "name": "Mushoku Tensei: Jobless Reincarnation",
+    "vote_average": 8.557,
+    "vote_count": 1315
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10759,
+      18
+    ],
+    "id": 95557,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "INVINCIBLE",
+    "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+    "popularity": 87.4068,
+    "poster_path": "/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg",
+    "first_air_date": "2021-03-25",
+    "name": "INVINCIBLE",
+    "vote_average": 8.6,
+    "vote_count": 5040
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o5bErhFspYxSEsJecV7rVLy9ax8.jpg",
+    "genre_ids": [
+      10765,
+      9648,
+      18
+    ],
+    "id": 1606,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Ghost Whisperer",
+    "overview": "Newlywed Melinda Gordon tries to help the dead communicate with loved ones, but sometimes the messages she receives are intense and confusing. Most of Melinda's efforts involve resolving conflicts that are preventing the spirits from passing over.",
+    "popularity": 67.3372,
+    "poster_path": "/23oIfiF2wdbvIJh87c90QYhOtbw.jpg",
+    "first_air_date": "2005-09-23",
+    "name": "Ghost Whisperer",
+    "vote_average": 8.078,
+    "vote_count": 1787
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
+    "genre_ids": [
+      10765,
+      10759,
+      10762,
+      35,
+      16
+    ],
+    "id": 220150,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ポケットモンスター",
+    "overview": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
+    "popularity": 83.6535,
+    "poster_path": "/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+    "first_air_date": "2023-04-14",
+    "name": "Pokémon Horizons",
+    "vote_average": 9,
+    "vote_count": 85
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9R3tyMeAEvY53Da6fVguBEVlfxE.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      18,
+      10765
+    ],
+    "id": 223911,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "仙逆",
+    "overview": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+    "popularity": 84.8108,
+    "poster_path": "/fyBg1g4C596rtu7sitzmtb1QsYB.jpg",
+    "first_air_date": "2023-09-25",
+    "name": "Renegade Immortal",
+    "vote_average": 9.6,
+    "vote_count": 15
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10765
+    ],
+    "id": 39351,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Grimm",
+    "overview": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
+    "popularity": 80.3138,
+    "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+    "first_air_date": "2011-10-28",
+    "name": "Grimm",
+    "vote_average": 8.268,
+    "vote_count": 3356
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      10765
+    ],
+    "id": 121,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Doctor Who",
+    "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+    "popularity": 79.4394,
+    "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+    "first_air_date": "1963-11-23",
+    "name": "Doctor Who",
+    "vote_average": 7.9,
+    "vote_count": 664
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10759,
+      10765
+    ],
+    "id": 65942,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "Re:ゼロから始める異世界生活",
+    "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+    "popularity": 80.5145,
+    "poster_path": "/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+    "first_air_date": "2016-04-04",
+    "name": "Re:ZERO -Starting Life in Another World-",
+    "vote_average": 7.83,
+    "vote_count": 528
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10765,
+      35
+    ],
+    "id": 37606,
+    "origin_country": [
+      "IE",
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Amazing World of Gumball",
+    "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+    "popularity": 85.1485,
+    "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+    "first_air_date": "2011-05-03",
+    "name": "The Amazing World of Gumball",
+    "vote_average": 8.513,
+    "vote_count": 1570
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fmFsm4dq02k2Xxs7M887unPAiXd.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10766
+    ],
+    "id": 2883,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dark Shadows",
+    "overview": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also featured werewolves, zombies, man-made monsters, witches, warlocks, time travel, and a parallel universe. A small company of actors each played many roles; indeed, as actors came and went, some characters were played by more than one actor. Major writers besides Art Wallace included Malcolm Marmorstein, Sam Hall, Gordon Russell, and Violet Welles.",
+    "popularity": 79.9522,
+    "poster_path": "/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg",
+    "first_air_date": "1966-06-27",
+    "name": "Dark Shadows",
+    "vote_average": 7.227,
+    "vote_count": 86
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10759
+    ],
+    "id": 1403,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+    "overview": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
+    "popularity": 80.1068,
+    "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+    "first_air_date": "2013-09-24",
+    "name": "Marvel's Agents of S.H.I.E.L.D.",
+    "vote_average": 7.477,
+    "vote_count": 3622
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q4CbisNArigphVn608Faxijdw8N.jpg",
+    "genre_ids": [
+      10765,
+      35,
+      18,
+      10759
+    ],
+    "id": 95,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Buffy the Vampire Slayer",
+    "overview": "Into every generation a slayer is born: one girl in all the world, a chosen one. She alone will wield the strength and skill to fight the vampires, demons, and the forces of darkness; to stop the spread of their evil and the swell of their number. She is the Slayer.",
+    "popularity": 79.3412,
+    "poster_path": "/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg",
+    "first_air_date": "1997-03-10",
+    "name": "Buffy the Vampire Slayer",
+    "vote_average": 8.1,
+    "vote_count": 1851
   }
 ]

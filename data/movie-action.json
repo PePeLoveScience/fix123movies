@@ -1,7 +1,7 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/etT14XfDEqhQZdD47ywpyihXPyW.jpg",
+    "backdrop_path": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
     "genre_ids": [
       14,
       10751,
@@ -11,13 +11,34 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon",
     "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
-    "popularity": 1206.4161,
+    "popularity": 775.857,
     "poster_path": "/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg",
     "release_date": "2025-06-06",
     "title": "How to Train Your Dragon",
     "video": false,
-    "vote_average": 8.134,
-    "vote_count": 1093
+    "vote_average": 8.076,
+    "vote_count": 1273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14,
+      53
+    ],
+    "id": 1311031,
+    "original_language": "ja",
+    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+    "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
+    "popularity": 643.276,
+    "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+    "release_date": "2025-07-18",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 34
   },
   {
     "adult": false,
@@ -31,13 +52,32 @@
     "original_language": "en",
     "original_title": "M3GAN 2.0",
     "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
-    "popularity": 913.9119,
-    "poster_path": "/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
+    "popularity": 508.9859,
+    "poster_path": "/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
     "release_date": "2025-06-25",
     "title": "M3GAN 2.0",
     "video": false,
-    "vote_average": 7.708,
-    "vote_count": 420
+    "vote_average": 7.625,
+    "vote_count": 511
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h6gChZHFpmbwqwV3uQsoakp77p1.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 1124619,
+    "original_language": "en",
+    "original_title": "Bride Hard",
+    "overview": "Sam is a secret agent whose toughest mission to date is pleasing her bride-to-be best friend at a lavish destination wedding. When a team of mercenaries crashes the party and takes the guests hostage, Sam is thrown into a fight unlike any before — one where she can’t risk blowing her cover or ruining the big day. As she takes on the bad guys in a high-stakes battle disguised as a fairy-tale affair, she realizes the real threat might be closer than she thinks.",
+    "popularity": 364.3273,
+    "poster_path": "/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
+    "release_date": "2025-06-19",
+    "title": "Bride Hard",
+    "video": false,
+    "vote_average": 6.059,
+    "vote_count": 34
   },
   {
     "adult": false,
@@ -50,38 +90,17 @@
     "original_language": "en",
     "original_title": "Man with No Past",
     "overview": "Waking up in an unfamiliar city, a man with no memory must confront the mysteries of his own identity. However, his desperate search to uncover the past pits him against a powerful enemy, leading to a showdown that ultimately reveals the truth.",
-    "popularity": 571.1025,
+    "popularity": 321.0198,
     "poster_path": "/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg",
     "release_date": "2025-01-13",
     "title": "Man with No Past",
     "video": false,
-    "vote_average": 7.1,
-    "vote_count": 23
+    "vote_average": 6.413,
+    "vote_count": 40
   },
   {
     "adult": false,
-    "backdrop_path": "/63RnEJRNzRDvi0Fv4jhrT2eh0fl.jpg",
-    "genre_ids": [
-      16,
-      28,
-      14,
-      53
-    ],
-    "id": 1311031,
-    "original_language": "ja",
-    "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-    "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
-    "popularity": 467.9188,
-    "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
-    "release_date": "2025-07-18",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "backdrop_path": "/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
     "genre_ids": [
       878,
       12,
@@ -91,13 +110,13 @@
     "original_language": "en",
     "original_title": "Superman",
     "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "popularity": 399.7971,
+    "popularity": 311.3651,
     "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
     "release_date": "2025-07-09",
     "title": "Superman",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 1032
+    "vote_average": 7.4,
+    "vote_count": 1225
   },
   {
     "adult": false,
@@ -111,13 +130,13 @@
     "original_language": "en",
     "original_title": "Karate Kid: Legends",
     "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
-    "popularity": 396.3329,
+    "popularity": 291.7407,
     "poster_path": "/AEgggzRr1vZCLY86MAp93li43z.jpg",
     "release_date": "2025-05-08",
     "title": "Karate Kid: Legends",
     "video": false,
-    "vote_average": 7.248,
-    "vote_count": 502
+    "vote_average": 7.22,
+    "vote_count": 553
   },
   {
     "adult": false,
@@ -131,13 +150,34 @@
     "original_language": "en",
     "original_title": "Ice Road: Vengeance",
     "overview": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
-    "popularity": 327.3457,
+    "popularity": 288.0576,
     "poster_path": "/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
     "release_date": "2025-06-27",
     "title": "Ice Road: Vengeance",
     "video": false,
-    "vote_average": 7,
-    "vote_count": 129
+    "vote_average": 6.9,
+    "vote_count": 146
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+    "genre_ids": [
+      27,
+      28,
+      14,
+      12
+    ],
+    "id": 1058537,
+    "original_language": "en",
+    "original_title": "Angels Fallen: Warriors of Peace",
+    "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
+    "popularity": 259.6667,
+    "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+    "release_date": "2024-07-09",
+    "title": "Angels Fallen: Warriors of Peace",
+    "video": false,
+    "vote_average": 5.894,
+    "vote_count": 33
   },
   {
     "adult": false,
@@ -151,34 +191,13 @@
     "original_language": "en",
     "original_title": "Ballerina",
     "overview": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
-    "popularity": 312.2247,
+    "popularity": 235.7576,
     "poster_path": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
     "release_date": "2025-06-04",
     "title": "Ballerina",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 1103
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9l6bcHNFLR2fcCBSPzEeqxiQhwU.jpg",
-    "genre_ids": [
-      28,
-      35,
-      80,
-      9648
-    ],
-    "id": 1374534,
-    "original_language": "nl",
-    "original_title": "Bad Boa's",
-    "overview": "When an overeager community officer and a reckless ex-detective are forced to team up, plenty of chaos ensues on the streets of Rotterdam.",
-    "popularity": 284.9186,
-    "poster_path": "/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg",
-    "release_date": "2025-07-10",
-    "title": "Almost Cops",
-    "video": false,
-    "vote_average": 5.747,
-    "vote_count": 85
+    "vote_average": 7.497,
+    "vote_count": 1168
   },
   {
     "adult": false,
@@ -192,33 +211,13 @@
     "original_language": "en",
     "original_title": "Jurassic World Rebirth",
     "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-    "popularity": 266.6148,
-    "poster_path": "/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg",
+    "popularity": 231.3022,
+    "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
     "release_date": "2025-07-01",
     "title": "Jurassic World Rebirth",
     "video": false,
-    "vote_average": 6.371,
-    "vote_count": 750
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 986056,
-    "original_language": "en",
-    "original_title": "Thunderbolts*",
-    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-    "popularity": 216.5059,
-    "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
-    "release_date": "2025-04-30",
-    "title": "Thunderbolts*",
-    "video": false,
-    "vote_average": 7.425,
-    "vote_count": 1928
+    "vote_average": 6.3,
+    "vote_count": 815
   },
   {
     "adult": false,
@@ -235,13 +234,54 @@
     "original_language": "en",
     "original_title": "KPop Demon Hunters",
     "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
-    "popularity": 214.8998,
-    "poster_path": "/jfS5KEfiwsS35ieZvdUdJKkwLlZ.jpg",
+    "popularity": 214.6645,
+    "poster_path": "/22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
     "release_date": "2025-06-20",
     "title": "KPop Demon Hunters",
     "video": false,
-    "vote_average": 8.537,
-    "vote_count": 737
+    "vote_average": 8.496,
+    "vote_count": 822
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 986056,
+    "original_language": "en",
+    "original_title": "Thunderbolts*",
+    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+    "popularity": 200.6563,
+    "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+    "release_date": "2025-04-30",
+    "title": "Thunderbolts*",
+    "video": false,
+    "vote_average": 7.401,
+    "vote_count": 2024
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9l6bcHNFLR2fcCBSPzEeqxiQhwU.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      9648
+    ],
+    "id": 1374534,
+    "original_language": "nl",
+    "original_title": "Bad Boa's",
+    "overview": "When an overeager community officer and a reckless ex-detective are forced to team up, plenty of chaos ensues on the streets of Rotterdam.",
+    "popularity": 199.9699,
+    "poster_path": "/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg",
+    "release_date": "2025-07-10",
+    "title": "Almost Cops",
+    "video": false,
+    "vote_average": 5.85,
+    "vote_count": 103
   },
   {
     "adult": false,
@@ -254,13 +294,13 @@
     "original_language": "en",
     "original_title": "The Old Guard 2",
     "overview": "Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
-    "popularity": 204.1518,
+    "popularity": 155.8263,
     "poster_path": "/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
     "release_date": "2025-07-01",
     "title": "The Old Guard 2",
     "video": false,
-    "vote_average": 6.064,
-    "vote_count": 528
+    "vote_average": 6.039,
+    "vote_count": 565
   },
   {
     "adult": false,
@@ -274,33 +314,13 @@
     "original_language": "en",
     "original_title": "Heads of State",
     "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
-    "popularity": 182.8671,
+    "popularity": 151.4726,
     "poster_path": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
     "release_date": "2025-07-02",
     "title": "Heads of State",
     "video": false,
-    "vote_average": 6.939,
-    "vote_count": 523
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
-    "genre_ids": [
-      16,
-      28,
-      878
-    ],
-    "id": 1326106,
-    "original_language": "ja",
-    "original_title": "アニメ『怪獣８号』第１期総集編／同時上映「保科の休日」",
-    "overview": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
-    "popularity": 167.386,
-    "poster_path": "/1aEfyTWUK8ZBk4aw7Ck0qEoF8PW.jpg",
-    "release_date": "2025-03-28",
-    "title": "Kaiju No. 8: Mission Recon",
-    "video": false,
-    "vote_average": 7.8,
-    "vote_count": 31
+    "vote_average": 6.945,
+    "vote_count": 572
   },
   {
     "adult": false,
@@ -313,33 +333,13 @@
     "original_language": "en",
     "original_title": "F1",
     "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-    "popularity": 153.1078,
+    "popularity": 145.9268,
     "poster_path": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
     "release_date": "2025-06-25",
     "title": "F1",
     "video": false,
     "vote_average": 7.6,
-    "vote_count": 860
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
-    "genre_ids": [
-      27,
-      53,
-      28
-    ],
-    "id": 1429744,
-    "original_language": "th",
-    "original_title": "ปากกัด ตีนถีบ",
-    "overview": "In a fight for survival against a horrifying army of zombies, a former Muay Thai fighter must use skill, speed and grit to save his girlfriend.",
-    "popularity": 152.6379,
-    "poster_path": "/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg",
-    "release_date": "2025-07-09",
-    "title": "Ziam",
-    "video": false,
-    "vote_average": 6.686,
-    "vote_count": 111
+    "vote_count": 918
   },
   {
     "adult": false,
@@ -354,32 +354,53 @@
     "original_language": "en",
     "original_title": "xXx",
     "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-    "popularity": 112.2974,
+    "popularity": 137.5033,
     "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
     "release_date": "2002-08-09",
     "title": "xXx",
     "video": false,
-    "vote_average": 5.951,
-    "vote_count": 4472
+    "vote_average": 5.955,
+    "vote_count": 4486
   },
   {
     "adult": false,
-    "backdrop_path": "/iHHWF01W2vNpjI8UzWh2F7tJEZp.jpg",
+    "backdrop_path": "/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
     "genre_ids": [
+      16,
       28,
-      18
+      878
     ],
-    "id": 1246369,
+    "id": 1326106,
     "original_language": "ja",
-    "original_title": "室町無頼",
-    "overview": "Set in war-torn 15th century Kyoto, on the eve of the Onin War, the movie centers on a band of outlaws led by Hyoe (Oizumi) a scoundrel whose lethal sword skills place him at the tip of the spear in a deadly uprising against the corrupt Shogunate and its army, led by former friend-turned-archrival, Doken (Tsutsumi).",
-    "popularity": 102.9558,
-    "poster_path": "/5sb7yYbvB7IstubeGqmS8x3gV2d.jpg",
-    "release_date": "2025-01-17",
-    "title": "Muromachi Burai",
+    "original_title": "アニメ『怪獣８号』第１期総集編／同時上映「保科の休日」",
+    "overview": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
+    "popularity": 111.1744,
+    "poster_path": "/1aEfyTWUK8ZBk4aw7Ck0qEoF8PW.jpg",
+    "release_date": "2025-03-28",
+    "title": "Kaiju No. 8: Mission Recon",
     "video": false,
-    "vote_average": 9.2,
-    "vote_count": 9
+    "vote_average": 7.805,
+    "vote_count": 41
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tdMbbFhqyEqOK1QzNTvJjHWKbZX.jpg",
+    "genre_ids": [
+      27,
+      53,
+      28
+    ],
+    "id": 1429744,
+    "original_language": "th",
+    "original_title": "ปากกัด ตีนถีบ",
+    "overview": "In a fight for survival against a horrifying army of zombies, a former Muay Thai fighter must use skill, speed and grit to save his girlfriend.",
+    "popularity": 96.2234,
+    "poster_path": "/yHYj2t3NzsjkHVYa0bPri4sMBsg.jpg",
+    "release_date": "2025-07-09",
+    "title": "Ziam",
+    "video": false,
+    "vote_average": 6.588,
+    "vote_count": 125
   },
   {
     "adult": false,
@@ -393,13 +414,54 @@
     "original_language": "en",
     "original_title": "Mission: Impossible - The Final Reckoning",
     "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-    "popularity": 98.7255,
+    "popularity": 96.9465,
     "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
     "release_date": "2025-05-17",
     "title": "Mission: Impossible - The Final Reckoning",
     "video": false,
     "vote_average": 7.2,
-    "vote_count": 956
+    "vote_count": 968
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10751,
+      12,
+      28
+    ],
+    "id": 950387,
+    "original_language": "en",
+    "original_title": "A Minecraft Movie",
+    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+    "popularity": 85.3503,
+    "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "release_date": "2025-03-31",
+    "title": "A Minecraft Movie",
+    "video": false,
+    "vote_average": 6.446,
+    "vote_count": 2123
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iHHWF01W2vNpjI8UzWh2F7tJEZp.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1246369,
+    "original_language": "ja",
+    "original_title": "室町無頼",
+    "overview": "Set in war-torn 15th century Kyoto, on the eve of the Onin War, the movie centers on a band of outlaws led by Hyoe (Oizumi) a scoundrel whose lethal sword skills place him at the tip of the spear in a deadly uprising against the corrupt Shogunate and its army, led by former friend-turned-archrival, Doken (Tsutsumi).",
+    "popularity": 86.0817,
+    "poster_path": "/5sb7yYbvB7IstubeGqmS8x3gV2d.jpg",
+    "release_date": "2025-01-17",
+    "title": "Muromachi Burai",
+    "video": false,
+    "vote_average": 9.2,
+    "vote_count": 9
   },
   {
     "adult": false,
@@ -412,33 +474,13 @@
     "original_language": "en",
     "original_title": "The Amateur",
     "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
-    "popularity": 92.6918,
+    "popularity": 85.2741,
     "poster_path": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
     "release_date": "2025-04-09",
     "title": "The Amateur",
     "video": false,
-    "vote_average": 6.992,
-    "vote_count": 883
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-    "genre_ids": [
-      27,
-      28,
-      53
-    ],
-    "id": 1233413,
-    "original_language": "en",
-    "original_title": "Sinners",
-    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "popularity": 82.7308,
-    "poster_path": "/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg",
-    "release_date": "2025-04-16",
-    "title": "Sinners",
-    "video": false,
-    "vote_average": 7.572,
-    "vote_count": 2106
+    "vote_average": 6.99,
+    "vote_count": 947
   },
   {
     "adult": false,
@@ -452,33 +494,33 @@
     "original_language": "en",
     "original_title": "Long Distance",
     "overview": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod.",
-    "popularity": 76.3023,
+    "popularity": 74.9495,
     "poster_path": "/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
     "release_date": "2024-07-12",
     "title": "Long Distance",
     "video": false,
-    "vote_average": 6.344,
-    "vote_count": 167
+    "vote_average": 6.42,
+    "vote_count": 175
   },
   {
     "adult": false,
-    "backdrop_path": "/zxjFabSJKMAvuu3acNg78nuTuCs.jpg",
+    "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
     "genre_ids": [
+      27,
       28,
-      53,
-      27
+      53
     ],
-    "id": 1442776,
-    "original_language": "zh",
-    "original_title": "Kuang Bao Ju Xi",
-    "overview": "A young man climbs into the mountains to pick up a meteorite that has fallen there and is killed by something. The \"thing\" descends to the village and begins to eat the inhabitants one by one, terrorizing the entire island.",
-    "popularity": 71.2155,
-    "poster_path": "/9TFaFsSXedaALXTzba349euDeoY.jpg",
-    "release_date": "2024-03-27",
-    "title": "Crazy Lizard",
+    "id": 1233413,
+    "original_language": "en",
+    "original_title": "Sinners",
+    "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "popularity": 70.1376,
+    "poster_path": "/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg",
+    "release_date": "2025-04-16",
+    "title": "Sinners",
     "video": false,
-    "vote_average": 6.12,
-    "vote_count": 25
+    "vote_average": 7.564,
+    "vote_count": 2157
   },
   {
     "adult": false,
@@ -492,92 +534,13 @@
     "original_language": "en",
     "original_title": "A Working Man",
     "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
-    "popularity": 68.5995,
+    "popularity": 62.0993,
     "poster_path": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
     "release_date": "2025-03-26",
     "title": "A Working Man",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 1380
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xtnfoFs9vOLBF7Ox13mFmFUovey.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "id": 1311844,
-    "original_language": "en",
-    "original_title": "The Twisters",
-    "overview": "A deadly patchwork of destructive cyclones is on an apocalyptic path of convergence at a populated Midwest city center. There, the twisters will merge into one mega tornado that threatens to obliterate the cities for hundreds of miles around.",
-    "popularity": 67.2311,
-    "poster_path": "/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg",
-    "release_date": "2024-06-28",
-    "title": "The Twisters",
-    "video": false,
-    "vote_average": 6,
-    "vote_count": 60
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xRr7mnOJ39bZtCRmVefrm3sBxX4.jpg",
-    "genre_ids": [
-      80,
-      53,
-      28
-    ],
-    "id": 1090007,
-    "original_language": "en",
-    "original_title": "First Shift",
-    "overview": "NYPD veteran Mike and rookie Angela tackle a high-stakes day on New York's toughest streets, diving headfirst into a vortex of danger and action. Their adrenaline-fueled pursuits and unexpected threats unfold as they navigate perilous encounters. Amidst the chaos, intense challenges forge unbreakable bonds.",
-    "popularity": 67.2165,
-    "poster_path": "/ajsGI4JYaciPIe3gPgiJ3Vw5Vre.jpg",
-    "release_date": "2024-08-30",
-    "title": "First Shift",
-    "video": false,
-    "vote_average": 5.5,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h6gChZHFpmbwqwV3uQsoakp77p1.jpg",
-    "genre_ids": [
-      28,
-      35
-    ],
-    "id": 1124619,
-    "original_language": "en",
-    "original_title": "Bride Hard",
-    "overview": "Sam is a secret agent whose toughest mission to date is pleasing her bride-to-be best friend at a lavish destination wedding. When a team of mercenaries crashes the party and takes the guests hostage, Sam is thrown into a fight unlike any before — one where she can’t risk blowing her cover or ruining the big day. As she takes on the bad guys in a high-stakes battle disguised as a fairy-tale affair, she realizes the real threat might be closer than she thinks.",
-    "popularity": 66.4336,
-    "poster_path": "/3mExdWLSxAiUCb4NMcYmxSkO7n4.jpg",
-    "release_date": "2025-06-19",
-    "title": "Bride Hard",
-    "video": false,
-    "vote_average": 5.8,
-    "vote_count": 23
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9f06S7Uc1Xmnc3OYtK8UKu9o3Ox.jpg",
-    "genre_ids": [
-      28,
-      12,
-      27
-    ],
-    "id": 1181039,
-    "original_language": "zh",
-    "original_title": "鬼吹灯：献王虫谷",
-    "overview": "Adapted from the 3rd volume in the novel series \"Candle in the Tomb\" by Zhang Mu Ye. Hu Bayi, Wang Kaixuan, and Shiely Yang, infected with a curse, embark on a journey to King Xian's tomb to retrieve the Haochen Bead and break the curse. They face ancient organs, ghostly visions, explosive bugs, and a massive salamander.",
-    "popularity": 59.1893,
-    "poster_path": "/7Hk1qxAvZi9H9cfBb4iHkoGjapH.jpg",
-    "release_date": "2023-09-22",
-    "title": "Candle in the Tomb: The Worm Valley",
-    "video": false,
-    "vote_average": 6.846,
-    "vote_count": 27
+    "vote_average": 6.696,
+    "vote_count": 1391
   },
   {
     "adult": false,
@@ -592,13 +555,73 @@
     "original_language": "en",
     "original_title": "Predator: Killer of Killers",
     "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
-    "popularity": 56.6666,
+    "popularity": 65.6031,
     "poster_path": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
     "release_date": "2025-06-05",
     "title": "Predator: Killer of Killers",
     "video": false,
-    "vote_average": 7.956,
-    "vote_count": 735
+    "vote_average": 7.946,
+    "vote_count": 755
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xtnfoFs9vOLBF7Ox13mFmFUovey.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 1311844,
+    "original_language": "en",
+    "original_title": "The Twisters",
+    "overview": "A deadly patchwork of destructive cyclones is on an apocalyptic path of convergence at a populated Midwest city center. There, the twisters will merge into one mega tornado that threatens to obliterate the cities for hundreds of miles around.",
+    "popularity": 65.3368,
+    "poster_path": "/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg",
+    "release_date": "2024-06-28",
+    "title": "The Twisters",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 62
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zxjFabSJKMAvuu3acNg78nuTuCs.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27
+    ],
+    "id": 1442776,
+    "original_language": "zh",
+    "original_title": "Kuang Bao Ju Xi",
+    "overview": "A young man climbs into the mountains to pick up a meteorite that has fallen there and is killed by something. The \"thing\" descends to the village and begins to eat the inhabitants one by one, terrorizing the entire island.",
+    "popularity": 65.166,
+    "poster_path": "/9TFaFsSXedaALXTzba349euDeoY.jpg",
+    "release_date": "2024-03-27",
+    "title": "Crazy Lizard",
+    "video": false,
+    "vote_average": 6.407,
+    "vote_count": 27
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9f06S7Uc1Xmnc3OYtK8UKu9o3Ox.jpg",
+    "genre_ids": [
+      28,
+      12,
+      27
+    ],
+    "id": 1181039,
+    "original_language": "zh",
+    "original_title": "鬼吹灯：献王虫谷",
+    "overview": "Adapted from the 3rd volume in the novel series \"Candle in the Tomb\" by Zhang Mu Ye. Hu Bayi, Wang Kaixuan, and Shiely Yang, infected with a curse, embark on a journey to King Xian's tomb to retrieve the Haochen Bead and break the curse. They face ancient organs, ghostly visions, explosive bugs, and a massive salamander.",
+    "popularity": 55.3778,
+    "poster_path": "/7Hk1qxAvZi9H9cfBb4iHkoGjapH.jpg",
+    "release_date": "2023-09-22",
+    "title": "Candle in the Tomb: The Worm Valley",
+    "video": false,
+    "vote_average": 6.929,
+    "vote_count": 28
   },
   {
     "adult": false,
@@ -612,52 +635,13 @@
     "original_language": "en",
     "original_title": "Captain America: Brave New World",
     "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-    "popularity": 50.4302,
+    "popularity": 52.6977,
     "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
     "release_date": "2025-02-12",
     "title": "Captain America: Brave New World",
     "video": false,
-    "vote_average": 6.041,
-    "vote_count": 2412
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 507086,
-    "original_language": "en",
-    "original_title": "Jurassic World Dominion",
-    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
-    "popularity": 50.1621,
-    "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
-    "release_date": "2022-06-01",
-    "title": "Jurassic World Dominion",
-    "video": false,
-    "vote_average": 6.647,
-    "vote_count": 6539
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1127110,
-    "original_language": "en",
-    "original_title": "Diablo",
-    "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
-    "popularity": 49.9229,
-    "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
-    "release_date": "2025-06-13",
-    "title": "Diablo",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 101
+    "vote_average": 6.036,
+    "vote_count": 2433
   },
   {
     "adult": false,
@@ -672,32 +656,33 @@
     "original_language": "en",
     "original_title": "Sonic the Hedgehog 3",
     "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "popularity": 48.2655,
+    "popularity": 46.6982,
     "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
     "release_date": "2024-12-19",
     "title": "Sonic the Hedgehog 3",
     "video": false,
-    "vote_average": 7.681,
-    "vote_count": 2792
+    "vote_average": 7.676,
+    "vote_count": 2805
   },
   {
     "adult": false,
-    "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+    "backdrop_path": "/xRr7mnOJ39bZtCRmVefrm3sBxX4.jpg",
     "genre_ids": [
-      10752,
+      80,
+      53,
       28
     ],
-    "id": 1241436,
+    "id": 1090007,
     "original_language": "en",
-    "original_title": "Warfare",
-    "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
-    "popularity": 46.6739,
-    "poster_path": "/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
-    "release_date": "2025-04-09",
-    "title": "Warfare",
+    "original_title": "First Shift",
+    "overview": "NYPD veteran Mike and rookie Angela tackle a high-stakes day on New York's toughest streets, diving headfirst into a vortex of danger and action. Their adrenaline-fueled pursuits and unexpected threats unfold as they navigate perilous encounters. Amidst the chaos, intense challenges forge unbreakable bonds.",
+    "popularity": 46.7119,
+    "poster_path": "/ajsGI4JYaciPIe3gPgiJ3Vw5Vre.jpg",
+    "release_date": "2024-08-30",
+    "title": "First Shift",
     "video": false,
-    "vote_average": 7.169,
-    "vote_count": 769
+    "vote_average": 5.5,
+    "vote_count": 32
   },
   {
     "adult": false,
@@ -711,33 +696,169 @@
     "original_language": "en",
     "original_title": "Deadpool & Wolverine",
     "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-    "popularity": 43.6964,
+    "popularity": 44.9701,
     "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
     "video": false,
-    "vote_average": 7.587,
-    "vote_count": 7496
+    "vote_average": 7.585,
+    "vote_count": 7518
   },
   {
     "adult": false,
-    "backdrop_path": "/sNpoGjbV2a65HfZXCtTvf313cBT.jpg",
+    "backdrop_path": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 507086,
+    "original_language": "en",
+    "original_title": "Jurassic World Dominion",
+    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "popularity": 44.8028,
+    "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+    "release_date": "2022-06-01",
+    "title": "Jurassic World Dominion",
+    "video": false,
+    "vote_average": 6.645,
+    "vote_count": 6552
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+    "genre_ids": [
+      10752,
+      28
+    ],
+    "id": 1241436,
+    "original_language": "en",
+    "original_title": "Warfare",
+    "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+    "popularity": 44.9917,
+    "poster_path": "/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg",
+    "release_date": "2025-04-09",
+    "title": "Warfare",
+    "video": false,
+    "vote_average": 7.148,
+    "vote_count": 780
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
     "genre_ids": [
       28,
-      35,
-      80
+      53
     ],
-    "id": 1239193,
+    "id": 1127110,
     "original_language": "en",
-    "original_title": "Deep Cover",
-    "overview": "Kat is an improv comedy teacher beginning to question if she’s missed her shot at success. When an undercover cop offers her the role of a lifetime, she recruits two of her students to infiltrate London’s gangland by impersonating dangerous criminals.",
-    "popularity": 43.6088,
-    "poster_path": "/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg",
-    "release_date": "2025-06-12",
-    "title": "Deep Cover",
+    "original_title": "Diablo",
+    "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+    "popularity": 47.6925,
+    "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+    "release_date": "2025-06-13",
+    "title": "Diablo",
     "video": false,
-    "vote_average": 6.696,
-    "vote_count": 334
+    "vote_average": 7.367,
+    "vote_count": 105
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eRNMOrA6Bigonug3dT1R7aLZQaq.jpg",
+    "genre_ids": [
+      28
+    ],
+    "id": 1240475,
+    "original_language": "zh",
+    "original_title": "缉恶",
+    "overview": "The film tells the story of narcotics police officer Huang Mingjin and the \"mysterious figure\" Wei Yunzhou. Through completely different means and methods, in the process of calculating and wrestling with each other, they tear apart the facade of urban tranquility, exposing the underground drug network woven by the hidden hand \"Long Wang\", and ultimately eradicate the darkness with the sword of justice, revealing the dawn of light.",
+    "popularity": 39.7162,
+    "poster_path": "/m5UBHbEjQJx3AkRZWRY6A4l4ZDT.jpg",
+    "release_date": "2024-07-18",
+    "title": "Hunt the Wicked",
+    "video": false,
+    "vote_average": 6.75,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "id": 757725,
+    "original_language": "en",
+    "original_title": "Shadow Force",
+    "overview": "Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in order to protect their son, they go underground. With a large bounty on their heads, and the vengeful Shadow Force hot on their trail, one family's fight becomes all-out war.",
+    "popularity": 42.4853,
+    "poster_path": "/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
+    "release_date": "2025-05-01",
+    "title": "Shadow Force",
+    "video": false,
+    "vote_average": 6.079,
+    "vote_count": 127
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "id": 9738,
+    "original_language": "en",
+    "original_title": "Fantastic Four",
+    "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+    "popularity": 46.8947,
+    "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+    "release_date": "2005-06-29",
+    "title": "Fantastic Four",
+    "video": false,
+    "vote_average": 5.793,
+    "vote_count": 9561
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 558449,
+    "original_language": "en",
+    "original_title": "Gladiator II",
+    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "popularity": 36.3969,
+    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "release_date": "2024-11-13",
+    "title": "Gladiator II",
+    "video": false,
+    "vote_average": 6.682,
+    "vote_count": 3697
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 912649,
+    "original_language": "en",
+    "original_title": "Venom: The Last Dance",
+    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+    "popularity": 35.4219,
+    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    "release_date": "2024-10-22",
+    "title": "Venom: The Last Dance",
+    "video": false,
+    "vote_average": 6.711,
+    "vote_count": 3594
   },
   {
     "adult": false,
@@ -754,34 +875,34 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon 2",
     "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
-    "popularity": 43.4443,
+    "popularity": 36.67,
     "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "release_date": "2014-06-05",
     "title": "How to Train Your Dragon 2",
     "video": false,
-    "vote_average": 7.676,
-    "vote_count": 9949
+    "vote_average": 7.675,
+    "vote_count": 9958
   },
   {
     "adult": false,
-    "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
     "genre_ids": [
-      27,
-      28,
+      16,
       14,
-      12
+      12,
+      28
     ],
-    "id": 1058537,
-    "original_language": "en",
-    "original_title": "Angels Fallen: Warriors of Peace",
-    "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
-    "popularity": 42.3506,
-    "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
-    "release_date": "2024-07-09",
-    "title": "Angels Fallen: Warriors of Peace",
+    "id": 980477,
+    "original_language": "zh",
+    "original_title": "哪吒之魔童闹海",
+    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
+    "popularity": 35.227,
+    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
+    "release_date": "2025-01-29",
+    "title": "Ne Zha 2",
     "video": false,
-    "vote_average": 4.8,
-    "vote_count": 17
+    "vote_average": 8.1,
+    "vote_count": 186
   },
   {
     "adult": false,
@@ -797,50 +918,235 @@
     "original_language": "ko",
     "original_title": "범죄도시 4",
     "overview": "'Monster Cop' Ma Seok-do investigates an illegal online gambling business led by a former STS Baek and an IT genius CEO Chang. Ma proposes an unexpected alliance to Jang and begins hunting down the criminals.",
-    "popularity": 37.9299,
+    "popularity": 37.8802,
     "poster_path": "/yk38mNoJpsswmk9o7i7eLhO4mc.jpg",
     "release_date": "2024-04-24",
     "title": "The Roundup: Punishment",
     "video": false,
-    "vote_average": 7.014,
-    "vote_count": 177
+    "vote_average": 7.031,
+    "vote_count": 179
   },
   {
     "adult": false,
-    "backdrop_path": "/17OB3LPZUbe80l893OCT9EXibCO.jpg",
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 24428,
+    "original_language": "en",
+    "original_title": "The Avengers",
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "popularity": 36.3043,
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "release_date": "2012-04-25",
+    "title": "The Avengers",
+    "video": false,
+    "vote_average": 7.781,
+    "vote_count": 32522
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
     "genre_ids": [
       28,
-      14
+      12,
+      53
     ],
-    "id": 1072890,
-    "original_language": "zh",
-    "original_title": "异人之下",
-    "overview": "Zhang Chulan, who has been hiding his identity as an Inhuman, is caught up in the vortex of fighting between different Inhuman sects since he meets Feng Baobao, who has a mysterious background. As the secret that Zhang Chulan is the heir to the mysterious technique \"Air Body Source Stream\" is made public, the Inhuman world has started a fierce battle around him, with forces such as Nadutong, Quanxie Sect, Tianyi Sect, and so on appearing one by one and the battle is about to break out, but at this time, Zhang Chulan accidentally unveils the secret of the year....",
-    "popularity": 37.5493,
-    "poster_path": "/iBBXdLCqxRrqTAXe0iIzhSAHc1Q.jpg",
-    "release_date": "2024-07-26",
-    "title": "The Traveller",
+    "id": 539972,
+    "original_language": "en",
+    "original_title": "Kraven the Hunter",
+    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "popularity": 34.0154,
+    "poster_path": "/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
+    "release_date": "2024-12-11",
+    "title": "Kraven the Hunter",
     "video": false,
-    "vote_average": 6.167,
-    "vote_count": 12
+    "vote_average": 6.529,
+    "vote_count": 1890
   },
   {
     "adult": false,
-    "backdrop_path": "/eRNMOrA6Bigonug3dT1R7aLZQaq.jpg",
+    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 297762,
+    "original_language": "en",
+    "original_title": "Wonder Woman",
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "popularity": 34.3777,
+    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "release_date": "2017-05-30",
+    "title": "Wonder Woman",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 20344
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
     "genre_ids": [
       28
     ],
-    "id": 1240475,
-    "original_language": "zh",
-    "original_title": "缉恶",
-    "overview": "The film tells the story of narcotics police officer Huang Mingjin and the \"mysterious figure\" Wei Yunzhou. Through completely different means and methods, in the process of calculating and wrestling with each other, they tear apart the facade of urban tranquility, exposing the underground drug network woven by the hidden hand \"Long Wang\", and ultimately eradicate the darkness with the sword of justice, revealing the dawn of light.",
-    "popularity": 37.2446,
-    "poster_path": "/m5UBHbEjQJx3AkRZWRY6A4l4ZDT.jpg",
-    "release_date": "2024-07-18",
-    "title": "Hunt the Wicked",
+    "id": 812455,
+    "original_language": "en",
+    "original_title": "Victoria",
+    "overview": "Victoria is a woman betrayed, now on a mission for revenge and destroying anything that gets in her way.",
+    "popularity": 30.7449,
+    "poster_path": "/aOSTW7ZitFAff06mZVXUnktejHY.jpg",
+    "release_date": "2021-01-16",
+    "title": "Victoria",
     "video": false,
-    "vote_average": 6.75,
-    "vote_count": 8
+    "vote_average": 8.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "genre_ids": [
+      28,
+      14,
+      12
+    ],
+    "id": 324544,
+    "original_language": "en",
+    "original_title": "In the Lost Lands",
+    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+    "popularity": 35.4685,
+    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+    "release_date": "2025-02-27",
+    "title": "In the Lost Lands",
+    "video": false,
+    "vote_average": 6.49,
+    "vote_count": 561
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8SaEH4kYCy7JlviyhKtSVsMkt4r.jpg",
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "id": 1315988,
+    "original_language": "es",
+    "original_title": "Mikaela",
+    "overview": "During the eve of the 6th of January, a record-breaking snowstorm sweeps across Spain. In the midst of its chaos, a group of robbers seizes the opportunity to hijack an armoured van. A few meters away is Leo, a finished policeman who has nothing to lose. With the unexpected aid of a young woman, he will try to stop the band from running away with their loot.",
+    "popularity": 36.366,
+    "poster_path": "/xG8olkWOmoW78GbozKbS2UxYGEo.jpg",
+    "release_date": "2025-01-31",
+    "title": "Mikaela",
+    "video": false,
+    "vote_average": 6.242,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sNpoGjbV2a65HfZXCtTvf313cBT.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "id": 1239193,
+    "original_language": "en",
+    "original_title": "Deep Cover",
+    "overview": "Kat is an improv comedy teacher beginning to question if she’s missed her shot at success. When an undercover cop offers her the role of a lifetime, she recruits two of her students to infiltrate London’s gangland by impersonating dangerous criminals.",
+    "popularity": 32.8431,
+    "poster_path": "/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg",
+    "release_date": "2025-06-12",
+    "title": "Deep Cover",
+    "video": false,
+    "vote_average": 6.712,
+    "vote_count": 345
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      12,
+      9648
+    ],
+    "id": 385687,
+    "original_language": "en",
+    "original_title": "Fast X",
+    "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+    "popularity": 33.2038,
+    "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+    "release_date": "2023-05-17",
+    "title": "Fast X",
+    "video": false,
+    "vote_average": 7.036,
+    "vote_count": 5969
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80,
+      53
+    ],
+    "id": 155,
+    "original_language": "en",
+    "original_title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "popularity": 31.4341,
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "release_date": "2008-07-16",
+    "title": "The Dark Knight",
+    "video": false,
+    "vote_average": 8.522,
+    "vote_count": 34122
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "id": 1241470,
+    "original_language": "en",
+    "original_title": "Osiris",
+    "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+    "popularity": 29.3781,
+    "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+    "release_date": "2025-07-25",
+    "title": "Osiris",
+    "video": false,
+    "vote_average": 6.056,
+    "vote_count": 18
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/79tWkw0oc4Az96bzw5jGsMI05DS.jpg",
+    "genre_ids": [
+      9648,
+      53,
+      28,
+      878
+    ],
+    "id": 1379587,
+    "original_language": "en",
+    "original_title": "Utopia",
+    "overview": "A soldier searching for his missing wife breaks into a high-tech facility, believing she's been caught in a human trafficking ring. But beyond its walls, he finds a surreal, futuristic fantasy park where reality and illusion blur. As he navigates this seductive and dangerous world, a shocking truth pulls him deeper into a deadly game where nothing is as it seems.",
+    "popularity": 33.3005,
+    "poster_path": "/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
+    "release_date": "2024-12-09",
+    "title": "Utopia",
+    "video": false,
+    "vote_average": 5.734,
+    "vote_count": 47
   },
   {
     "adult": false,
@@ -857,214 +1163,33 @@
     "original_language": "en",
     "original_title": "Kung Fu Panda 4",
     "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
-    "popularity": 36.4739,
+    "popularity": 29.4591,
     "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
     "release_date": "2024-03-02",
     "title": "Kung Fu Panda 4",
     "video": false,
-    "vote_average": 7.056,
-    "vote_count": 3146
+    "vote_average": 7.058,
+    "vote_count": 3151
   },
   {
     "adult": false,
-    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
     "genre_ids": [
-      28,
-      14,
-      12
-    ],
-    "id": 324544,
-    "original_language": "en",
-    "original_title": "In the Lost Lands",
-    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-    "popularity": 36.1321,
-    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-    "release_date": "2025-02-27",
-    "title": "In the Lost Lands",
-    "video": false,
-    "vote_average": 6.477,
-    "vote_count": 550
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg",
-    "genre_ids": [
-      28,
       12,
-      878,
-      53
-    ],
-    "id": 135397,
-    "original_language": "en",
-    "original_title": "Jurassic World",
-    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "popularity": 35.2924,
-    "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-    "release_date": "2015-06-06",
-    "title": "Jurassic World",
-    "video": false,
-    "vote_average": 6.699,
-    "vote_count": 20859
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 912649,
-    "original_language": "en",
-    "original_title": "Venom: The Last Dance",
-    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-    "popularity": 35.1849,
-    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-    "release_date": "2024-10-22",
-    "title": "Venom: The Last Dance",
-    "video": false,
-    "vote_average": 6.711,
-    "vote_count": 3580
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
+      14,
       28
     ],
-    "id": 812455,
+    "id": 120,
     "original_language": "en",
-    "original_title": "Victoria",
-    "overview": "Victoria is a woman betrayed, now on a mission for revenge and destroying anything that gets in her way.",
-    "popularity": 34.3369,
-    "poster_path": "/aOSTW7ZitFAff06mZVXUnktejHY.jpg",
-    "release_date": "2021-01-16",
-    "title": "Victoria",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "popularity": 31.2789,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "release_date": "2001-12-18",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
     "video": false,
-    "vote_average": 8.5,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/79tWkw0oc4Az96bzw5jGsMI05DS.jpg",
-    "genre_ids": [
-      9648,
-      53,
-      28,
-      878
-    ],
-    "id": 1379587,
-    "original_language": "en",
-    "original_title": "Utopia",
-    "overview": "A soldier searching for his missing wife breaks into a high-tech facility, believing she's been caught in a human trafficking ring. But beyond its walls, he finds a surreal, futuristic fantasy park where reality and illusion blur. As he navigates this seductive and dangerous world, a shocking truth pulls him deeper into a deadly game where nothing is as it seems.",
-    "popularity": 34.1769,
-    "poster_path": "/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
-    "release_date": "2024-12-09",
-    "title": "Utopia",
-    "video": false,
-    "vote_average": 5.734,
-    "vote_count": 47
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8SaEH4kYCy7JlviyhKtSVsMkt4r.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1315988,
-    "original_language": "es",
-    "original_title": "Mikaela",
-    "overview": "During the eve of the 6th of January, a record-breaking snowstorm sweeps across Spain. In the midst of its chaos, a group of robbers seizes the opportunity to hijack an armoured van. A few meters away is Leo, a finished policeman who has nothing to lose. With the unexpected aid of a young woman, he will try to stop the band from running away with their loot.",
-    "popularity": 33.8579,
-    "poster_path": "/xG8olkWOmoW78GbozKbS2UxYGEo.jpg",
-    "release_date": "2025-01-31",
-    "title": "Mikaela",
-    "video": false,
-    "vote_average": 6.246,
-    "vote_count": 59
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878,
-      53
-    ],
-    "id": 351286,
-    "original_language": "en",
-    "original_title": "Jurassic World: Fallen Kingdom",
-    "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-    "popularity": 33.3945,
-    "poster_path": "/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
-    "release_date": "2018-06-06",
-    "title": "Jurassic World: Fallen Kingdom",
-    "video": false,
-    "vote_average": 6.541,
-    "vote_count": 12202
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
-    "id": 24428,
-    "original_language": "en",
-    "original_title": "The Avengers",
-    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "popularity": 32.292,
-    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "release_date": "2012-04-25",
-    "title": "The Avengers",
-    "video": false,
-    "vote_average": 7.777,
-    "vote_count": 32445
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3FVe3OAdgz060JaxIAaUl5lo6cx.jpg",
-    "genre_ids": [
-      16,
-      28,
-      14,
-      53
-    ],
-    "id": 635302,
-    "original_language": "ja",
-    "original_title": "劇場版「鬼滅の刃」無限列車編",
-    "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
-    "popularity": 31.9345,
-    "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
-    "release_date": "2020-10-16",
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-    "video": false,
-    "vote_average": 8.206,
-    "vote_count": 4131
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6ykQysq6kfZ6Yw5C4dkhcZRd5QI.jpg",
-    "genre_ids": [
-      35,
-      9648,
-      28
-    ],
-    "id": 1357305,
-    "original_language": "zh",
-    "original_title": "唐探1900",
-    "overview": "In 1900, a white woman was murdered in Chinatown in San Francisco, and the suspect was a Chinese man. The murder caused social shock, and people demanded the closure of Chinatown.",
-    "popularity": 31.9275,
-    "poster_path": "/g3GsgIlH3fA4RxhNOAMvSbVWyfW.jpg",
-    "release_date": "2025-01-29",
-    "title": "Detective Chinatown 1900",
-    "video": false,
-    "vote_average": 6.4,
-    "vote_count": 71
+    "vote_average": 8.423,
+    "vote_count": 26188
   },
   {
     "adult": false,
@@ -1078,135 +1203,12 @@
     "original_language": "fr",
     "original_title": "K.O.",
     "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
-    "popularity": 31.8895,
+    "popularity": 30.4517,
     "poster_path": "/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
     "release_date": "2025-06-05",
     "title": "K.O.",
     "video": false,
-    "vote_average": 6.587,
-    "vote_count": 196
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "id": 757725,
-    "original_language": "en",
-    "original_title": "Shadow Force",
-    "overview": "Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in order to protect their son, they go underground. With a large bounty on their heads, and the vengeful Shadow Force hot on their trail, one family's fight becomes all-out war.",
-    "popularity": 31.7765,
-    "poster_path": "/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
-    "release_date": "2025-05-01",
-    "title": "Shadow Force",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 119
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "id": 558449,
-    "original_language": "en",
-    "original_title": "Gladiator II",
-    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-    "popularity": 31.42,
-    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
-    "release_date": "2024-11-13",
-    "title": "Gladiator II",
-    "video": false,
-    "vote_average": 6.686,
-    "vote_count": 3671
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53,
-      12,
-      9648
-    ],
-    "id": 385687,
-    "original_language": "en",
-    "original_title": "Fast X",
-    "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
-    "popularity": 30.6459,
-    "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
-    "release_date": "2023-05-17",
-    "title": "Fast X",
-    "video": false,
-    "vote_average": 7.037,
-    "vote_count": 5963
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 539972,
-    "original_language": "en",
-    "original_title": "Kraven the Hunter",
-    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
-    "popularity": 30.5694,
-    "poster_path": "/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
-    "release_date": "2024-12-11",
-    "title": "Kraven the Hunter",
-    "video": false,
-    "vote_average": 6.526,
-    "vote_count": 1877
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "id": 297762,
-    "original_language": "en",
-    "original_title": "Wonder Woman",
-    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "popularity": 30.3438,
-    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
-    "release_date": "2017-05-30",
-    "title": "Wonder Woman",
-    "video": false,
-    "vote_average": 7.215,
-    "vote_count": 20335
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12,
-      28
-    ],
-    "id": 980477,
-    "original_language": "zh",
-    "original_title": "哪吒之魔童闹海",
-    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
-    "popularity": 30.2023,
-    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
-    "release_date": "2025-01-29",
-    "title": "Ne Zha 2",
-    "video": false,
-    "vote_average": 8.1,
-    "vote_count": 186
+    "vote_average": 6.58,
+    "vote_count": 199
   }
 ]

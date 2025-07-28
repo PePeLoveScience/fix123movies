@@ -1,7 +1,47 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+    "genre_ids": [
+      10751,
+      878,
+      35,
+      12
+    ],
+    "id": 552524,
+    "original_language": "en",
+    "original_title": "Lilo & Stitch",
+    "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+    "popularity": 633.1745,
+    "poster_path": "/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
+    "release_date": "2025-05-17",
+    "title": "Lilo & Stitch",
+    "video": false,
+    "vote_average": 7.348,
+    "vote_count": 1126
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 617126,
+    "original_language": "en",
+    "original_title": "The Fantastic 4: First Steps",
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "popularity": 416.2964,
+    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "release_date": "2025-07-23",
+    "title": "The Fantastic 4: First Steps",
+    "video": false,
+    "vote_average": 7.344,
+    "vote_count": 464
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
     "genre_ids": [
       878,
       12,
@@ -11,13 +51,13 @@
     "original_language": "en",
     "original_title": "Superman",
     "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "popularity": 399.7971,
+    "popularity": 320.7292,
     "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
     "release_date": "2025-07-09",
     "title": "Superman",
     "video": false,
-    "vote_average": 7.475,
-    "vote_count": 1045
+    "vote_average": 7.424,
+    "vote_count": 1231
   },
   {
     "adult": false,
@@ -31,34 +71,34 @@
     "original_language": "en",
     "original_title": "Karate Kid: Legends",
     "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
-    "popularity": 396.3329,
+    "popularity": 306.2789,
     "poster_path": "/AEgggzRr1vZCLY86MAp93li43z.jpg",
     "release_date": "2025-05-08",
     "title": "Karate Kid: Legends",
     "video": false,
-    "vote_average": 7.253,
-    "vote_count": 503
+    "vote_average": 7.212,
+    "vote_count": 555
   },
   {
     "adult": false,
-    "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+    "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
     "genre_ids": [
-      10751,
-      878,
-      35,
+      27,
+      28,
+      14,
       12
     ],
-    "id": 552524,
+    "id": 1058537,
     "original_language": "en",
-    "original_title": "Lilo & Stitch",
-    "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
-    "popularity": 291.1984,
-    "poster_path": "/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
-    "release_date": "2025-05-17",
-    "title": "Lilo & Stitch",
+    "original_title": "Angels Fallen: Warriors of Peace",
+    "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
+    "popularity": 281.3527,
+    "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+    "release_date": "2024-07-09",
+    "title": "Angels Fallen: Warriors of Peace",
     "video": false,
-    "vote_average": 7.222,
-    "vote_count": 925
+    "vote_average": 5.838,
+    "vote_count": 34
   },
   {
     "adult": false,
@@ -72,13 +112,13 @@
     "original_language": "en",
     "original_title": "Jurassic World Rebirth",
     "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-    "popularity": 266.6148,
-    "poster_path": "/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg",
+    "popularity": 250.4601,
+    "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
     "release_date": "2025-07-01",
     "title": "Jurassic World Rebirth",
     "video": false,
-    "vote_average": 6.372,
-    "vote_count": 754
+    "vote_average": 6.333,
+    "vote_count": 818
   },
   {
     "adult": false,
@@ -92,52 +132,13 @@
     "original_language": "en",
     "original_title": "Thunderbolts*",
     "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-    "popularity": 216.5059,
+    "popularity": 216.9315,
     "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
     "video": false,
-    "vote_average": 7.425,
-    "vote_count": 1930
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9A0wQG38VdEu3DYh8HzXKXKhA6g.jpg",
-    "genre_ids": [
-      12,
-      35,
-      10751
-    ],
-    "id": 1287536,
-    "original_language": "en",
-    "original_title": "Dora and the Search for Sol Dorado",
-    "overview": "Dora, Diego, and their new friends trek through the perilous dangers of the Amazonian jungle in search of the ancient and powerful treasure of Sol Dorado to keep it out of enemy hands.",
-    "popularity": 120.456,
-    "poster_path": "/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
-    "release_date": "2025-07-02",
-    "title": "Dora and the Search for Sol Dorado",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 68
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-    "genre_ids": [
-      878,
-      12
-    ],
-    "id": 617126,
-    "original_language": "en",
-    "original_title": "The Fantastic Four: First Steps",
-    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-    "popularity": 115.1372,
-    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
-    "release_date": "2025-07-23",
-    "title": "The Fantastic Four: First Steps",
-    "video": false,
-    "vote_average": 5.6,
-    "vote_count": 20
+    "vote_average": 7.4,
+    "vote_count": 2029
   },
   {
     "adult": false,
@@ -152,13 +153,35 @@
     "original_language": "en",
     "original_title": "xXx",
     "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-    "popularity": 112.2974,
+    "popularity": 142.5236,
     "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
     "release_date": "2002-08-09",
     "title": "xXx",
     "video": false,
-    "vote_average": 5.951,
-    "vote_count": 4473
+    "vote_average": 5.956,
+    "vote_count": 4488
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wcFV4uOdSbC0cSjs7ecAyOU6t59.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      14,
+      35
+    ],
+    "id": 947478,
+    "original_language": "en",
+    "original_title": "Diplodocus",
+    "overview": "When the world around him is mysteriously erased, a little green dinosaur named Diplodocus must travel through the pages of a comic book and adventure through time to bring color back to his land. Alongside a wizard and two scientists, Diplo’s plans go awry as he learns that there may be a dimension to his world that he never considered.",
+    "popularity": 130.9182,
+    "poster_path": "/9mnMMiwv20EL5weJrLZCaF8cM2u.jpg",
+    "release_date": "2024-10-04",
+    "title": "The Green Dinosaur",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 9
   },
   {
     "adult": false,
@@ -172,13 +195,13 @@
     "original_language": "zh",
     "original_title": "哪吒之魔童降世",
     "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
-    "popularity": 106.2337,
+    "popularity": 99.739,
     "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
     "release_date": "2019-07-26",
     "title": "Ne Zha",
     "video": false,
-    "vote_average": 7.945,
-    "vote_count": 568
+    "vote_average": 7.956,
+    "vote_count": 571
   },
   {
     "adult": false,
@@ -192,34 +215,97 @@
     "original_language": "en",
     "original_title": "Mission: Impossible - The Final Reckoning",
     "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-    "popularity": 98.7255,
+    "popularity": 96.9465,
     "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
     "release_date": "2025-05-17",
     "title": "Mission: Impossible - The Final Reckoning",
     "video": false,
-    "vote_average": 7.16,
-    "vote_count": 957
+    "vote_average": 7.2,
+    "vote_count": 968
   },
   {
     "adult": false,
-    "backdrop_path": "/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
+    "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "genre_ids": [
-      10751,
+      14,
       35,
+      10751,
       12,
-      16
+      28
     ],
-    "id": 1084153,
+    "id": 950387,
     "original_language": "en",
-    "original_title": "Sneaks",
-    "overview": "Ty, a misguided, one-of-a-kind designer sneaker, doesn’t know life outside the comforts of his velvet-lined shoebox. After his sister is stolen by a shady collector, Ty must venture into New York City to find and rescue her. In his adventure, Ty meets a ragtag group of footwear friends from all walks of life who help him find the courage to step outside of his shoebox and find his sole-mate.",
-    "popularity": 91.9882,
-    "poster_path": "/3SipvmtH9VOyLmII9JLs34qFfil.jpg",
-    "release_date": "2025-04-17",
-    "title": "Sneaks",
+    "original_title": "A Minecraft Movie",
+    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+    "popularity": 85.3503,
+    "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+    "release_date": "2025-03-31",
+    "title": "A Minecraft Movie",
     "video": false,
-    "vote_average": 5.895,
-    "vote_count": 19
+    "vote_average": 6.445,
+    "vote_count": 2124
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zldvlkHlHKwrD3kNidMoSNN4Ir6.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      12
+    ],
+    "id": 1100998,
+    "original_language": "en",
+    "original_title": "SuperKlaus",
+    "overview": "Santa Claus's wish comes true when he accidentally bumps his head and starts believing he's SuperKlaus. With the help of Billie and Leo his elf-xecutive assistant, SuperKlaus will take on a toy-obsessed businessman to save Christmas.",
+    "popularity": 77.272,
+    "poster_path": "/8sgc5TA8xsi4wpKrf7XrFKscujQ.jpg",
+    "release_date": "2024-11-01",
+    "title": "SuperKlaus",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9A0wQG38VdEu3DYh8HzXKXKhA6g.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "id": 1287536,
+    "original_language": "en",
+    "original_title": "Dora and the Search for Sol Dorado",
+    "overview": "Dora, Diego, and their new friends trek through the perilous dangers of the Amazonian jungle in search of the ancient and powerful treasure of Sol Dorado to keep it out of enemy hands.",
+    "popularity": 77.2968,
+    "poster_path": "/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+    "release_date": "2025-07-02",
+    "title": "Dora and the Search for Sol Dorado",
+    "video": false,
+    "vote_average": 6.76,
+    "vote_count": 75
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ],
+    "id": 1241982,
+    "original_language": "en",
+    "original_title": "Moana 2",
+    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+    "popularity": 63.4422,
+    "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+    "release_date": "2024-11-21",
+    "title": "Moana 2",
+    "video": false,
+    "vote_average": 7.065,
+    "vote_count": 2584
   },
   {
     "adult": false,
@@ -235,34 +321,13 @@
     "original_language": "en",
     "original_title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
     "overview": "A new adventure dawns for Zed and Addison when their summer road trip takes an unexpected detour, landing them in the middle of yet another monster rivalry: Daywalkers vs. Vampires. Tensions flare when Zed and Addison find themselves acting as camp counselors between the two opposing supernatural factions. With the help of Eliza and Willa, they must convince sworn enemies Nova and Victor to try to unite their warring worlds before an even greater threat endangers them all.",
-    "popularity": 91.8856,
-    "poster_path": "/6rGsqBxI4r1YkS9FuraovWi465w.jpg",
+    "popularity": 61.3416,
+    "poster_path": "/krrfKguKiToDlwRexetLsRsNtH6.jpg",
     "release_date": "2025-07-10",
     "title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
     "video": false,
-    "vote_average": 7.1,
-    "vote_count": 78
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      12,
-      14
-    ],
-    "id": 950387,
-    "original_language": "en",
-    "original_title": "A Minecraft Movie",
-    "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-    "popularity": 90.3454,
-    "poster_path": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
-    "release_date": "2025-03-31",
-    "title": "A Minecraft Movie",
-    "video": false,
-    "vote_average": 6.445,
-    "vote_count": 2099
+    "vote_average": 7.201,
+    "vote_count": 87
   },
   {
     "adult": false,
@@ -276,34 +341,13 @@
     "original_language": "en",
     "original_title": "The Twisters",
     "overview": "A deadly patchwork of destructive cyclones is on an apocalyptic path of convergence at a populated Midwest city center. There, the twisters will merge into one mega tornado that threatens to obliterate the cities for hundreds of miles around.",
-    "popularity": 67.2311,
+    "popularity": 65.3368,
     "poster_path": "/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg",
     "release_date": "2024-06-28",
     "title": "The Twisters",
     "video": false,
     "vote_average": 6,
-    "vote_count": 60
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-    "genre_ids": [
-      16,
-      12,
-      10751,
-      35
-    ],
-    "id": 1241982,
-    "original_language": "en",
-    "original_title": "Moana 2",
-    "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
-    "popularity": 66.9543,
-    "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
-    "release_date": "2024-11-21",
-    "title": "Moana 2",
-    "video": false,
-    "vote_average": 7.065,
-    "vote_count": 2571
+    "vote_count": 62
   },
   {
     "adult": false,
@@ -317,13 +361,54 @@
     "original_language": "zh",
     "original_title": "鬼吹灯：献王虫谷",
     "overview": "Adapted from the 3rd volume in the novel series \"Candle in the Tomb\" by Zhang Mu Ye. Hu Bayi, Wang Kaixuan, and Shiely Yang, infected with a curse, embark on a journey to King Xian's tomb to retrieve the Haochen Bead and break the curse. They face ancient organs, ghostly visions, explosive bugs, and a massive salamander.",
-    "popularity": 59.1893,
+    "popularity": 55.3778,
     "poster_path": "/7Hk1qxAvZi9H9cfBb4iHkoGjapH.jpg",
     "release_date": "2023-09-22",
     "title": "Candle in the Tomb: The Worm Valley",
     "video": false,
-    "vote_average": 6.846,
-    "vote_count": 27
+    "vote_average": 6.929,
+    "vote_count": 28
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 1084153,
+    "original_language": "en",
+    "original_title": "Sneaks",
+    "overview": "Ty, a misguided, one-of-a-kind designer sneaker, doesn’t know life outside the comforts of his velvet-lined shoebox. After his sister is stolen by a shady collector, Ty must venture into New York City to find and rescue her. In his adventure, Ty meets a ragtag group of footwear friends from all walks of life who help him find the courage to step outside of his shoebox and find his sole-mate.",
+    "popularity": 45.1674,
+    "poster_path": "/3SipvmtH9VOyLmII9JLs34qFfil.jpg",
+    "release_date": "2025-04-17",
+    "title": "Sneaks",
+    "video": false,
+    "vote_average": 5.792,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+    "genre_ids": [
+      12,
+      18,
+      878
+    ],
+    "id": 157336,
+    "original_language": "en",
+    "original_title": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "popularity": 45.6658,
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "release_date": "2014-11-05",
+    "title": "Interstellar",
+    "video": false,
+    "vote_average": 8.458,
+    "vote_count": 37519
   },
   {
     "adult": false,
@@ -337,13 +422,35 @@
     "original_language": "en",
     "original_title": "Jurassic World Dominion",
     "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
-    "popularity": 50.1621,
+    "popularity": 44.8028,
     "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
     "release_date": "2022-06-01",
     "title": "Jurassic World Dominion",
     "video": false,
-    "vote_average": 6.647,
-    "vote_count": 6539
+    "vote_average": 6.645,
+    "vote_count": 6552
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      80,
+      12,
+      16
+    ],
+    "id": 1175942,
+    "original_language": "en",
+    "original_title": "The Bad Guys 2",
+    "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+    "popularity": 51.8405,
+    "poster_path": "/iPYgLLhQ69vIvgDtGFtAln4TYtM.jpg",
+    "release_date": "2025-07-24",
+    "title": "The Bad Guys 2",
+    "video": false,
+    "vote_average": 8.429,
+    "vote_count": 7
   },
   {
     "adult": false,
@@ -358,13 +465,32 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon",
     "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
-    "popularity": 46.8547,
+    "popularity": 38.8494,
     "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
     "release_date": "2010-03-18",
     "title": "How to Train Your Dragon",
     "video": false,
-    "vote_average": 7.85,
-    "vote_count": 13619
+    "vote_average": 7.849,
+    "vote_count": 13644
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 671,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "popularity": 38.6512,
+    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "release_date": "2001-11-16",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "video": false,
+    "vote_average": 7.902,
+    "vote_count": 28421
   },
   {
     "adult": false,
@@ -379,13 +505,73 @@
     "original_language": "en",
     "original_title": "Inside Out 2",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
-    "popularity": 44.4631,
+    "popularity": 37.8092,
     "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
     "release_date": "2024-06-11",
     "title": "Inside Out 2",
     "video": false,
-    "vote_average": 7.554,
-    "vote_count": 5993
+    "vote_average": 7.553,
+    "vote_count": 6008
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      16
+    ],
+    "id": 762509,
+    "original_language": "en",
+    "original_title": "Mufasa: The Lion King",
+    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "popularity": 36.4762,
+    "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+    "release_date": "2024-12-18",
+    "title": "Mufasa: The Lion King",
+    "video": false,
+    "vote_average": 7.367,
+    "vote_count": 2278
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 558449,
+    "original_language": "en",
+    "original_title": "Gladiator II",
+    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "popularity": 36.3969,
+    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "release_date": "2024-11-13",
+    "title": "Gladiator II",
+    "video": false,
+    "vote_average": 6.682,
+    "vote_count": 3697
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 912649,
+    "original_language": "en",
+    "original_title": "Venom: The Last Dance",
+    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+    "popularity": 35.4219,
+    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    "release_date": "2024-10-22",
+    "title": "Venom: The Last Dance",
+    "video": false,
+    "vote_average": 6.711,
+    "vote_count": 3594
   },
   {
     "adult": false,
@@ -402,34 +588,34 @@
     "original_language": "en",
     "original_title": "How to Train Your Dragon 2",
     "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
-    "popularity": 43.4443,
+    "popularity": 36.67,
     "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
     "release_date": "2014-06-05",
     "title": "How to Train Your Dragon 2",
     "video": false,
-    "vote_average": 7.676,
-    "vote_count": 9949
+    "vote_average": 7.675,
+    "vote_count": 9958
   },
   {
     "adult": false,
-    "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
     "genre_ids": [
-      27,
-      28,
+      16,
       14,
-      12
+      12,
+      28
     ],
-    "id": 1058537,
-    "original_language": "en",
-    "original_title": "Angels Fallen: Warriors of Peace",
-    "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
-    "popularity": 42.3506,
-    "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
-    "release_date": "2024-07-09",
-    "title": "Angels Fallen: Warriors of Peace",
+    "id": 980477,
+    "original_language": "zh",
+    "original_title": "哪吒之魔童闹海",
+    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
+    "popularity": 35.227,
+    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
+    "release_date": "2025-01-29",
+    "title": "Ne Zha 2",
     "video": false,
-    "vote_average": 4.8,
-    "vote_count": 17
+    "vote_average": 8.1,
+    "vote_count": 186
   },
   {
     "adult": false,
@@ -443,33 +629,33 @@
     "original_language": "en",
     "original_title": "Kayara",
     "overview": "A courageous and athletic teenager, Kayara dreams that she is destined to be the first female to break into the league of Chasquis - the official messengers of the Incan empire. As she learns what it takes to be a Chasqui along with its challenges, she tackles every mission she gets and discovers the ancient stories of her land and her people.",
-    "popularity": 40.8036,
+    "popularity": 35.8408,
     "poster_path": "/tpZdjnoJ6Z3NsSxI6HjAIggrcEv.jpg",
     "release_date": "2025-01-02",
     "title": "Kayara",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 83
+    "vote_average": 7.567,
+    "vote_count": 89
   },
   {
     "adult": false,
-    "backdrop_path": "/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "genre_ids": [
-      12,
-      18,
-      878
+      878,
+      28,
+      12
     ],
-    "id": 157336,
+    "id": 24428,
     "original_language": "en",
-    "original_title": "Interstellar",
-    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "popularity": 39.1573,
-    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "release_date": "2014-11-05",
-    "title": "Interstellar",
+    "original_title": "The Avengers",
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "popularity": 36.3043,
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "release_date": "2012-04-25",
+    "title": "The Avengers",
     "video": false,
-    "vote_average": 8.457,
-    "vote_count": 37482
+    "vote_average": 7.781,
+    "vote_count": 32522
   },
   {
     "adult": false,
@@ -485,33 +671,135 @@
     "original_language": "en",
     "original_title": "Elio",
     "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
-    "popularity": 38.6744,
+    "popularity": 34.9281,
     "poster_path": "/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
     "release_date": "2025-06-18",
     "title": "Elio",
     "video": false,
     "vote_average": 6.8,
-    "vote_count": 197
+    "vote_count": 206
   },
   {
     "adult": false,
-    "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+    "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
     "genre_ids": [
+      28,
       12,
-      10751,
-      16
+      53
     ],
-    "id": 762509,
+    "id": 539972,
     "original_language": "en",
-    "original_title": "Mufasa: The Lion King",
-    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
-    "popularity": 37.7807,
-    "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
-    "release_date": "2024-12-18",
-    "title": "Mufasa: The Lion King",
+    "original_title": "Kraven the Hunter",
+    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "popularity": 34.0154,
+    "poster_path": "/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
+    "release_date": "2024-12-11",
+    "title": "Kraven the Hunter",
     "video": false,
-    "vote_average": 7.371,
-    "vote_count": 2269
+    "vote_average": 6.529,
+    "vote_count": 1890
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 297762,
+    "original_language": "en",
+    "original_title": "Wonder Woman",
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "popularity": 34.3777,
+    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "release_date": "2017-05-30",
+    "title": "Wonder Woman",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 20344
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "id": 166428,
+    "original_language": "en",
+    "original_title": "How to Train Your Dragon: The Hidden World",
+    "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+    "popularity": 33.0153,
+    "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+    "release_date": "2019-01-03",
+    "title": "How to Train Your Dragon: The Hidden World",
+    "video": false,
+    "vote_average": 7.752,
+    "vote_count": 6730
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "genre_ids": [
+      28,
+      14,
+      12
+    ],
+    "id": 324544,
+    "original_language": "en",
+    "original_title": "In the Lost Lands",
+    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+    "popularity": 35.4685,
+    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
+    "release_date": "2025-02-27",
+    "title": "In the Lost Lands",
+    "video": false,
+    "vote_average": 6.49,
+    "vote_count": 561
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8SaEH4kYCy7JlviyhKtSVsMkt4r.jpg",
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "id": 1315988,
+    "original_language": "es",
+    "original_title": "Mikaela",
+    "overview": "During the eve of the 6th of January, a record-breaking snowstorm sweeps across Spain. In the midst of its chaos, a group of robbers seizes the opportunity to hijack an armoured van. A few meters away is Leo, a finished policeman who has nothing to lose. With the unexpected aid of a young woman, he will try to stop the band from running away with their loot.",
+    "popularity": 36.366,
+    "poster_path": "/xG8olkWOmoW78GbozKbS2UxYGEo.jpg",
+    "release_date": "2025-01-31",
+    "title": "Mikaela",
+    "video": false,
+    "vote_average": 6.242,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53,
+      12,
+      9648
+    ],
+    "id": 385687,
+    "original_language": "en",
+    "original_title": "Fast X",
+    "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+    "popularity": 33.2038,
+    "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+    "release_date": "2023-05-17",
+    "title": "Fast X",
+    "video": false,
+    "vote_average": 7.036,
+    "vote_count": 5969
   },
   {
     "adult": false,
@@ -528,94 +816,53 @@
     "original_language": "en",
     "original_title": "Kung Fu Panda 4",
     "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
-    "popularity": 36.4739,
+    "popularity": 29.4591,
     "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
     "release_date": "2024-03-02",
     "title": "Kung Fu Panda 4",
     "video": false,
-    "vote_average": 7.056,
-    "vote_count": 3146
+    "vote_average": 7.058,
+    "vote_count": 3151
   },
   {
     "adult": false,
-    "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
     "genre_ids": [
       12,
-      14
+      14,
+      28
     ],
-    "id": 671,
+    "id": 120,
     "original_language": "en",
-    "original_title": "Harry Potter and the Philosopher's Stone",
-    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
-    "popularity": 36.432,
-    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
-    "release_date": "2001-11-16",
-    "title": "Harry Potter and the Philosopher's Stone",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "popularity": 31.2789,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "release_date": "2001-12-18",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
     "video": false,
-    "vote_average": 7.902,
-    "vote_count": 28406
+    "vote_average": 8.423,
+    "vote_count": 26188
   },
   {
     "adult": false,
-    "backdrop_path": "/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "backdrop_path": "/rU9kRB3rBU5O7AMReZCiuIy7zmE.jpg",
     "genre_ids": [
       28,
-      14,
+      18,
       12
     ],
-    "id": 324544,
-    "original_language": "en",
-    "original_title": "In the Lost Lands",
-    "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-    "popularity": 36.1321,
-    "poster_path": "/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
-    "release_date": "2025-02-27",
-    "title": "In the Lost Lands",
+    "id": 1450599,
+    "original_language": "fr",
+    "original_title": "K.O.",
+    "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
+    "popularity": 30.4517,
+    "poster_path": "/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
+    "release_date": "2025-06-05",
+    "title": "K.O.",
     "video": false,
-    "vote_average": 6.477,
-    "vote_count": 550
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      12
-    ],
-    "id": 166428,
-    "original_language": "en",
-    "original_title": "How to Train Your Dragon: The Hidden World",
-    "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
-    "popularity": 36.1045,
-    "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
-    "release_date": "2019-01-03",
-    "title": "How to Train Your Dragon: The Hidden World",
-    "video": false,
-    "vote_average": 7.751,
-    "vote_count": 6715
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wcFV4uOdSbC0cSjs7ecAyOU6t59.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      12,
-      14,
-      35
-    ],
-    "id": 947478,
-    "original_language": "en",
-    "original_title": "Diplodocus",
-    "overview": "When the world around him is mysteriously erased, a little green dinosaur named Diplodocus must travel through the pages of a comic book and adventure through time to bring color back to his land. Alongside a wizard and two scientists, Diplo’s plans go awry as he learns that there may be a dimension to his world that he never considered.",
-    "popularity": 35.6938,
-    "poster_path": "/9mnMMiwv20EL5weJrLZCaF8cM2u.jpg",
-    "release_date": "2024-10-04",
-    "title": "The Green Dinosaur",
-    "video": false,
-    "vote_average": 8,
-    "vote_count": 8
+    "vote_average": 6.58,
+    "vote_count": 199
   },
   {
     "adult": false,
@@ -630,33 +877,53 @@
     "original_language": "en",
     "original_title": "Jurassic World",
     "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "popularity": 35.2924,
+    "popularity": 28.9701,
     "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
     "release_date": "2015-06-06",
     "title": "Jurassic World",
     "video": false,
     "vote_average": 6.699,
-    "vote_count": 20859
+    "vote_count": 20869
   },
   {
     "adult": false,
-    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "backdrop_path": "/or5kDR8Ve3TtuPSdEf1X5NdQHyz.jpg",
     "genre_ids": [
       28,
-      878,
-      12
+      12,
+      878
     ],
-    "id": 912649,
+    "id": 166424,
     "original_language": "en",
-    "original_title": "Venom: The Last Dance",
-    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-    "popularity": 35.1849,
-    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-    "release_date": "2024-10-22",
-    "title": "Venom: The Last Dance",
+    "original_title": "Fantastic Four",
+    "overview": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
+    "popularity": 32.0634,
+    "poster_path": "/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+    "release_date": "2015-08-05",
+    "title": "Fantastic Four",
     "video": false,
-    "vote_average": 6.711,
-    "vote_count": 3580
+    "vote_average": 4.4,
+    "vote_count": 6146
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 1979,
+    "original_language": "en",
+    "original_title": "Fantastic Four: Rise of the Silver Surfer",
+    "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+    "popularity": 36.1136,
+    "poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+    "release_date": "2007-06-13",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "video": false,
+    "vote_average": 5.615,
+    "vote_count": 8042
   },
   {
     "adult": false,
@@ -671,176 +938,33 @@
     "original_language": "en",
     "original_title": "Jurassic World: Fallen Kingdom",
     "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-    "popularity": 33.3945,
+    "popularity": 28.782,
     "poster_path": "/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
     "release_date": "2018-06-06",
     "title": "Jurassic World: Fallen Kingdom",
     "video": false,
     "vote_average": 6.541,
-    "vote_count": 12202
+    "vote_count": 12215
   },
   {
     "adult": false,
-    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
-    "id": 24428,
-    "original_language": "en",
-    "original_title": "The Avengers",
-    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "popularity": 32.292,
-    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "release_date": "2012-04-25",
-    "title": "The Avengers",
-    "video": false,
-    "vote_average": 7.777,
-    "vote_count": 32445
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rU9kRB3rBU5O7AMReZCiuIy7zmE.jpg",
-    "genre_ids": [
-      28,
-      18,
-      12
-    ],
-    "id": 1450599,
-    "original_language": "fr",
-    "original_title": "K.O.",
-    "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
-    "popularity": 31.8895,
-    "poster_path": "/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
-    "release_date": "2025-06-05",
-    "title": "K.O.",
-    "video": false,
-    "vote_average": 6.587,
-    "vote_count": 196
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "id": 558449,
-    "original_language": "en",
-    "original_title": "Gladiator II",
-    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
-    "popularity": 31.42,
-    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
-    "release_date": "2024-11-13",
-    "title": "Gladiator II",
-    "video": false,
-    "vote_average": 6.686,
-    "vote_count": 3671
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53,
-      12,
-      9648
-    ],
-    "id": 385687,
-    "original_language": "en",
-    "original_title": "Fast X",
-    "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
-    "popularity": 30.6459,
-    "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
-    "release_date": "2023-05-17",
-    "title": "Fast X",
-    "video": false,
-    "vote_average": 7.037,
-    "vote_count": 5963
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bGGjyPqtNc8hhGkPo8W8D8t90bW.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 539972,
-    "original_language": "en",
-    "original_title": "Kraven the Hunter",
-    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
-    "popularity": 30.5694,
-    "poster_path": "/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
-    "release_date": "2024-12-11",
-    "title": "Kraven the Hunter",
-    "video": false,
-    "vote_average": 6.526,
-    "vote_count": 1877
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "backdrop_path": "/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg",
     "genre_ids": [
       28,
       12,
       14
     ],
-    "id": 297762,
+    "id": 209112,
     "original_language": "en",
-    "original_title": "Wonder Woman",
-    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "popularity": 30.3438,
-    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
-    "release_date": "2017-05-30",
-    "title": "Wonder Woman",
+    "original_title": "Batman v Superman: Dawn of Justice",
+    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+    "popularity": 28.6341,
+    "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+    "release_date": "2016-03-23",
+    "title": "Batman v Superman: Dawn of Justice",
     "video": false,
-    "vote_average": 7.215,
-    "vote_count": 20335
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12,
-      28
-    ],
-    "id": 980477,
-    "original_language": "zh",
-    "original_title": "哪吒之魔童闹海",
-    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
-    "popularity": 30.2023,
-    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
-    "release_date": "2025-01-29",
-    "title": "Ne Zha 2",
-    "video": false,
-    "vote_average": 8.1,
-    "vote_count": 186
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 49521,
-    "original_language": "en",
-    "original_title": "Man of Steel",
-    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
-    "popularity": 29.7177,
-    "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
-    "release_date": "2013-06-12",
-    "title": "Man of Steel",
-    "video": false,
-    "vote_average": 6.633,
-    "vote_count": 15535
+    "vote_average": 6,
+    "vote_count": 18398
   },
   {
     "adult": false,
@@ -854,33 +978,75 @@
     "original_language": "en",
     "original_title": "Avengers: Infinity War",
     "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "popularity": 27.8094,
+    "popularity": 27.0041,
     "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "release_date": "2018-04-25",
     "title": "Avengers: Infinity War",
     "video": false,
     "vote_average": 8.2,
-    "vote_count": 30744
+    "vote_count": 30759
   },
   {
     "adult": false,
-    "backdrop_path": "/4zhpx2zUxJZvwiBfghOE25wCUWW.jpg",
+    "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 27205,
+    "original_language": "en",
+    "original_title": "Inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "popularity": 28.2009,
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "release_date": "2010-07-15",
+    "title": "Inception",
+    "video": false,
+    "vote_average": 8.369,
+    "vote_count": 37714
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
     "genre_ids": [
       16,
       35,
-      12
+      14,
+      12,
+      10751
     ],
-    "id": 1064307,
-    "original_language": "no",
-    "original_title": "Spermageddon",
-    "overview": "Two narrative threads - one is an emerging love story between two awkward teens, Jens and Lisa, who are having sex for the first time and the other is an eventful quest of Simon the Semen and his friends to reach the golden goal, the Egg.",
-    "popularity": 27.6312,
-    "poster_path": "/n7SFxle8CVzMXzfV8GNCXqdg78m.jpg",
-    "release_date": "2025-02-21",
-    "title": "Spermageddon",
+    "id": 808,
+    "original_language": "en",
+    "original_title": "Shrek",
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "popularity": 22.5275,
+    "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "release_date": "2001-05-18",
+    "title": "Shrek",
     "video": false,
-    "vote_average": 7.02,
-    "vote_count": 25
+    "vote_average": 7.753,
+    "vote_count": 17833
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 634649,
+    "original_language": "en",
+    "original_title": "Spider-Man: No Way Home",
+    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "popularity": 26.6373,
+    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "release_date": "2021-12-15",
+    "title": "Spider-Man: No Way Home",
+    "video": false,
+    "vote_average": 7.943,
+    "vote_count": 20933
   },
   {
     "adult": false,
@@ -895,152 +1061,13 @@
     "original_language": "lv",
     "original_title": "Straume",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-    "popularity": 27.3052,
+    "popularity": 25.023,
     "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
     "release_date": "2024-08-29",
     "title": "Flow",
     "video": false,
-    "vote_average": 8.17,
-    "vote_count": 2136
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3N5QNUqS76GFYNoEayfkkJyAyTN.jpg",
-    "genre_ids": [
-      35,
-      12
-    ],
-    "id": 346698,
-    "original_language": "en",
-    "original_title": "Barbie",
-    "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-    "popularity": 26.8181,
-    "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-    "release_date": "2023-06-18",
-    "title": "Barbie",
-    "video": false,
-    "vote_average": 7,
-    "vote_count": 10101
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 27205,
-    "original_language": "en",
-    "original_title": "Inception",
-    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-    "popularity": 26.6853,
-    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-    "release_date": "2010-07-15",
-    "title": "Inception",
-    "video": false,
-    "vote_average": 8.369,
-    "vote_count": 37691
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
-    "genre_ids": [
-      878,
-      35,
-      12
-    ],
-    "id": 696506,
-    "original_language": "en",
-    "original_title": "Mickey 17",
-    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
-    "popularity": 26.3035,
-    "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-    "release_date": "2025-02-28",
-    "title": "Mickey 17",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 2413
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 634649,
-    "original_language": "en",
-    "original_title": "Spider-Man: No Way Home",
-    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "popularity": 26.2528,
-    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "release_date": "2021-12-15",
-    "title": "Spider-Man: No Way Home",
-    "video": false,
-    "vote_average": 7.9,
-    "vote_count": 20918
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
-    "genre_ids": [
-      12,
-      14,
-      28
-    ],
-    "id": 120,
-    "original_language": "en",
-    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
-    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-    "popularity": 25.6798,
-    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
-    "release_date": "2001-12-18",
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "video": false,
-    "vote_average": 8.4,
-    "vote_count": 26168
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
-    "genre_ids": [
-      10751,
-      14,
-      12
-    ],
-    "id": 896536,
-    "original_language": "en",
-    "original_title": "The Legend of Ochi",
-    "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
-    "popularity": 25.5121,
-    "poster_path": "/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
-    "release_date": "2025-04-18",
-    "title": "The Legend of Ochi",
-    "video": false,
-    "vote_average": 6.329,
-    "vote_count": 149
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/doiUtOHzcxXFl0GVQ2n8Ay6Pirx.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "id": 209112,
-    "original_language": "en",
-    "original_title": "Batman v Superman: Dawn of Justice",
-    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
-    "popularity": 25.4748,
-    "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
-    "release_date": "2016-03-23",
-    "title": "Batman v Superman: Dawn of Justice",
-    "video": false,
-    "vote_average": 5.982,
-    "vote_count": 18383
+    "vote_average": 8.167,
+    "vote_count": 2151
   },
   {
     "adult": false,
@@ -1054,53 +1081,111 @@
     "original_language": "en",
     "original_title": "Mission: Impossible - Dead Reckoning Part One",
     "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
-    "popularity": 24.8119,
+    "popularity": 23.9893,
     "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
     "release_date": "2023-07-08",
     "title": "Mission: Impossible - Dead Reckoning Part One",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 4457
+    "vote_average": 7.526,
+    "vote_count": 4469
   },
   {
     "adult": false,
-    "backdrop_path": "/ce51NvJSO5ReNkm3C3YDX5jsH1V.jpg",
+    "backdrop_path": "/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg",
     "genre_ids": [
+      28,
       12,
-      10751,
-      99
+      878
     ],
-    "id": 1094473,
-    "original_language": "fr",
-    "original_title": "Bambi, l'histoire d'une vie dans les bois",
-    "overview": "The life of Bambi, a male roe deer, from his birth through childhood, the loss of his mother, the finding of a mate, the lessons he learns from his father, and the experience he gains about the dangers posed by human hunters in the forest.",
-    "popularity": 24.4618,
-    "poster_path": "/vWNVHtwOhcoOEUSrY1iHRGbgH8O.jpg",
-    "release_date": "2024-10-16",
-    "title": "Bambi: A Life in the Woods",
+    "id": 49521,
+    "original_language": "en",
+    "original_title": "Man of Steel",
+    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+    "popularity": 24.6105,
+    "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+    "release_date": "2013-06-12",
+    "title": "Man of Steel",
     "video": false,
-    "vote_average": 5.9,
-    "vote_count": 32
+    "vote_average": 6.633,
+    "vote_count": 15547
   },
   {
     "adult": false,
-    "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+    "backdrop_path": "/o869RihWTdTyBcEZBjz0izvEsVf.jpg",
     "genre_ids": [
       878,
-      28,
       12
     ],
-    "id": 1924,
+    "id": 693134,
     "original_language": "en",
-    "original_title": "Superman",
-    "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
-    "popularity": 24.091,
-    "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
-    "release_date": "1978-12-14",
-    "title": "Superman",
+    "original_title": "Dune: Part Two",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "popularity": 23.1934,
+    "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "release_date": "2024-02-27",
+    "title": "Dune: Part Two",
     "video": false,
-    "vote_average": 7.147,
-    "vote_count": 4011
+    "vote_average": 8.142,
+    "vote_count": 6867
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ],
+    "id": 83533,
+    "original_language": "en",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "popularity": 23.9764,
+    "poster_path": "/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+    "release_date": "2025-12-17",
+    "title": "Avatar: Fire and Ash",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 76600,
+    "original_language": "en",
+    "original_title": "Avatar: The Way of Water",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "popularity": 25.7356,
+    "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "release_date": "2022-12-14",
+    "title": "Avatar: The Way of Water",
+    "video": false,
+    "vote_average": 7.611,
+    "vote_count": 12701
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 674,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Goblet of Fire",
+    "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+    "popularity": 23.0669,
+    "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+    "release_date": "2005-11-16",
+    "title": "Harry Potter and the Goblet of Fire",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 21309
   },
   {
     "adult": false,
@@ -1114,113 +1199,32 @@
     "original_language": "en",
     "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
-    "popularity": 24.0552,
+    "popularity": 24.6492,
     "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
     "release_date": "2005-12-07",
     "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
     "video": false,
     "vote_average": 7.134,
-    "vote_count": 10992
+    "vote_count": 10995
   },
   {
     "adult": false,
-    "backdrop_path": "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      80,
-      12,
-      16
-    ],
-    "id": 1175942,
-    "original_language": "en",
-    "original_title": "The Bad Guys 2",
-    "overview": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
-    "popularity": 23.995,
-    "poster_path": "/iPYgLLhQ69vIvgDtGFtAln4TYtM.jpg",
-    "release_date": "2025-07-25",
-    "title": "The Bad Guys 2",
-    "video": false,
-    "vote_average": 9,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yHzyPJrVqlTySQ9mc379yxrLBYQ.jpg",
-    "genre_ids": [
-      12,
-      14
-    ],
-    "id": 672,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Chamber of Secrets",
-    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
-    "popularity": 23.5197,
-    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
-    "release_date": "2002-11-13",
-    "title": "Harry Potter and the Chamber of Secrets",
-    "video": false,
-    "vote_average": 7.707,
-    "vote_count": 22669
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
-    "genre_ids": [
-      37,
-      12,
-      80
-    ],
-    "id": 1195518,
-    "original_language": "en",
-    "original_title": "The Unholy Trinity",
-    "overview": "Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.",
-    "popularity": 23.4027,
-    "poster_path": "/zSK2sdgeBr41HoKckDZHE4L5zYV.jpg",
-    "release_date": "2025-06-13",
-    "title": "The Unholy Trinity",
-    "video": false,
-    "vote_average": 6.57,
-    "vote_count": 43
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o869RihWTdTyBcEZBjz0izvEsVf.jpg",
+    "backdrop_path": "/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
     "genre_ids": [
       878,
+      35,
       12
     ],
-    "id": 693134,
+    "id": 696506,
     "original_language": "en",
-    "original_title": "Dune: Part Two",
-    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-    "popularity": 23.399,
-    "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
-    "release_date": "2024-02-27",
-    "title": "Dune: Part Two",
+    "original_title": "Mickey 17",
+    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+    "popularity": 26.748,
+    "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+    "release_date": "2025-02-28",
+    "title": "Mickey 17",
     "video": false,
-    "vote_average": 8.144,
-    "vote_count": 6851
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-    "genre_ids": [
-      16,
-      28,
-      12,
-      878
-    ],
-    "id": 569094,
-    "original_language": "en",
-    "original_title": "Spider-Man: Across the Spider-Verse",
-    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "popularity": 23.3019,
-    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "release_date": "2023-05-31",
-    "title": "Spider-Man: Across the Spider-Verse",
-    "video": false,
-    "vote_average": 8.348,
-    "vote_count": 7715
+    "vote_average": 6.885,
+    "vote_count": 2451
   }
 ]

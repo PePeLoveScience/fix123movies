@@ -1,29 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
-    "genre_ids": [
-      18,
-      10768,
-      10759,
-      80
-    ],
-    "id": 49071,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Kurtlar Vadisi: Pusu",
-    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
-    "popularity": 138.2562,
-    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
-    "first_air_date": "2007-04-19",
-    "name": "Valley of the Wolves: Ambush",
-    "vote_average": 6.2,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
     "backdrop_path": "/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
     "genre_ids": [
       10759,
@@ -37,12 +14,12 @@
     "original_language": "en",
     "original_name": "Vikings",
     "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
-    "popularity": 135.1149,
+    "popularity": 125.6843,
     "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
     "first_air_date": "2013-03-03",
     "name": "Vikings",
     "vote_average": 8.097,
-    "vote_count": 7242
+    "vote_count": 7247
   },
   {
     "adult": false,
@@ -59,12 +36,34 @@
     "original_language": "en",
     "original_name": "The Young Turks",
     "overview": "Online American liberal/progressive political and social commentary program hosted by Cenk Uygur and Ana Kasparian",
-    "popularity": 107.7211,
+    "popularity": 98.223,
     "poster_path": "/zTQaglWNTPn4fWoE2r7bORH0i2F.jpg",
     "first_air_date": "",
     "name": "The Young Turks",
     "vote_average": 6.1,
     "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zi40ANCqdvVqCN3q43g1hjdVCsp.jpg",
+    "genre_ids": [
+      18,
+      10768,
+      80
+    ],
+    "id": 1407,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Homeland",
+    "overview": "CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.",
+    "popularity": 71.7928,
+    "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "first_air_date": "2011-10-02",
+    "name": "Homeland",
+    "vote_average": 7.569,
+    "vote_count": 2353
   },
   {
     "adult": false,
@@ -80,143 +79,12 @@
     "original_language": "en",
     "original_name": "Hogan's Heroes",
     "overview": "Hogan's Heroes is an American television sitcom that ran for 168 episodes from September 17, 1965, to July 4, 1971, on the CBS network. The show was set in a German prisoner of war camp during World War II. Bob Crane starred as Colonel Robert E. Hogan, coordinating an international crew of Allied prisoners running a Special Operations group from the camp. Werner Klemperer played Colonel Wilhelm Klink, the commandant of the camp, and John Banner was the inept sergeant-of-the-guard, Hans Schultz.\n\nThe series was popular during its six-season run. In 2013, creators Bernard Fein through his estate and Albert S. Ruddy acquired the sequel and other separate rights to Hogan's Heroes from Mark Cuban through arbitration and a movie based on the show has been planned.",
-    "popularity": 93.8748,
+    "popularity": 53.186,
     "poster_path": "/qifpp3AmNx54Ko4obdwxOWNf0lo.jpg",
     "first_air_date": "1965-09-17",
     "name": "Hogan's Heroes",
     "vote_average": 7.535,
     "vote_count": 170
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4L38sYtXVOedaQxXmA42wrqFh7x.jpg",
-    "genre_ids": [
-      10768,
-      10751,
-      18
-    ],
-    "id": 49599,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Sakarya Fırat",
-    "overview": "",
-    "popularity": 88.6693,
-    "poster_path": "/esqyip0atCBKfaTsFQJrvO1GiXW.jpg",
-    "first_air_date": "2009-12-16",
-    "name": "Sakarya Fırat",
-    "vote_average": 7.2,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
-    "genre_ids": [
-      18,
-      10768,
-      80
-    ],
-    "id": 1407,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Homeland",
-    "overview": "CIA officer Carrie Mathison is tops in her field despite being bipolar, which makes her volatile and unpredictable. With the help of her long-time mentor Saul Berenson, Carrie fearlessly risks everything, including her personal well-being and even sanity, at every turn.",
-    "popularity": 78.9269,
-    "poster_path": "/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-    "first_air_date": "2011-10-02",
-    "name": "Homeland",
-    "vote_average": 7.569,
-    "vote_count": 2351
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10768
-    ],
-    "id": 63333,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Last Kingdom",
-    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
-    "popularity": 78.5066,
-    "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-    "first_air_date": "2015-10-10",
-    "name": "The Last Kingdom",
-    "vote_average": 8.253,
-    "vote_count": 1831
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 113962,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Lioness",
-    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-    "popularity": 78.2741,
-    "poster_path": "/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
-    "first_air_date": "2023-07-23",
-    "name": "Lioness",
-    "vote_average": 8.039,
-    "vote_count": 1025
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
-    "genre_ids": [
-      18,
-      10765,
-      10768
-    ],
-    "id": 87917,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "For All Mankind",
-    "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
-    "popularity": 76.1503,
-    "poster_path": "/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
-    "first_air_date": "2019-11-01",
-    "name": "For All Mankind",
-    "vote_average": 7.701,
-    "vote_count": 802
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eUBeiFHzCk92zhENaSKM1AIoG56.jpg",
-    "genre_ids": [
-      10763,
-      10767,
-      10768
-    ],
-    "id": 10478,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Washington Week with The Atlantic",
-    "overview": "Journalists participate in a round-table discussion of news events in this award-winning public affairs series. It first aired in 1967, making it the longest-running prime-time news and public affairs program on television.",
-    "popularity": 72.3174,
-    "poster_path": "/iqHg9JkybU8lISs7cEbMyO59fGC.jpg",
-    "first_air_date": "1967-02-23",
-    "name": "Washington Week with The Atlantic",
-    "vote_average": 9.5,
-    "vote_count": 2
   },
   {
     "adult": false,
@@ -233,12 +101,34 @@
     "original_language": "en",
     "original_name": "M*A*S*H",
     "overview": "The 4077th Mobile Army Surgical Hospital is stuck in the middle of the Korean war. With little help from the circumstances they find themselves in, they are forced to make their own fun. Fond of practical jokes and revenge, the doctors, nurses, administrators, and soldiers often find ways of making wartime life bearable.",
-    "popularity": 69.5507,
+    "popularity": 64.3358,
     "poster_path": "/6rhuM3oMoEWKxAdrm7IyM8oq8cC.jpg",
     "first_air_date": "1972-09-17",
     "name": "M*A*S*H",
     "vote_average": 7.925,
     "vote_count": 694
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+    "genre_ids": [
+      18,
+      10765,
+      10768
+    ],
+    "id": 87917,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "For All Mankind",
+    "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+    "popularity": 63.0049,
+    "poster_path": "/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
+    "first_air_date": "2019-11-01",
+    "name": "For All Mankind",
+    "vote_average": 7.703,
+    "vote_count": 804
   },
   {
     "adult": false,
@@ -255,76 +145,78 @@
     "original_language": "en",
     "original_name": "SEAL Team",
     "overview": "Military drama following the professional and personal lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high stakes missions our country can ask of them.",
-    "popularity": 69.4402,
+    "popularity": 62.9909,
     "poster_path": "/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg",
     "first_air_date": "2017-09-27",
     "name": "SEAL Team",
-    "vote_average": 8.038,
+    "vote_average": 8,
     "vote_count": 1568
   },
   {
     "adult": false,
-    "backdrop_path": "/q3N4r8UDu54x57xi8pcXfHiaQD0.jpg",
+    "backdrop_path": "/60H7NVQ9W8fto57rD9RbNzR1clu.jpg",
     "genre_ids": [
+      18,
       10768,
-      18
+      10759,
+      80
     ],
-    "id": 17039,
+    "id": 49071,
     "origin_country": [
-      "KR"
+      "TR"
     ],
-    "original_language": "ko",
-    "original_name": "태조 왕건",
-    "overview": "Taejo Wang Geon was a 200-episode Korean drama starring Choi Soo Jong in the title role. It became very successful, reaching very high ratings, around 60%.",
-    "popularity": 67.3288,
-    "poster_path": "/65MbbOoGKkbwgMJD3QufjUr4O22.jpg",
-    "first_air_date": "2000-04-01",
-    "name": "Emperor Wang Gun",
-    "vote_average": 3.2,
-    "vote_count": 4
+    "original_language": "tr",
+    "original_name": "Kurtlar Vadisi: Pusu",
+    "overview": "A continuation series of Osman Sinav's The Wolves Of The Valley. This produce focuses on politics, National Security and Regional Middle East problems. The Wolves of The Valley: Ambush serie also attracts attention by two film; The Wolves of The Valley: Iraq and The Wolves of The Valley: Palestine.",
+    "popularity": 44.5106,
+    "poster_path": "/wDWkjobSJm8I5r2ctSPtneUjHxT.jpg",
+    "first_air_date": "2007-04-19",
+    "name": "Valley of the Wolves: Ambush",
+    "vote_average": 6.21,
+    "vote_count": 31
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/ifZYdmNuMWimFCUGGcYAs9bHNlv.jpg",
     "genre_ids": [
-      10768,
-      18
+      10759,
+      18,
+      10768
     ],
-    "id": 13813,
+    "id": 63333,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "The Last Kingdom",
+    "overview": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, loyalty and our universal search for identity. Combining real historical figures and events with fictional characters, it is the story of how a people combined their strength under one of the most iconic kings of history in order to reclaim their land for themselves and build a place they call home.",
+    "popularity": 56.7416,
+    "poster_path": "/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+    "first_air_date": "2015-10-10",
+    "name": "The Last Kingdom",
+    "vote_average": 8.254,
+    "vote_count": 1832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 113962,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Navy Log",
-    "overview": "Navy Log is an American drama anthology series that initially aired for one season on CBS. It relates the greatest survival war stories in the history of the United States Navy. This series premiered on September 20, 1955, but the following year, it was moved to ABC, where it aired until September 25, 1958. The program aired for a total of three seasons and 102 episodes.",
-    "popularity": 59.4797,
-    "poster_path": null,
-    "first_air_date": "1955-09-20",
-    "name": "Navy Log",
-    "vote_average": 4.5,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xVmFF9v7JzAXJf4OSMuTQpsqXK0.jpg",
-    "genre_ids": [
-      10765,
-      18,
-      10768
-    ],
-    "id": 32152,
-    "origin_country": [
-      "HK"
-    ],
-    "original_language": "cn",
-    "original_name": "神鵰俠侶",
-    "overview": "The Return of the Condor Heroes is a Hong Kong television series adapted from Louis Cha's novel of the same title. It was first broadcast on TVB Jade from 31 October 1983 to 6 January 1984 in Hong Kong.",
-    "popularity": 56.7685,
-    "poster_path": "/6I0eu1qFArRchIt7ds1VW1dCJXZ.jpg",
-    "first_air_date": "1983-10-31",
-    "name": "The Return of the Condor Heroes",
-    "vote_average": 7.2,
-    "vote_count": 4
+    "original_name": "Lioness",
+    "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+    "popularity": 57.0393,
+    "poster_path": "/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
+    "first_air_date": "2023-07-23",
+    "name": "Lioness",
+    "vote_average": 8.039,
+    "vote_count": 1025
   },
   {
     "adult": false,
@@ -341,55 +233,12 @@
     "original_language": "tr",
     "original_name": "Kuruluş Osman",
     "overview": "The life of Osman Bey, the son of Ertuğrul and the founder of the Ottoman Empire, as he established and controlled it, facing internal and external struggles against Byzantium and the Mongol Ilkhanate.",
-    "popularity": 56.3286,
+    "popularity": 55.2639,
     "poster_path": "/tu4BWsGFHcYDWulZwHxylA91vo0.jpg",
     "first_air_date": "2019-11-20",
     "name": "Kuruluş Osman",
-    "vote_average": 8,
-    "vote_count": 276
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wcAlFoCFuFUS6fZ6MfJ1nQhubDY.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 117839,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "峠の群像",
-    "overview": "",
-    "popularity": 55.7492,
-    "poster_path": "/w2ByMLnavVdsW9oouV68LJ5gosz.jpg",
-    "first_air_date": "1982-01-10",
-    "name": "Toge no Gunzo",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10768
-    ],
-    "id": 73375,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Tom Clancy's Jack Ryan",
-    "overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
-    "popularity": 53.9229,
-    "poster_path": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
-    "first_air_date": "2018-08-30",
-    "name": "Tom Clancy's Jack Ryan",
-    "vote_average": 7.684,
-    "vote_count": 1635
+    "vote_average": 7.968,
+    "vote_count": 278
   },
   {
     "adult": false,
@@ -405,35 +254,12 @@
     "original_language": "en",
     "original_name": "Masters of the Air",
     "overview": "During World War II, airmen risk their lives with the 100th Bomb Group, a brotherhood forged by courage, loss, and triumph.",
-    "popularity": 53.7061,
+    "popularity": 46.7797,
     "poster_path": "/rSAmgcoA74371rplbqM27yVsd3y.jpg",
     "first_air_date": "2024-01-25",
     "name": "Masters of the Air",
     "vote_average": 7.777,
     "vote_count": 489
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vP1hpd9TwacAQxSEKf6Wfgucr0z.jpg",
-    "genre_ids": [
-      9648,
-      18,
-      10768,
-      80
-    ],
-    "id": 3163,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Foyle's War",
-    "overview": "As WW2 rages around the world, DCS Foyle fights his own war on the home-front as he investigates crimes on the south coast of England. Foyle's War opens in southern England in the year 1940. Later series sees the retired detective working as an MI5 agent operating in the aftermath of the war.",
-    "popularity": 50.8611,
-    "poster_path": "/avPXLCHNUGVtTu52X5VStZRoHDD.jpg",
-    "first_air_date": "2002-10-27",
-    "name": "Foyle's War",
-    "vote_average": 7.907,
-    "vote_count": 97
   },
   {
     "adult": false,
@@ -451,78 +277,12 @@
     "original_language": "ja",
     "original_name": "８６―エイティシックス―",
     "overview": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools. Determined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.",
-    "popularity": 50.0802,
+    "popularity": 45.9648,
     "poster_path": "/pp2gzafNPiug63UskS2niHK9Y04.jpg",
     "first_air_date": "2021-04-11",
     "name": "86 EIGHTY-SIX",
     "vote_average": 8.087,
     "vote_count": 179
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dfWbyhujRsX6B0AcQE0f3QtUhxk.jpg",
-    "genre_ids": [
-      99,
-      10768
-    ],
-    "id": 82670,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "World War Two",
-    "overview": "Follow the deadliest conflict in human history in real time, week by week, blow by blow.",
-    "popularity": 49.7375,
-    "poster_path": "/wAs1ai9mVvebPK2Fz46oKjipeTt.jpg",
-    "first_air_date": "2018-09-01",
-    "name": "World War Two",
-    "vote_average": 8,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/52mp7oFltDUkw3kx1ArlRZkLyr3.jpg",
-    "genre_ids": [
-      16,
-      10768,
-      10759,
-      10765
-    ],
-    "id": 64375,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "機動戦士ガンダム 鉄血のオルフェンズ",
-    "overview": "On a terraformed post-disaster Mars, a group of child security agents rebel against the adults who betrayed them and the oppressive Earth government.",
-    "popularity": 48.6502,
-    "poster_path": "/4CuZBnOBafYCI7WKfOkHUSElZCw.jpg",
-    "first_air_date": "2015-10-04",
-    "name": "Mobile Suit Gundam: Iron-Blooded Orphans",
-    "vote_average": 7.5,
-    "vote_count": 52
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dQle7u6ryfexZ5lUByPVdV7Lw2v.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10768
-    ],
-    "id": 72645,
-    "origin_country": [
-      "CN"
-    ],
-    "original_language": "zh",
-    "original_name": "三国演义",
-    "overview": "Adapted from the classical 14th century novel of the same title by Luo Guanzhong, Romance of the Three Kingdoms is part historical, part legend, and part mythical – romanticises and dramatises the lives of feudal lords and their retainers, who tried to replace the dwindling Han dynasty or restore it. The focus is mainly on the three power blocs that emerged from the remnants of the Han dynasty, and would eventually form the three states of Cao Wei, Shu Han, and Eastern Wu.",
-    "popularity": 47.4157,
-    "poster_path": "/ex6DcbKNim993aFjEasrU1fIMXT.jpg",
-    "first_air_date": "1994-02-10",
-    "name": "The Romance Of Three Kingdoms",
-    "vote_average": 9.1,
-    "vote_count": 31
   },
   {
     "adult": false,
@@ -540,212 +300,99 @@
     "original_language": "ja",
     "original_name": "新機動戦記ガンダムW",
     "overview": "After Colony (A.C.) 195. Mankind has moved into space. Thousands of people live on giant orbiting space colonies called \"Sides.\" However, the Earth Government, which rules the colonies, is unjust and cruel. A group of revolutionaries builds five robotic weapons called Gundams and plans to send them to Earth to begin their fight for independence. Piloted by five young men, these Gundams carry the hopes and dreams of freedom of the colonists with them as they descend to Earth to begin Operation Meteor!",
-    "popularity": 46.1493,
+    "popularity": 43.3707,
     "poster_path": "/ggHmrZpipHfdEqaGQbv4JrWv0f6.jpg",
     "first_air_date": "1995-04-07",
     "name": "Mobile Suit Gundam Wing",
     "vote_average": 7.7,
-    "vote_count": 87
+    "vote_count": 88
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/52mp7oFltDUkw3kx1ArlRZkLyr3.jpg",
     "genre_ids": [
+      16,
       10768,
-      35
+      10759,
+      10765
     ],
-    "id": 34887,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Dennis Miller",
-    "overview": "",
-    "popularity": 46.0296,
-    "poster_path": "/88NOmH9e99Q9FWUzEXpCQRL2qvt.jpg",
-    "first_air_date": "2004-01-26",
-    "name": "Dennis Miller",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lSYcgYOedOTLOg92WwncU726PoE.jpg",
-    "genre_ids": [
-      10768,
-      18,
-      10759
-    ],
-    "id": 11095,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Tour of Duty",
-    "overview": "The trials of a U.S. Army platoon serving in the field during the Vietnam War.",
-    "popularity": 45.8267,
-    "poster_path": "/uVH3fzDl5vqYolREnppV4Os45gd.jpg",
-    "first_air_date": "1987-09-24",
-    "name": "Tour of Duty",
-    "vote_average": 8,
-    "vote_count": 167
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qc6Acd7rkOJz79rlVmYbmxS73eR.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 76948,
+    "id": 64375,
     "origin_country": [
       "JP"
     ],
     "original_language": "ja",
-    "original_name": "西郷どん",
-    "overview": "Saigo Takamori, the hero of the Meiji Restoration, was born to a poor, low-ranking samurai family in the Satsuma domain (present day Kagoshima Prefecture). His simple honesty caught the attention of its charismatic feudal lord of Satsuma, Shimazu Nariakira. Nariakira’s assertion that the love of people is what will enrich and strengthen the nation captivated Saigo who took on Nariakira’s secret mission and eventually became a key person for Satsuma. Not a portrait of him survives today and much of his life is a mystery. He is a man who was twice exiled and thrice married. He overthrew the Tokugawa Shogunate with exceptional bravery and action. Although he accomplished the restoration, he lost his life in a fight with the new Meiji government.",
-    "popularity": 45.6389,
-    "poster_path": "/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg",
-    "first_air_date": "2018-01-07",
-    "name": "Segodon",
-    "vote_average": 8.3,
-    "vote_count": 6
+    "original_name": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "overview": "On a terraformed post-disaster Mars, a group of child security agents rebel against the adults who betrayed them and the oppressive Earth government.",
+    "popularity": 43.5632,
+    "poster_path": "/4CuZBnOBafYCI7WKfOkHUSElZCw.jpg",
+    "first_air_date": "2015-10-04",
+    "name": "Mobile Suit Gundam: Iron-Blooded Orphans",
+    "vote_average": 7.5,
+    "vote_count": 52
   },
   {
     "adult": false,
-    "backdrop_path": "/hmxB1meDdUe3e6x81OOjp5NU2Bz.jpg",
+    "backdrop_path": "/4nEjagN4daaOUC8LIKGViem88Id.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "id": 17039,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "태조 왕건",
+    "overview": "Taejo Wang Geon was a 200-episode Korean drama starring Choi Soo Jong in the title role. It became very successful, reaching very high ratings, around 60%.",
+    "popularity": 44.3883,
+    "poster_path": "/65MbbOoGKkbwgMJD3QufjUr4O22.jpg",
+    "first_air_date": "2000-04-01",
+    "name": "Emperor Wang Gun",
+    "vote_average": 3.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eUBeiFHzCk92zhENaSKM1AIoG56.jpg",
     "genre_ids": [
       10763,
       10767,
       10768
     ],
-    "id": 15437,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "The Big Questions",
-    "overview": "Nicky Campbell hosts a series of moral, ethical and religious debates.",
-    "popularity": 45.0417,
-    "poster_path": "/zVaxHUQ4uHMyn4FDWdmrj5Sp22G.jpg",
-    "first_air_date": "2007-09-09",
-    "name": "The Big Questions",
-    "vote_average": 6.7,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 126308,
+    "id": 10478,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Shōgun",
-    "overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
-    "popularity": 43.8999,
-    "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
-    "first_air_date": "2024-02-27",
-    "name": "Shōgun",
-    "vote_average": 8.474,
-    "vote_count": 1403
+    "original_name": "Washington Week with The Atlantic",
+    "overview": "Journalists participate in a round-table discussion of news events in this award-winning public affairs series. It first aired in 1967, making it the longest-running prime-time news and public affairs program on television.",
+    "popularity": 43.0624,
+    "poster_path": "/iqHg9JkybU8lISs7cEbMyO59fGC.jpg",
+    "first_air_date": "1967-02-23",
+    "name": "Washington Week with The Atlantic",
+    "vote_average": 9.5,
+    "vote_count": 2
   },
   {
     "adult": false,
-    "backdrop_path": "/5XGftDCYAaAeZJtiacNF5ORV4VD.jpg",
+    "backdrop_path": "/AhufsCP0kYIkpr0Iy2GrLSM1noL.jpg",
     "genre_ids": [
-      10759,
       18,
-      9648,
       10768
     ],
-    "id": 34639,
+    "id": 67026,
     "origin_country": [
-      "CA",
-      "FR"
+      "US"
     ],
     "original_language": "en",
-    "original_name": "XIII: The Series",
-    "overview": "After a plot to kill the president of the USA an agent with lost memories tries to recover his life and memories. Others use him to cover up some dirty business involving high ranking officials from the CIA and the White House.",
-    "popularity": 43.7275,
-    "poster_path": "/jGr9iZFXCl8XOnHOAj17AYz85fr.jpg",
-    "first_air_date": "2011-04-18",
-    "name": "XIII: The Series",
-    "vote_average": 6.2,
-    "vote_count": 50
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vxSDDV6VxTHkrABsNa3dqhExAIk.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      18,
-      10765,
-      10768
-    ],
-    "id": 21732,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "機動戦士ガンダム00",
-    "overview": "The year is 2307 A.D. Although fossil fuels have been depleted, humanity has obtained a new source of energy to replace them, in the form of a large-scale solar power generation system based on three huge orbital elevators. However, the benefits of this system are available only to a handful of major powers and their allies. In this world of never-ending conflict, a private armed organization appears, dedicated to the elimination of war through armed force. Its name is Celestial Being, and it is in possession of \"Gundam\" mobile suits.",
-    "popularity": 43.4553,
-    "poster_path": "/1uEgsZ47dtBCoKLlL9edQ0QMrRF.jpg",
-    "first_air_date": "2007-10-06",
-    "name": "Mobile Suit Gundam 00",
-    "vote_average": 7.6,
-    "vote_count": 50
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ty3fCZumomMkHPHRxACDQJkTEyD.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      18,
-      10765,
-      10768
-    ],
-    "id": 62430,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "アルスラーン戦記",
-    "overview": "Arslan is the heir apparent of Pars, a strong nation that sits at the hear of the trade route connecting the East and the West. When the pagan nation of Lusitania begins an invasion of Pars, the timid Arslan is confronted with battle for the first time. His worst anxieties are realized the Parsian army falls for a Lusitanian stratagem and are routed. He barely escapes with his life, thanks to the loyal and indomitable warrior Daryun. Together they will stand against the invasion and the cruelties of fate that are about to blow down on Pars.",
-    "popularity": 43.3126,
-    "poster_path": "/p6F6pGoNNtIViDxHkU4wDeseiyJ.jpg",
-    "first_air_date": "2015-04-05",
-    "name": "The Heroic Legend of Arslan",
-    "vote_average": 7,
-    "vote_count": 75
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lYEkr6NqI52NHu7CGK84GuU5ws9.jpg",
-    "genre_ids": [
-      10768,
-      18
-    ],
-    "id": 39824,
-    "origin_country": [
-      "PH"
-    ],
-    "original_language": "tl",
-    "original_name": "Reputasyon",
-    "overview": "Reputasyon is a Philippine romance drama previously aired by ABS-CBN. It stars Cristine Reyes together with Rayver Cruz and Jason Abalos. It also stars the daytime television comeback of Aiko Melendez and Jaclyn Jose. It originally aired on the 2:00-2:45 p.m. timeslot, until September 19, 2011 when it was moved to the 5:00-5:45 p.m. timeslot as requested by the televiewers.",
-    "popularity": 42.8928,
-    "poster_path": "/eOuenc67y5UiKYyhleTpjrxBTU2.jpg",
-    "first_air_date": "2011-07-11",
-    "name": "Reputasyon",
-    "vote_average": 6,
-    "vote_count": 1
+    "original_name": "Designated Survivor",
+    "overview": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
+    "popularity": 40.9233,
+    "poster_path": "/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
+    "first_air_date": "2016-09-21",
+    "name": "Designated Survivor",
+    "vote_average": 7.118,
+    "vote_count": 1016
   },
   {
     "adult": false,
@@ -761,12 +408,230 @@
     "original_language": "en",
     "original_name": "Band of Brothers",
     "overview": "Drawn from interviews with survivors of Easy Company, as well as their journals and letters, Band of Brothers chronicles the experiences of these men from paratrooper training in Georgia through the end of the war. As an elite rifle company parachuting into Normandy early on D-Day morning, participants in the Battle of the Bulge, and witness to the horrors of war, the men of Easy knew extraordinary bravery and extraordinary fear - and became the stuff of legend. Based on Stephen E. Ambrose's acclaimed book of the same name.",
-    "popularity": 42.7918,
+    "popularity": 40.4089,
     "poster_path": "/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
     "first_air_date": "2001-09-09",
     "name": "Band of Brothers",
     "vote_average": 8.569,
-    "vote_count": 3807
+    "vote_count": 3811
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dQle7u6ryfexZ5lUByPVdV7Lw2v.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 72645,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "三国演义",
+    "overview": "Adapted from the classical 14th century novel of the same title by Luo Guanzhong, Romance of the Three Kingdoms is part historical, part legend, and part mythical – romanticises and dramatises the lives of feudal lords and their retainers, who tried to replace the dwindling Han dynasty or restore it. The focus is mainly on the three power blocs that emerged from the remnants of the Han dynasty, and would eventually form the three states of Cao Wei, Shu Han, and Eastern Wu.",
+    "popularity": 40.6579,
+    "poster_path": "/ex6DcbKNim993aFjEasrU1fIMXT.jpg",
+    "first_air_date": "1994-02-10",
+    "name": "The Romance Of Three Kingdoms",
+    "vote_average": 9.1,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ilOyhH7yuNGouUlsAiSEw3lMJxR.jpg",
+    "genre_ids": [
+      10767,
+      10763,
+      10768,
+      99
+    ],
+    "id": 214158,
+    "origin_country": [
+      "HU"
+    ],
+    "original_language": "hu",
+    "original_name": "JÓLVANEZÍGY",
+    "overview": "",
+    "popularity": 39.6594,
+    "poster_path": "/zRbI59RTsXN0CwcagmhSPokLDck.jpg",
+    "first_air_date": "2023-01-02",
+    "name": "JÓLVANEZÍGY",
+    "vote_average": 10,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
+    "genre_ids": [
+      10759,
+      10768,
+      18
+    ],
+    "id": 66857,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Shooter",
+    "overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
+    "popularity": 41.2488,
+    "poster_path": "/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg",
+    "first_air_date": "2016-11-15",
+    "name": "Shooter",
+    "vote_average": 7.2,
+    "vote_count": 680
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bwSmgmd90hCWwqOKQYTEraeOZhJ.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 126308,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Shōgun",
+    "overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+    "popularity": 39.6547,
+    "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+    "first_air_date": "2024-02-27",
+    "name": "Shōgun",
+    "vote_average": 8.469,
+    "vote_count": 1407
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2y2TbzeKZHYqTN5gb4nBv9dKk1f.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 73375,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tom Clancy's Jack Ryan",
+    "overview": "When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+    "popularity": 42.476,
+    "poster_path": "/cO4py3L3q5GNPrA0qr1wVDrosK1.jpg",
+    "first_air_date": "2018-08-30",
+    "name": "Tom Clancy's Jack Ryan",
+    "vote_average": 7.682,
+    "vote_count": 1639
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lYEkr6NqI52NHu7CGK84GuU5ws9.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "id": 39824,
+    "origin_country": [
+      "PH"
+    ],
+    "original_language": "tl",
+    "original_name": "Reputasyon",
+    "overview": "Reputasyon is a Philippine romance drama previously aired by ABS-CBN. It stars Cristine Reyes together with Rayver Cruz and Jason Abalos. It also stars the daytime television comeback of Aiko Melendez and Jaclyn Jose. It originally aired on the 2:00-2:45 p.m. timeslot, until September 19, 2011 when it was moved to the 5:00-5:45 p.m. timeslot as requested by the televiewers.",
+    "popularity": 38.5369,
+    "poster_path": "/eOuenc67y5UiKYyhleTpjrxBTU2.jpg",
+    "first_air_date": "2011-07-11",
+    "name": "Reputasyon",
+    "vote_average": 6,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "id": 13813,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Navy Log",
+    "overview": "Navy Log is an American drama anthology series that initially aired for one season on CBS. It relates the greatest survival war stories in the history of the United States Navy. This series premiered on September 20, 1955, but the following year, it was moved to ABC, where it aired until September 25, 1958. The program aired for a total of three seasons and 102 episodes.",
+    "popularity": 37.3327,
+    "poster_path": null,
+    "first_air_date": "1955-09-20",
+    "name": "Navy Log",
+    "vote_average": 4.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b8lcISvAlFL2nMWwQm486053rXV.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      10768,
+      10759
+    ],
+    "id": 34190,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "聖戦士ダンバイン",
+    "overview": "After a motocross accident, Sho Zama was pulled from Japan into the mystical world of Byston Well, where he and others from Earth were reicruited by Lord Drake Luft to pilot his newest weapons, the Aura Battlers, a combination of Byston Well magic and Earthien technology. However, in the heat of battle, Sho is approached by Marvel, a woman from Earth, who convinces him of Luft's sinister intentions.",
+    "popularity": 40.034,
+    "poster_path": "/5PtPwM1r86RoBCCyHfpPCKdOtPt.jpg",
+    "first_air_date": "1983-02-05",
+    "name": "Aura Battler Dunbine",
+    "vote_average": 8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bFaJvaB1T1ZOzhIPAsYcr4X71Vd.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 136778,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "どうする家康",
+    "overview": "The drama series depicts the life of Tokugawa Ieyasu (January 31, 1543 – June 1, 1616).\n\nTakechiyo (who later becomes Tokugawa Ieyasu) was born as the son of a poor and powerless daimyo. Takechiyo lost his father during a war. He grew up lonely and away from his mother. Takechiyo didn't have a clue about what his future would hold. He then has a dramatic meeting with the young Oda Nobunaga.",
+    "popularity": 37.7262,
+    "poster_path": "/yIA6KveOCGwacod51XfMUoNGBMR.jpg",
+    "first_air_date": "2023-01-08",
+    "name": "What Will You Do, Ieyasu?",
+    "vote_average": 7.7,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      10768
+    ],
+    "id": 116135,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Vikings: Valhalla",
+    "overview": "In this sequel to \"Vikings,\" a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
+    "popularity": 39.1732,
+    "poster_path": "/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg",
+    "first_air_date": "2022-02-25",
+    "name": "Vikings: Valhalla",
+    "vote_average": 7.704,
+    "vote_count": 962
   },
   {
     "adult": false,
@@ -786,7 +651,7 @@
     "original_language": "ja",
     "original_name": "機動戦士ガンダムZZ",
     "overview": "The year is Universal Century 0088. Directly after the end of the  Gryps War, Haman Karn and her army of Zeon remnants on the asteroid Axis  begin their quest of reviving the lost empire of the Zabi's, and  proclaim themselves as the Neo-Zeon. With the Earth Federation as  hapless as ever, only the Anti-Earth Union Group (AEUG) is able oppose  the plans of Neo-Zeon. In need of all the help it can get after being  decimated in the previous war and losing many of its key members, the  AEUG ship Argama enlists the aid of a young junk collector from the Side  1 colony of Shangri-La named Judau Ashta to pilot its newest mobile  suit, the ZZ Gundam.",
-    "popularity": 42.6641,
+    "popularity": 37.3931,
     "poster_path": "/u7GMUFdfljplCbySERldRUReP6P.jpg",
     "first_air_date": "1986-03-01",
     "name": "Mobile Suit Gundam ZZ",
@@ -795,68 +660,24 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/ilOyhH7yuNGouUlsAiSEw3lMJxR.jpg",
+    "backdrop_path": "/xVmFF9v7JzAXJf4OSMuTQpsqXK0.jpg",
     "genre_ids": [
-      10767,
-      10763,
-      10768,
-      99
-    ],
-    "id": 214158,
-    "origin_country": [
-      "HU"
-    ],
-    "original_language": "hu",
-    "original_name": "JÓLVANEZÍGY",
-    "overview": "",
-    "popularity": 42.5651,
-    "poster_path": "/zRbI59RTsXN0CwcagmhSPokLDck.jpg",
-    "first_air_date": "2023-01-02",
-    "name": "JÓLVANEZÍGY",
-    "vote_average": 10,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1zLmjQs8SwUk31BIRX0NcGQDZYC.jpg",
-    "genre_ids": [
-      10759,
+      10765,
       18,
       10768
     ],
-    "id": 41099,
+    "id": 32152,
     "origin_country": [
-      "JP"
+      "HK"
     ],
-    "original_language": "ja",
-    "original_name": "平清盛",
-    "overview": "Villain or hero, Taira no Kiyomori changed Japanese history forever 900 years ago. Without ever knowing his real father, Kiyomori was raised as a samurai. Together with his stepfather, he wiped out piracy along Japan's western coast, becoming a full-fledged warrior samurai. In an age when samurai were looked down on as members of the lower class, Kiyomori was skillful at winning the hearts and minds of the people. By rounding up surrendered pirates and achieving other successes, Kiyomori eventually became the de facto ruler of Japan.",
-    "popularity": 42.3797,
-    "poster_path": "/azpWUUJBApctlG8cJoCTpFPLuyk.jpg",
-    "first_air_date": "2012-01-08",
-    "name": "Taira no Kiyomori",
-    "vote_average": 8,
-    "vote_count": 10
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10768,
-      35
-    ],
-    "id": 7918,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Ensign O'Toole",
-    "overview": "Ensign O'Toole is a military comedy that aired on NBC from September 23, 1962, to May 5, 1963, with 31-year-old Dean Jones in the title role of a nonchalant United States Navy ensign during the early 1960s. Jones, born in 1931 in Alabama and a Navy veteran of the Korean War, played an officer aboard the fictional U.S. Navy destroyer USS Appleby, which roamed the Pacific Ocean.",
-    "popularity": 42.2203,
-    "poster_path": "/vnNC5cCgL62wVk9afNj3kN074QJ.jpg",
-    "first_air_date": "1962-09-23",
-    "name": "Ensign O'Toole",
-    "vote_average": 6.5,
+    "original_language": "cn",
+    "original_name": "神鵰俠侶",
+    "overview": "The Return of the Condor Heroes is a Hong Kong television series adapted from Louis Cha's novel of the same title. It was first broadcast on TVB Jade from 31 October 1983 to 6 January 1984 in Hong Kong.",
+    "popularity": 37.746,
+    "poster_path": "/6I0eu1qFArRchIt7ds1VW1dCJXZ.jpg",
+    "first_air_date": "1983-10-31",
+    "name": "The Return of the Condor Heroes",
+    "vote_average": 7.2,
     "vote_count": 4
   },
   {
@@ -875,56 +696,12 @@
     "original_language": "ja",
     "original_name": "バジリスク甲賀忍法帖",
     "overview": "The story takes place in the year 1614. Two ninja clans, Tsubagakure of the Iga and Manjidani of Kouga, battle each other to determine which grandson of Tokugawa Ieyasu will become the next shogun. The deadly competition between 10 elite ninja from each clan unleashes a centuries-old hatred that threatens to destroy all hope for peace between them.",
-    "popularity": 41.6051,
+    "popularity": 36.5336,
     "poster_path": "/oqLJUgkLjL7FK3NdSpnG7NZHPva.jpg",
     "first_air_date": "2005-04-12",
     "name": "Basilisk",
     "vote_average": 7.4,
     "vote_count": 94
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bFaJvaB1T1ZOzhIPAsYcr4X71Vd.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 136778,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "どうする家康",
-    "overview": "The drama series depicts the life of Tokugawa Ieyasu (January 31, 1543 – June 1, 1616).\n\nTakechiyo (who later becomes Tokugawa Ieyasu) was born as the son of a poor and powerless daimyo. Takechiyo lost his father during a war. He grew up lonely and away from his mother. Takechiyo didn't have a clue about what his future would hold. He then has a dramatic meeting with the young Oda Nobunaga.",
-    "popularity": 40.0517,
-    "poster_path": "/yIA6KveOCGwacod51XfMUoNGBMR.jpg",
-    "first_air_date": "2023-01-08",
-    "name": "What Will You Do, Ieyasu?",
-    "vote_average": 7.7,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/b8lcISvAlFL2nMWwQm486053rXV.jpg",
-    "genre_ids": [
-      16,
-      10765,
-      10768,
-      10759
-    ],
-    "id": 34190,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "聖戦士ダンバイン",
-    "overview": "After a motocross accident, Sho Zama was pulled from Japan into the mystical world of Byston Well, where he and others from Earth were reicruited by Lord Drake Luft to pilot his newest weapons, the Aura Battlers, a combination of Byston Well magic and Earthien technology. However, in the heat of battle, Sho is approached by Marvel, a woman from Earth, who convinces him of Luft's sinister intentions.",
-    "popularity": 40.3826,
-    "poster_path": "/5PtPwM1r86RoBCCyHfpPCKdOtPt.jpg",
-    "first_air_date": "1983-02-05",
-    "name": "Aura Battler Dunbine",
-    "vote_average": 8,
-    "vote_count": 4
   },
   {
     "adult": false,
@@ -941,7 +718,7 @@
     "original_language": "zh",
     "original_name": "隋唐英雄",
     "overview": "Heroes emerged in large numbers during the tumultuous and short-lived Sui to early Tang dynasty period. Most famous among them are Qin Qiong, Luo Cheng, Cheng Yao Jin, Shan Xiong Xin and Wei Chi Gong, known as the \"Five Tigers of Sui and Tang\", who would help Li Shi Min defeat rebels and rivals and pacify the land. The drama will start with the establishment of the Sui dynasty and end with Li Shi Min's ascension to the throne.",
-    "popularity": 40.7839,
+    "popularity": 37.2813,
     "poster_path": "/xDWhzwXcp8dAn6unvA87nE7Dqh3.jpg",
     "first_air_date": "2012-12-03",
     "name": "Heroes of Sui and Tang Dynasties",
@@ -950,46 +727,265 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/AhufsCP0kYIkpr0Iy2GrLSM1noL.jpg",
+    "backdrop_path": null,
+    "genre_ids": [
+      10768,
+      35
+    ],
+    "id": 34887,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dennis Miller",
+    "overview": "",
+    "popularity": 37.7065,
+    "poster_path": "/88NOmH9e99Q9FWUzEXpCQRL2qvt.jpg",
+    "first_air_date": "2004-01-26",
+    "name": "Dennis Miller",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gRm6VeU3glb0bV0wPJYaTysdfbz.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "id": 4316,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Combat!",
+    "overview": "Combat! is an American television program that originally aired on ABC from 1962 until 1967. The show covered the grim lives of a squad of American soldiers fighting the Germans in France during World War II. The program starred Rick Jason as platoon leader Second Lieutenant Gil Hanley and Vic Morrow as Sergeant \"Chip\" Saunders.",
+    "popularity": 36.5395,
+    "poster_path": "/4Xk9VQ5Xa6jkRHBINkHiRzRNgde.jpg",
+    "first_air_date": "1962-10-02",
+    "name": "Combat!",
+    "vote_average": 7.655,
+    "vote_count": 103
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zK1OaOHgl7dNAE1sKEMXatu2I1s.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10768,
+      18
+    ],
+    "id": 13674,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士Zガンダム",
+    "overview": "Universal Century 0087, 7 years have passed since the end of the One Year War between the Earth Federation and the Principality of Zeon. The Earth Federation has created an elite task force, known as the Titans, who are responsible for hunting the remaining Zeon forces. However, the power-hungry Titans have spurred the creation of a rebellious faction called the Anti-Earth Union Group (AEUG).",
+    "popularity": 37.3925,
+    "poster_path": "/pmErEd15QbO05OJ3awhr7jvs8LQ.jpg",
+    "first_air_date": "1985-03-02",
+    "name": "Mobile Suit Zeta Gundam",
+    "vote_average": 8,
+    "vote_count": 36
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/t4JPNpET4aEmMA4Fg7Bfc7tI6jQ.jpg",
     "genre_ids": [
       18,
       10768
     ],
-    "id": 67026,
+    "id": 216082,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Designated Survivor",
-    "overview": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
-    "popularity": 42.0625,
-    "poster_path": "/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
-    "first_air_date": "2016-09-21",
-    "name": "Designated Survivor",
-    "vote_average": 7.117,
-    "vote_count": 1015
+    "original_name": "Zero Day",
+    "overview": "A former U.S. President is called out of retirement to find the source of a deadly cyberattack, only to discover a vast web of lies and conspiracies.",
+    "popularity": 32.7873,
+    "poster_path": "/odIyR46aAX59dvQ1ON4P53ow1aE.jpg",
+    "first_air_date": "2025-02-20",
+    "name": "Zero Day",
+    "vote_average": 6.941,
+    "vote_count": 329
   },
   {
     "adult": false,
-    "backdrop_path": "/dyysEEonr5tPcgItlfHItfx5ZCY.jpg",
+    "backdrop_path": "/qc6Acd7rkOJz79rlVmYbmxS73eR.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 76948,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "西郷どん",
+    "overview": "Saigo Takamori, the hero of the Meiji Restoration, was born to a poor, low-ranking samurai family in the Satsuma domain (present day Kagoshima Prefecture). His simple honesty caught the attention of its charismatic feudal lord of Satsuma, Shimazu Nariakira. Nariakira’s assertion that the love of people is what will enrich and strengthen the nation captivated Saigo who took on Nariakira’s secret mission and eventually became a key person for Satsuma. Not a portrait of him survives today and much of his life is a mystery. He is a man who was twice exiled and thrice married. He overthrew the Tokugawa Shogunate with exceptional bravery and action. Although he accomplished the restoration, he lost his life in a fight with the new Meiji government.",
+    "popularity": 31.2186,
+    "poster_path": "/9r4YQcnjCf36Hu87lc2oUcwdEgX.jpg",
+    "first_air_date": "2018-01-07",
+    "name": "Segodon",
+    "vote_average": 8.3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1zLmjQs8SwUk31BIRX0NcGQDZYC.jpg",
     "genre_ids": [
       10759,
-      10768,
-      18
+      18,
+      10768
     ],
-    "id": 66857,
+    "id": 41099,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "平清盛",
+    "overview": "Villain or hero, Taira no Kiyomori changed Japanese history forever 900 years ago. Without ever knowing his real father, Kiyomori was raised as a samurai. Together with his stepfather, he wiped out piracy along Japan's western coast, becoming a full-fledged warrior samurai. In an age when samurai were looked down on as members of the lower class, Kiyomori was skillful at winning the hearts and minds of the people. By rounding up surrendered pirates and achieving other successes, Kiyomori eventually became the de facto ruler of Japan.",
+    "popularity": 32.1718,
+    "poster_path": "/azpWUUJBApctlG8cJoCTpFPLuyk.jpg",
+    "first_air_date": "2012-01-08",
+    "name": "Taira no Kiyomori",
+    "vote_average": 8,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
+    "genre_ids": [
+      18,
+      10768
+    ],
+    "id": 61148,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "기황후",
+    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
+    "popularity": 33.382,
+    "poster_path": "/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "first_air_date": "2013-10-28",
+    "name": "Empress Ki",
+    "vote_average": 7.292,
+    "vote_count": 60
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wWWSYvpWJAXMerWnyaOi2jVASNe.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      18,
+      10768
+    ],
+    "id": 45835,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動戦士 ガンダム AGE",
+    "overview": "Advanced Generation (A.G.) 101. The space colony Angel is attacked and destroyed by a mysterious \"Unknown Enemy\" with overwhelming strength. As this \"UE\" continues its attacks, a boy named Flit Asuno loses his mother when she is caught in the crossfire. Now in A.G. 115, Flit must fight using a new Gundam of his own creation, which evolves itself through battle. The curtain rises on an epic Gundam saga spanning 100 years and three generations.",
+    "popularity": 31.2554,
+    "poster_path": "/ApcwLXh9JOf3B5gl4i2Gna9ssc1.jpg",
+    "first_air_date": "2011-10-09",
+    "name": "Mobile Suit Gundam AGE",
+    "vote_average": 8.6,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dfWbyhujRsX6B0AcQE0f3QtUhxk.jpg",
+    "genre_ids": [
+      99,
+      10768
+    ],
+    "id": 82670,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Shooter",
-    "overview": "Bob Lee Swagger is an expert marksman living in exile who is coaxed back into action after learning of a plot to kill the president.",
-    "popularity": 40.1272,
-    "poster_path": "/oMmqtafm6Rdlka1ejJeC9BDWzyO.jpg",
-    "first_air_date": "2016-11-15",
-    "name": "Shooter",
-    "vote_average": 7.2,
-    "vote_count": 680
+    "original_name": "World War Two",
+    "overview": "Follow the deadliest conflict in human history in real time, week by week, blow by blow.",
+    "popularity": 32.8051,
+    "poster_path": "/wAs1ai9mVvebPK2Fz46oKjipeTt.jpg",
+    "first_air_date": "2018-09-01",
+    "name": "World War Two",
+    "vote_average": 8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kjSk3SAx8WGblUQTYo5yFHePPnY.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "id": 246621,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Mehmed: Fetihler Sultanı",
+    "overview": "The project, which will follow the story on the life of one of the most important rulers in Ottoman history, Fatih Sultan Mehmed, will also feature important stages of the life of Eyüp el Ensari, an important figure in the Islamic world, in parallel with Fatih's life.",
+    "popularity": 31.4918,
+    "poster_path": "/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg",
+    "first_air_date": "2024-02-27",
+    "name": "Mehmed: Sultan of Conquests",
+    "vote_average": 6.714,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pRhovUlpsYILfVwAi3EJzJweIK5.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10759,
+      10765,
+      35,
+      10768,
+      37
+    ],
+    "id": 19524,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "戦闘メカ ザブングル",
+    "overview": "Combat Mecha Xabungle, infrequently called Blue Gale Xabungle, is a mecha anime television series by Sunrise, and directed by Yoshiyuki Tomino. It was broadcast on the Nagoya TV and TV Asahi networks at 5:30 PM each Saturday from February 6, 1982 through January 29, 1983. Promotional toys were produced by Clover. It also had a compilation movie called Xabungle Graffiti, which added a few minutes and a whole-new ending to the series.",
+    "popularity": 30.4453,
+    "poster_path": "/1Tel8X9n3ul64in7wN2H7kHfmtA.jpg",
+    "first_air_date": "1982-02-06",
+    "name": "Combat Mecha Xabungle",
+    "vote_average": 5.8,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/25WZ3QlyJAd8M30CkbvAnTbv6kW.jpg",
+    "genre_ids": [
+      10763,
+      10768
+    ],
+    "id": 1975,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "This Week",
+    "overview": "ABC's Sunday morning political affairs program, currently hosted by George Stephanopoulos.",
+    "popularity": 31.1163,
+    "poster_path": "/1mnZQZQI06b24zZ3Al6hd5eRZM4.jpg",
+    "first_air_date": "1981-11-15",
+    "name": "This Week",
+    "vote_average": 9,
+    "vote_count": 1
   },
   {
     "adult": false,
@@ -1006,186 +1002,12 @@
     "original_language": "cn",
     "original_name": "滿清十三皇朝",
     "overview": "",
-    "popularity": 35.1785,
+    "popularity": 30.5417,
     "poster_path": "/t7cE4FcRhZ394D2yCi2Wl7tampO.jpg",
     "first_air_date": "1987-09-07",
     "name": "Rise & Fall of Qing Dynasty",
     "vote_average": 10,
     "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/k47JEUTQsSMN532HRg6RCzZKBdB.jpg",
-    "genre_ids": [
-      10759,
-      18,
-      10768
-    ],
-    "id": 116135,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Vikings: Valhalla",
-    "overview": "In this sequel to \"Vikings,\" a hundred years have passed and a new generation of legendary heroes arises to forge its own destiny — and make history.",
-    "popularity": 40.8699,
-    "poster_path": "/rDFy1fUU6OC3Mm0CLFB7u0fGwVN.jpg",
-    "first_air_date": "2022-02-25",
-    "name": "Vikings: Valhalla",
-    "vote_average": 7.707,
-    "vote_count": 960
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fhIxXKTzGptL09psh3myhtndADD.jpg",
-    "genre_ids": [
-      10768,
-      18
-    ],
-    "id": 57276,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "TURN: Washington's Spies",
-    "overview": "The story of New York farmer, Abe Woodhull, who bands together with a group of childhood friends to form The Culper Ring, an unlikely group of spies who turn the tide in America’s fight for independence.",
-    "popularity": 34.8416,
-    "poster_path": "/AehTUycX0VSvCkOOkZzurLnjHsS.jpg",
-    "first_air_date": "2014-04-06",
-    "name": "TURN: Washington's Spies",
-    "vote_average": 7.121,
-    "vote_count": 227
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8SqEzhSAo53mn4gITdlrCUAKcCg.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765,
-      10768,
-      18
-    ],
-    "id": 74018,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "銀河英雄伝説 Die Neue These",
-    "overview": "In this retelling of Yoshiki Tanaka's space opera, two interstellar states -- Galactic Empire and Free Planets Alliance -- battle for space supremacy.",
-    "popularity": 33.6219,
-    "poster_path": "/aOXYjnJqGYIELPEMg1shcPXBbhj.jpg",
-    "first_air_date": "2018-03-31",
-    "name": "The Legend of the Galactic Heroes: Die Neue These",
-    "vote_average": 7.7,
-    "vote_count": 70
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gRm6VeU3glb0bV0wPJYaTysdfbz.jpg",
-    "genre_ids": [
-      10768,
-      18
-    ],
-    "id": 4316,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Combat!",
-    "overview": "Combat! is an American television program that originally aired on ABC from 1962 until 1967. The show covered the grim lives of a squad of American soldiers fighting the Germans in France during World War II. The program starred Rick Jason as platoon leader Second Lieutenant Gil Hanley and Vic Morrow as Sergeant \"Chip\" Saunders.",
-    "popularity": 39.3804,
-    "poster_path": "/4Xk9VQ5Xa6jkRHBINkHiRzRNgde.jpg",
-    "first_air_date": "1962-10-02",
-    "name": "Combat!",
-    "vote_average": 7.655,
-    "vote_count": 103
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/44ZF9ni9u57iVUARn0IVz00Q3L1.jpg",
-    "genre_ids": [
-      10768,
-      18
-    ],
-    "id": 109087,
-    "origin_country": [
-      "HK"
-    ],
-    "original_language": "cn",
-    "original_name": "滿清十三皇朝 (II)",
-    "overview": "",
-    "popularity": 36.7895,
-    "poster_path": "/fqwxoG5aS5S3dsFrYGVUrFOnHBY.jpg",
-    "first_air_date": "1988-06-29",
-    "name": "Rise & Fall of Qing Dynasty (II)",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ep6X0ekrWS0go3UXPRXmtN6AfNs.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 5487,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "I, Claudius",
-    "overview": "Acclaimed blackly comic historical drama series. Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
-    "popularity": 34.2226,
-    "poster_path": "/oztxNqan7wKvFuCDS55WyUmKNMU.jpg",
-    "first_air_date": "1976-09-20",
-    "name": "I, Claudius",
-    "vote_average": 7.8,
-    "vote_count": 120
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kjSk3SAx8WGblUQTYo5yFHePPnY.jpg",
-    "genre_ids": [
-      10768,
-      18
-    ],
-    "id": 246621,
-    "origin_country": [
-      "TR"
-    ],
-    "original_language": "tr",
-    "original_name": "Mehmed: Fetihler Sultanı",
-    "overview": "The project, which will follow the story on the life of one of the most important rulers in Ottoman history, Fatih Sultan Mehmed, will also feature important stages of the life of Eyüp el Ensari, an important figure in the Islamic world, in parallel with Fatih's life.",
-    "popularity": 35.7433,
-    "poster_path": "/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg",
-    "first_air_date": "2024-02-27",
-    "name": "Mehmed: Sultan of Conquests",
-    "vote_average": 7.5,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6KpQx86kVbm1kIqQ4jdCN7pDZvD.jpg",
-    "genre_ids": [
-      10759,
-      10765,
-      16,
-      10768
-    ],
-    "id": 30093,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "機動武闘伝Gガンダム",
-    "overview": "In the Year F.C. (Future Century) 60, much of mankind inhabits space colonies which orbit the Earth. Dominance over the colonies is decided once every four years by a large tournament in which each nation sends a single representative to fight the others with a giant robot called a Gundam. Domon Kashuu is selected to represent Neo-Japan in one of these tournaments, but he fights less to ensure his nation's victory than to find his brother, who has been blamed for the deaths of Domon's parents and the disappearance of a very dangerous weapon, the Devil Gundam (Dark Gundam).",
-    "popularity": 36.3797,
-    "poster_path": "/iuA29rs5TCFED8qVcEjJdn9YJKr.jpg",
-    "first_air_date": "1994-04-22",
-    "name": "Mobile Fighter G Gundam",
-    "vote_average": 7.4,
-    "vote_count": 24
   },
   {
     "adult": false,
@@ -1204,12 +1026,215 @@
     "original_language": "ja",
     "original_name": "蒼き流星SPTレイズナー",
     "overview": "Blue Comet SPT Layzner, sometimes translated as Blue Meteor SPT Layzner, is an anime series produced by Sunrise and Tatsunoko Production between 1985 and 1986. Its original creator was Ryousuke Takahashi of Armored Trooper Votoms fame who served as the writer and wrote the scripts for such shows as Panzer World Galient, Tetsuwan Atom, Zero Tester, Fang of the Sun Dougram, Cyborg 009, Gasaraki and Blue Gender.",
-    "popularity": 35.8572,
+    "popularity": 30.5237,
     "poster_path": "/pSpWOFawvb8crIHEl05Nl4Br92J.jpg",
     "first_air_date": "1985-10-03",
     "name": "Blue Comet SPT Layzner",
     "vote_average": 8.7,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vP1hpd9TwacAQxSEKf6Wfgucr0z.jpg",
+    "genre_ids": [
+      9648,
+      18,
+      10768,
+      80
+    ],
+    "id": 3163,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Foyle's War",
+    "overview": "As WW2 rages around the world, DCS Foyle fights his own war on the home-front as he investigates crimes on the south coast of England. Foyle's War opens in southern England in the year 1940. Later series sees the retired detective working as an MI5 agent operating in the aftermath of the war.",
+    "popularity": 30.7256,
+    "poster_path": "/avPXLCHNUGVtTu52X5VStZRoHDD.jpg",
+    "first_air_date": "2002-10-27",
+    "name": "Foyle's War",
+    "vote_average": 7.907,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A8tHJQef2u4rMKgG1GAZJmpcqfJ.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      18,
+      10765,
+      10768
+    ],
+    "id": 45844,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "宇宙戦艦ヤマト２１９９",
+    "overview": "The year is 2199. The human race has been crushed in their war with the Gamilos, driven into underground cities by the invader's assault. Scientists estimate they have only a year left. The young officers Susumu Kodai and Daisuke Shima receive a mysterious capsule from a ship that made an emergency landing on Mars and return with it to Earth. It contains humanity's last hope: the planet Iscandar on the other side of the Magellan Galaxy has the technology to defeat the Gamilos and restore the planet. The space battleship Yamato is entrusted with this task, but they have only one year before humanity ends.",
+    "popularity": 28.9329,
+    "poster_path": "/kP0qdJDIV2kHF2CTw8l5RrGyZYE.jpg",
+    "first_air_date": "2013-04-07",
+    "name": "Star Blazers [Space Battleship Yamato] 2199",
+    "vote_average": 7.3,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lTMZILzENFZm9b0Qs6ry4Rg6Z7T.jpg",
+    "genre_ids": [
+      10768,
+      18
+    ],
+    "id": 4734,
+    "origin_country": [
+      "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "주몽",
+    "overview": "Jumong  examines the life of Jumong Taewang, founder of the kingdom of Goguryeo. Few details have been found in the historical record about Jumong, so much of the series is fictionalized.",
+    "popularity": 29.9872,
+    "poster_path": "/oJj4tsSLu65tjcCx5yqHECfehD5.jpg",
+    "first_air_date": "2006-05-15",
+    "name": "Jumong",
+    "vote_average": 7.7,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ty3fCZumomMkHPHRxACDQJkTEyD.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      18,
+      10765,
+      10768
+    ],
+    "id": 62430,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "アルスラーン戦記",
+    "overview": "Arslan is the heir apparent of Pars, a strong nation that sits at the hear of the trade route connecting the East and the West. When the pagan nation of Lusitania begins an invasion of Pars, the timid Arslan is confronted with battle for the first time. His worst anxieties are realized the Parsian army falls for a Lusitanian stratagem and are routed. He barely escapes with his life, thanks to the loyal and indomitable warrior Daryun. Together they will stand against the invasion and the cruelties of fate that are about to blow down on Pars.",
+    "popularity": 24.5345,
+    "poster_path": "/p6F6pGoNNtIViDxHkU4wDeseiyJ.jpg",
+    "first_air_date": "2015-04-05",
+    "name": "The Heroic Legend of Arslan",
+    "vote_average": 7,
+    "vote_count": 75
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r8JTkMnOZqCNdQ7gw12Ld8aj8eM.jpg",
+    "genre_ids": [
+      10766,
+      10768
+    ],
+    "id": 156239,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "Korona królów. Jagiellonowie",
+    "overview": "The story of the Jagiellonian Dynasty rulling XV-century Kingdom of Poland and Grand Duchy of Lithuania.",
+    "popularity": 29.0529,
+    "poster_path": "/dzBuAa4ssdlkYnHex4SoTJpuSJ4.jpg",
+    "first_air_date": "2023-01-02",
+    "name": "The Crown of the Kings. The Jagiellons",
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6KpQx86kVbm1kIqQ4jdCN7pDZvD.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      16,
+      10768
+    ],
+    "id": 30093,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "機動武闘伝Gガンダム",
+    "overview": "In the Year F.C. (Future Century) 60, much of mankind inhabits space colonies which orbit the Earth. Dominance over the colonies is decided once every four years by a large tournament in which each nation sends a single representative to fight the others with a giant robot called a Gundam. Domon Kashuu is selected to represent Neo-Japan in one of these tournaments, but he fights less to ensure his nation's victory than to find his brother, who has been blamed for the deaths of Domon's parents and the disappearance of a very dangerous weapon, the Devil Gundam (Dark Gundam).",
+    "popularity": 30.2944,
+    "poster_path": "/iuA29rs5TCFED8qVcEjJdn9YJKr.jpg",
+    "first_air_date": "1994-04-22",
+    "name": "Mobile Fighter G Gundam",
+    "vote_average": 7.4,
+    "vote_count": 24
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nWfpVLgioDXQsAbfL6UJxYz6d3d.jpg",
+    "genre_ids": [
+      18,
+      10759,
+      10768
+    ],
+    "id": 16997,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Pacific",
+    "overview": "Track the intertwined real-life stories of three U.S. Marines – Robert Leckie, John Basilone, and Eugene Sledge – across the vast canvas of the Pacific Theater during World War II. A companion piece to the 2001 miniseries Band of Brothers.",
+    "popularity": 27.8002,
+    "poster_path": "/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
+    "first_air_date": "2010-03-14",
+    "name": "The Pacific",
+    "vote_average": 7.8,
+    "vote_count": 2407
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6haXjegjLvGKOU4BumplmLsl9kP.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      10768
+    ],
+    "id": 33427,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_name": "Manuel Rodríguez",
+    "overview": "During the years of the Spanish Reconquest, Manuel Rodríguez is a wanted man in Chile. His head already has a price and he's considered a legend among many. But it's his love for Francisca, a noble woman, what will make him take all kinds of risks, regardless of the differences that separate them. From then on, Rodríguez will fight both for the freedom of his homeland and for the love of his life, Francisca.",
+    "popularity": 26.3402,
+    "poster_path": "/a8EIrQSeP3jDeyci2O0HZeVSucC.jpg",
+    "first_air_date": "2010-03-15",
+    "name": "Manuel Rodríguez",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gI3rLwLZ9fHuqcEXYiCBvVpUHb0.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10765,
+      10768
+    ],
+    "id": 69346,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "幼女戦記",
+    "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+    "popularity": 28.5075,
+    "poster_path": "/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
+    "first_air_date": "2017-01-06",
+    "name": "Saga of Tanya the Evil",
+    "vote_average": 8.3,
+    "vote_count": 385
   },
   {
     "adult": false,
@@ -1225,7 +1250,7 @@
     "original_language": "ja",
     "original_name": "勝海舟",
     "overview": "Katsu Kaishū deals with end of the Edo period. Based on Kan Shimozawa's novels \"Katsu Kaishū \"",
-    "popularity": 34.4765,
+    "popularity": 26.9676,
     "poster_path": "/dVqB58Be5z1TAxgEeliAVhOo3zN.jpg",
     "first_air_date": "1974-01-06",
     "name": "Katsu Kaishu",
@@ -1234,86 +1259,69 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/pefCiIoIrWglxwpoqIdnhL0IlGZ.jpg",
+    "backdrop_path": "/tQ8Sh90T3u3jQniSvEWKqPTMMxm.jpg",
     "genre_ids": [
       18,
+      10759,
       10768
     ],
-    "id": 61148,
+    "id": 108007,
     "origin_country": [
-      "KR"
+      "HK"
     ],
-    "original_language": "ko",
-    "original_name": "기황후",
-    "overview": "A woman born in Korea navigates her way through love, war, politics and national loyalties to become a powerful empress in China's Yuan dynasty.",
-    "popularity": 36.566,
-    "poster_path": "/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
-    "first_air_date": "2013-10-28",
-    "name": "Empress Ki",
-    "vote_average": 7.292,
-    "vote_count": 60
+    "original_language": "cn",
+    "original_name": "怒劍鳴",
+    "overview": "In the sixth year of Baoyou, the Mongol army pressed the border, and Fan Chengshun general Zhang Tianshun saved the people of Fancheng, handed over the yellow dragon sword containing the anti-yuan roster to the partial general Fan Guoxing, and then killed himself, so that Guoxing sent his head to surrender the enemy. Since then, Guoxing has been known as a traitor, and his son Fan Qiu was born in the countryside and lived incognito, and many years later he was discovered by Mrs. Qiu Wan, who \"pierced the heart with a sword\". During Qiusheng and Guoxing's exile, he met Liu Qinglian, who was ordered by his mother to insist on a duel with Mrs. Wan and killed her with her own hands. On the other side, Zhang Qi, who had been adopted by a Mongol since childhood, was arranged to appear as the son of Tianshun, and colluded with Ling Chufeng, the head of the famous sword gate, in an attempt to eliminate the anti-Yuan forces in the Central Plains.",
+    "popularity": 28.0539,
+    "poster_path": "/6Gq0rC8bXFeYhOLDEQTnudWjVWX.jpg",
+    "first_air_date": "1979-12-24",
+    "name": "Sword of Fury",
+    "vote_average": 0,
+    "vote_count": 0
   },
   {
     "adult": false,
-    "backdrop_path": "/4NKo41HuTuP0QAypvu2kTJkZIE8.jpg",
+    "backdrop_path": "/lSYcgYOedOTLOg92WwncU726PoE.jpg",
     "genre_ids": [
+      10768,
       18,
+      10759
+    ],
+    "id": 11095,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tour of Duty",
+    "overview": "The trials of a U.S. Army platoon serving in the field during the Vietnam War.",
+    "popularity": 28.165,
+    "poster_path": "/uVH3fzDl5vqYolREnppV4Os45gd.jpg",
+    "first_air_date": "1987-09-24",
+    "name": "Tour of Duty",
+    "vote_average": 8,
+    "vote_count": 167
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gjUkdl62eBtxAl4L4Xurm5UBZ0x.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
       10768
     ],
-    "id": 32231,
+    "id": 101972,
     "origin_country": [
-      "CN"
+      "JP"
     ],
-    "original_language": "zh",
-    "original_name": "大秦帝国",
-    "overview": "The rise of the Qin state in the Warring States period during the reign of Duke Xiao of Qin.",
-    "popularity": 33.7557,
-    "poster_path": "/zfuObpAXqGEI3FCSTsBw3GKRyOE.jpg",
-    "first_air_date": "2009-12-18",
-    "name": "The Qin Empire",
+    "original_language": "ja",
+    "original_name": "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
+    "overview": "For years, a great war has raged on between the scientifically advanced Empire and a paradise of witches known as the Nebulis Sovereignty. This age-old battle sets the scene for a fateful encounter between two young combatants: an imperial swordsman, Iska, and the witch princess, Aliceliese. As sworn enemies, they vow to cut each other down in order to unite their worlds, and yet Iska finds himself entranced by her beauty and righteousness, while Aliceliese is moved by his strength and resolve. In the midst of a never-ending war that forbids them from being together, they have no choice but to destroy each other-or find another way.",
+    "popularity": 27.5559,
+    "poster_path": "/1VtaTXsHTRfh8m49OVJfMb4JVuh.jpg",
+    "first_air_date": "2020-10-04",
+    "name": "Our Last Crusade or the Rise of a New World",
     "vote_average": 8.3,
-    "vote_count": 21
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5sJyI76w6A1un7XHG5x6YE58pPP.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 93226,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "徳川家康",
-    "overview": "The story chronicles the life of Tokugawa Ieyasu.",
-    "popularity": 33.2491,
-    "poster_path": "/8i6vn7yCJ2Z4bifeNeCXCI8MMmY.jpg",
-    "first_air_date": "1983-01-09",
-    "name": "Tokugawa Ieyasu",
-    "vote_average": 10,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zikfQiVbo3PTrEdRc2w6kowFmuY.jpg",
-    "genre_ids": [
-      18,
-      10768
-    ],
-    "id": 95495,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "秀吉",
-    "overview": "A dramatized biography of the second of Japan's three legendary leaders. Rising from obscurity, Hideyoshi served under the command of Oda Nobunaga. With an extraordinary combination of intelligence, bravery and military skill, Hideyoshi rose to near-absolute power and greatly expanded upon Nobunaga's unification of Japan's warlords. This series also focused on Hideyoshi's personal life, particularly his relationships with his mother and his wife, and the pair's rivalry for influence over him.",
-    "popularity": 34.6502,
-    "poster_path": "/z5iM8xexccatdttujrVWCAaBYdi.jpg",
-    "first_air_date": "1996-01-07",
-    "name": "Hideyoshi",
-    "vote_average": 9.5,
-    "vote_count": 2
+    "vote_count": 235
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/hFFAYkK8XkvIlQss9GYxo8TOhFi.jpg",
+    "backdrop_path": "/3VE5mS5HDQ2FOxlMuzKCP14avAk.jpg",
     "genre_ids": [
       37,
       18
@@ -13,76 +13,12 @@
     "original_language": "en",
     "original_name": "Yellowstone",
     "overview": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
-    "popularity": 120.774,
+    "popularity": 112.3525,
     "poster_path": "/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
     "first_air_date": "2018-06-20",
     "name": "Yellowstone",
-    "vote_average": 8.251,
-    "vote_count": 2807
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kGPdC77DjdRF9J8txKqmD8WMnoj.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 11577,
-    "origin_country": [
-      "FR",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Big Valley",
-    "overview": "The Big Valley is an American western television series which ran on ABC from September 15, 1965, to May 19, 1969. The show stars Barbara Stanwyck, as the widow of a wealthy nineteenth century California rancher. It was created by A.I. Bezzerides and Louis F. Edelman, and produced by Levy-Gardner-Laven for Four Star Television.",
-    "popularity": 99.1588,
-    "poster_path": "/wjDnSS8JTjSg9g61bkEJKkPug1F.jpg",
-    "first_air_date": "1965-09-15",
-    "name": "The Big Valley",
-    "vote_average": 6.074,
-    "vote_count": 54
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rGZo3xBJM2VYHn30LY7G0xwYu1n.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 13795,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Tales of Wells Fargo",
-    "overview": "Jim Hardie helps Wells Fargo agents battle the bad guys.",
-    "popularity": 80.5911,
-    "poster_path": "/qqm4UkpOT7pno9zt25nSmbt7MIh.jpg",
-    "first_air_date": "1957-03-18",
-    "name": "Tales of Wells Fargo",
-    "vote_average": 6.583,
-    "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hjYanQ2NcrpEbFLxCkRgBZPPV93.jpg",
-    "genre_ids": [
-      37,
-      10759
-    ],
-    "id": 31179,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Lone Ranger",
-    "overview": "The Lone Ranger is an American western television series that ran from 1949 to 1957, starring Clayton Moore with Jay Silverheels as Tonto. The live-action series initially featured Gerald Mohr as the episode narrator. Fred Foy served as both narrator and announcer of the radio series from 1948 to its finish and became announcer of the television version when story narration was dropped there. This was by far the highest-rated television program on the ABC network in the early 1950s and its first true \"hit\".",
-    "popularity": 78.5658,
-    "poster_path": "/sAQSKgrYC0l5kQbLk8QXINAK6F4.jpg",
-    "first_air_date": "1949-09-15",
-    "name": "The Lone Ranger",
-    "vote_average": 6.656,
-    "vote_count": 32
+    "vote_average": 8.3,
+    "vote_count": 2810
   },
   {
     "adult": false,
@@ -99,7 +35,7 @@
     "original_language": "pt",
     "original_name": "Jerônimo, o Herói do Sertão",
     "overview": "",
-    "popularity": 78.0383,
+    "popularity": 62.591,
     "poster_path": null,
     "first_air_date": "1972-11-20",
     "name": "Jerônimo, o Herói do Sertão",
@@ -122,7 +58,7 @@
     "original_language": "en",
     "original_name": "Bonanza",
     "overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
-    "popularity": 77.9359,
+    "popularity": 69.7164,
     "poster_path": "/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
     "first_air_date": "1959-09-12",
     "name": "Bonanza",
@@ -131,48 +67,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/7LiMDsUQTjXgaXIrgJeTvaXnRkB.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 13899,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Laramie",
-    "overview": "Laramie is an American Western television series that aired on NBC from 1959 to 1963. A Revue Studios production, the program originally starred John Smith as Slim Sherman, Robert Fuller as Jess Harper, Hoagy Carmichael as Jonesy and Robert L. Crawford, Jr., as Andy Sherman.",
-    "popularity": 72.8395,
-    "poster_path": "/gZSnbWABcJ98UP9kYPjUbZ6fuDH.jpg",
-    "first_air_date": "1959-09-15",
-    "name": "Laramie",
-    "vote_average": 6.4,
-    "vote_count": 16
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      37
-    ],
-    "id": 14763,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Texan",
-    "overview": "The Texan was a Western television series starring popular B movie actor Rory Calhoun, which aired on the CBS television network from 1958 to 1960.",
-    "popularity": 69.7232,
-    "poster_path": "/48nIzRhf9vkGKgE96ekLZU8pwke.jpg",
-    "first_air_date": "1958-09-29",
-    "name": "The Texan",
-    "vote_average": 5.5,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yGNnjoIGOdQy3douq60tULY8teK.jpg",
+    "backdrop_path": "/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
     "genre_ids": [
       10765,
       37
@@ -184,12 +79,12 @@
     "original_language": "en",
     "original_name": "Westworld",
     "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
-    "popularity": 69.5318,
+    "popularity": 62.7791,
     "poster_path": "/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
     "first_air_date": "2016-10-02",
     "name": "Westworld",
-    "vote_average": 8.037,
-    "vote_count": 5774
+    "vote_average": 8.035,
+    "vote_count": 5779
   },
   {
     "adult": false,
@@ -205,7 +100,7 @@
     "original_language": "en",
     "original_name": "The Life and Legend of Wyatt Earp",
     "overview": "The Life and Legend of Wyatt Earp is a television western series loosely based on the life of frontier marshal Wyatt Earp. The half-hour black-and-white program aired for 229 episodes on ABC from 1955 to 1961 and featured Hugh O'Brian in the title role.",
-    "popularity": 68.2376,
+    "popularity": 61.1711,
     "poster_path": "/sq7meZ5XvxFKZmsTcM54q28IqHp.jpg",
     "first_air_date": "1955-09-06",
     "name": "The Life and Legend of Wyatt Earp",
@@ -214,25 +109,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/9xyvcN6sA4XvZswc0droVTKSGay.jpg",
+    "backdrop_path": "/kGPdC77DjdRF9J8txKqmD8WMnoj.jpg",
     "genre_ids": [
       37,
-      10759,
       18
     ],
-    "id": 13837,
+    "id": 11577,
     "origin_country": [
+      "FR",
       "US"
     ],
     "original_language": "en",
-    "original_name": "Wanted: Dead or Alive",
-    "overview": "Wanted: Dead or Alive is an American Western television series starring Steve McQueen as the bounty hunter Josh Randall. It aired on CBS for three seasons from 1958–61. The black-and-white program was a spin-off of a March 1958 episode of Trackdown, a 1957–59 western series starring Robert Culp. Both series were produced by Four Star Television in association with CBS Television.\n\nThe series launched McQueen into becoming the first television star to cross over into comparable status on the big screen.",
-    "popularity": 66.721,
-    "poster_path": "/mYgwFT8JXW6J5YTs8DuzDDOKXlS.jpg",
-    "first_air_date": "1958-09-06",
-    "name": "Wanted: Dead or Alive",
-    "vote_average": 6.894,
-    "vote_count": 33
+    "original_name": "The Big Valley",
+    "overview": "The Big Valley is an American western television series which ran on ABC from September 15, 1965, to May 19, 1969. The show stars Barbara Stanwyck, as the widow of a wealthy nineteenth century California rancher. It was created by A.I. Bezzerides and Louis F. Edelman, and produced by Levy-Gardner-Laven for Four Star Television.",
+    "popularity": 60.9443,
+    "poster_path": "/wjDnSS8JTjSg9g61bkEJKkPug1F.jpg",
+    "first_air_date": "1965-09-15",
+    "name": "The Big Valley",
+    "vote_average": 6.074,
+    "vote_count": 54
   },
   {
     "adult": false,
@@ -249,7 +144,7 @@
     "original_language": "en",
     "original_name": "Wagon Train",
     "overview": "The series initially starred veteran movie supporting actor Ward Bond as the wagon master, later replaced upon his death by John McIntire, and Robert Horton as the scout, subsequently replaced by lookalike Robert Fuller a year after Horton had decided to leave the series.\n\nThe series was inspired by the 1950 film Wagon Master directed by John Ford and starring Ben Johnson, Harry Carey Jr. and Ward Bond, and harkens back to the early widescreen wagon train epic The Big Trail starring John Wayne and featuring Bond in his first major screen appearance playing a supporting role. Horton's buckskin outfit as the scout in the first season of the television series resembles Wayne's, who also played the wagon train's scout in the earlier film.",
-    "popularity": 62.8726,
+    "popularity": 60.1489,
     "poster_path": "/csC6kMTKWmOcy9nKZEgdwd7Frb9.jpg",
     "first_air_date": "1957-09-18",
     "name": "Wagon Train",
@@ -272,74 +167,12 @@
     "original_language": "pt",
     "original_name": "Bang Bang",
     "overview": "",
-    "popularity": 62.6841,
+    "popularity": 59.2236,
     "poster_path": "/gzOgSEGngjrdOSgMMV11cqyS3VY.jpg",
     "first_air_date": "2005-10-03",
     "name": "Bang Bang",
     "vote_average": 3,
     "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      37
-    ],
-    "id": 13537,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Restless Gun",
-    "overview": "The Restless Gun is an American western television series that appeared on NBC between 1957 and 1959, with John Payne in the role of Vint Bonner, a wandering cowboy in the era after the American Civil War. A skilled gunfighter, Bonner is an idealistic person who prefers peaceful resolutions of conflict wherever possible. He is gregarious, intelligent, and public-spirited. The half-hour black-and-white program aired seventy-eight episodes. Jeanne Bates appeared in varying roles with Payne in five episodes of The Restless Gun.\n\nThe Restless Gun theme song begins: \"I ride with the wind, my eyes on the sun, and my hand on my restless gun...\" The song composer is probably Paul Dunlap, credited as the primary series composer, but could have been contributed to by either of the two other series composers, Dave Kahn and Stanley Wilson, also. Two versions are currently posted on YouTube, but neither posting lists any composer or performance credits.",
-    "popularity": 60.6585,
-    "poster_path": "/r9Kk7XVHhhjVfif4i6YYNFkvegM.jpg",
-    "first_air_date": "1957-09-23",
-    "name": "The Restless Gun",
-    "vote_average": 3.7,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vIioWssbxRtEkIzgj8r0pCWYkYM.jpg",
-    "genre_ids": [
-      18,
-      37
-    ],
-    "id": 157744,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "1923",
-    "overview": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.",
-    "popularity": 60.0262,
-    "poster_path": "/vNJWr0xh7W5IDzFTnVzWhw6KoJr.jpg",
-    "first_air_date": "2022-12-18",
-    "name": "1923",
-    "vote_average": 8.215,
-    "vote_count": 599
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ovUZ1545CqMw5LnQZoars7RxDzM.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 13577,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Annie Oakley",
-    "overview": "Annie Oakley was an American Western television series that fictionalized the life of famous sharpshooter Annie Oakley. It ran from January 1954 to February 1957 in syndication, for a total of 81 black and white episodes, each 25 minutes long. ABC showed reruns on Saturday and Sunday daytime from 1959 to 1960 and from 1964 to 1965.",
-    "popularity": 59.222,
-    "poster_path": "/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
-    "first_air_date": "1954-01-09",
-    "name": "Annie Oakley",
-    "vote_average": 5.2,
-    "vote_count": 8
   },
   {
     "adult": false,
@@ -356,138 +189,12 @@
     "original_language": "en",
     "original_name": "Have Gun, Will Travel",
     "overview": "Have Gun – Will Travel is an American Western television series that aired on CBS from 1957 through 1963. It was rated number three or number four in the Nielsen ratings every year of its first four seasons. It was one of the few television shows to spawn a successful radio version. The radio series debuted November 23, 1958.\n\nThe television show is presently shown on the Encore-Western channel.\n\nHave Gun – Will Travel was created by Sam Rolfe and Herb Meadow and produced by Frank Pierson, Don Ingalls, Robert Sparks, and Julian Claman. There were 225 episodes of the TV series, 24 written by Gene Roddenberry. Other contributors included Bruce Geller, Harry Julian Fink, Don Brinkley and Irving Wallace. Andrew McLaglen directed 101 episodes and 19 were directed by series star Richard Boone.",
-    "popularity": 56.8996,
+    "popularity": 58.7578,
     "poster_path": "/6aJRq7FGs2axLOdZNJ2G4IOQtMx.jpg",
     "first_air_date": "1957-09-14",
     "name": "Have Gun, Will Travel",
     "vote_average": 7.4,
     "vote_count": 40
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hdljnb2VUZAkoQ5u07w6nwRFzMt.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 14328,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Dick Powell's Zane Grey Theatre",
-    "overview": "Dick Powell's Zane Grey Theatre, sometimes simply called Zane Grey Theatre, is an American Western anthology series which ran on CBS from 1956 to 1961.",
-    "popularity": 55.6471,
-    "poster_path": "/kY1GfRiVJI6pT5BdJmtJ5jtT6bh.jpg",
-    "first_air_date": "1956-10-05",
-    "name": "Dick Powell's Zane Grey Theatre",
-    "vote_average": 5.5,
-    "vote_count": 8
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mbLZYchwFYX0kozflu3HgslAAGN.jpg",
-    "genre_ids": [
-      37,
-      18,
-      10751
-    ],
-    "id": 1781,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Little House on the Prairie",
-    "overview": "Little House on the Prairie is an American Western drama television series, starring Michael Landon, Melissa Gilbert, and Karen Grassle, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s.",
-    "popularity": 55.6113,
-    "poster_path": "/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
-    "first_air_date": "1974-09-11",
-    "name": "Little House on the Prairie",
-    "vote_average": 7.938,
-    "vote_count": 921
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wz9b19dihwqkOpaQjofmYeqXTCU.jpg",
-    "genre_ids": [
-      37,
-      80
-    ],
-    "id": 3275,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Alias Smith and Jones",
-    "overview": "Alias Smith and Jones is an American Western series that originally aired on ABC from 1971 to 1973. It stars Pete Duel as Hannibal Heyes and Ben Murphy as Jedediah \"Kid\" Curry, a pair of cousin outlaws trying to reform. The governor offers them a conditional amnesty, as he wants to keep the pact under wraps for political reasons. The condition is that they will still be wanted— until the governor can claim they have reformed and warrant clemency.",
-    "popularity": 55.3772,
-    "poster_path": "/cvivxPeLnXUGiZtgeHdLVA6xGmb.jpg",
-    "first_air_date": "1971-01-05",
-    "name": "Alias Smith and Jones",
-    "vote_average": 6.9,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      37
-    ],
-    "id": 14579,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Johnny Ringo",
-    "overview": "Johnny Ringo is an American Western television series starring Don Durant that aired on CBS from October 1, 1959, until June 30, 1960. It is loosely based on the life of the notorious gunfighter and outlaw Johnny Ringo, also known as John Peters Ringo or John B. Ringgold, who tangled with Wyatt Earp, Doc Holliday, and Buckskin Franklin Leslie.",
-    "popularity": 48.6701,
-    "poster_path": "/hW2ao6QN6Yns7dCaIWpdW8UbmGy.jpg",
-    "first_air_date": "1959-10-02",
-    "name": "Johnny Ringo",
-    "vote_average": 5.7,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xSy1RcLD81Bidr8mliB1Dhc7JUH.jpg",
-    "genre_ids": [
-      37,
-      10759
-    ],
-    "id": 980,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Trackdown",
-    "overview": "Trackdown is an American Western television series starring Robert Culp that aired on CBS between 1957 and 1959. More than seventy episodes of this series were produced by Dick Powell's Four Star Television and filmed at the Desilu-Culver Studio. The series was itself a spin-off of Powell's anthology series, Dick Powell's Zane Grey Theater.",
-    "popularity": 49.7592,
-    "poster_path": "/n39XqrEQjKWSWGFZ7G6pZYBWI6T.jpg",
-    "first_air_date": "1957-10-04",
-    "name": "Trackdown",
-    "vote_average": 6.4,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
-    "genre_ids": [
-      18,
-      37
-    ],
-    "id": 61865,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "When Calls the Heart",
-    "overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
-    "popularity": 49.005,
-    "poster_path": "/opLuX2DHs2aSN8SxMvfOM5b8IkV.jpg",
-    "first_air_date": "2014-01-11",
-    "name": "When Calls the Heart",
-    "vote_average": 8.258,
-    "vote_count": 151
   },
   {
     "adult": false,
@@ -504,7 +211,7 @@
     "original_language": "en",
     "original_name": "The Rifleman",
     "overview": "The Rifleman is an American Western television program starring Chuck Connors as rancher Lucas McCain and Johnny Crawford as his son, Mark McCain. It was set in the 1880s in the town of North Fork, New Mexico Territory. The show was filmed in black-and-white, half-hour episodes. \"The Rifleman\" aired on ABC from September 30, 1958 to April 8, 1963 as a production of Four Star Television. It was one of the first prime time series to have a widowed parent raise a child.",
-    "popularity": 52.7617,
+    "popularity": 54.2701,
     "poster_path": "/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
     "first_air_date": "1958-09-30",
     "name": "The Rifleman",
@@ -513,46 +220,46 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/60KMLXvtUATae1TIPOxyii6W53e.jpg",
+    "backdrop_path": "/mbLZYchwFYX0kozflu3HgslAAGN.jpg",
     "genre_ids": [
-      37
+      37,
+      18,
+      10751
     ],
-    "id": 14412,
+    "id": 1781,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Tombstone Territory",
-    "overview": "Tombstone Territory is an American Western series starring Pat Conway and Richard Eastham. The series' first two seasons aired on ABC from 1957 to 1959. The third and final season aired in syndication from 1959 until 1960.",
-    "popularity": 47.3623,
-    "poster_path": "/sqd4Z8UljfMvLYtdqszay1YtOCy.jpg",
-    "first_air_date": "1957-10-16",
-    "name": "Tombstone Territory",
-    "vote_average": 6,
-    "vote_count": 7
+    "original_name": "Little House on the Prairie",
+    "overview": "Little House on the Prairie is an American Western drama television series, starring Michael Landon, Melissa Gilbert, and Karen Grassle, about a family living on a farm in Walnut Grove, Minnesota, in the 1870s and 1880s.",
+    "popularity": 53.9949,
+    "poster_path": "/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
+    "first_air_date": "1974-09-11",
+    "name": "Little House on the Prairie",
+    "vote_average": 7.938,
+    "vote_count": 921
   },
   {
     "adult": false,
-    "backdrop_path": "/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+    "backdrop_path": "/vIioWssbxRtEkIzgj8r0pCWYkYM.jpg",
     "genre_ids": [
-      16,
-      10759,
-      10765,
+      18,
       37
     ],
-    "id": 30991,
+    "id": 157744,
     "origin_country": [
-      "JP"
+      "US"
     ],
-    "original_language": "ja",
-    "original_name": "カウボーイビバップ",
-    "overview": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
-    "popularity": 48.1713,
-    "poster_path": "/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg",
-    "first_air_date": "1998-04-03",
-    "name": "Cowboy Bebop",
-    "vote_average": 8.524,
-    "vote_count": 1757
+    "original_language": "en",
+    "original_name": "1923",
+    "overview": "Follow a new generation of the Dutton family during the early twentieth century when pandemics, historic drought, the end of Prohibition and the Great Depression all plague the mountain west, and the Duttons who call it home.",
+    "popularity": 49.7828,
+    "poster_path": "/vNJWr0xh7W5IDzFTnVzWhw6KoJr.jpg",
+    "first_air_date": "2022-12-18",
+    "name": "1923",
+    "vote_average": 8.216,
+    "vote_count": 603
   },
   {
     "adult": false,
@@ -571,12 +278,119 @@
     "original_language": "en",
     "original_name": "Zorro",
     "overview": "Diego de la Vega, the son of a wealthy landowner, returns from his studies in Spain and discovers that Los Angeles is under the command of Capitan Monastario, a cruel man who relishes in the misuse of his power for personal gain. Knowing that he cannot hope to single-handedly defeat Monastario and his troops, Diego resorts to subterfuge. He adopts the secret identity of Zorro, a sinister figure dressed in black, and rides to fight Monastario's injustice.",
-    "popularity": 48.4311,
+    "popularity": 48.9767,
     "poster_path": "/9BPBojrkczIhL18fMa9Ypj5yQ7N.jpg",
     "first_air_date": "1957-10-10",
     "name": "Zorro",
     "vote_average": 7.483,
     "vote_count": 177
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      10765,
+      37
+    ],
+    "id": 30991,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "カウボーイビバップ",
+    "overview": "In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System. Amid a rising crime rate, the Inter Solar System Police (ISSP) set up a legalized contract system, in which registered bounty hunters, also referred to as \"Cowboys\", chase criminals and bring them in alive in return for a reward.",
+    "popularity": 47.3722,
+    "poster_path": "/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg",
+    "first_air_date": "1998-04-03",
+    "name": "Cowboy Bebop",
+    "vote_average": 8.523,
+    "vote_count": 1759
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mTC6WbMEgZ6LLdwRqSDR5NVEslr.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "id": 61865,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "When Calls the Heart",
+    "overview": "Elizabeth Thatcher, a young school teacher from a wealthy Eastern family, migrates from the big city to teach school in a small coal mining town in the west.",
+    "popularity": 44.4872,
+    "poster_path": "/opLuX2DHs2aSN8SxMvfOM5b8IkV.jpg",
+    "first_air_date": "2014-01-11",
+    "name": "When Calls the Heart",
+    "vote_average": 8.3,
+    "vote_count": 151
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9xyvcN6sA4XvZswc0droVTKSGay.jpg",
+    "genre_ids": [
+      37,
+      10759,
+      18
+    ],
+    "id": 13837,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wanted: Dead or Alive",
+    "overview": "Wanted: Dead or Alive is an American Western television series starring Steve McQueen as the bounty hunter Josh Randall. It aired on CBS for three seasons from 1958–61. The black-and-white program was a spin-off of a March 1958 episode of Trackdown, a 1957–59 western series starring Robert Culp. Both series were produced by Four Star Television in association with CBS Television.\n\nThe series launched McQueen into becoming the first television star to cross over into comparable status on the big screen.",
+    "popularity": 44.6094,
+    "poster_path": "/mYgwFT8JXW6J5YTs8DuzDDOKXlS.jpg",
+    "first_air_date": "1958-09-06",
+    "name": "Wanted: Dead or Alive",
+    "vote_average": 6.894,
+    "vote_count": 33
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7LiMDsUQTjXgaXIrgJeTvaXnRkB.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 13899,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Laramie",
+    "overview": "Laramie is an American Western television series that aired on NBC from 1959 to 1963. A Revue Studios production, the program originally starred John Smith as Slim Sherman, Robert Fuller as Jess Harper, Hoagy Carmichael as Jonesy and Robert L. Crawford, Jr., as Andy Sherman.",
+    "popularity": 44.5649,
+    "poster_path": "/gZSnbWABcJ98UP9kYPjUbZ6fuDH.jpg",
+    "first_air_date": "1959-09-15",
+    "name": "Laramie",
+    "vote_average": 6.4,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      37
+    ],
+    "id": 14763,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Texan",
+    "overview": "The Texan was a Western television series starring popular B movie actor Rory Calhoun, which aired on the CBS television network from 1958 to 1960.",
+    "popularity": 42.14,
+    "poster_path": "/48nIzRhf9vkGKgE96ekLZU8pwke.jpg",
+    "first_air_date": "1958-09-29",
+    "name": "The Texan",
+    "vote_average": 5.5,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -592,12 +406,198 @@
     "original_language": "en",
     "original_name": "Maverick",
     "overview": "The Maverick boys - Bret, Bart, Beau and Brent - are a clan of well-dressed dandies, gamblers who'd much rather make their money playing cards than messing up their fine clothing with actual work. Sly and clever, none of the Mavericks are much for acts of derring do, but they can be courageous when the situation calls for it. Most often, however, they live by their wits and considerable charm.",
-    "popularity": 45.3187,
+    "popularity": 41.5076,
     "poster_path": "/psVbZjMHt9f9X7EIks9IQdCMZke.jpg",
     "first_air_date": "1957-09-22",
     "name": "Maverick",
     "vote_average": 6.803,
     "vote_count": 38
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xSy1RcLD81Bidr8mliB1Dhc7JUH.jpg",
+    "genre_ids": [
+      37,
+      10759
+    ],
+    "id": 980,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Trackdown",
+    "overview": "Trackdown is an American Western television series starring Robert Culp that aired on CBS between 1957 and 1959. More than seventy episodes of this series were produced by Dick Powell's Four Star Television and filmed at the Desilu-Culver Studio. The series was itself a spin-off of Powell's anthology series, Dick Powell's Zane Grey Theater.",
+    "popularity": 37.8763,
+    "poster_path": "/n39XqrEQjKWSWGFZ7G6pZYBWI6T.jpg",
+    "first_air_date": "1957-10-04",
+    "name": "Trackdown",
+    "vote_average": 6.4,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      37
+    ],
+    "id": 13537,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Restless Gun",
+    "overview": "The Restless Gun is an American western television series that appeared on NBC between 1957 and 1959, with John Payne in the role of Vint Bonner, a wandering cowboy in the era after the American Civil War. A skilled gunfighter, Bonner is an idealistic person who prefers peaceful resolutions of conflict wherever possible. He is gregarious, intelligent, and public-spirited. The half-hour black-and-white program aired seventy-eight episodes. Jeanne Bates appeared in varying roles with Payne in five episodes of The Restless Gun.\n\nThe Restless Gun theme song begins: \"I ride with the wind, my eyes on the sun, and my hand on my restless gun...\" The song composer is probably Paul Dunlap, credited as the primary series composer, but could have been contributed to by either of the two other series composers, Dave Kahn and Stanley Wilson, also. Two versions are currently posted on YouTube, but neither posting lists any composer or performance credits.",
+    "popularity": 32.443,
+    "poster_path": "/r9Kk7XVHhhjVfif4i6YYNFkvegM.jpg",
+    "first_air_date": "1957-09-23",
+    "name": "The Restless Gun",
+    "vote_average": 3.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hdljnb2VUZAkoQ5u07w6nwRFzMt.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 14328,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dick Powell's Zane Grey Theatre",
+    "overview": "Dick Powell's Zane Grey Theatre, sometimes simply called Zane Grey Theatre, is an American Western anthology series which ran on CBS from 1956 to 1961.",
+    "popularity": 38.6221,
+    "poster_path": "/kY1GfRiVJI6pT5BdJmtJ5jtT6bh.jpg",
+    "first_air_date": "1956-10-05",
+    "name": "Dick Powell's Zane Grey Theatre",
+    "vote_average": 5.5,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aHpe7HybRItnRnvVT5CjCXRPfsP.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 18010,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Cisco Kid",
+    "overview": "The Cisco Kid is a half-hour American Western television series starring Duncan Renaldo in the title role, The Cisco Kid, and Leo Carrillo as the jovial sidekick, Pancho. Cisco and Pancho were technically desperados, wanted for unspecified crimes, but instead viewed by the poor as Robin Hood figures who assisted the downtrodden when law enforcement officers proved corrupt or unwilling to help. It was also the first television series to be filmed in color, although few viewers saw it in color until the 1960s.",
+    "popularity": 38.2197,
+    "poster_path": "/8unUybmhNFHs3dXI4EbatJDC4e4.jpg",
+    "first_air_date": "1950-09-05",
+    "name": "The Cisco Kid",
+    "vote_average": 5.875,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ocGIgjb53YKuPoLykhxO2orKrlc.jpg",
+    "genre_ids": [
+      10759,
+      37
+    ],
+    "id": 11053,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Daniel Boone",
+    "overview": "Daniel Boone is an American action-adventure television series starring Fess Parker as Daniel Boone that aired from September 24, 1964 to September 10, 1970 on NBC for 165 episodes, and was made by 20th Century Fox Television. Ed Ames co-starred as Mingo, Boone's Cherokee friend, for the first four seasons of the series. Albert Salmi portrayed Boone's companion Yadkin in season one only. Dallas McKennon portrayed innkeeper Cincinnatus. Country Western singer-actor Jimmy Dean was a featured actor as Josh Clements during the 1968–1970 seasons. Actor and former NFL football player Rosey Grier made regular appearances as Gabe Cooper in the 1969 to 1970 season. The show was broadcast \"in living color\" beginning in fall 1965, the second season, and was shot entirely in California and Kanab, Utah.",
+    "popularity": 36.3675,
+    "poster_path": "/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
+    "first_air_date": "1964-09-24",
+    "name": "Daniel Boone",
+    "vote_average": 6.867,
+    "vote_count": 30
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/itV07LzxTuhaoXqoP8UCERzNh4k.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 13870,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Broken Arrow",
+    "overview": "Broken Arrow is a Western series which ran on ABC-TV in prime time from 1956 through 1958 on Tuesdays at 9 p.m. Eastern time. Repeat episodes were shown by ABC on Sunday afternoons during the 1959–60 season. Selected repeats were then shown once again in prime time during the summer of 1960.",
+    "popularity": 37.7244,
+    "poster_path": null,
+    "first_air_date": "1956-09-25",
+    "name": "Broken Arrow",
+    "vote_average": 5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/60KMLXvtUATae1TIPOxyii6W53e.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 14412,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tombstone Territory",
+    "overview": "Tombstone Territory is an American Western series starring Pat Conway and Richard Eastham. The series' first two seasons aired on ABC from 1957 to 1959. The third and final season aired in syndication from 1959 until 1960.",
+    "popularity": 31.3673,
+    "poster_path": "/sqd4Z8UljfMvLYtdqszay1YtOCy.jpg",
+    "first_air_date": "1957-10-16",
+    "name": "Tombstone Territory",
+    "vote_average": 6,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ovUZ1545CqMw5LnQZoars7RxDzM.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 13577,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Annie Oakley",
+    "overview": "Annie Oakley was an American Western television series that fictionalized the life of famous sharpshooter Annie Oakley. It ran from January 1954 to February 1957 in syndication, for a total of 81 black and white episodes, each 25 minutes long. ABC showed reruns on Saturday and Sunday daytime from 1959 to 1960 and from 1964 to 1965.",
+    "popularity": 32.4666,
+    "poster_path": "/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+    "first_air_date": "1954-01-09",
+    "name": "Annie Oakley",
+    "vote_average": 5.2,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
+    "genre_ids": [
+      37,
+      80,
+      18
+    ],
+    "id": 43901,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Longmire",
+    "overview": "A Wyoming sheriff rebuilds his life and career following the death of his wife. Based on the “Walt Longmire” series of mystery novels written by best-selling author Craig Johnson.",
+    "popularity": 35.3152,
+    "poster_path": "/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+    "first_air_date": "2012-06-03",
+    "name": "Longmire",
+    "vote_average": 7.673,
+    "vote_count": 307
   },
   {
     "adult": false,
@@ -614,7 +614,7 @@
     "original_language": "en",
     "original_name": "Walker, Texas Ranger",
     "overview": "Modern-day Texas Ranger, Cordell Walker's independent crime-solving methods have their roots in the rugged traditions of the Old West. Walker's closest friend is former Ranger, C.D. Parker, who retired after a knee injury, and now owns \"C.D.'s,\" a Country/Western saloon/restaurant. Rookie Ranger, James \"Jimmy\" Trivette is an ex-football player who bases his crime-solving methods on reason and uses computers and cellular phones. Alex Cahill is the Assistant DA who shares a mutual attraction with Walker, but often disagrees with his unorthodox approach to law enforcement.",
-    "popularity": 45.4134,
+    "popularity": 36.2701,
     "poster_path": "/lldKpGEOlHJXMkb1pi7s7xCExmX.jpg",
     "first_air_date": "1993-04-21",
     "name": "Walker, Texas Ranger",
@@ -635,140 +635,12 @@
     "original_language": "en",
     "original_name": "The Doris Day Show",
     "overview": "The Doris Day Show is an American sitcom that was originally broadcast on the CBS network from September 1968 until March 1973, remaining on the air for five seasons and 128 episodes. In addition to showcasing Doris Day, the show is remembered for its many abrupt format changes over the course of its five-year run. It is also remembered for Day's statement, in her autobiography Doris Day: Her Own Story, that her husband Martin Melcher had signed her to do the TV series without her knowledge, a fact she only discovered when Melcher died of heart disease on April 20, 1968. The TV show premiered on Tuesday, September 24, 1968.",
-    "popularity": 44.3999,
+    "popularity": 36.9293,
     "poster_path": "/hicgxVSdGn0L3EKuVAPgfG3LA8a.jpg",
     "first_air_date": "1968-09-24",
     "name": "The Doris Day Show",
     "vote_average": 5.3,
     "vote_count": 9
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6Zx66I6K6qdUY8RUpVbEfKOTm.jpg",
-    "genre_ids": [
-      37
-    ],
-    "id": 14656,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Law of the Plainsman",
-    "overview": "Law of the Plainsman is a Western television series starring Michael Ansara that aired on the NBC television network from October 1, 1959, until May 5, 1960. The character of Native American U.S. Marshal Sam Buckhart was introduced in two episodes of the popular ABC Western television series The Rifleman starring Chuck Connors as Lucas McCain.\n\nLaw of the Plainsman is distinctive and unique in that it was one of the few television programs that featured a Native American as the lead character, a bold move for U.S.network television at that time. Ansara had earlier appeared in the series Broken Arrow, having portrayed the Apache chief, Cochise. Ansara, however, was not Native American but of Syrian descent.\n\nAnsara played Sam Buckhart, an Apache Indian who saved the life of a U.S. Cavalry officer after an Indian ambush. When the officer died, he left Sam money that was used for an education at private schools and Harvard University. After school, he returned to New Mexico where he became a Deputy Marshal working for Marshal Andy Morrison. He lived in a boarding house run by Martha Commager. The only other continuing character was 8-year old Tess Logan, an orphan who had been rescued by Buckhart. Robert Harland, later of Target: The Corruptors! starred in seven episodes as Deputy Billy Lordan. Wayne Rogers, who went on to star in another Four Star western, Stagecoach West, and later, M*A*S*H, also played deputy Lordan in several episodes.",
-    "popularity": 42.3986,
-    "poster_path": "/tReblyXSokbKbsxNKcDdsySmaMx.jpg",
-    "first_air_date": "1959-10-01",
-    "name": "Law of the Plainsman",
-    "vote_average": 6,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/n6khXOHRnrVrPmIi5mP45qXf9ez.jpg",
-    "genre_ids": [
-      16,
-      37,
-      18,
-      10759,
-      10765
-    ],
-    "id": 31706,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "ガン×ソード",
-    "overview": "There’s a claw-fisted, genocidal maniac terrorizing the planet of endless illusion, and only Van, a tight-lipped loner in a jet black tuxedo, can bring the scoundrel to justice. Armed with his shape-shifting sword and a mechanized suit of armor, Van hunts the villain who murdered his one true love. With any luck, he’ll find the man he seeks before the sun sets on civilization.",
-    "popularity": 43.9777,
-    "poster_path": "/rHTw06fSEBXFOXSILep4KIKEY9a.jpg",
-    "first_air_date": "2005-07-05",
-    "name": "Gun x Sword",
-    "vote_average": 6.3,
-    "vote_count": 22
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xPeemFe28Nr8iC0L3FitRBYrFGV.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 13815,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Black Saddle",
-    "overview": "Black Saddle is an American Western television series starring Peter Breck that aired 44 episodes on ABC from January 10, 1959 to May 6, 1960. The half-hour program was produced by Dick Powell's Four Star Television, and the original pilot was an episode of CBS's Dick Powell's Zane Grey Theater, with Chris Alcaide portraying the principal character, Clay Culhane.\n\nFor syndicated reruns, Black Saddle was combined with three other Western series from the same company, Law of the Plainsman starring Michael Ansara, Johnny Ringo starring Don Durant and Mark Goddard, and the critically acclaimed creation of Sam Peckinpah, The Westerner with Brian Keith, under the umbrella title, The Westerners, with new hosting sequences by Keenan Wynn.",
-    "popularity": 43.6871,
-    "poster_path": "/yxNU8FYaVt17ldbNzDJSrVTvL2t.jpg",
-    "first_air_date": "1959-01-10",
-    "name": "Black Saddle",
-    "vote_average": 6,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ocGIgjb53YKuPoLykhxO2orKrlc.jpg",
-    "genre_ids": [
-      10759,
-      37
-    ],
-    "id": 11053,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Daniel Boone",
-    "overview": "Daniel Boone is an American action-adventure television series starring Fess Parker as Daniel Boone that aired from September 24, 1964 to September 10, 1970 on NBC for 165 episodes, and was made by 20th Century Fox Television. Ed Ames co-starred as Mingo, Boone's Cherokee friend, for the first four seasons of the series. Albert Salmi portrayed Boone's companion Yadkin in season one only. Dallas McKennon portrayed innkeeper Cincinnatus. Country Western singer-actor Jimmy Dean was a featured actor as Josh Clements during the 1968–1970 seasons. Actor and former NFL football player Rosey Grier made regular appearances as Gabe Cooper in the 1969 to 1970 season. The show was broadcast \"in living color\" beginning in fall 1965, the second season, and was shot entirely in California and Kanab, Utah.",
-    "popularity": 42.2778,
-    "poster_path": "/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
-    "first_air_date": "1964-09-24",
-    "name": "Daniel Boone",
-    "vote_average": 6.867,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
-    "genre_ids": [
-      37,
-      80,
-      18
-    ],
-    "id": 43901,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Longmire",
-    "overview": "A Wyoming sheriff rebuilds his life and career following the death of his wife. Based on the “Walt Longmire” series of mystery novels written by best-selling author Craig Johnson.",
-    "popularity": 41.0049,
-    "poster_path": "/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-    "first_air_date": "2012-06-03",
-    "name": "Longmire",
-    "vote_average": 7.686,
-    "vote_count": 304
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aHpe7HybRItnRnvVT5CjCXRPfsP.jpg",
-    "genre_ids": [
-      37
-    ],
-    "id": 18010,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Cisco Kid",
-    "overview": "The Cisco Kid is a half-hour American Western television series starring Duncan Renaldo in the title role, The Cisco Kid, and Leo Carrillo as the jovial sidekick, Pancho. Cisco and Pancho were technically desperados, wanted for unspecified crimes, but instead viewed by the poor as Robin Hood figures who assisted the downtrodden when law enforcement officers proved corrupt or unwilling to help. It was also the first television series to be filmed in color, although few viewers saw it in color until the 1960s.",
-    "popularity": 40.8006,
-    "poster_path": "/8unUybmhNFHs3dXI4EbatJDC4e4.jpg",
-    "first_air_date": "1950-09-05",
-    "name": "The Cisco Kid",
-    "vote_average": 5.875,
-    "vote_count": 8
   },
   {
     "adult": false,
@@ -785,7 +657,7 @@
     "original_language": "en",
     "original_name": "State Trooper",
     "overview": "State Trooper is an American crime drama set in the 1950s American West, starring Rod Cameron as Rod Blake, an officer of the Nevada Department of Public Safety. The series aired 104 episodes in syndication from September 25, 1956, to June 25, 1959.",
-    "popularity": 40.4387,
+    "popularity": 36.1817,
     "poster_path": "/4p7lRuPFrsp5zbFtu7EwPLI3Nny.jpg",
     "first_air_date": "1956-09-25",
     "name": "State Trooper",
@@ -794,105 +666,24 @@
   },
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
     "genre_ids": [
-      37,
-      18
-    ],
-    "id": 16246,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Legend of Jesse James",
-    "overview": "The Legend of Jesse James is an American western series starring Christopher Jones in the tile role of notorious outlaw Jesse James. The series aired on ABC from September 13, 1965, to May 9, 1966. Allen Case joined Jones as Jesse's brother, Frank James.",
-    "popularity": 38.6095,
-    "poster_path": "/sKqRybsSf6v4tme5SKAFws3pZty.jpg",
-    "first_air_date": "1965-09-13",
-    "name": "The Legend of Jesse James",
-    "vote_average": 4.8,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9cvP36v7J97pGHH1OBVzGpm0iQ4.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 10952,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Rawhide",
-    "overview": "The tale of trail boss Gil Favor and his trusty foreman Rowdy Yates as they drives cattle across the old west. Along the way they meet up with adventure and drama.",
-    "popularity": 38.2808,
-    "poster_path": "/lz5B4BoaOxNJuvjGe9LcS3GpBEK.jpg",
-    "first_air_date": "1959-01-09",
-    "name": "Rawhide",
-    "vote_average": 7.111,
-    "vote_count": 45
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/itV07LzxTuhaoXqoP8UCERzNh4k.jpg",
-    "genre_ids": [
+      18,
       37
     ],
-    "id": 13870,
+    "id": 118357,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Broken Arrow",
-    "overview": "Broken Arrow is a Western series which ran on ABC-TV in prime time from 1956 through 1958 on Tuesdays at 9 p.m. Eastern time. Repeat episodes were shown by ABC on Sunday afternoons during the 1959–60 season. Selected repeats were then shown once again in prime time during the summer of 1960.",
-    "popularity": 38.0773,
-    "poster_path": null,
-    "first_air_date": "1956-09-25",
-    "name": "Broken Arrow",
-    "vote_average": 5,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eOvomZmZjAh4pdWE2WZ9SsLaWil.jpg",
-    "genre_ids": [
-      37
-    ],
-    "id": 23365,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Sergeant Preston of the Yukon",
-    "overview": "Canadian Mountie Sgt. Preston patrols the wilds of the Yukon with his horse Rex and his faithful dog Yukon King, battling both the elements and criminals.",
-    "popularity": 37.439,
-    "poster_path": "/9kZZat1xuy19mRGITZrI57w0aC5.jpg",
-    "first_air_date": "1955-09-29",
-    "name": "Sergeant Preston of the Yukon",
-    "vote_average": 5.7,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      37
-    ],
-    "id": 17645,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Judge Roy Bean",
-    "overview": "Judge Roy Bean is a syndicated American Western series starring Edgar Buchanan as the legendary Kentucky-born Judge Roy Bean, a justice of the peace known as \"The Law West of the Pecos\".",
-    "popularity": 37.077,
-    "poster_path": "/kyv6FXHU9jxKn6zns114sW23ciZ.jpg",
-    "first_air_date": "1955-09-01",
-    "name": "Judge Roy Bean",
-    "vote_average": 5,
-    "vote_count": 1
+    "original_name": "1883",
+    "overview": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+    "popularity": 36.7813,
+    "poster_path": "/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+    "first_air_date": "2021-12-19",
+    "name": "1883",
+    "vote_average": 8.277,
+    "vote_count": 772
   },
   {
     "adult": false,
@@ -908,7 +699,7 @@
     "original_language": "en",
     "original_name": "Cheyenne",
     "overview": "Cheyenne Bodie was a big man, a former army scout who went west after the American Civil War and drifted from job to job, here a cowboy, there a lawman, and always a larger-than-life hero.\n\nCHEYENNE is an American western television series of 108 black-and-white episodes broadcast on ABC from 1955 to 1963. The show was the first hour-long western, and in fact the first hour-long dramatic series of any kind, with continuing characters, to last more than one season. It was also the first series to be made by a major Hollywood film studio which did not derive from its established film properties, and the first of a long chain of Warner Brothers original series produced by William T. Orr.",
-    "popularity": 36.9049,
+    "popularity": 34.9872,
     "poster_path": "/osdglTGStAMbThkUsVJ0DRzvwrq.jpg",
     "first_air_date": "1955-09-20",
     "name": "Cheyenne",
@@ -917,68 +708,192 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/mtVR4TuOXP39NCSxldcryMNo99d.jpg",
+    "backdrop_path": null,
     "genre_ids": [
-      16,
-      37,
-      18
+      37
     ],
-    "id": 31216,
+    "id": 14579,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The Lone Ranger",
-    "overview": "An ex-Texas Ranger fights injustice in the Old West his with Native-American partner.",
-    "popularity": 37.0807,
-    "poster_path": "/fAfU6eQNPOOo48zOPOIrR0eG53u.jpg",
-    "first_air_date": "1966-09-10",
-    "name": "The Lone Ranger",
-    "vote_average": 6.625,
-    "vote_count": 8
+    "original_name": "Johnny Ringo",
+    "overview": "Johnny Ringo is an American Western television series starring Don Durant that aired on CBS from October 1, 1959, until June 30, 1960. It is loosely based on the life of the notorious gunfighter and outlaw Johnny Ringo, also known as John Peters Ringo or John B. Ringgold, who tangled with Wyatt Earp, Doc Holliday, and Buckskin Franklin Leslie.",
+    "popularity": 34.8632,
+    "poster_path": "/hW2ao6QN6Yns7dCaIWpdW8UbmGy.jpg",
+    "first_air_date": "1959-10-02",
+    "name": "Johnny Ringo",
+    "vote_average": 5.7,
+    "vote_count": 7
   },
   {
     "adult": false,
-    "backdrop_path": "/7otnTAurhFiiydKisyGK8DgqiOs.jpg",
+    "backdrop_path": "/a5Ifvd2PhCrvcD0HzuToU5wLSUo.jpg",
     "genre_ids": [
       37,
+      18
+    ],
+    "id": 8270,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Outlaws",
+    "overview": "Outlaws is an NBC Western television series, starring Barton MacLane as U.S. marshal Frank Caine, who operated in a lawless section of Oklahoma Territory about Stillwater. The program aired 50 one-hour episodes from September 29, 1960, to May 10, 1962. The first season was shot in black-and-white, the second in color. Co-starring with MacLane in the 1960–1961 season was Don Collier as deputy marshal Will Foreman. In the second season, MacLane left the program, and Collier was promoted to full marshal, with Bruce Yarnell joining the cast as deputy marshal Chalk Breeson. Jock Gaynor appeared in the first season as deputy Heck Martin, the on-screen nephew of Will Foreman. Slim Pickens appeared as \"Slim\" in the second season. Judy Lewis also appeared the second season as Connie Masters, an employee of the Wells Fargo office in Stillwater.\n\nThe dog who appeared in Walt Disney's Old Yeller was also cast in The Outlaws.\n\nOthers who appeared on the program on at least three occasions were Vic Morrow, Cliff Robertson, Pippa Scott, and Harry Townes. In addition, John Anderson, Edgar Buchanan, Jackie Coogan, Bruce Gordon, Robert Harland, Robert Lansing Cloris Leachman, Robert Karnes, Brian Keith, Larry Pennell, Chris Robinson, William Shatner, Ray Walston, Jack Warden, and David Wayne each appeared twice in the series.",
+    "popularity": 33.2758,
+    "poster_path": "/93BqkPyaI0nt7w4YSEbkSauKfUz.jpg",
+    "first_air_date": "1960-09-26",
+    "name": "Outlaws",
+    "vote_average": 6.2,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s6g2gizjwDJYzSMaAAbaG4QR1X4.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 9930,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lancer",
+    "overview": "Lancer is an American Western series that aired on CBS from September 1968, to May 1970. The series stars Andrew Duggan, James Stacy, and Wayne Maunder as a father with two half-brother sons, an arrangement similar to the more successful Bonanza on NBC.",
+    "popularity": 32.392,
+    "poster_path": "/eo92La8t2lAKfbHhZKdumxaoi3.jpg",
+    "first_air_date": "1968-09-24",
+    "name": "Lancer",
+    "vote_average": 4.7,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg",
+    "genre_ids": [
+      10759,
       18,
-      10766
+      37
     ],
-    "id": 5144,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "es",
-    "original_name": "Zorro: La espada y la rosa",
-    "overview": "Spanish telenovela based on Johnston McCulley's characters. Don Diego Dela Vega, adopts the secret identity of Zorro. Diego born in the 1790s to a white father, Don Alejandro Dela Vega, and his wife, Native American warrior named Toypurnia. Diego learned his acrobatics and fencing skills in Spain, under a great swordmaster, than he returned to his family's California hacienda. He lives as both a nobleman and a vigilante, fighting imperialist oppression. He is backed by the brotherhood of Zorro, a secret society called the Knights of the Broken Thorn. Zorro falls in love with a beautiful young widow, Esmeralda Sánchez de Moncada. She arrives in California with her sister Mariángel Sánchez de Moncada and her father, Fernando, the newly appointed governor—and villainous dictator—of Los Angeles. The story arc focuses on mysteries concerning Esmeralda's long-lost mother and the man whose atrocities changed Diego's life forever. Their resolution threatens to shake the Spanish Empire.",
-    "popularity": 35.3492,
-    "poster_path": "/v6XZeLzt6mKJsUMc5S59Td0mt3g.jpg",
-    "first_air_date": "2007-02-12",
-    "name": "Zorro: La espada y la rosa",
-    "vote_average": 7.333,
-    "vote_count": 51
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uK8TlYFhat6hFYSGTwJMO9Uu2WN.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 11096,
+    "id": 1401,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "The High Chaparral",
-    "overview": "The High Chaparral is an American Western-themed television series starring Leif Erickson and Cameron Mitchell which aired on NBC from 1967 to 1971. The series, made by Xanadu Productions in association with NBC Productions, was created by David Dortort, who had previously created the hit Bonanza for the network. The theme song was also written and conducted by Bonanza scorer David Rose, who also scored the two-hour pilot.",
-    "popularity": 30.6521,
-    "poster_path": "/2aiki9WLZWbv6PIl5CESOYdmOGj.jpg",
-    "first_air_date": "1967-09-10",
-    "name": "The High Chaparral",
-    "vote_average": 6.5,
-    "vote_count": 23
+    "original_name": "Hell on Wheels",
+    "overview": "The epic story of post-Civil War America, focusing on Cullen Bohannon, a Confederate soldier who sets out to exact revenge on the Union soldiers who killed his wife. His journey takes him west to Hell on Wheels, a dangerous, raucous, lawless melting pot of a town that travels with and services the construction of the first transcontinental railroad, an engineering feat unprecedented for its time.",
+    "popularity": 31.2727,
+    "poster_path": "/hK6C1Iimyw52ToE3d8WFFUh9Vn1.jpg",
+    "first_air_date": "2011-11-06",
+    "name": "Hell on Wheels",
+    "vote_average": 7.6,
+    "vote_count": 435
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lubcQ8yZ0GNeD980ILoVSl0CAis.jpg",
+    "genre_ids": [
+      37,
+      80
+    ],
+    "id": 17539,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Adventures of Kit Carson",
+    "overview": "The Adventures of Kit Carson is an American Western series that aired in syndication from August 1951 to November 1955, originally sponsored by Coca-Cola. It stars Bill Williams in the title role as frontier scout Christopher \"Kit\" Carson. Don Diamond co-starred as \"El Toro\", Carson's Mexican companion.",
+    "popularity": 32.051,
+    "poster_path": "/uptHEepL0EjsK9pVfChzLxBnyHP.jpg",
+    "first_air_date": "1951-08-11",
+    "name": "The Adventures of Kit Carson",
+    "vote_average": 5.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rGZo3xBJM2VYHn30LY7G0xwYu1n.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 13795,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tales of Wells Fargo",
+    "overview": "Jim Hardie helps Wells Fargo agents battle the bad guys.",
+    "popularity": 24.8617,
+    "poster_path": "/qqm4UkpOT7pno9zt25nSmbt7MIh.jpg",
+    "first_air_date": "1957-03-18",
+    "name": "Tales of Wells Fargo",
+    "vote_average": 6.583,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ewNEfC8jOOCSHHu9MAC3RLyLO9X.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 14551,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Stoney Burke",
+    "overview": "Stoney Burke is an American western television series broadcast on ABC from October 1, 1962 until May 20, 1963. Six years before the premiere of his CBS crime drama, Hawaii Five-0, Jack Lord starred in the title role.",
+    "popularity": 32.2701,
+    "poster_path": "/rDLzhML0gBy4U5J8brFlLBVHuLp.jpg",
+    "first_air_date": "1962-10-01",
+    "name": "Stoney Burke",
+    "vote_average": 5.7,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dGzPJnh8YcUS4J10sNunohaXMVn.jpg",
+    "genre_ids": [
+      37,
+      80,
+      18
+    ],
+    "id": 1406,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Deadwood",
+    "overview": "The story of the early days of Deadwood, South Dakota; woven around actual historic events with most of the main characters based on real people. Deadwood starts as a gold mining camp and gradually turns from a lawless wild-west community into an organized wild-west civilized town. The story focuses on the real-life characters Seth Bullock and Al Swearengen.",
+    "popularity": 32.1506,
+    "poster_path": "/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
+    "first_air_date": "2004-03-21",
+    "name": "Deadwood",
+    "vote_average": 8.1,
+    "vote_count": 856
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      37
+    ],
+    "id": 65493,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Ranch",
+    "overview": "Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family.",
+    "popularity": 31.8581,
+    "poster_path": "/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+    "first_air_date": "2016-04-01",
+    "name": "The Ranch",
+    "vote_average": 7.38,
+    "vote_count": 258
   },
   {
     "adult": false,
@@ -996,271 +911,52 @@
     "original_language": "en",
     "original_name": "Warrior",
     "overview": "A gritty, action-packed crime drama set during the brutal Tong Wars of San Francisco’s Chinatown in the second half of the 19th century. The series follows Ah Sahm, a martial arts prodigy who immigrates from China to San Francisco under mysterious circumstances, and becomes a hatchet man for one of Chinatown’s most powerful tongs.",
-    "popularity": 38.004,
+    "popularity": 33.5352,
     "poster_path": "/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
     "first_air_date": "2019-04-05",
     "name": "Warrior",
-    "vote_average": 7.972,
-    "vote_count": 606
+    "vote_average": 8,
+    "vote_count": 607
   },
   {
     "adult": false,
-    "backdrop_path": "/qfUfiI8kLiSvBfQoPB89R6Re5rO.jpg",
-    "genre_ids": [
-      16,
-      37,
-      10759
-    ],
-    "id": 325,
-    "origin_country": [
-      "JP",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Adventures of the Galaxy Rangers",
-    "overview": "The Adventures of the Galaxy Rangers is an American animated Space Western television series created by Robert Mandell and Gaylord Entertainment Company.\n\nThe series combines sci-fi stories with traditional wild west themes. It is one of the first anime-style shows produced mainly in the USA, although the actual animation was done by the Japanese animation studio Tokyo Movie Shinsha. At the time it aired, The Adventures of the Galaxy Rangers was considered a revolutionary children's show.",
-    "popularity": 35.9105,
-    "poster_path": "/xeEDA90HHD925AD0Henrln9N3o6.jpg",
-    "first_air_date": "1986-09-14",
-    "name": "The Adventures of the Galaxy Rangers",
-    "vote_average": 7.3,
-    "vote_count": 25
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/a5Ifvd2PhCrvcD0HzuToU5wLSUo.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 8270,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Outlaws",
-    "overview": "Outlaws is an NBC Western television series, starring Barton MacLane as U.S. marshal Frank Caine, who operated in a lawless section of Oklahoma Territory about Stillwater. The program aired 50 one-hour episodes from September 29, 1960, to May 10, 1962. The first season was shot in black-and-white, the second in color. Co-starring with MacLane in the 1960–1961 season was Don Collier as deputy marshal Will Foreman. In the second season, MacLane left the program, and Collier was promoted to full marshal, with Bruce Yarnell joining the cast as deputy marshal Chalk Breeson. Jock Gaynor appeared in the first season as deputy Heck Martin, the on-screen nephew of Will Foreman. Slim Pickens appeared as \"Slim\" in the second season. Judy Lewis also appeared the second season as Connie Masters, an employee of the Wells Fargo office in Stillwater.\n\nThe dog who appeared in Walt Disney's Old Yeller was also cast in The Outlaws.\n\nOthers who appeared on the program on at least three occasions were Vic Morrow, Cliff Robertson, Pippa Scott, and Harry Townes. In addition, John Anderson, Edgar Buchanan, Jackie Coogan, Bruce Gordon, Robert Harland, Robert Lansing Cloris Leachman, Robert Karnes, Brian Keith, Larry Pennell, Chris Robinson, William Shatner, Ray Walston, Jack Warden, and David Wayne each appeared twice in the series.",
-    "popularity": 36.6695,
-    "poster_path": "/93BqkPyaI0nt7w4YSEbkSauKfUz.jpg",
-    "first_air_date": "1960-09-26",
-    "name": "Outlaws",
-    "vote_average": 6.2,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
-    "genre_ids": [
-      16,
-      37
-    ],
-    "id": 61330,
-    "origin_country": [
-      "KR",
-      "FR",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Sheriff Callie's Wild West",
-    "overview": "A kids' western centered on a kitty-cat sheriff whose job is to ensure that the town of Nice and Friendly Corners remains the friendliest town in the West.",
-    "popularity": 31.5626,
-    "poster_path": "/zKoVuDIkhFVjbhoGAi7vxUgrKRz.jpg",
-    "first_air_date": "2013-12-13",
-    "name": "Sheriff Callie's Wild West",
-    "vote_average": 5.333,
-    "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
-    "genre_ids": [
-      18,
-      37
-    ],
-    "id": 118357,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "1883",
-    "overview": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
-    "popularity": 36.4012,
-    "poster_path": "/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-    "first_air_date": "2021-12-19",
-    "name": "1883",
-    "vote_average": 8.277,
-    "vote_count": 770
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/s6g2gizjwDJYzSMaAAbaG4QR1X4.jpg",
+    "backdrop_path": "/pHolbmpvkIu9TYbbTryDfMqn4H4.jpg",
     "genre_ids": [
       37
     ],
-    "id": 9930,
+    "id": 13658,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Lancer",
-    "overview": "Lancer is an American Western series that aired on CBS from September 1968, to May 1970. The series stars Andrew Duggan, James Stacy, and Wayne Maunder as a father with two half-brother sons, an arrangement similar to the more successful Bonanza on NBC.",
-    "popularity": 34.786,
-    "poster_path": "/eo92La8t2lAKfbHhZKdumxaoi3.jpg",
-    "first_air_date": "1968-09-24",
-    "name": "Lancer",
-    "vote_average": 4.7,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ereSuUlk86Nb1hD7eNHdnrJNIWJ.jpg",
-    "genre_ids": [
-      37,
-      35,
-      10759,
-      10765
-    ],
-    "id": 1463,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Adventures of Brisco County, Jr.",
-    "overview": "A tough-as-rawhide cowpoke, debonair ladies' man and Harvard-educated smarty-britches roams from Frisco to Jalisco in pursuit of outlaws who killed his father...and in search of a mysterious orb possessing out-of-this world powers. Hot lead and cool anachronisms await Brisco as he and his sidekicks - including Comet, the intellectual equine who doesn't know he's a horse - fight for justice in the way, way, way-out West.",
-    "popularity": 33.6245,
-    "poster_path": "/yoKekFNOsz8UsacZ6SaHbEmRcmu.jpg",
-    "first_air_date": "1993-08-27",
-    "name": "The Adventures of Brisco County, Jr.",
-    "vote_average": 7.1,
-    "vote_count": 84
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3D4K2LdT3MiRlcgsnKlZT9K6CRB.jpg",
-    "genre_ids": [
-      37,
-      18
-    ],
-    "id": 13895,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Bat Masterson",
-    "overview": "Bat Masterson is an American Western television series which showed a fictionalized account of the life of real-life marshal/gambler/dandy Bat Masterson. The title character was played by Gene Barry and the half-hour black-and-white shows ran on NBC from 1958 to 1961. The series was produced by Ziv Television Productions, the company responsible for such hit series as Sea Hunt and Highway Patrol.",
-    "popularity": 34.0929,
-    "poster_path": "/8OxFU939AMas2yV7fohnYf74dEX.jpg",
-    "first_air_date": "1958-10-08",
-    "name": "Bat Masterson",
-    "vote_average": 6.1,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ewNEfC8jOOCSHHu9MAC3RLyLO9X.jpg",
-    "genre_ids": [
-      37
-    ],
-    "id": 14551,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Stoney Burke",
-    "overview": "Stoney Burke is an American western television series broadcast on ABC from October 1, 1962 until May 20, 1963. Six years before the premiere of his CBS crime drama, Hawaii Five-0, Jack Lord starred in the title role.",
-    "popularity": 35.1765,
-    "poster_path": "/rDLzhML0gBy4U5J8brFlLBVHuLp.jpg",
-    "first_air_date": "1962-10-01",
-    "name": "Stoney Burke",
-    "vote_average": 5.7,
+    "original_name": "The Adventures of Wild Bill Hickok",
+    "overview": "The Adventures of Wild Bill Hickok is an American Western television series which ran for eight seasons from 1951 through 1958. The Screen Gems series began in syndication, but ran on CBS from 1955 through 1958, and, at the same time, on ABC from 1957 through 1958.",
+    "popularity": 31.4702,
+    "poster_path": "/ovzbqb1cvM754k0cC4mSP6HyDAm.jpg",
+    "first_air_date": "1951-04-15",
+    "name": "The Adventures of Wild Bill Hickok",
+    "vote_average": 4.5,
     "vote_count": 4
   },
   {
     "adult": false,
-    "backdrop_path": "/pXwEO7OYA7LhVPYyGIIqa58wwcF.jpg",
+    "backdrop_path": "/6Zx66I6K6qdUY8RUpVbEfKOTm.jpg",
     "genre_ids": [
-      10759,
-      18,
       37
     ],
-    "id": 1401,
+    "id": 14656,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Hell on Wheels",
-    "overview": "The epic story of post-Civil War America, focusing on Cullen Bohannon, a Confederate soldier who sets out to exact revenge on the Union soldiers who killed his wife. His journey takes him west to Hell on Wheels, a dangerous, raucous, lawless melting pot of a town that travels with and services the construction of the first transcontinental railroad, an engineering feat unprecedented for its time.",
-    "popularity": 34.7134,
-    "poster_path": "/hK6C1Iimyw52ToE3d8WFFUh9Vn1.jpg",
-    "first_air_date": "2011-11-06",
-    "name": "Hell on Wheels",
-    "vote_average": 7.579,
-    "vote_count": 434
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
-    "genre_ids": [
-      35,
-      10751,
-      37
-    ],
-    "id": 65493,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Ranch",
-    "overview": "Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family.",
-    "popularity": 34.9881,
-    "poster_path": "/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
-    "first_air_date": "2016-04-01",
-    "name": "The Ranch",
-    "vote_average": 7.401,
-    "vote_count": 257
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7Ze68RcK4gyF1phj3TplR15SGW1.jpg",
-    "genre_ids": [
-      37,
-      10759
-    ],
-    "id": 11996,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Outcasts",
-    "overview": "A bounty hunter who was a Confederate Officer teams up with an ex-slave who was a Union Soldier during the Civil War…\n\nAn American Western genre television series, appearing on ABC in the 1968-69 season. The series stars Don Murray and Otis Young. It is most notable for being the first television Western with an African American co-star.",
-    "popularity": 33.0554,
-    "poster_path": "/rsI3T0lYEMqg6VqUdFsdqaK7Leh.jpg",
-    "first_air_date": "1968-09-23",
-    "name": "The Outcasts",
-    "vote_average": 5.3,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dGzPJnh8YcUS4J10sNunohaXMVn.jpg",
-    "genre_ids": [
-      37,
-      80,
-      18
-    ],
-    "id": 1406,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Deadwood",
-    "overview": "The story of the early days of Deadwood, South Dakota; woven around actual historic events with most of the main characters based on real people. Deadwood starts as a gold mining camp and gradually turns from a lawless wild-west community into an organized wild-west civilized town. The story focuses on the real-life characters Seth Bullock and Al Swearengen.",
-    "popularity": 33.8106,
-    "poster_path": "/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
-    "first_air_date": "2004-03-21",
-    "name": "Deadwood",
-    "vote_average": 8.128,
-    "vote_count": 855
+    "original_name": "Law of the Plainsman",
+    "overview": "Law of the Plainsman is a Western television series starring Michael Ansara that aired on the NBC television network from October 1, 1959, until May 5, 1960. The character of Native American U.S. Marshal Sam Buckhart was introduced in two episodes of the popular ABC Western television series The Rifleman starring Chuck Connors as Lucas McCain.\n\nLaw of the Plainsman is distinctive and unique in that it was one of the few television programs that featured a Native American as the lead character, a bold move for U.S.network television at that time. Ansara had earlier appeared in the series Broken Arrow, having portrayed the Apache chief, Cochise. Ansara, however, was not Native American but of Syrian descent.\n\nAnsara played Sam Buckhart, an Apache Indian who saved the life of a U.S. Cavalry officer after an Indian ambush. When the officer died, he left Sam money that was used for an education at private schools and Harvard University. After school, he returned to New Mexico where he became a Deputy Marshal working for Marshal Andy Morrison. He lived in a boarding house run by Martha Commager. The only other continuing character was 8-year old Tess Logan, an orphan who had been rescued by Buckhart. Robert Harland, later of Target: The Corruptors! starred in seven episodes as Deputy Billy Lordan. Wayne Rogers, who went on to star in another Four Star western, Stagecoach West, and later, M*A*S*H, also played deputy Lordan in several episodes.",
+    "popularity": 32.02,
+    "poster_path": "/tReblyXSokbKbsxNKcDdsySmaMx.jpg",
+    "first_air_date": "1959-10-01",
+    "name": "Law of the Plainsman",
+    "vote_average": 6,
+    "vote_count": 2
   },
   {
     "adult": false,
@@ -1281,11 +977,314 @@
     "original_language": "ja",
     "original_name": "戦闘メカ ザブングル",
     "overview": "Combat Mecha Xabungle, infrequently called Blue Gale Xabungle, is a mecha anime television series by Sunrise, and directed by Yoshiyuki Tomino. It was broadcast on the Nagoya TV and TV Asahi networks at 5:30 PM each Saturday from February 6, 1982 through January 29, 1983. Promotional toys were produced by Clover. It also had a compilation movie called Xabungle Graffiti, which added a few minutes and a whole-new ending to the series.",
-    "popularity": 32.5482,
+    "popularity": 30.4453,
     "poster_path": "/1Tel8X9n3ul64in7wN2H7kHfmtA.jpg",
     "first_air_date": "1982-02-06",
     "name": "Combat Mecha Xabungle",
     "vote_average": 5.8,
     "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9cvP36v7J97pGHH1OBVzGpm0iQ4.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 10952,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rawhide",
+    "overview": "The tale of trail boss Gil Favor and his trusty foreman Rowdy Yates as they drives cattle across the old west. Along the way they meet up with adventure and drama.",
+    "popularity": 29.0882,
+    "poster_path": "/lz5B4BoaOxNJuvjGe9LcS3GpBEK.jpg",
+    "first_air_date": "1959-01-09",
+    "name": "Rawhide",
+    "vote_average": 7.1,
+    "vote_count": 45
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bOZnotuzyE3EQbTV1UF4ptuHkhJ.jpg",
+    "genre_ids": [
+      16,
+      37
+    ],
+    "id": 61330,
+    "origin_country": [
+      "KR",
+      "FR",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Sheriff Callie's Wild West",
+    "overview": "A kids' western centered on a kitty-cat sheriff whose job is to ensure that the town of Nice and Friendly Corners remains the friendliest town in the West.",
+    "popularity": 29.3998,
+    "poster_path": "/zKoVuDIkhFVjbhoGAi7vxUgrKRz.jpg",
+    "first_air_date": "2013-12-13",
+    "name": "Sheriff Callie's Wild West",
+    "vote_average": 5.333,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qfUfiI8kLiSvBfQoPB89R6Re5rO.jpg",
+    "genre_ids": [
+      16,
+      37,
+      10759
+    ],
+    "id": 325,
+    "origin_country": [
+      "JP",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Adventures of the Galaxy Rangers",
+    "overview": "The Adventures of the Galaxy Rangers is an American animated Space Western television series created by Robert Mandell and Gaylord Entertainment Company.\n\nThe series combines sci-fi stories with traditional wild west themes. It is one of the first anime-style shows produced mainly in the USA, although the actual animation was done by the Japanese animation studio Tokyo Movie Shinsha. At the time it aired, The Adventures of the Galaxy Rangers was considered a revolutionary children's show.",
+    "popularity": 28.6873,
+    "poster_path": "/xeEDA90HHD925AD0Henrln9N3o6.jpg",
+    "first_air_date": "1986-09-14",
+    "name": "The Adventures of the Galaxy Rangers",
+    "vote_average": 7.3,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7otnTAurhFiiydKisyGK8DgqiOs.jpg",
+    "genre_ids": [
+      37,
+      18,
+      10766
+    ],
+    "id": 5144,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "es",
+    "original_name": "Zorro: La espada y la rosa",
+    "overview": "Spanish telenovela based on Johnston McCulley's characters. Don Diego Dela Vega, adopts the secret identity of Zorro. Diego born in the 1790s to a white father, Don Alejandro Dela Vega, and his wife, Native American warrior named Toypurnia. Diego learned his acrobatics and fencing skills in Spain, under a great swordmaster, than he returned to his family's California hacienda. He lives as both a nobleman and a vigilante, fighting imperialist oppression. He is backed by the brotherhood of Zorro, a secret society called the Knights of the Broken Thorn. Zorro falls in love with a beautiful young widow, Esmeralda Sánchez de Moncada. She arrives in California with her sister Mariángel Sánchez de Moncada and her father, Fernando, the newly appointed governor—and villainous dictator—of Los Angeles. The story arc focuses on mysteries concerning Esmeralda's long-lost mother and the man whose atrocities changed Diego's life forever. Their resolution threatens to shake the Spanish Empire.",
+    "popularity": 27.0763,
+    "poster_path": "/v6XZeLzt6mKJsUMc5S59Td0mt3g.jpg",
+    "first_air_date": "2007-02-12",
+    "name": "Zorro: La espada y la rosa",
+    "vote_average": 7.333,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3D4K2LdT3MiRlcgsnKlZT9K6CRB.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 13895,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bat Masterson",
+    "overview": "Bat Masterson is an American Western television series which showed a fictionalized account of the life of real-life marshal/gambler/dandy Bat Masterson. The title character was played by Gene Barry and the half-hour black-and-white shows ran on NBC from 1958 to 1961. The series was produced by Ziv Television Productions, the company responsible for such hit series as Sea Hunt and Highway Patrol.",
+    "popularity": 28.4348,
+    "poster_path": "/8OxFU939AMas2yV7fohnYf74dEX.jpg",
+    "first_air_date": "1958-10-08",
+    "name": "Bat Masterson",
+    "vote_average": 6.1,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 16246,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Legend of Jesse James",
+    "overview": "The Legend of Jesse James is an American western series starring Christopher Jones in the tile role of notorious outlaw Jesse James. The series aired on ABC from September 13, 1965, to May 9, 1966. Allen Case joined Jones as Jesse's brother, Frank James.",
+    "popularity": 28.7083,
+    "poster_path": "/sKqRybsSf6v4tme5SKAFws3pZty.jpg",
+    "first_air_date": "1965-09-13",
+    "name": "The Legend of Jesse James",
+    "vote_average": 4.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+    "genre_ids": [
+      37,
+      18,
+      10759
+    ],
+    "id": 215866,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "American Primeval",
+    "overview": "A mother and son fleeing from their past form a found family while confronting a harsh landscape of freedom and cruelty in the American West.",
+    "popularity": 27.0714,
+    "poster_path": "/ff0s9OHGNSZL6cVteIb7LNvTnJD.jpg",
+    "first_air_date": "2025-01-09",
+    "name": "American Primeval",
+    "vote_average": 7.705,
+    "vote_count": 337
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j7LMUCYLuUbSo8egTZYUu7LCzbe.jpg",
+    "genre_ids": [
+      37
+    ],
+    "id": 13844,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Rebel",
+    "overview": "After the end of the Civil War, a former Confederate Army private roams the Wild West, and, as a rogue drifter, gets involved in helping out various settlers threatened by various bad guys...\n\nTHE REBEL is a 76-episode American western television series starring Nick Adams that debuted on the ABC network from 1959 to 1961. The Rebel was one of the few Goodson-Todman Productions outside of their game show ventures. Beginning in December 2011, The Rebel reruns began to air Saturday mornings on Me-TV.",
+    "popularity": 28.2605,
+    "poster_path": "/5Qs3Bk38S65h5Tsi2EVZGHvSLIG.jpg",
+    "first_air_date": "1959-10-04",
+    "name": "The Rebel",
+    "vote_average": 5.1,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Ze68RcK4gyF1phj3TplR15SGW1.jpg",
+    "genre_ids": [
+      37,
+      10759
+    ],
+    "id": 11996,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Outcasts",
+    "overview": "A bounty hunter who was a Confederate Officer teams up with an ex-slave who was a Union Soldier during the Civil War…\n\nAn American Western genre television series, appearing on ABC in the 1968-69 season. The series stars Don Murray and Otis Young. It is most notable for being the first television Western with an African American co-star.",
+    "popularity": 26.563,
+    "poster_path": "/rsI3T0lYEMqg6VqUdFsdqaK7Leh.jpg",
+    "first_air_date": "1968-09-23",
+    "name": "The Outcasts",
+    "vote_average": 5.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xPeemFe28Nr8iC0L3FitRBYrFGV.jpg",
+    "genre_ids": [
+      37,
+      18
+    ],
+    "id": 13815,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Black Saddle",
+    "overview": "Black Saddle is an American Western television series starring Peter Breck that aired 44 episodes on ABC from January 10, 1959 to May 6, 1960. The half-hour program was produced by Dick Powell's Four Star Television, and the original pilot was an episode of CBS's Dick Powell's Zane Grey Theater, with Chris Alcaide portraying the principal character, Clay Culhane.\n\nFor syndicated reruns, Black Saddle was combined with three other Western series from the same company, Law of the Plainsman starring Michael Ansara, Johnny Ringo starring Don Durant and Mark Goddard, and the critically acclaimed creation of Sam Peckinpah, The Westerner with Brian Keith, under the umbrella title, The Westerners, with new hosting sequences by Keenan Wynn.",
+    "popularity": 25.9102,
+    "poster_path": "/yxNU8FYaVt17ldbNzDJSrVTvL2t.jpg",
+    "first_air_date": "1959-01-10",
+    "name": "Black Saddle",
+    "vote_average": 6,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mtVR4TuOXP39NCSxldcryMNo99d.jpg",
+    "genre_ids": [
+      16,
+      37,
+      18
+    ],
+    "id": 31216,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Lone Ranger",
+    "overview": "An ex-Texas Ranger fights injustice in the Old West his with Native-American partner.",
+    "popularity": 20.0688,
+    "poster_path": "/fAfU6eQNPOOo48zOPOIrR0eG53u.jpg",
+    "first_air_date": "1966-09-10",
+    "name": "The Lone Ranger",
+    "vote_average": 6.625,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qVu5MC7DiDOrlcKNZsb9rEJJ1UI.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      37
+    ],
+    "id": 65988,
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wynonna Earp",
+    "overview": "Wyatt Earp's great granddaughter Wynonna battles demons and other creatures with her unique abilities and a posse of dysfunctional allies - the only thing that can bring the paranormal to justice.",
+    "popularity": 26.5573,
+    "poster_path": "/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
+    "first_air_date": "2016-04-01",
+    "name": "Wynonna Earp",
+    "vote_average": 7.884,
+    "vote_count": 775
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ereSuUlk86Nb1hD7eNHdnrJNIWJ.jpg",
+    "genre_ids": [
+      37,
+      35,
+      10759,
+      10765
+    ],
+    "id": 1463,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Adventures of Brisco County, Jr.",
+    "overview": "A tough-as-rawhide cowpoke, debonair ladies' man and Harvard-educated smarty-britches roams from Frisco to Jalisco in pursuit of outlaws who killed his father...and in search of a mysterious orb possessing out-of-this world powers. Hot lead and cool anachronisms await Brisco as he and his sidekicks - including Comet, the intellectual equine who doesn't know he's a horse - fight for justice in the way, way, way-out West.",
+    "popularity": 24.9747,
+    "poster_path": "/yoKekFNOsz8UsacZ6SaHbEmRcmu.jpg",
+    "first_air_date": "1993-08-27",
+    "name": "The Adventures of Brisco County, Jr.",
+    "vote_average": 7.065,
+    "vote_count": 85
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      37
+    ],
+    "id": 17534,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Frontier",
+    "overview": "Frontier is an American Western anthology series that aired on NBC from September 1955, to September 1956. The series de-emphasizes gunplay and focuses on the hazards of the settlement of the American West. It was only the second anthology Western series in television history, having been preceded by Death Valley Days.\n\nFrontier aired premiered on September 25, 1955, and ran sporadically in its last five months. Walter Coy narrated the series and starred in occasional episodes, which are dramatizations based on actual events. The program was produced by Worthington Miner.",
+    "popularity": 25.8707,
+    "poster_path": "/eRwWIQGKPLfzNnsprZJIDpVGwZn.jpg",
+    "first_air_date": "1955-09-25",
+    "name": "Frontier",
+    "vote_average": 5,
+    "vote_count": 1
   }
 ]

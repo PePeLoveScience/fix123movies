@@ -1,46 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/cEQMqB3ahd4mfeUN6VGC0ouVnZZ.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53
-    ],
-    "id": 1071585,
-    "original_language": "en",
-    "original_title": "M3GAN 2.0",
-    "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
-    "popularity": 793.9998,
-    "poster_path": "/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
-    "release_date": "2025-06-25",
-    "title": "M3GAN 2.0",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 423
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "id": 1061474,
-    "original_language": "en",
-    "original_title": "Superman",
-    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-    "popularity": 366.8772,
-    "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
-    "release_date": "2025-07-09",
-    "title": "Superman",
-    "video": false,
-    "vote_average": 7.474,
-    "vote_count": 1049
-  },
-  {
-    "adult": false,
     "backdrop_path": "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
     "genre_ids": [
       10751,
@@ -52,13 +12,72 @@
     "original_language": "en",
     "original_title": "Lilo & Stitch",
     "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
-    "popularity": 529.4998,
+    "popularity": 633.1745,
     "poster_path": "/c32TsWLES7kL1uy6fF03V67AIYX.jpg",
     "release_date": "2025-05-17",
     "title": "Lilo & Stitch",
     "video": false,
-    "vote_average": 7.219,
-    "vote_count": 929
+    "vote_average": 7.348,
+    "vote_count": 1126
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cEQMqB3ahd4mfeUN6VGC0ouVnZZ.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "id": 1071585,
+    "original_language": "en",
+    "original_title": "M3GAN 2.0",
+    "overview": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+    "popularity": 505.6093,
+    "poster_path": "/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+    "release_date": "2025-06-25",
+    "title": "M3GAN 2.0",
+    "video": false,
+    "vote_average": 7.627,
+    "vote_count": 519
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 617126,
+    "original_language": "en",
+    "original_title": "The Fantastic 4: First Steps",
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "popularity": 416.2964,
+    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "release_date": "2025-07-23",
+    "title": "The Fantastic 4: First Steps",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 466
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 1061474,
+    "original_language": "en",
+    "original_title": "Superman",
+    "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "popularity": 320.7292,
+    "poster_path": "/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg",
+    "release_date": "2025-07-09",
+    "title": "Superman",
+    "video": false,
+    "vote_average": 7.424,
+    "vote_count": 1231
   },
   {
     "adult": false,
@@ -72,13 +91,13 @@
     "original_language": "en",
     "original_title": "Jurassic World Rebirth",
     "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
-    "popularity": 252.399,
-    "poster_path": "/q0fGCmjLu42MPlSO9OYWpI5w86I.jpg",
+    "popularity": 250.4601,
+    "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
     "release_date": "2025-07-01",
     "title": "Jurassic World Rebirth",
     "video": false,
-    "vote_average": 6.378,
-    "vote_count": 757
+    "vote_average": 6.332,
+    "vote_count": 820
   },
   {
     "adult": false,
@@ -92,13 +111,33 @@
     "original_language": "en",
     "original_title": "Thunderbolts*",
     "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-    "popularity": 205.4147,
+    "popularity": 216.9315,
     "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
     "video": false,
     "vote_average": 7.4,
-    "vote_count": 1932
+    "vote_count": 2029
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vHUv5IRo7fsoeqN2KA59PqotTpD.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "id": 1268870,
+    "original_language": "es",
+    "original_title": "Nudus",
+    "overview": "As she awakens from a prolonged coma, a woman is shocked to learn all the details of her life her captors her captors have access to.",
+    "popularity": 140.7299,
+    "poster_path": "/7gV1u6ozmtNBuWxfndldwEM4KlN.jpg",
+    "release_date": "2024-04-11",
+    "title": "Nudus",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 2
   },
   {
     "adult": false,
@@ -112,71 +151,33 @@
     "original_language": "ja",
     "original_title": "アニメ『怪獣８号』第１期総集編／同時上映「保科の休日」",
     "overview": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
-    "popularity": 154.1352,
+    "popularity": 113.5786,
     "poster_path": "/1aEfyTWUK8ZBk4aw7Ck0qEoF8PW.jpg",
     "release_date": "2025-03-28",
     "title": "Kaiju No. 8: Mission Recon",
     "video": false,
-    "vote_average": 7.848,
-    "vote_count": 33
+    "vote_average": 7.762,
+    "vote_count": 42
   },
   {
     "adult": false,
-    "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "backdrop_path": "/jGfk0crD8YHswBrGCwKfgwptd9j.jpg",
     "genre_ids": [
       878,
-      12
-    ],
-    "id": 617126,
-    "original_language": "en",
-    "original_title": "The Fantastic Four: First Steps",
-    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-    "popularity": 142.134,
-    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
-    "release_date": "2025-07-23",
-    "title": "The Fantastic Four: First Steps",
-    "video": false,
-    "vote_average": 5.6,
-    "vote_count": 20
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/czG3u1h2s67XajoIF7sEXGeqTjr.jpg",
-    "genre_ids": [
-      27,
-      878,
-      53
-    ],
-    "id": 1103731,
-    "original_language": "en",
-    "original_title": "In Vitro",
-    "overview": "On an isolated cattle farm, a couple experimenting with biotechnology have their lives upended when they discover a disturbing presence on their property.",
-    "popularity": 74.2383,
-    "poster_path": "/oADha0l3dCm68rQfFL2AvZPs8pl.jpg",
-    "release_date": "2025-03-27",
-    "title": "In Vitro",
-    "video": false,
-    "vote_average": 8.2,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
-    "genre_ids": [
       53,
-      878
+      27
     ],
-    "id": 1425045,
-    "original_language": "de",
-    "original_title": "Brick",
-    "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
-    "popularity": 73.2745,
-    "poster_path": "/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
-    "release_date": "2025-07-09",
-    "title": "Brick",
+    "id": 1391047,
+    "original_language": "es",
+    "original_title": "Control Room",
+    "overview": "A distant space colony where Olivia and her colleague Arlo is in charge of the colony's control room, ensuring the safety and well-being of the community. But the colony comes under siege from alien creatures.",
+    "popularity": 155.5054,
+    "poster_path": "/4JSKy8aFyzHQYqi1998wLIBedrw.jpg",
+    "release_date": "2025-04-16",
+    "title": "Control Room",
     "video": false,
-    "vote_average": 5.827,
-    "vote_count": 315
+    "vote_average": 5.5,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -190,13 +191,33 @@
     "original_language": "en",
     "original_title": "Long Distance",
     "overview": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod.",
-    "popularity": 72.9737,
+    "popularity": 74.9495,
     "poster_path": "/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
     "release_date": "2024-07-12",
     "title": "Long Distance",
     "video": false,
-    "vote_average": 6.344,
-    "vote_count": 167
+    "vote_average": 6.42,
+    "vote_count": 175
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      878,
+      35,
+      18
+    ],
+    "id": 1365103,
+    "original_language": "en",
+    "original_title": "Marriage Unplugged",
+    "overview": "Unhappy in their marriage, Suzanna and Andrew buy a male sex robot called James, who consequently uncovers the deep fractures in their relationship.",
+    "popularity": 76.4763,
+    "poster_path": "/3H99Wl52sBPRqXZ3LJjgODOLfwX.jpg",
+    "release_date": "2024-10-28",
+    "title": "Marriage Unplugged",
+    "video": false,
+    "vote_average": 8.7,
+    "vote_count": 3
   },
   {
     "adult": false,
@@ -210,13 +231,13 @@
     "original_language": "en",
     "original_title": "28 Years Later",
     "overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
-    "popularity": 67.864,
+    "popularity": 70.3927,
     "poster_path": "/giAiJSwOJcfA8Y4PCNMGAhfTSyA.jpg",
     "release_date": "2025-06-18",
     "title": "28 Years Later",
     "video": false,
-    "vote_average": 7.139,
-    "vote_count": 610
+    "vote_average": 7.143,
+    "vote_count": 624
   },
   {
     "adult": false,
@@ -231,53 +252,32 @@
     "original_language": "en",
     "original_title": "Predator: Killer of Killers",
     "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
-    "popularity": 57.8903,
+    "popularity": 65.6031,
     "poster_path": "/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
     "release_date": "2025-06-05",
     "title": "Predator: Killer of Killers",
     "video": false,
-    "vote_average": 8,
-    "vote_count": 736
+    "vote_average": 7.9,
+    "vote_count": 755
   },
   {
     "adult": false,
-    "backdrop_path": "/8eifdha9GQeZAkexgtD45546XKx.jpg",
+    "backdrop_path": "/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
     "genre_ids": [
-      28,
       53,
       878
     ],
-    "id": 822119,
-    "original_language": "en",
-    "original_title": "Captain America: Brave New World",
-    "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-    "popularity": 48.0431,
-    "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
-    "release_date": "2025-02-12",
-    "title": "Captain America: Brave New World",
+    "id": 1425045,
+    "original_language": "de",
+    "original_title": "Brick",
+    "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+    "popularity": 51.7286,
+    "poster_path": "/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+    "release_date": "2025-07-09",
+    "title": "Brick",
     "video": false,
-    "vote_average": 6,
-    "vote_count": 2413
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 507086,
-    "original_language": "en",
-    "original_title": "Jurassic World Dominion",
-    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
-    "popularity": 49.1073,
-    "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
-    "release_date": "2022-06-01",
-    "title": "Jurassic World Dominion",
-    "video": false,
-    "vote_average": 6.647,
-    "vote_count": 6540
+    "vote_average": 5.787,
+    "vote_count": 369
   },
   {
     "adult": false,
@@ -291,13 +291,33 @@
     "original_language": "en",
     "original_title": "The Gorge",
     "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-    "popularity": 48.2378,
+    "popularity": 51.2667,
     "poster_path": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
     "release_date": "2025-02-13",
     "title": "The Gorge",
     "video": false,
-    "vote_average": 7.7,
-    "vote_count": 2821
+    "vote_average": 7.722,
+    "vote_count": 2836
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8eifdha9GQeZAkexgtD45546XKx.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 822119,
+    "original_language": "en",
+    "original_title": "Captain America: Brave New World",
+    "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+    "popularity": 52.6977,
+    "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "release_date": "2025-02-12",
+    "title": "Captain America: Brave New World",
+    "video": false,
+    "vote_average": 6.036,
+    "vote_count": 2435
   },
   {
     "adult": false,
@@ -312,32 +332,33 @@
     "original_language": "en",
     "original_title": "Sonic the Hedgehog 3",
     "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-    "popularity": 48.1562,
+    "popularity": 46.6982,
     "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
     "release_date": "2024-12-19",
     "title": "Sonic the Hedgehog 3",
     "video": false,
-    "vote_average": 7.7,
-    "vote_count": 2792
+    "vote_average": 7.676,
+    "vote_count": 2805
   },
   {
     "adult": false,
-    "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
+    "backdrop_path": "/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
     "genre_ids": [
-      878,
-      27
+      12,
+      18,
+      878
     ],
-    "id": 536554,
+    "id": 157336,
     "original_language": "en",
-    "original_title": "M3GAN",
-    "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
-    "popularity": 40.5856,
-    "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
-    "release_date": "2022-12-28",
-    "title": "M3GAN",
+    "original_title": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "popularity": 45.6658,
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "release_date": "2014-11-05",
+    "title": "Interstellar",
     "video": false,
-    "vote_average": 7.1,
-    "vote_count": 4360
+    "vote_average": 8.458,
+    "vote_count": 37519
   },
   {
     "adult": false,
@@ -351,13 +372,73 @@
     "original_language": "en",
     "original_title": "Deadpool & Wolverine",
     "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
-    "popularity": 44.7493,
+    "popularity": 44.9701,
     "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 7497
+    "vote_average": 7.585,
+    "vote_count": 7519
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/698FjyzLdpgXmUSr63LaRwblTmx.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 507086,
+    "original_language": "en",
+    "original_title": "Jurassic World Dominion",
+    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "popularity": 44.8028,
+    "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+    "release_date": "2022-06-01",
+    "title": "Jurassic World Dominion",
+    "video": false,
+    "vote_average": 6.645,
+    "vote_count": 6552
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/czG3u1h2s67XajoIF7sEXGeqTjr.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 1103731,
+    "original_language": "en",
+    "original_title": "In Vitro",
+    "overview": "On an isolated cattle farm, a couple experimenting with biotechnology have their lives upended when they discover a disturbing presence on their property.",
+    "popularity": 37.6185,
+    "poster_path": "/oADha0l3dCm68rQfFL2AvZPs8pl.jpg",
+    "release_date": "2025-03-27",
+    "title": "In Vitro",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "id": 9738,
+    "original_language": "en",
+    "original_title": "Fantastic Four",
+    "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+    "popularity": 46.8947,
+    "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+    "release_date": "2005-06-29",
+    "title": "Fantastic Four",
+    "video": false,
+    "vote_average": 5.793,
+    "vote_count": 9561
   },
   {
     "adult": false,
@@ -372,53 +453,73 @@
     "original_language": "en",
     "original_title": "Despicable Me 4",
     "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
-    "popularity": 40.331,
+    "popularity": 38.6764,
     "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
     "release_date": "2024-06-20",
     "title": "Despicable Me 4",
     "video": false,
-    "vote_average": 7,
-    "vote_count": 2850
+    "vote_average": 7.033,
+    "vote_count": 2855
   },
   {
     "adult": false,
-    "backdrop_path": "/wMEhptvj6pcp2QSzHYcl4DFA5Pz.jpg",
+    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
     "genre_ids": [
-      18,
-      27,
-      878
+      28,
+      878,
+      12
     ],
-    "id": 933260,
+    "id": 912649,
     "original_language": "en",
-    "original_title": "The Substance",
-    "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "popularity": 38.0194,
-    "poster_path": "/q6HjZlvyKxYmhlRhnnxeyudzK9A.jpg",
-    "release_date": "2024-09-07",
-    "title": "The Substance",
+    "original_title": "Venom: The Last Dance",
+    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+    "popularity": 35.4219,
+    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    "release_date": "2024-10-22",
+    "title": "Venom: The Last Dance",
     "video": false,
-    "vote_average": 7.1,
-    "vote_count": 4863
+    "vote_average": 6.711,
+    "vote_count": 3594
   },
   {
     "adult": false,
-    "backdrop_path": "/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+    "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
     "genre_ids": [
-      12,
-      18,
-      878
+      16,
+      878,
+      10751
     ],
-    "id": 157336,
+    "id": 1184918,
     "original_language": "en",
-    "original_title": "Interstellar",
-    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "popularity": 39.1573,
-    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-    "release_date": "2014-11-05",
-    "title": "Interstellar",
+    "original_title": "The Wild Robot",
+    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "popularity": 34.2072,
+    "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "release_date": "2024-09-12",
+    "title": "The Wild Robot",
     "video": false,
-    "vote_average": 8.5,
-    "vote_count": 37481
+    "vote_average": 8.317,
+    "vote_count": 5199
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 24428,
+    "original_language": "en",
+    "original_title": "The Avengers",
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "popularity": 36.3043,
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "release_date": "2012-04-25",
+    "title": "The Avengers",
+    "video": false,
+    "vote_average": 7.781,
+    "vote_count": 32523
   },
   {
     "adult": false,
@@ -434,74 +535,53 @@
     "original_language": "en",
     "original_title": "Elio",
     "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
-    "popularity": 38.6744,
+    "popularity": 34.9281,
     "poster_path": "/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
     "release_date": "2025-06-18",
     "title": "Elio",
     "video": false,
     "vote_average": 6.8,
-    "vote_count": 197
+    "vote_count": 206
   },
   {
     "adult": false,
-    "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+    "backdrop_path": "/wMEhptvj6pcp2QSzHYcl4DFA5Pz.jpg",
     "genre_ids": [
-      16,
-      878,
-      10751
+      18,
+      27,
+      878
     ],
-    "id": 1184918,
+    "id": 933260,
     "original_language": "en",
-    "original_title": "The Wild Robot",
-    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "popularity": 36.2092,
-    "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
-    "release_date": "2024-09-12",
-    "title": "The Wild Robot",
+    "original_title": "The Substance",
+    "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+    "popularity": 33.971,
+    "poster_path": "/q6HjZlvyKxYmhlRhnnxeyudzK9A.jpg",
+    "release_date": "2024-09-07",
+    "title": "The Substance",
     "video": false,
-    "vote_average": 8.315,
-    "vote_count": 5184
+    "vote_average": 7.139,
+    "vote_count": 4881
   },
   {
     "adult": false,
-    "backdrop_path": "/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg",
+    "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
     "genre_ids": [
+      878,
       28,
-      12,
-      878,
-      53
+      27
     ],
-    "id": 135397,
+    "id": 1241470,
     "original_language": "en",
-    "original_title": "Jurassic World",
-    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "popularity": 35.2924,
-    "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-    "release_date": "2015-06-06",
-    "title": "Jurassic World",
+    "original_title": "Osiris",
+    "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+    "popularity": 29.3781,
+    "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+    "release_date": "2025-07-25",
+    "title": "Osiris",
     "video": false,
-    "vote_average": 6.699,
-    "vote_count": 20859
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 912649,
-    "original_language": "en",
-    "original_title": "Venom: The Last Dance",
-    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
-    "popularity": 35.1849,
-    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
-    "release_date": "2024-10-22",
-    "title": "Venom: The Last Dance",
-    "video": false,
-    "vote_average": 6.711,
-    "vote_count": 3580
+    "vote_average": 6.056,
+    "vote_count": 18
   },
   {
     "adult": false,
@@ -516,13 +596,93 @@
     "original_language": "en",
     "original_title": "Utopia",
     "overview": "A soldier searching for his missing wife breaks into a high-tech facility, believing she's been caught in a human trafficking ring. But beyond its walls, he finds a surreal, futuristic fantasy park where reality and illusion blur. As he navigates this seductive and dangerous world, a shocking truth pulls him deeper into a deadly game where nothing is as it seems.",
-    "popularity": 34.1769,
+    "popularity": 33.3005,
     "poster_path": "/yef0tY1Nw3BX8PJTfBLieqHj5Hw.jpg",
     "release_date": "2024-12-09",
     "title": "Utopia",
     "video": false,
     "vote_average": 5.734,
     "vote_count": 47
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qd4EKTuudkws9lW76Dn9C0tnuVA.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "id": 536554,
+    "original_language": "en",
+    "original_title": "M3GAN",
+    "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+    "popularity": 28.2021,
+    "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+    "release_date": "2022-12-28",
+    "title": "M3GAN",
+    "video": false,
+    "vote_average": 7.057,
+    "vote_count": 4375
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878,
+      53
+    ],
+    "id": 135397,
+    "original_language": "en",
+    "original_title": "Jurassic World",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "popularity": 28.9701,
+    "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "release_date": "2015-06-06",
+    "title": "Jurassic World",
+    "video": false,
+    "vote_average": 6.699,
+    "vote_count": 20870
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/or5kDR8Ve3TtuPSdEf1X5NdQHyz.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 166424,
+    "original_language": "en",
+    "original_title": "Fantastic Four",
+    "overview": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
+    "popularity": 32.0634,
+    "poster_path": "/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+    "release_date": "2015-08-05",
+    "title": "Fantastic Four",
+    "video": false,
+    "vote_average": 4.429,
+    "vote_count": 6147
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 1979,
+    "original_language": "en",
+    "original_title": "Fantastic Four: Rise of the Silver Surfer",
+    "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+    "popularity": 36.1136,
+    "poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+    "release_date": "2007-06-13",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "video": false,
+    "vote_average": 5.615,
+    "vote_count": 8044
   },
   {
     "adult": false,
@@ -537,73 +697,13 @@
     "original_language": "en",
     "original_title": "Jurassic World: Fallen Kingdom",
     "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
-    "popularity": 33.3945,
+    "popularity": 28.782,
     "poster_path": "/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
     "release_date": "2018-06-06",
     "title": "Jurassic World: Fallen Kingdom",
     "video": false,
     "vote_average": 6.541,
-    "vote_count": 12202
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
-    "id": 24428,
-    "original_language": "en",
-    "original_title": "The Avengers",
-    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "popularity": 32.292,
-    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "release_date": "2012-04-25",
-    "title": "The Avengers",
-    "video": false,
-    "vote_average": 7.777,
-    "vote_count": 32445
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vHUv5IRo7fsoeqN2KA59PqotTpD.jpg",
-    "genre_ids": [
-      27,
-      53,
-      878
-    ],
-    "id": 1268870,
-    "original_language": "es",
-    "original_title": "Nudus",
-    "overview": "As she awakens from a prolonged coma, a woman is shocked to learn all the details of her life her captors her captors have access to.",
-    "popularity": 31.1698,
-    "poster_path": "/7gV1u6ozmtNBuWxfndldwEM4KlN.jpg",
-    "release_date": "2024-04-11",
-    "title": "Nudus",
-    "video": false,
-    "vote_average": 4,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 49521,
-    "original_language": "en",
-    "original_title": "Man of Steel",
-    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
-    "popularity": 29.7177,
-    "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
-    "release_date": "2013-06-12",
-    "title": "Man of Steel",
-    "video": false,
-    "vote_average": 6.633,
-    "vote_count": 15535
+    "vote_count": 12215
   },
   {
     "adult": false,
@@ -617,112 +717,13 @@
     "original_language": "en",
     "original_title": "Avengers: Infinity War",
     "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "popularity": 27.8094,
+    "popularity": 27.0041,
     "poster_path": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "release_date": "2018-04-25",
     "title": "Avengers: Infinity War",
     "video": false,
-    "vote_average": 8.236,
-    "vote_count": 30744
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3s7uwQKH0WmaeO7VCqAOK3C5gjF.jpg",
-    "genre_ids": [
-      27,
-      53,
-      878
-    ],
-    "id": 170,
-    "original_language": "en",
-    "original_title": "28 Days Later",
-    "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
-    "popularity": 26.805,
-    "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
-    "release_date": "2002-10-31",
-    "title": "28 Days Later",
-    "video": false,
-    "vote_average": 7.235,
-    "vote_count": 7568
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 27205,
-    "original_language": "en",
-    "original_title": "Inception",
-    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-    "popularity": 26.6853,
-    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-    "release_date": "2010-07-15",
-    "title": "Inception",
-    "video": false,
-    "vote_average": 8.369,
-    "vote_count": 37691
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
-    "genre_ids": [
-      878,
-      35,
-      12
-    ],
-    "id": 696506,
-    "original_language": "en",
-    "original_title": "Mickey 17",
-    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
-    "popularity": 26.3035,
-    "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-    "release_date": "2025-02-28",
-    "title": "Mickey 17",
-    "video": false,
-    "vote_average": 6.883,
-    "vote_count": 2413
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 634649,
-    "original_language": "en",
-    "original_title": "Spider-Man: No Way Home",
-    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "popularity": 26.2528,
-    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "release_date": "2021-12-15",
-    "title": "Spider-Man: No Way Home",
-    "video": false,
-    "vote_average": 7.943,
-    "vote_count": 20918
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iJaSpQNZ8GsqVDWfbCXmyZQXZ5l.jpg",
-    "genre_ids": [
-      27,
-      878
-    ],
-    "id": 945961,
-    "original_language": "en",
-    "original_title": "Alien: Romulus",
-    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
-    "popularity": 25.2922,
-    "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
-    "release_date": "2024-08-13",
-    "title": "Alien: Romulus",
-    "video": false,
-    "vote_average": 7.194,
-    "vote_count": 3802
+    "vote_average": 8.2,
+    "vote_count": 30759
   },
   {
     "adult": false,
@@ -737,33 +738,93 @@
     "original_language": "en",
     "original_title": "The Maze Runner",
     "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
-    "popularity": 25.224,
+    "popularity": 25.4649,
     "poster_path": "/ode14q7WtDugFDp78fo9lCsmay9.jpg",
     "release_date": "2014-09-10",
     "title": "The Maze Runner",
     "video": false,
-    "vote_average": 7.2,
-    "vote_count": 17444
+    "vote_average": 7.191,
+    "vote_count": 17454
   },
   {
     "adult": false,
-    "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+    "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
     "genre_ids": [
-      878,
       28,
+      878,
       12
     ],
-    "id": 1924,
+    "id": 27205,
     "original_language": "en",
-    "original_title": "Superman",
-    "overview": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
-    "popularity": 24.091,
-    "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
-    "release_date": "1978-12-14",
-    "title": "Superman",
+    "original_title": "Inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "popularity": 28.2009,
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "release_date": "2010-07-15",
+    "title": "Inception",
     "video": false,
-    "vote_average": 7.147,
-    "vote_count": 4011
+    "vote_average": 8.369,
+    "vote_count": 37715
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 634649,
+    "original_language": "en",
+    "original_title": "Spider-Man: No Way Home",
+    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "popularity": 26.6373,
+    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "release_date": "2021-12-15",
+    "title": "Spider-Man: No Way Home",
+    "video": false,
+    "vote_average": 7.943,
+    "vote_count": 20933
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 1084199,
+    "original_language": "en",
+    "original_title": "Companion",
+    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "popularity": 24.4701,
+    "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "release_date": "2025-01-22",
+    "title": "Companion",
+    "video": false,
+    "vote_average": 7.078,
+    "vote_count": 1496
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gXEwpePVhDKpuD81tmFdfbtbTfZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 49521,
+    "original_language": "en",
+    "original_title": "Man of Steel",
+    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+    "popularity": 24.6105,
+    "poster_path": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+    "release_date": "2013-06-12",
+    "title": "Man of Steel",
+    "video": false,
+    "vote_average": 6.633,
+    "vote_count": 15547
   },
   {
     "adult": false,
@@ -776,13 +837,131 @@
     "original_language": "en",
     "original_title": "Dune: Part Two",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-    "popularity": 23.399,
+    "popularity": 23.1934,
     "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
     "release_date": "2024-02-27",
     "title": "Dune: Part Two",
     "video": false,
-    "vote_average": 8.144,
-    "vote_count": 6851
+    "vote_average": 8.141,
+    "vote_count": 6868
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
+    "genre_ids": [
+      878,
+      12,
+      14
+    ],
+    "id": 83533,
+    "original_language": "en",
+    "original_title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "popularity": 23.9764,
+    "poster_path": "/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+    "release_date": "2025-12-17",
+    "title": "Avatar: Fire and Ash",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 76600,
+    "original_language": "en",
+    "original_title": "Avatar: The Way of Water",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "popularity": 25.7356,
+    "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "release_date": "2022-12-14",
+    "title": "Avatar: The Way of Water",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 12701
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eP4RZSHliWu6lPT5WQyHr5ZZKuC.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 945961,
+    "original_language": "en",
+    "original_title": "Alien: Romulus",
+    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+    "popularity": 24.7291,
+    "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+    "release_date": "2024-08-13",
+    "title": "Alien: Romulus",
+    "video": false,
+    "vote_average": 7.193,
+    "vote_count": 3816
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jqmcJHbIzCDuSclT31H8sttQiaM.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 1242898,
+    "original_language": "en",
+    "original_title": "Predator: Badlands",
+    "overview": "In the future on a remote planet, a young Predator, outcast from his clan, finds an unlikely ally in Thia and embarks on a treacherous journey in search of the ultimate adversary.",
+    "popularity": 22.2924,
+    "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+    "release_date": "2025-11-05",
+    "title": "Predator: Badlands",
+    "video": false,
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
+    "genre_ids": [
+      878,
+      35,
+      12
+    ],
+    "id": 696506,
+    "original_language": "en",
+    "original_title": "Mickey 17",
+    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+    "popularity": 26.748,
+    "poster_path": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+    "release_date": "2025-02-28",
+    "title": "Mickey 17",
+    "video": false,
+    "vote_average": 6.885,
+    "vote_count": 2452
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3s7uwQKH0WmaeO7VCqAOK3C5gjF.jpg",
+    "genre_ids": [
+      27,
+      53,
+      878
+    ],
+    "id": 170,
+    "original_language": "en",
+    "original_title": "28 Days Later",
+    "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "popularity": 23.5851,
+    "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+    "release_date": "2002-10-31",
+    "title": "28 Days Later",
+    "video": false,
+    "vote_average": 7.236,
+    "vote_count": 7595
   },
   {
     "adult": false,
@@ -797,209 +976,13 @@
     "original_language": "en",
     "original_title": "Spider-Man: Across the Spider-Verse",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "popularity": 23.3019,
+    "popularity": 23.3421,
     "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
     "release_date": "2023-05-31",
     "title": "Spider-Man: Across the Spider-Verse",
     "video": false,
-    "vote_average": 8.348,
-    "vote_count": 7715
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "id": 603,
-    "original_language": "en",
-    "original_title": "The Matrix",
-    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-    "popularity": 21.9534,
-    "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
-    "release_date": "1999-03-31",
-    "title": "The Matrix",
-    "video": false,
-    "vote_average": 8.229,
-    "vote_count": 26583
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
-    "genre_ids": [
-      27,
-      878,
-      53
-    ],
-    "id": 1084199,
-    "original_language": "en",
-    "original_title": "Companion",
-    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
-    "popularity": 21.7423,
-    "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
-    "release_date": "2025-01-22",
-    "title": "Companion",
-    "video": false,
-    "vote_average": 7.079,
-    "vote_count": 1476
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg",
-    "genre_ids": [
-      878,
-      12
-    ],
-    "id": 438631,
-    "original_language": "en",
-    "original_title": "Dune",
-    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
-    "popularity": 20.8762,
-    "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
-    "release_date": "2021-09-15",
-    "title": "Dune",
-    "video": false,
-    "vote_average": 7.783,
-    "vote_count": 13734
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "id": 667538,
-    "original_language": "en",
-    "original_title": "Transformers: Rise of the Beasts",
-    "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
-    "popularity": 20.3822,
-    "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
-    "release_date": "2023-06-06",
-    "title": "Transformers: Rise of the Beasts",
-    "video": false,
-    "vote_average": 7.221,
-    "vote_count": 4967
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "id": 557,
-    "original_language": "en",
-    "original_title": "Spider-Man",
-    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-    "popularity": 20.3593,
-    "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
-    "release_date": "2002-05-01",
-    "title": "Spider-Man",
-    "video": false,
-    "vote_average": 7.313,
-    "vote_count": 19721
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
-    "genre_ids": [
-      12,
-      878
-    ],
-    "id": 329,
-    "original_language": "en",
-    "original_title": "Jurassic Park",
-    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-    "popularity": 20.3087,
-    "poster_path": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
-    "release_date": "1993-06-11",
-    "title": "Jurassic Park",
-    "video": false,
-    "vote_average": 7.959,
-    "vote_count": 16942
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 10138,
-    "original_language": "en",
-    "original_title": "Iron Man 2",
-    "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
-    "popularity": 19.9517,
-    "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-    "release_date": "2010-04-28",
-    "title": "Iron Man 2",
-    "video": false,
-    "vote_average": 6.849,
-    "vote_count": 21572
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "id": 76600,
-    "original_language": "en",
-    "original_title": "Avatar: The Way of Water",
-    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-    "popularity": 19.9111,
-    "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
-    "release_date": "2022-12-14",
-    "title": "Avatar: The Way of Water",
-    "video": false,
-    "vote_average": 7.612,
-    "vote_count": 12688
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 1726,
-    "original_language": "en",
-    "original_title": "Iron Man",
-    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-    "popularity": 19.7418,
-    "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-    "release_date": "2008-04-30",
-    "title": "Iron Man",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 27128
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 823464,
-    "original_language": "en",
-    "original_title": "Godzilla x Kong: The New Empire",
-    "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
-    "popularity": 19.5283,
-    "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
-    "release_date": "2024-03-27",
-    "title": "Godzilla x Kong: The New Empire",
-    "video": false,
-    "vote_average": 7.086,
-    "vote_count": 4264
+    "vote_average": 8.347,
+    "vote_count": 7730
   },
   {
     "adult": false,
@@ -1014,13 +997,191 @@
     "original_language": "en",
     "original_title": "Avatar",
     "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-    "popularity": 19.4085,
+    "popularity": 23.5433,
     "poster_path": "/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
     "release_date": "2009-12-15",
     "title": "Avatar",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 32409
+    "vote_average": 7.591,
+    "vote_count": 32424
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 438631,
+    "original_language": "en",
+    "original_title": "Dune",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "popularity": 21.994,
+    "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "release_date": "2021-09-15",
+    "title": "Dune",
+    "video": false,
+    "vote_average": 7.782,
+    "vote_count": 13749
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 603,
+    "original_language": "en",
+    "original_title": "The Matrix",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "popularity": 21.1458,
+    "poster_path": "/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+    "release_date": "1999-03-31",
+    "title": "The Matrix",
+    "video": false,
+    "vote_average": 8.229,
+    "vote_count": 26603
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18,
+      878
+    ],
+    "id": 1319951,
+    "original_language": "en",
+    "original_title": "40 Acres",
+    "overview": "Hailey Freeman and her family are the last descendants of African American farmers who settled in rural Canada after the Civil War. In a famine-decimated near future, they now struggle to safeguard their farm, as they make one last stand against a vicious militia hell-bent on taking their 40 Acres.",
+    "popularity": 19.9264,
+    "poster_path": "/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
+    "release_date": "2025-07-02",
+    "title": "40 Acres",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 298618,
+    "original_language": "en",
+    "original_title": "The Flash",
+    "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+    "popularity": 21.2769,
+    "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+    "release_date": "2023-06-13",
+    "title": "The Flash",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 4622
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 1726,
+    "original_language": "en",
+    "original_title": "Iron Man",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "popularity": 20.9492,
+    "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "release_date": "2008-04-30",
+    "title": "Iron Man",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 27144
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 823464,
+    "original_language": "en",
+    "original_title": "Godzilla x Kong: The New Empire",
+    "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "popularity": 19.491,
+    "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    "release_date": "2024-03-27",
+    "title": "Godzilla x Kong: The New Empire",
+    "video": false,
+    "vote_average": 7.086,
+    "vote_count": 4273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+    "genre_ids": [
+      12,
+      878,
+      28
+    ],
+    "id": 299534,
+    "original_language": "en",
+    "original_title": "Avengers: Endgame",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "popularity": 18.357,
+    "poster_path": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "release_date": "2019-04-24",
+    "title": "Avengers: Endgame",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 26547
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 557,
+    "original_language": "en",
+    "original_title": "Spider-Man",
+    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "popularity": 18.0289,
+    "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+    "release_date": "2002-05-01",
+    "title": "Spider-Man",
+    "video": false,
+    "vote_average": 7.313,
+    "vote_count": 19733
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 667538,
+    "original_language": "en",
+    "original_title": "Transformers: Rise of the Beasts",
+    "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+    "popularity": 20.1353,
+    "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+    "release_date": "2023-06-06",
+    "title": "Transformers: Rise of the Beasts",
+    "video": false,
+    "vote_average": 7.221,
+    "vote_count": 4974
   },
   {
     "adult": false,
@@ -1035,175 +1196,12 @@
     "original_language": "en",
     "original_title": "Transformers One",
     "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
-    "popularity": 18.1355,
+    "popularity": 18.6258,
     "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
     "release_date": "2024-09-11",
     "title": "Transformers One",
     "video": false,
-    "vote_average": 8.062,
-    "vote_count": 1324
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878,
-      18
-    ],
-    "id": 315635,
-    "original_language": "en",
-    "original_title": "Spider-Man: Homecoming",
-    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-    "popularity": 17.9747,
-    "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "release_date": "2017-07-05",
-    "title": "Spider-Man: Homecoming",
-    "video": false,
-    "vote_average": 7.331,
-    "vote_count": 22336
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
-    "genre_ids": [
-      28,
-      14,
-      878
-    ],
-    "id": 9738,
-    "original_language": "en",
-    "original_title": "Fantastic Four",
-    "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
-    "popularity": 17.7403,
-    "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
-    "release_date": "2005-06-29",
-    "title": "Fantastic Four",
-    "video": false,
-    "vote_average": 5.791,
-    "vote_count": 9539
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28,
-      35
-    ],
-    "id": 447365,
-    "original_language": "en",
-    "original_title": "Guardians of the Galaxy Vol. 3",
-    "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-    "popularity": 17.4477,
-    "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
-    "release_date": "2023-05-03",
-    "title": "Guardians of the Galaxy Vol. 3",
-    "video": false,
-    "vote_average": 7.934,
-    "vote_count": 7497
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oBV1aajDou6hvPD55vQHrBSlDgb.jpg",
-    "genre_ids": [
-      878,
-      28,
-      35,
-      14
-    ],
-    "id": 793058,
-    "original_language": "ko",
-    "original_title": "하이파이브",
-    "overview": "In the dead of night, a body donated for organ transplants mysteriously disintegrates into ashes. Soon after, five recipients, given a heart, corneas, lungs, liver, and kidneys, begin to develop supernatural powers. A teenage girl gains immense strength, a hipster manipulates electromagnetic waves, a novelist summons powerful gusts, a factory manager can heal others, and a woman discovers a strange, still-unidentified ability. Together, they form a reluctant but heroic team known as \"HI-FIVE.\" But they aren’t the only ones transformed. A cult leader who received the donor's pancreas gains the terrifying power to drain life energy and sets his sights on stealing the abilities of HI-FIVE to achieve godlike domination.",
-    "popularity": 17.1978,
-    "poster_path": "/5hi6bQWfbXfJ1W0iCrM78RWbrwi.jpg",
-    "release_date": "2025-05-30",
-    "title": "Hi-Five",
-    "video": false,
-    "vote_average": 7,
-    "vote_count": 14
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 786892,
-    "original_language": "en",
-    "original_title": "Furiosa: A Mad Max Saga",
-    "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
-    "popularity": 17.0363,
-    "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
-    "release_date": "2024-05-22",
-    "title": "Furiosa: A Mad Max Saga",
-    "video": false,
-    "vote_average": 7.476,
-    "vote_count": 4275
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pvxmYJcgrLiYC6G2IQTn1PPNems.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 14161,
-    "original_language": "en",
-    "original_title": "2012",
-    "overview": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
-    "popularity": 16.8779,
-    "poster_path": "/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
-    "release_date": "2009-10-10",
-    "title": "2012",
-    "video": false,
-    "vote_average": 5.857,
-    "vote_count": 12221
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 559,
-    "original_language": "en",
-    "original_title": "Spider-Man 3",
-    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-    "popularity": 16.7555,
-    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
-    "release_date": "2007-05-01",
-    "title": "Spider-Man 3",
-    "video": false,
-    "vote_average": 6.441,
-    "vote_count": 14553
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 298618,
-    "original_language": "en",
-    "original_title": "The Flash",
-    "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
-    "popularity": 16.5614,
-    "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-    "release_date": "2023-06-13",
-    "title": "The Flash",
-    "video": false,
-    "vote_average": 6.645,
-    "vote_count": 4616
+    "vote_average": 8.057,
+    "vote_count": 1332
   }
 ]

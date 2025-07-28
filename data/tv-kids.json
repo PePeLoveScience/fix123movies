@@ -17,36 +17,12 @@
     "original_language": "ja",
     "original_name": "ドラえもん",
     "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    "popularity": 441.816,
+    "popularity": 440.3081,
     "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
     "first_air_date": "2005-04-22",
     "name": "Doraemon",
     "vote_average": 8.1,
-    "vote_count": 184
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4fVwc77cov2q9i0szzYhlkAaqza.jpg",
-    "genre_ids": [
-      35,
-      10759,
-      10762,
-      16,
-      10751
-    ],
-    "id": 34860,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "忍たま乱太郎",
-    "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
-    "popularity": 309.4555,
-    "poster_path": "/raKlXyICQBeTxYavErIRybR6g8d.jpg",
-    "first_air_date": "1993-04-10",
-    "name": "Ninja Boy Rantaro",
-    "vote_average": 6.4,
-    "vote_count": 19
+    "vote_count": 185
   },
   {
     "adult": false,
@@ -65,7 +41,7 @@
     "original_language": "ja",
     "original_name": "忍者ハットリくん",
     "overview": "11-year-old Kenichi Mitsuba is an average kid who goes to secondary school and struggles with his studies, he is very stubborn and is very lazy and therefore always ends up frustrating his parents and teacher. He loves to find an easy way of things. He befriends Hattori Kanzo, a ninja from the Iga Clan, and he becomes part of the Mitsuba family along with his brother, Shinzo and his ninja dog, Shishimaru. Hattori helps Kenichi with his problems, and constantly keeps an eye on him, as a good friend. The main antagonist Kemumaki, a Koga ninja and his ninja cat, Kagechiyo always troubles Kenichi, mainly because of their feud over one girl, Yumeko. Kenichi asks Hattori to take revenge as a recurring storyline in many episodes. Although Hattori is a good friend, Kenichi sometimes fights with Hattori due to misunderstandings created by Kemumaki. Sometimes Jippou, Togejirou and Tsubame help him.",
-    "popularity": 293.5559,
+    "popularity": 275.808,
     "poster_path": "/zVSx7lXxRKqXiQMgN6QNGgNyF5R.jpg",
     "first_air_date": "1981-09-28",
     "name": "Ninja Hattori-kun",
@@ -74,49 +50,24 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765,
-      35,
-      10751,
-      10762
-    ],
-    "id": 132791,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "パーマン",
-    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
-    "popularity": 244.2892,
-    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
-    "first_air_date": "1983-04-04",
-    "name": "SUPERKID",
-    "vote_average": 8.75,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/p09oos2PjdtJjOjvLbqAFnRPHRN.jpg",
+    "backdrop_path": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
     "genre_ids": [
       10762,
-      10751
+      35
     ],
-    "id": 49281,
+    "id": 502,
     "origin_country": [
-      "GB"
+      "US"
     ],
     "original_language": "en",
-    "original_name": "CBeebies Bedtime Stories",
-    "overview": "Join a host of different celebrities for a different story read each night just before bedtime.",
-    "popularity": 217.1372,
-    "poster_path": "/b0ScjqTEs9XNpGsFueXdwPbWHtC.jpg",
-    "first_air_date": "2009-03-09",
-    "name": "CBeebies Bedtime Stories",
-    "vote_average": 7.7,
-    "vote_count": 7
+    "original_name": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "popularity": 200.7304,
+    "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "first_air_date": "1969-11-10",
+    "name": "Sesame Street",
+    "vote_average": 7.1,
+    "vote_count": 267
   },
   {
     "adult": false,
@@ -136,7 +87,7 @@
     "original_language": "ja",
     "original_name": "パズドラ",
     "overview": "The story is set in modern day Japan following the growth of the protagonist Taiga Akashi, an elementary school kid who wants to be a professional gamer someday.",
-    "popularity": 209.114,
+    "popularity": 188.315,
     "poster_path": "/oW9rE2Zo38eTBcCcnDl5tZijYHq.jpg",
     "first_air_date": "2018-04-02",
     "name": "Puzzle & Dragons",
@@ -145,24 +96,28 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "backdrop_path": "/vaNcnuLNiNRPt9bbeTmdBXFw31W.jpg",
     "genre_ids": [
-      10762,
-      35
+      16,
+      10759,
+      10765,
+      35,
+      10751,
+      10762
     ],
-    "id": 502,
+    "id": 132791,
     "origin_country": [
-      "US"
+      "JP"
     ],
-    "original_language": "en",
-    "original_name": "Sesame Street",
-    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
-    "popularity": 202.5176,
-    "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-    "first_air_date": "1969-11-10",
-    "name": "Sesame Street",
-    "vote_average": 7.082,
-    "vote_count": 267
+    "original_language": "ja",
+    "original_name": "パーマン",
+    "overview": "Mitsuo encountered Superman, an alien who is a part of a federation that tries to maintain peace in the galaxy. He then received a helmet (that also serves as a mask) that gives superhuman strength, a cape that enables the wearer to fly, and a badge that allows him to breathe underwater and communicate with his fellow comrades whom he met soon after he utilized these gifts. Superman made it clear to all Permans that their identity must be kept a secret or their brain will be destroyed should it ever be revealed and they are given a special doppelganger robot that can replace them while they are away to achieve this feat, although it is not entirely foolproof nor is it free from potential problems. These equipments then allowed them to be young Permans who try to maintain peace and help the people who are in need.",
+    "popularity": 178.2999,
+    "poster_path": "/lCGbsqKiOvRICllC4AgZ67zjrSL.jpg",
+    "first_air_date": "1983-04-04",
+    "name": "SUPERKID",
+    "vote_average": 8.75,
+    "vote_count": 4
   },
   {
     "adult": false,
@@ -178,36 +133,33 @@
     "original_language": "en",
     "original_name": "PAW Patrol",
     "overview": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
-    "popularity": 187.9131,
+    "popularity": 162.5144,
     "poster_path": "/9S65uEjDqepU7d71CNmxIBHHdo.jpg",
     "first_air_date": "2013-08-12",
     "name": "PAW Patrol",
-    "vote_average": 7.001,
-    "vote_count": 779
+    "vote_average": 7.005,
+    "vote_count": 780
   },
   {
     "adult": false,
-    "backdrop_path": "/7tPJfShsyTda32HLIFKbYvD0N87.jpg",
+    "backdrop_path": "/ooIYvpusdiXzULeUlL1Ul7XljQK.jpg",
     "genre_ids": [
-      10759,
       16,
-      35,
-      10762,
-      10751
+      10762
     ],
-    "id": 607,
+    "id": 12225,
     "origin_country": [
-      "US"
+      "GB"
     ],
     "original_language": "en",
-    "original_name": "The Powerpuff Girls",
-    "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
-    "popularity": 154.0552,
-    "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
-    "first_air_date": "1998-11-18",
-    "name": "The Powerpuff Girls",
-    "vote_average": 7.542,
-    "vote_count": 941
+    "original_name": "Peppa Pig",
+    "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
+    "popularity": 130.7616,
+    "poster_path": "/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+    "first_air_date": "2004-05-31",
+    "name": "Peppa Pig",
+    "vote_average": 6.6,
+    "vote_count": 705
   },
   {
     "adult": false,
@@ -224,82 +176,12 @@
     "original_language": "ja",
     "original_name": "オバケのQ太郎",
     "overview": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his body into other things like other monsters do. He is a scattered mind, and he always makes mistakes and causes trouble.\n\nSequel of Shin Obake no Q-tarou.",
-    "popularity": 145.7094,
+    "popularity": 122.2098,
     "poster_path": "/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
     "first_air_date": "1985-04-01",
     "name": "Obake no Q-tarō",
     "vote_average": 7,
     "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
-    "genre_ids": [
-      10759,
-      10762,
-      16,
-      10765,
-      35
-    ],
-    "id": 51817,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Teenage Mutant Ninja Turtles",
-    "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
-    "popularity": 140.1576,
-    "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-    "first_air_date": "2012-09-28",
-    "name": "Teenage Mutant Ninja Turtles",
-    "vote_average": 8.328,
-    "vote_count": 746
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10762,
-      9648
-    ],
-    "id": 68073,
-    "origin_country": [
-      "GB",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Loud House",
-    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
-    "popularity": 138.1789,
-    "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
-    "first_air_date": "2016-05-02",
-    "name": "The Loud House",
-    "vote_average": 7.837,
-    "vote_count": 541
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ooIYvpusdiXzULeUlL1Ul7XljQK.jpg",
-    "genre_ids": [
-      16,
-      10762
-    ],
-    "id": 12225,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Peppa Pig",
-    "overview": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles and make loud snorting noises.",
-    "popularity": 135.3673,
-    "poster_path": "/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-    "first_air_date": "2004-05-31",
-    "name": "Peppa Pig",
-    "vote_average": 6.6,
-    "vote_count": 705
   },
   {
     "adult": false,
@@ -316,12 +198,34 @@
     "original_language": "fr",
     "original_name": "Miraculous, les aventures de Ladybug et Chat Noir",
     "overview": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
-    "popularity": 127.6769,
+    "popularity": 123.7361,
     "poster_path": "/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
     "first_air_date": "2015-10-19",
     "name": "Miraculous: Tales of Ladybug & Cat Noir",
-    "vote_average": 8,
-    "vote_count": 4491
+    "vote_average": 8.047,
+    "vote_count": 4495
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10762
+    ],
+    "id": 30623,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "クレヨンしんちゃん",
+    "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+    "popularity": 104.0707,
+    "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+    "first_air_date": "1992-04-13",
+    "name": "Shin Chan",
+    "vote_average": 7.8,
+    "vote_count": 100
   },
   {
     "adult": false,
@@ -340,7 +244,7 @@
     "original_language": "zh",
     "original_name": "喜羊羊与灰太狼",
     "overview": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting and Luo Yinggeng, and produced by Creative Power Entertaining. The show is about a group of goats living on the Green Pasture, Qing Qing Grasslands/Plains, and the story revolving around a clumsy wolf who wants to eat them.  Toon Express Group owns the copyrights of the characters.",
-    "popularity": 125.4309,
+    "popularity": 105.6705,
     "poster_path": "/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
     "first_air_date": "2005-08-03",
     "name": "Pleasant Goat and Big Big Wolf",
@@ -349,49 +253,48 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
+    "backdrop_path": "/4fVwc77cov2q9i0szzYhlkAaqza.jpg",
     "genre_ids": [
-      16,
       35,
-      10762
+      10759,
+      10762,
+      16,
+      10751
     ],
-    "id": 30623,
+    "id": 34860,
     "origin_country": [
       "JP"
     ],
     "original_language": "ja",
-    "original_name": "クレヨンしんちゃん",
-    "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
-    "popularity": 124.0323,
-    "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
-    "first_air_date": "1992-04-13",
-    "name": "Shin Chan",
-    "vote_average": 7.8,
-    "vote_count": 100
+    "original_name": "忍たま乱太郎",
+    "overview": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\". They must learn  everything a ninja must know, but as for our heroes, money, food or  playing are more interesting. The series show the everyday adventures of  our heroes.",
+    "popularity": 104.0966,
+    "poster_path": "/raKlXyICQBeTxYavErIRybR6g8d.jpg",
+    "first_air_date": "1993-04-10",
+    "name": "Ninja Boy Rantaro",
+    "vote_average": 6.4,
+    "vote_count": 19
   },
   {
     "adult": false,
-    "backdrop_path": "/dGvW61JwuqwtShk849PHZflOAX.jpg",
+    "backdrop_path": "/p09oos2PjdtJjOjvLbqAFnRPHRN.jpg",
     "genre_ids": [
       10762,
-      16,
-      35,
-      10765,
-      10759
+      10751
     ],
-    "id": 3934,
+    "id": 49281,
     "origin_country": [
-      "US"
+      "GB"
     ],
     "original_language": "en",
-    "original_name": "Mickey Mouse Clubhouse",
-    "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
-    "popularity": 117.7024,
-    "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
-    "first_air_date": "2006-05-05",
-    "name": "Mickey Mouse Clubhouse",
-    "vote_average": 6.8,
-    "vote_count": 360
+    "original_name": "CBeebies Bedtime Stories",
+    "overview": "Join a host of different celebrities for a different story read each night just before bedtime.",
+    "popularity": 79.4264,
+    "poster_path": "/b0ScjqTEs9XNpGsFueXdwPbWHtC.jpg",
+    "first_air_date": "2009-03-09",
+    "name": "CBeebies Bedtime Stories",
+    "vote_average": 7.7,
+    "vote_count": 7
   },
   {
     "adult": false,
@@ -410,7 +313,7 @@
     "original_language": "ja",
     "original_name": "ちいかわ",
     "overview": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" (Nanka Chiisakute Kawaii Yatsu) known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.",
-    "popularity": 115.1959,
+    "popularity": 102.9544,
     "poster_path": "/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
     "first_air_date": "2022-04-04",
     "name": "Chiikawa",
@@ -419,140 +322,26 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/taVpgDdtwqgPbgwIFEBSU4I5vuV.jpg",
-    "genre_ids": [
-      10762,
-      10751,
-      10766
-    ],
-    "id": 58566,
-    "origin_country": [
-      "AR",
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Chiquititas",
-    "overview": "Based on the original version of same name created by Cris Morena, the series tells the story of a group of orphans living in a manor, known as Raio de Luz, struggling and being guided by a young woman, Carol, that assumes a maternal figure for them. Their experiences such as discovering first love, deceptions, loneliness and friendship, as well as adventures in fantasy, are depicted throughout the series. The narrative is followed by musical themes and videoclips.",
-    "popularity": 112.2466,
-    "poster_path": "/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg",
-    "first_air_date": "2013-07-15",
-    "name": "Chiquititas",
-    "vote_average": 8.45,
-    "vote_count": 40
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fcJp0XZsnlkIfhEgxrL9m0MkOFg.jpg",
+    "backdrop_path": "/thC21OmJxXR0FoUrkEk644rRO2M.jpg",
     "genre_ids": [
       16,
       10762,
-      35
+      35,
+      10759
     ],
-    "id": 154820,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Alice's Wonderland Bakery",
-    "overview": "Alice, the great-granddaughter of the original Alice and a budding young baker at the enchanted Wonderland Bakery, where treats bring a new generation of characters together.",
-    "popularity": 105.2179,
-    "poster_path": "/gZCirprTOUIHYnKAMU2WwPtVh5j.jpg",
-    "first_air_date": "2022-02-09",
-    "name": "Alice's Wonderland Bakery",
-    "vote_average": 6.1,
-    "vote_count": 8
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1xlpfYGGFXOlYqQSUlFKEv4hqbt.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765,
-      10762
-    ],
-    "id": 46392,
+    "id": 12536,
     "origin_country": [
       "JP"
     ],
     "original_language": "ja",
-    "original_name": "デュエル・マスターズ",
-    "overview": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
-    "popularity": 100.923,
-    "poster_path": "/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
-    "first_air_date": "2002-10-21",
-    "name": "Duel Masters",
-    "vote_average": 6.1,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4TK1IREtfd7Ki8JWfwR1WahO5IP.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10762
-    ],
-    "id": 4606,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Garfield and Friends",
-    "overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
-    "popularity": 99.5786,
-    "poster_path": "/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg",
-    "first_air_date": "1988-09-17",
-    "name": "Garfield and Friends",
-    "vote_average": 7.256,
-    "vote_count": 369
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5tLsZoolMwqkCMUwEXYfh61Pajn.jpg",
-    "genre_ids": [
-      10751,
-      16,
-      10762
-    ],
-    "id": 46928,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Sofia the First",
-    "overview": "Set in the storybook world of Enchancia, this is the story of Princess Sofia, an adventurous little girl who is learning how to adjust to royal life after her mom marries the king and she becomes a princess overnight.",
-    "popularity": 98.2977,
-    "poster_path": "/eZHmUO1OQRpVkAOdj9VwYCCyQew.jpg",
-    "first_air_date": "2013-01-11",
-    "name": "Sofia the First",
-    "vote_average": 7.186,
-    "vote_count": 532
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ocRWQvMe0LwzbtseQ1B1xExkPm1.jpg",
-    "genre_ids": [
-      10762,
-      16,
-      10759,
-      10765
-    ],
-    "id": 11285,
-    "origin_country": [
-      "FR",
-      "JP",
-      "LU"
-    ],
-    "original_language": "ja",
-    "original_name": "太陽の子エステバン",
-    "overview": "The adventures of a young Spanish boy named Esteban who joins a voyage to the New World in search of the lost Cities of Gold and his father.",
-    "popularity": 95.4053,
-    "poster_path": "/fodyzO7msj5M7f8JdkGGdnL9OxU.jpg",
-    "first_air_date": "1982-06-29",
-    "name": "The Mysterious Cities of Gold",
-    "vote_average": 7.8,
-    "vote_count": 76
+    "original_name": "遊戯王デュエルモンスターズＧＸ",
+    "overview": "Ten years after the Ceremonial Battle, a teenage boy named Judai Yuuki (Jaden Yuki) heads off in order to join the Duel Academia (Duel Academy) located on a remote island off the coast of Japan. There he meets his fellow students and gains a few friends, along with a few enemies. Judai is put into the lowest rank of Osiris Red (Slifer Red), but he continues to test his skills against the students and faculty to prove his worth as a Duelist and earn the respect of everyone around him.",
+    "popularity": 94.5585,
+    "poster_path": "/vhY30rXaM5axSpAdr1M1HRQrQGa.jpg",
+    "first_air_date": "2004-10-06",
+    "name": "Yu-Gi-Oh! GX",
+    "vote_average": 7.926,
+    "vote_count": 284
   },
   {
     "adult": false,
@@ -570,102 +359,12 @@
     "original_language": "fr",
     "original_name": "Oggy et les Cafards",
     "overview": "Oggy, an anthropomorphic cat, would prefer to spend his days watching television and eating, but is continuously pestered by three roaches: Joey, Marky and Dee Dee. The cockroaches' slapstick mischief ranges from plundering Oggy's refrigerator to hijacking the train he just boarded. In many situations Oggy is also helped by Jack, who is more violent and short-tempered than him and is also annoyed by the cockroaches. Bob, a short-tempered bulldog, also appears in the show, and is Oggy's neighbor.",
-    "popularity": 95.3809,
+    "popularity": 91.0483,
     "poster_path": "/aFAN9aKm0OblOr30ROejJCV8rGf.jpg",
     "first_air_date": "1999-09-06",
     "name": "Oggy and the Cockroaches",
     "vote_average": 7.5,
     "vote_count": 350
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gbrRKt5I4jtmwasxWl97GyTRA1i.jpg",
-    "genre_ids": [
-      10751,
-      16,
-      35,
-      10762
-    ],
-    "id": 12947,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Flintstone Comedy Show",
-    "overview": "The Flintstone Comedy Show is a 90-minute Saturday morning animated series revival of The Flintstones produced by Hanna-Barbera and aired from November 22, 1980 to September 11, 1982 on NBC. Outside North America, the show was released under title of Flintstone Frolics.\n\nThe show contained six segments: The Flintstone Family Adventures, Bedrock Cops, Pebbles, Dino and Bamm-Bamm, Captain Caveman, Dino and Cavemouse, and The Frankenstones.",
-    "popularity": 95.1337,
-    "poster_path": "/fXJV61A9N4nbN9b1K5ZYFuCUWVG.jpg",
-    "first_air_date": "1980-11-22",
-    "name": "The Flintstone Comedy Show",
-    "vote_average": 6.6,
-    "vote_count": 14
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hIrMXQzFXsxoGF5xqao6h44sWNM.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10751
-    ],
-    "id": 9639,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ab",
-    "original_name": "デ・ジ・キャラットにょ",
-    "overview": "Di Gi Charat (a.k.a. Dejiko) - along with Petit Charat (a.k.a.  Puchiko) and Gema - travels to Earth as part of her training to become a  full-fledged princess. They crash on a small town in Japan, where they  meet the Omocha brothers (who spend most of their time thinking how cute  Puchiko is) and Mr. & Mrs. Ankoro (an elderly couple that makes  Japanese sweets).",
-    "popularity": 94.4353,
-    "poster_path": "/dL5W3MdndSsQXBulHnH5fduAH0R.jpg",
-    "first_air_date": "2003-04-06",
-    "name": "Di Gi Charat Nyo!",
-    "vote_average": 7.7,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aw2xXYfQD9qh92PJ36Ii9FfSnPn.jpg",
-    "genre_ids": [
-      10762,
-      16
-    ],
-    "id": 11982,
-    "origin_country": [
-      "CA",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Max and Ruby",
-    "overview": "Meet two funny bunny siblings, the energetic and mischievous Max, and the patient, smart and goal-oriented Ruby. The show models empowering messages by showing Max and Ruby playing together and resolving their differences respectfully and supportively.",
-    "popularity": 92.8515,
-    "poster_path": "/bIiWnjewlhINR1bv1sRfBiIEn9a.jpg",
-    "first_air_date": "2002-05-03",
-    "name": "Max and Ruby",
-    "vote_average": 6.514,
-    "vote_count": 37
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/f7otxzK1w3sBxT8PeHJCFTb8ebf.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10762
-    ],
-    "id": 29200,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "G.I. Joe: A Real American Hero",
-    "overview": "G.I. Joe: A Real American Hero is a half-hour American animated television series based on the successful toyline from Hasbro and the comic book series from Marvel Comics. The cartoon had its beginnings with two five-part mini-series in 1983 and 1984, then became a regular series that ran in syndication from 1985 to 1986. Ron Friedman created the G.I. Joe animated series for television, and wrote all four miniseries. The fourth mini-series was intended to be a feature film, but due to production difficulties was released as a television mini-series.",
-    "popularity": 90.5768,
-    "poster_path": "/nq3hyd68PeUbm1Wz3nQMkUUaYZ1.jpg",
-    "first_air_date": "1983-09-12",
-    "name": "G.I. Joe: A Real American Hero",
-    "vote_average": 7.6,
-    "vote_count": 73
   },
   {
     "adult": false,
@@ -684,7 +383,7 @@
     "original_language": "ja",
     "original_name": "ポケットモンスター",
     "overview": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and others during their exciting adventures!",
-    "popularity": 89.4317,
+    "popularity": 83.6535,
     "poster_path": "/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
     "first_air_date": "2023-04-14",
     "name": "Pokémon Horizons",
@@ -693,71 +392,25 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/mhwWmN4VZj7tqNlymJNHBMRSv78.jpg",
+    "backdrop_path": "/sQ6udM8ZUNPxrOtut8T4sP27tOR.jpg",
     "genre_ids": [
-      10766,
+      16,
+      35,
       10762
     ],
-    "id": 19588,
+    "id": 34186,
     "origin_country": [
-      "MX",
-      "US"
+      "JP"
     ],
-    "original_language": "es",
-    "original_name": "¡Vivan los niños!",
-    "overview": "¡Vivan los niños! is a Mexican telenovela for children that premiered in 2002. It ran for 155 episodes and finished in 2003. The opening, Vivan los niños, was recorded by the Latin pop group OV7. One of its closing themes, also entitled Vivan los niños, was performed by Cuban-American singer and songwriter Ana Cristina. The show is a version of the Argentinian telenovela \"Jacinta Pichimahuida, la maestra que no se olvida\".\n\nThe series starred Andrea Legarreta as 2nd grade teacher Lupita Gómez. After the series ended, Andrea became the long-time host of the morning talk show Hoy. On July 12, 2012, in celebration of Andrea's birthday, the producers of Hoy reunited her with the young actors who played her students on the series.",
-    "popularity": 87.6796,
-    "poster_path": "/ksgIdxk9M5KPrOWZXLhjdrkrS2t.jpg",
-    "first_air_date": "2002-07-15",
-    "name": "¡Vivan los niños!",
-    "vote_average": 7.741,
-    "vote_count": 205
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
-    "genre_ids": [
-      10751,
-      16,
-      10762,
-      35
-    ],
-    "id": 3022,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Rugrats",
-    "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
-    "popularity": 87.4643,
-    "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-    "first_air_date": "1991-08-11",
-    "name": "Rugrats",
-    "vote_average": 7.603,
-    "vote_count": 717
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jm3VtQRbxLysEEYcUSwuj67LvXS.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10765,
-      10762
-    ],
-    "id": 46922,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Ben 10: Omniverse",
-    "overview": "A year after the events that took place during the \"Final Battle\" and equipped with an all-new completed Omnitrix, 16-year-old Ben Tennyson has to face new enemies.",
-    "popularity": 86.6172,
-    "poster_path": "/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
-    "first_air_date": "2012-08-01",
-    "name": "Ben 10: Omniverse",
-    "vote_average": 8.267,
-    "vote_count": 482
+    "original_language": "ja",
+    "original_name": "チーズスイートホーム",
+    "overview": "An American Shorthair kitten wanders away from her mother and siblings one day while enjoying a walk outside. Lost in her surroundings, she struggles to find her way back home. She is soon found by the Yamada family. Finding a home for her proves to be difficult, so the family eventually decides to keep the kitten, naming her \"Chi\".",
+    "popularity": 80.1436,
+    "poster_path": "/xEJmKzbOq87E7eMp0eatgmJ2DSa.jpg",
+    "first_air_date": "2008-03-31",
+    "name": "Chi's Sweet Home",
+    "vote_average": 6.8,
+    "vote_count": 17
   },
   {
     "adult": false,
@@ -777,222 +430,12 @@
     "original_language": "ja",
     "original_name": "ドラえもん",
     "overview": "",
-    "popularity": 86.5044,
+    "popularity": 78.7479,
     "poster_path": "/6MufnP84JBcE9ofkmgfiJ5zc5a7.jpg",
     "first_air_date": "2007-01-26",
     "name": "ドラえもん",
     "vote_average": 9,
     "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sQ6udM8ZUNPxrOtut8T4sP27tOR.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10762
-    ],
-    "id": 34186,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "チーズスイートホーム",
-    "overview": "An American Shorthair kitten wanders away from her mother and siblings one day while enjoying a walk outside. Lost in her surroundings, she struggles to find her way back home. She is soon found by the Yamada family. Finding a home for her proves to be difficult, so the family eventually decides to keep the kitten, naming her \"Chi\".",
-    "popularity": 85.799,
-    "poster_path": "/xEJmKzbOq87E7eMp0eatgmJ2DSa.jpg",
-    "first_air_date": "2008-03-31",
-    "name": "Chi's Sweet Home",
-    "vote_average": 6.8,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9feA6Kd1G456nq2XrDqpDQpFlcG.jpg",
-    "genre_ids": [
-      10762,
-      10759,
-      16,
-      10765,
-      35
-    ],
-    "id": 54728,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "爆転シュートベイブレード",
-    "overview": "Thirteen-year-old Takao Kinomiya (Tyson Granger), along with his fellow teammates, Kai Hiwatari, Max Mizuhura (Max Tate), and Rei Kon (Ray Kon), strive to become the greatest Beybladers in the world. With the technical help of the team's resident genius, Kyoujyu (Kenny), and with the powerful strength of their BitBeasts, the Bladebreakers armed with their Beys attempt to reach their goal.",
-    "popularity": 85.5533,
-    "poster_path": "/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
-    "first_air_date": "2001-01-08",
-    "name": "Beyblade",
-    "vote_average": 7.73,
-    "vote_count": 224
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/miyvCeJLTg3iLl2yZxfmrtNxhcP.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      10765,
-      10762
-    ],
-    "id": 31654,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "デジモンアドベンチャー",
-    "overview": "While at summer camp, seven kids are transported to a strange digital world. In this new world they make friends with creatures that call themselves Digimon who were born to defend their world from various evil forces.",
-    "popularity": 85.4473,
-    "poster_path": "/mUhLvUY0ndhxWr1xmDp6bZgddUZ.jpg",
-    "first_air_date": "1999-03-07",
-    "name": "Digimon: Digital Monsters",
-    "vote_average": 8.062,
-    "vote_count": 864
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c8m4NAE774Vsn5AZvn2bFarUtDX.jpg",
-    "genre_ids": [
-      16,
-      10765,
-      35,
-      10762,
-      10751
-    ],
-    "id": 504,
-    "origin_country": [
-      "CA",
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "The Ren & Stimpy Show",
-    "overview": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world for some outlandish situations coupled with hilarious jokes.",
-    "popularity": 85.4332,
-    "poster_path": "/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg",
-    "first_air_date": "1991-08-11",
-    "name": "The Ren & Stimpy Show",
-    "vote_average": 7.621,
-    "vote_count": 481
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/u70hsKRDah3TEq5CkFnmZnbZpmW.jpg",
-    "genre_ids": [
-      10759,
-      16,
-      10762
-    ],
-    "id": 2284,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Teenage Mutant Ninja Turtles",
-    "overview": "When four pet turtles were bathed in alien ooze, they began to mutate and became the Teenage Mutant Ninja Turtles. Raised in New York City sewers by their foster father and wise sensei, Master Splinter, Leonardo, Michelangelo, Donatello, and Raphael wage war against crime. Led by Master Splinter, the four turtles learn the ancient martial art of Ninjitsu, mastering skills of stealth, weapons, and fighting. They stop evildoers in all forms, whether barbaric gangs, lowlife crooks, deranged cyborgs, or even the crime syndicate The Foot, led by their archrival, The Shredder.",
-    "popularity": 84.8198,
-    "poster_path": "/sEb6sTxyGoguCX4fK1G0hyzyLcv.jpg",
-    "first_air_date": "2003-02-08",
-    "name": "Teenage Mutant Ninja Turtles",
-    "vote_average": 7.8,
-    "vote_count": 194
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mMdQssCoupVTmOWz7thJeSURimh.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      18,
-      10765,
-      35,
-      10751,
-      10759
-    ],
-    "id": 42862,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "マーメイドメロディーぴちぴちピッチ",
-    "overview": "As one of the seven mermaid princesses, Lucia must travel to the human world to protect the mermaid kingdoms.",
-    "popularity": 84.3546,
-    "poster_path": "/jwDEHBO48GK8bL6pkHoQfgNyzHk.jpg",
-    "first_air_date": "2003-04-05",
-    "name": "Mermaid Melody: Pichi Pichi Pitch",
-    "vote_average": 8.05,
-    "vote_count": 30
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/DFRKXpyk1n5RZFDmgnax3ry7fC.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10765,
-      10762
-    ],
-    "id": 51808,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Robot and Monster",
-    "overview": "It's Robot and Monster, an unlikely duo in society where their different species usually don't get along, but everyone does share one common trait - they all love bacon! This buddy comedy shows that opposites really do attract, hilariously!",
-    "popularity": 83.3126,
-    "poster_path": "/rcckppfyUFVgPIxWtYJjRtjSytI.jpg",
-    "first_air_date": "2012-08-04",
-    "name": "Robot and Monster",
-    "vote_average": 5.765,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/thC21OmJxXR0FoUrkEk644rRO2M.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      35,
-      10759
-    ],
-    "id": 12536,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "遊戯王デュエルモンスターズＧＸ",
-    "overview": "Ten years after the Ceremonial Battle, a teenage boy named Judai Yuuki (Jaden Yuki) heads off in order to join the Duel Academia (Duel Academy) located on a remote island off the coast of Japan. There he meets his fellow students and gains a few friends, along with a few enemies. Judai is put into the lowest rank of Osiris Red (Slifer Red), but he continues to test his skills against the students and faculty to prove his worth as a Duelist and earn the respect of everyone around him.",
-    "popularity": 82.9008,
-    "poster_path": "/vhY30rXaM5axSpAdr1M1HRQrQGa.jpg",
-    "first_air_date": "2004-10-06",
-    "name": "Yu-Gi-Oh! GX",
-    "vote_average": 7.926,
-    "vote_count": 284
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jvbCFgOzPsTeOKiXKtTF6cGY4xr.jpg",
-    "genre_ids": [
-      16,
-      10762
-    ],
-    "id": 276496,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "zh",
-    "original_name": "他媽哥池",
-    "overview": "",
-    "popularity": 82.6625,
-    "poster_path": "/aXCIY7TITAY6Fe605gPVnyl3Zu9.jpg",
-    "first_air_date": "2009-01-01",
-    "name": "他媽哥池",
-    "vote_average": 0,
-    "vote_count": 0
   },
   {
     "adult": false,
@@ -1010,285 +453,55 @@
     "original_language": "en",
     "original_name": "We Bare Bears",
     "overview": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, trying to make human friends,  or scheming to become famous on the internet. Grizzly, Panda and Ice  Bear stack atop one another when they leave their cave and explore the  hipster environs of the San Francisco Bay Area, and it's clear the  siblings have a lot to learn about a technologically driven world. By  their side on many adventures are best friend Chloe (the only human  character in the cast), fame-obsessed panda Nom Nom, and Charlie, aka  Bigfoot.",
-    "popularity": 82.6497,
+    "popularity": 73.6902,
     "poster_path": "/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
     "first_air_date": "2015-08-24",
     "name": "We Bare Bears",
-    "vote_average": 7.723,
-    "vote_count": 1808
+    "vote_average": 7.7,
+    "vote_count": 1809
   },
   {
     "adult": false,
-    "backdrop_path": "/mefD1LpHSyXrUqx2szACTDdEq0P.jpg",
+    "backdrop_path": "/u70hsKRDah3TEq5CkFnmZnbZpmW.jpg",
     "genre_ids": [
-      10751,
+      10759,
+      16,
       10762
     ],
-    "id": 6207,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Pipkins",
-    "overview": "Pipkins was a British children's TV programme. Hartley Hare, Pig, Topov and the gang were the stars of ATV's pre-school series which ran from January 1973 to 29 December 1981.",
-    "popularity": 81.2071,
-    "poster_path": "/94NQY6eS1O3SxqPFbeysGEPgiTv.jpg",
-    "first_air_date": "1973-01-01",
-    "name": "Pipkins",
-    "vote_average": 6.5,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cU2gAPzMlTzQmebZUf0W4fUOE0h.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      10766
-    ],
-    "id": 203071,
-    "origin_country": [
-      "PT"
-    ],
-    "original_language": "pt",
-    "original_name": "Chiquititas",
-    "overview": "",
-    "popularity": 79.347,
-    "poster_path": "/glOdo6k5oF8XLsNHeM7SaQCZO0f.jpg",
-    "first_air_date": "2007-07-20",
-    "name": "Chiquititas",
-    "vote_average": 6.5,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fC6rvUO5PebCb5Irc6PUTNlRNGF.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      10751
-    ],
-    "id": 63893,
+    "id": 2284,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Peter Rabbit",
-    "overview": "Nickelodeon brings treasured literary icon Peter Rabbit to life with the new CG-animated preschool series, Peter Rabbit. The series is a fresh re-imagining of the popular Beatrix Potter children’s books based on Peter Rabbit. Peter Rabbit features educational goals that encourage preschoolers to learn problem-solving and interpersonal skills, self-efficacy, resilience, positive re-framing and fostering an interest in and respect for nature.",
-    "popularity": 78.863,
-    "poster_path": "/36MwBWUBwWa61ndbSXGqz7dHYqF.jpg",
-    "first_air_date": "2013-03-20",
-    "name": "Peter Rabbit",
-    "vote_average": 5.9,
-    "vote_count": 18
+    "original_name": "Teenage Mutant Ninja Turtles",
+    "overview": "When four pet turtles were bathed in alien ooze, they began to mutate and became the Teenage Mutant Ninja Turtles. Raised in New York City sewers by their foster father and wise sensei, Master Splinter, Leonardo, Michelangelo, Donatello, and Raphael wage war against crime. Led by Master Splinter, the four turtles learn the ancient martial art of Ninjitsu, mastering skills of stealth, weapons, and fighting. They stop evildoers in all forms, whether barbaric gangs, lowlife crooks, deranged cyborgs, or even the crime syndicate The Foot, led by their archrival, The Shredder.",
+    "popularity": 75.7739,
+    "poster_path": "/sEb6sTxyGoguCX4fK1G0hyzyLcv.jpg",
+    "first_air_date": "2003-02-08",
+    "name": "Teenage Mutant Ninja Turtles",
+    "vote_average": 7.8,
+    "vote_count": 194
   },
   {
     "adult": false,
-    "backdrop_path": "/gxPye7hxVo20mKxohSO3o7YlpUX.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10762,
-      10759,
-      10765
-    ],
-    "id": 27318,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Breadwinners",
-    "overview": "Two ducks fly around in a rocket-powered van, delivering bread to other ducks in Pondgea.",
-    "popularity": 78.399,
-    "poster_path": "/eOWAf4jeNPQX2JLMdJ3T1ad1kqR.jpg",
-    "first_air_date": "2014-02-17",
-    "name": "Breadwinners",
-    "vote_average": 4.39,
-    "vote_count": 41
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bAyTzm2othKTdmhoGECmzam0lM5.jpg",
-    "genre_ids": [
-      16,
-      10759,
-      35,
-      10762
-    ],
-    "id": 17631,
-    "origin_country": [
-      "CA",
-      "US",
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "League of Super Evil",
-    "overview": "League of Super Evil is a Canadian animated television series inspired by the sketch \"Once Were Heroes\" by Ryan Harper-Brown, co-created by Philippe Ivanusic-Vallee, Davila LeBlanc, Peter Ricq, developed by Asaph Fipke, and produced by Nerd Corps Entertainment in conjunction with YTV. On YTV, it premiered on March 9, 2009, at 10:30 a.m. ET. The show is airing on Nickelodeon in Canada, Spain, the Netherlands, Portugal and on Cartoon Network in most of Southeast Asia, India, Australia, New Zealand, The United States, CBBC in United Kingdom and Canal Plus, Canal J, and Gulli in France. The first season consisted of 26 episodes. The second season consisted of 13 episodes. In total, 52 episodes have aired. In Latin America, it is aired on Disney XD. The second season started airing in Canada in September 2010 and the third season aired from June 2012 to August 2012. The series ended on August 25, 2012.",
-    "popularity": 78.1728,
-    "poster_path": "/xqS940bPXAKlBWvzBArEaDhuUDH.jpg",
-    "first_air_date": "2009-03-07",
-    "name": "League of Super Evil",
-    "vote_average": 6.9,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zO1dI6ZW1KRIsi4gmwkhXRQWLOU.jpg",
+    "backdrop_path": "/jvbCFgOzPsTeOKiXKtTF6cGY4xr.jpg",
     "genre_ids": [
       16,
       10762
     ],
-    "id": 204833,
+    "id": 276496,
     "origin_country": [
       "JP"
     ],
-    "original_language": "ja",
-    "original_name": "まんがはじめて物語",
+    "original_language": "zh",
+    "original_name": "他媽哥池",
     "overview": "",
-    "popularity": 77.6428,
-    "poster_path": "/unGVjYNOaYXOXwAa9O3ibc2x8pZ.jpg",
-    "first_air_date": "1978-05-06",
-    "name": "Manga Hajimete Monogatari",
+    "popularity": 74.8742,
+    "poster_path": "/aXCIY7TITAY6Fe605gPVnyl3Zu9.jpg",
+    "first_air_date": "2009-01-01",
+    "name": "他媽哥池",
     "vote_average": 0,
     "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lXU4HMoNmrgPEO2meDmlv5kY8OG.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      35
-    ],
-    "id": 74323,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Vampirina",
-    "overview": "A young vampire girl faces the joys and trials of being the new kid in town when her family moves from Transylvania to Pennsylvania.",
-    "popularity": 77.1891,
-    "poster_path": "/18Mmri8vmBKbGbiymFPlSHlg71o.jpg",
-    "first_air_date": "2017-10-01",
-    "name": "Vampirina",
-    "vote_average": 6.2,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7sMBtuqqd39bcQPT7B9bEWvm6M9.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      10762,
-      35
-    ],
-    "id": 118974,
-    "origin_country": [
-      "IT"
-    ],
-    "original_language": "it",
-    "original_name": "Puffins",
-    "overview": "Puffins follows the adventures of a bunch of funny little birds, minions of the sly walrus Otto. Main characters of the series are five Puffins: Johnny Puff, two males, Tic and Tac, and two females, Didi and Pie.",
-    "popularity": 76.7803,
-    "poster_path": "/zloHr2ZknoiFTy10Sms9duLd7dG.jpg",
-    "first_air_date": "2020-11-27",
-    "name": "Puffins",
-    "vote_average": 10,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fc8CGrZ4cWLdBArzlGQDihURsN5.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10759,
-      10751,
-      10762,
-      10765
-    ],
-    "id": 72468,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "OK K.O.! Let's Be Heroes",
-    "overview": "Animated comedy set in the futuristic year of 201X, where the world is populated by video game and manga-esque characters.",
-    "popularity": 75.7125,
-    "poster_path": "/3V2IL48S9l5iLz4LtdWl9x5aXLZ.jpg",
-    "first_air_date": "2017-08-01",
-    "name": "OK K.O.! Let's Be Heroes",
-    "vote_average": 7.9,
-    "vote_count": 79
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4A47k5bD5Y4SKOkO7tubI9UvwXz.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10762
-    ],
-    "id": 16047,
-    "origin_country": [
-      "JP"
-    ],
-    "original_language": "ja",
-    "original_name": "赤毛のアン",
-    "overview": "Anne Shirley is a freckle-faced, red-haired girl, who grows up in an orphanage having lost her parents at a very early age. Anne is always cheerful and fun-loving despite being brought up without love or affection. When she turns 11, she is adopted by the old farmer Matthew Cuthbert and his sister Marilla. Anne starts her new life with Matthew and Marilla at a farm called \"Green Gables\", but actually the Cuthberts wanted a boy who could help with their work on the farm... Overcoming many hardships and meeting many friends and people, Anne grows up to be a strong-minded woman.",
-    "popularity": 74.7918,
-    "poster_path": "/hW5TyvMdJbyAOOzFCTQCwDHa3g5.jpg",
-    "first_air_date": "1979-01-07",
-    "name": "Anne of Green Gables",
-    "vote_average": 7.6,
-    "vote_count": 43
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      35,
-      10751
-    ],
-    "id": 82,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Animaniacs",
-    "overview": "The two Warner Brothers Yakko and Wakko and their Warner sister Dot had been (supposedly) created in the 1930's, but their cartoons were too screwy for the general public to handle. The three Warners were locked up in the studio water tower until they escaped in the 90's. There, they run wild, causing chaos everywhere!",
-    "popularity": 74.6219,
-    "poster_path": "/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg",
-    "first_air_date": "1993-09-13",
-    "name": "Animaniacs",
-    "vote_average": 8,
-    "vote_count": 734
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3yn2TeZ2oTIlXa2C61meThWn05y.jpg",
-    "genre_ids": [
-      16,
-      10762,
-      10751
-    ],
-    "id": 2437,
-    "origin_country": [
-      "ES",
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Pocoyo",
-    "overview": "Pocoyo, the curious toddler dressed all in blue, joins Pato the yellow duck, Elly the pink elephant, Loula the dog, Sleepy Bird and many others in learning new things and having fun.",
-    "popularity": 74.2842,
-    "poster_path": "/1fmaC3t96Napg7TR9SsfOX8q11X.jpg",
-    "first_air_date": "2005-05-10",
-    "name": "Pocoyo",
-    "vote_average": 7.031,
-    "vote_count": 455
   },
   {
     "adult": false,
@@ -1304,7 +517,7 @@
     "original_language": "en",
     "original_name": "Thomas & Friends",
     "overview": "Thomas & Friends is a British children's television series, which had its first broadcast on the ITV network on 4 September 1984. It is based on The Railway Series of books by the Reverend Wilbert Awdry and his son, Christopher Awdry. These books deal with the adventures of a group of anthropomorphised locomotives and road vehicles who live on the fictional Island of Sodor. The books were based on stories Wilbert told to entertain his son, Christopher during his recovery from measles. From Series one to four, many of the stories are based on events from Awdry's personal experience.",
-    "popularity": 73.5587,
+    "popularity": 75.5459,
     "poster_path": "/ovJvWQ8E8aYShcRlTwpqKhuq7FA.jpg",
     "first_air_date": "1984-10-09",
     "name": "Thomas & Friends",
@@ -1326,12 +539,124 @@
     "original_language": "en",
     "original_name": "Madeline",
     "overview": "A young girl embarks on a series of misadventures, causing her friends and teachers to be worrisome. Based on the children's books by Ludwig Bemelmans.",
-    "popularity": 72.5751,
+    "popularity": 72.5451,
     "poster_path": "/kh1xdNqCYj4plWOyYjSIrPzzUvI.jpg",
     "first_air_date": "1988-09-09",
     "name": "Madeline",
     "vote_average": 5.8,
     "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zO1dI6ZW1KRIsi4gmwkhXRQWLOU.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "id": 204833,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "まんがはじめて物語",
+    "overview": "",
+    "popularity": 67.3,
+    "poster_path": "/unGVjYNOaYXOXwAa9O3ibc2x8pZ.jpg",
+    "first_air_date": "1978-05-06",
+    "name": "Manga Hajimete Monogatari",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sNCpbcCcRadDBMTh6An1dBMakqr.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762
+    ],
+    "id": 3570,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "美少女戦士セーラームーン",
+    "overview": "One day, Usagi Tsukino, clumsy 2nd-year middle school student, stumbles upon a talking cat named Luna. Luna tells her that she is destined to be Sailor Moon, \"champion of love and justice\", and she must search for the fabled Moon Princess. Usagi finds friends that turn out to be destined senshi as well, and together they fight to save the world from the certain doom brought upon by the Dark Kingdom.",
+    "popularity": 67.226,
+    "poster_path": "/wz45BNOMLRZdxXm94P8NGevKubm.jpg",
+    "first_air_date": "1992-03-07",
+    "name": "Sailor Moon",
+    "vote_average": 8.379,
+    "vote_count": 982
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l7sy5QDY6tuH6l01YxWkl0n6P7o.jpg",
+    "genre_ids": [
+      10762
+    ],
+    "id": 27560,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Jim Henson's Animal Show with Stinky and Jake",
+    "overview": "The show was hosted by Jake, a jovial polar bear, and Stinky, his skunk friend. Other main characters included Armstrong the Chicken Hawk, Ollie the Tapir, Bunnie Bear, Tizzy the Bee, Yves St. La Roache, Rhonda Rat, and Dullard the Aardvark. Structured as a talk show, the hosts interviewed two guest animals in each episode. The animals talked about themselves and showed clips of their real-life counterparts.",
+    "popularity": 62.2361,
+    "poster_path": "/4x4UnThHYdxGqJF39EebgEwM42z.jpg",
+    "first_air_date": "1994-10-03",
+    "name": "Jim Henson's Animal Show with Stinky and Jake",
+    "vote_average": 9.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1szJqm8ksrwbPheLfEZn2ohTGbg.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10765,
+      10762,
+      35
+    ],
+    "id": 5687,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Smurfs",
+    "overview": "Classic Saturday-morning cartoon series featuring magical blue elf-like creatures called Smurfs. The Smurfs, named for their personalities, inhabit a village of mushroom houses in an enchanted forest. These loveable creatures are led by Papa Smurf and live carefree... except for one major threat to their existance: Gargamel, an evil but inept wizard who lives in a stone-built house in the forest; and his feline companion, the equally nasty Azrael. ",
+    "popularity": 67.4302,
+    "poster_path": "/cezQyM5cO454vUdLiLOkv78K64D.jpg",
+    "first_air_date": "1981-09-12",
+    "name": "The Smurfs",
+    "vote_average": 6.9,
+    "vote_count": 523
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j3UxzpQbOckS6Q3ekoiCgCPtKzw.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      18,
+      10762
+    ],
+    "id": 3287,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "秘密戦隊ゴレンジャー",
+    "overview": "A powerful terrorist organization known as the Black Cross Army threatens to destroy the Earth, with only the defense organization EAGLE (EArth Guard LEague) able to oppose them. In retaliation, Black Cross Army destroys multiple EAGLE headquarters across Japan, killing all but five people. Now, these five remaining EAGLE members are called to form a secret, powerful team known as Gorenger, the only force left that has a chance to stop the Black Cross Army and their evil leader, Black Cross Führer.",
+    "popularity": 65.1772,
+    "poster_path": "/8QRnzR7njAGl0nyKxOYVs8mxN5n.jpg",
+    "first_air_date": "1975-04-05",
+    "name": "Himitsu Sentai Gorenger",
+    "vote_average": 8.1,
+    "vote_count": 9
   },
   {
     "adult": false,
@@ -1347,7 +672,7 @@
     "original_language": "zh",
     "original_name": "我是不白吃",
     "overview": "",
-    "popularity": 72.5572,
+    "popularity": 63.6603,
     "poster_path": "/lIvptAgW7WzYILAggsRdNMs4YxQ.jpg",
     "first_air_date": "2019-07-31",
     "name": "Wo Shi Bu Bai Chi",
@@ -1356,24 +681,695 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/djhXJceqeilkdMysgUFxvdAzmqy.jpg",
+    "backdrop_path": "/7sMBtuqqd39bcQPT7B9bEWvm6M9.jpg",
     "genre_ids": [
       16,
-      10759,
+      10751,
+      10762,
+      35
+    ],
+    "id": 118974,
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_name": "Puffins",
+    "overview": "Puffins follows the adventures of a bunch of funny little birds, minions of the sly walrus Otto. Main characters of the series are five Puffins: Johnny Puff, two males, Tic and Tac, and two females, Didi and Pie.",
+    "popularity": 59.2777,
+    "poster_path": "/zloHr2ZknoiFTy10Sms9duLd7dG.jpg",
+    "first_air_date": "2020-11-27",
+    "name": "Puffins",
+    "vote_average": 10,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n4MfPSRk5PzHeVrm43NHam8oH5d.jpg",
+    "genre_ids": [
+      16,
+      35,
       10762
     ],
-    "id": 76941,
+    "id": 35894,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "金色のガッシュベル!!",
+    "overview": "Takamine Kiyomaro, a depressed don't-care-about-the-world guy, was suddenly given a little demon named Zatch Bell to take care of. Little does he know that Zatch is embroiled in an intense fight to see who is the ruler of the demon world.",
+    "popularity": 63.8961,
+    "poster_path": "/cBcHLTG8UgtKi1i1iN0XVcRAB78.jpg",
+    "first_air_date": "2003-04-06",
+    "name": "Zatch Bell!",
+    "vote_average": 8.453,
+    "vote_count": 247
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l0XvAI856XdyDYEfr1njztjH7u0.jpg",
+    "genre_ids": [
+      16,
+      35,
+      9648,
+      10765,
+      10762,
+      10759,
+      10751
+    ],
+    "id": 40075,
     "origin_country": [
       "US"
     ],
     "original_language": "en",
-    "original_name": "Dorothy and the Wizard of Oz",
-    "overview": "With her friends by her side and her ruby slippers on her feet, Dorothy follows the Yellow Brick Road toward magical mischief and embarks on exciting adventures that only a land like Oz can bring.",
-    "popularity": 72.394,
-    "poster_path": "/ptIwxwpr7g9LZs0JLqOI82Z8lks.jpg",
-    "first_air_date": "2017-06-26",
-    "name": "Dorothy and the Wizard of Oz",
-    "vote_average": 7,
+    "original_name": "Gravity Falls",
+    "overview": "Twin brother and sister Dipper and Mabel Pines are in for an unexpected adventure when they spend the summer helping their great uncle Stan run a tourist trap in the mysterious town of Gravity Falls, Oregon.",
+    "popularity": 60.3536,
+    "poster_path": "/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg",
+    "first_air_date": "2012-06-15",
+    "name": "Gravity Falls",
+    "vote_average": 8.6,
+    "vote_count": 3204
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/omL3sd4bctdEmA8aqj1zlBqRZHS.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10765,
+      10762
+    ],
+    "id": 33765,
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "My Little Pony: Friendship Is Magic",
+    "overview": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuable lessons about friendship.",
+    "popularity": 63.2197,
+    "poster_path": "/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
+    "first_air_date": "2010-10-10",
+    "name": "My Little Pony: Friendship Is Magic",
+    "vote_average": 8.2,
+    "vote_count": 681
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/36iVELhma9MawHkdMDPNRX8onEu.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10762,
+      9648
+    ],
+    "id": 68073,
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Loud House",
+    "overview": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the world!",
+    "popularity": 62.9374,
+    "poster_path": "/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+    "first_air_date": "2016-05-02",
+    "name": "The Loud House",
+    "vote_average": 7.841,
+    "vote_count": 542
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xxkZSH3c3DpmBBnc6Ab2NcHp9Sx.jpg",
+    "genre_ids": [
+      10762,
+      35
+    ],
+    "id": 3103,
+    "origin_country": [
+      "AU",
+      "US",
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Bananas in Pyjamas",
+    "overview": "Bananas in Pyjamas is an Australian children's television show that premiered on 20 July 1992 on ABC. It has since become syndicated in many different countries, and dubbed into other languages. In the United States, the \"Pyjamas\" in the title was modified to reflect the American spelling pajamas. This aired in syndication from 1995 to 1997 as a half-hour series, then became a 15-minute show paired with a short-lived 15-minute series The Crayon Box, under a 30-minute block produced by Sachs Family Entertainment titled Bananas in Pajamas & The Crayon Box. Additionally, the characters and a scene from the show were featured in the Kids for Character sequel titled Kids for Character: Choices Count. The pilot episode was Pink Mug.",
+    "popularity": 62.5739,
+    "poster_path": "/opUFH6kWzgepKX7kkboYH9EUiP7.jpg",
+    "first_air_date": "1992-07-20",
+    "name": "Bananas in Pyjamas",
+    "vote_average": 5.316,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Iq5c65TQrr73zzPGQuiwHLfeb9.jpg",
+    "genre_ids": [
+      10759,
+      10762,
+      16,
+      10765,
+      35
+    ],
+    "id": 51817,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Teenage Mutant Ninja Turtles",
+    "overview": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first time on their fifteenth birthday, the titular turtles, Leonardo, Michelangelo, Raphael and Donatello, find that life out of the sewers isn't exactly what they thought it would be. Now the turtles must work together as a team to take on new enemies that arise to take over New York City.",
+    "popularity": 50.8365,
+    "poster_path": "/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+    "first_air_date": "2012-09-28",
+    "name": "Teenage Mutant Ninja Turtles",
+    "vote_average": 8.329,
+    "vote_count": 747
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2YeQEGqzE0FDto39IiWRlDg9lN6.jpg",
+    "genre_ids": [
+      16,
+      10762
+    ],
+    "id": 8392,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Popeye the Sailor",
+    "overview": "Follows the adventures of the famed spinach-eating sailor man.\n\nPopeye is one of the most popular cartoon characters of all time. This spunky but loveable spinach-eating sailor continues to delight young and old with his comic adventures, and the entire gang is around to provide plenty of rousing fun and action: Olive Oyl, Swee'Pea, Wimpy and Bluto.",
+    "popularity": 60.7758,
+    "poster_path": "/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+    "first_air_date": "1960-06-10",
+    "name": "Popeye the Sailor",
+    "vote_average": 7.119,
+    "vote_count": 381
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7tPJfShsyTda32HLIFKbYvD0N87.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10751
+    ],
+    "id": 607,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Powerpuff Girls",
+    "overview": "The Powerpuff Girls is a animated television series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father\", the brainy scientist Professor Utonium, who all live in the fictional city of Townsville, USA. The girls are frequently called upon by the town's childlike and naive mayor to help fight nearby criminals using their powers.",
+    "popularity": 60.0426,
+    "poster_path": "/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+    "first_air_date": "1998-11-18",
+    "name": "The Powerpuff Girls",
+    "vote_average": 7.5,
+    "vote_count": 941
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8TThBwlIZnzCFkj21rv5Nv2lTNG.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      35,
+      10751
+    ],
+    "id": 82,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Animaniacs",
+    "overview": "The two Warner Brothers Yakko and Wakko and their Warner sister Dot had been (supposedly) created in the 1930's, but their cartoons were too screwy for the general public to handle. The three Warners were locked up in the studio water tower until they escaped in the 90's. There, they run wild, causing chaos everywhere!",
+    "popularity": 62.3124,
+    "poster_path": "/c1b2UtrhbMOdHKISB2ZvINo9eyc.jpg",
+    "first_air_date": "1993-09-13",
+    "name": "Animaniacs",
+    "vote_average": 8,
+    "vote_count": 734
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6OAvlyDxLhfxxPB9Mn9w43EaR3N.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10765,
+      10762
+    ],
+    "id": 226688,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "BEYBLADE X",
+    "overview": "Beginner blader Robin Kazami joins up with influencer Multi Nana-iro and former champion Jaxon Cross to form this unlikely trio - ready to climb to the top of The X and win the title of champion blader!",
+    "popularity": 56.4063,
+    "poster_path": "/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg",
+    "first_air_date": "2023-10-06",
+    "name": "Beyblade X",
+    "vote_average": 7.25,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5hXkZ1CQlH24OB5Nr32boR4RgmT.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      10751
+    ],
+    "id": 46262,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Doc McStuffins",
+    "overview": "A young African-American girl aspires to be a doctor like her mom.",
+    "popularity": 59.7257,
+    "poster_path": "/eeGWJaFkxX0vvOFFpNFXrh9QVxl.jpg",
+    "first_air_date": "2012-03-23",
+    "name": "Doc McStuffins",
+    "vote_average": 5.948,
+    "vote_count": 67
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10762,
+      18
+    ],
+    "id": 61852,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Henry Danger",
+    "overview": "When 13-year-old Henry Hart lands a job as Danger, the sidekick-in-training to superhero Captain Man, he must learn to navigate a double life balancing the challenges of 8th grade with the crazy adventures of a real-life crime fighter!",
+    "popularity": 56.9841,
+    "poster_path": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+    "first_air_date": "2014-07-26",
+    "name": "Henry Danger",
+    "vote_average": 8.276,
+    "vote_count": 1117
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dGvW61JwuqwtShk849PHZflOAX.jpg",
+    "genre_ids": [
+      10762,
+      16,
+      35,
+      10765,
+      10759
+    ],
+    "id": 3934,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Mickey Mouse Clubhouse",
+    "overview": "Mickey and his friends Minnie, Donald, Pluto, Daisy, Goofy, Pete, Clarabelle and more go on fun and educational adventures.",
+    "popularity": 57.6353,
+    "poster_path": "/gHtEhlAZHxMawOiPq7JoKwkmETQ.jpg",
+    "first_air_date": "2006-05-05",
+    "name": "Mickey Mouse Clubhouse",
+    "vote_average": 6.8,
+    "vote_count": 360
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4TK1IREtfd7Ki8JWfwR1WahO5IP.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10762
+    ],
+    "id": 4606,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Garfield and Friends",
+    "overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
+    "popularity": 56.2391,
+    "poster_path": "/3HyTfZ9sSCoZPYrYHMffhRVm3Af.jpg",
+    "first_air_date": "1988-09-17",
+    "name": "Garfield and Friends",
+    "vote_average": 7.264,
+    "vote_count": 370
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gbmN2y9Dqm6XKEev1kd8GkGLLn.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      35,
+      10759
+    ],
+    "id": 2808,
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "fr",
+    "original_name": "Totally Spies !",
+    "overview": "Totally Spies! depicts three girlfriends 'with an attitude' who have to cope with their daily lives at high school as well as the unpredictable pressures of international espionage. They confront the most intimidating - and demented - of villains, each with their own special agenda for demonic, global rude behavior.",
+    "popularity": 56.6969,
+    "poster_path": "/zSu4xj0WKh9W6V2QQl3qPBKMaoI.jpg",
+    "first_air_date": "2002-04-03",
+    "name": "Totally Spies!",
+    "vote_average": 7.3,
+    "vote_count": 244
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j0meXFRhxwk13yUaLBSUtqOwx7I.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10762,
+      10765,
+      10751
+    ],
+    "id": 67667,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ベイブレードバースト",
+    "overview": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to become the world's number one Blader.",
+    "popularity": 57.037,
+    "poster_path": "/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
+    "first_air_date": "2016-04-04",
+    "name": "Beyblade Burst",
+    "vote_average": 8.278,
+    "vote_count": 326
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/utqCOvMmjjMTlXNZz6PHOzRM5QP.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35,
+      10762
+    ],
+    "id": 47480,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Tom and Jerry Show",
+    "overview": "The iconic cat and mouse rivals are back in a fresh take on the classic series. Preserving the look, characters and sensibility of the original, this series shines a brightly colored, high-definition lens on the madcap slapstick and never-ending battle that has made Tom and Jerry two of the most beloved characters of all time.",
+    "popularity": 56.5493,
+    "poster_path": "/41EWXLXTZO4MLb2BL28mWZuydyq.jpg",
+    "first_air_date": "2014-04-09",
+    "name": "The Tom and Jerry Show",
+    "vote_average": 7.3,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iRFXa8YSfUfM2d8CM2S4IuQQrcg.jpg",
+    "genre_ids": [
+      35,
+      10762
+    ],
+    "id": 12500,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Rainbow",
+    "overview": "Children's puppet programme featuring music and stories. Join George, Bungle, Zippy, and all their friends at the Rainbow House, always an exciting place to be.",
+    "popularity": 54.6748,
+    "poster_path": "/cAORJWMV0ufuYrYSFrznDTh22AU.jpg",
+    "first_air_date": "1972-10-16",
+    "name": "Rainbow",
+    "vote_average": 6.579,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hIrMXQzFXsxoGF5xqao6h44sWNM.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10762,
+      10751
+    ],
+    "id": 9639,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ab",
+    "original_name": "デ・ジ・キャラットにょ",
+    "overview": "Di Gi Charat (a.k.a. Dejiko) - along with Petit Charat (a.k.a.  Puchiko) and Gema - travels to Earth as part of her training to become a  full-fledged princess. They crash on a small town in Japan, where they  meet the Omocha brothers (who spend most of their time thinking how cute  Puchiko is) and Mr. & Mrs. Ankoro (an elderly couple that makes  Japanese sweets).",
+    "popularity": 46.7528,
+    "poster_path": "/dL5W3MdndSsQXBulHnH5fduAH0R.jpg",
+    "first_air_date": "2003-04-06",
+    "name": "Di Gi Charat Nyo!",
+    "vote_average": 7.7,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35,
+      10762
+    ],
+    "id": 537,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Hey Arnold!",
+    "overview": "The daily life of Arnold--a fourth-grader with a wild imagination, street smarts and a head shaped like a football.",
+    "popularity": 53.1628,
+    "poster_path": "/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
+    "first_air_date": "1996-10-07",
+    "name": "Hey Arnold!",
+    "vote_average": 8,
+    "vote_count": 933
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xHIpxpSWrtTSw7HdheMPRZ67i6R.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      10765,
+      10759
+    ],
+    "id": 217772,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "猪猪侠",
+    "overview": "",
+    "popularity": 51.983,
+    "poster_path": "/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
+    "first_air_date": "2006-07-01",
+    "name": "GG Bond",
+    "vote_average": 9.125,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1xlpfYGGFXOlYqQSUlFKEv4hqbt.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      10765,
+      10762
+    ],
+    "id": 46392,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "デュエル・マスターズ",
+    "overview": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.",
+    "popularity": 53.9328,
+    "poster_path": "/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+    "first_air_date": "2002-10-21",
+    "name": "Duel Masters",
+    "vote_average": 6.1,
+    "vote_count": 17
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cU2gAPzMlTzQmebZUf0W4fUOE0h.jpg",
+    "genre_ids": [
+      16,
+      10762,
+      10766
+    ],
+    "id": 203071,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_name": "Chiquititas",
+    "overview": "",
+    "popularity": 48.272,
+    "poster_path": "/glOdo6k5oF8XLsNHeM7SaQCZO0f.jpg",
+    "first_air_date": "2007-07-20",
+    "name": "Chiquititas",
+    "vote_average": 6.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/exXuOvRwzkbtZmojV65CJpwc2BU.jpg",
+    "genre_ids": [
+      16,
+      9648,
+      10765,
+      35,
+      10762
+    ],
+    "id": 720,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "DuckTales",
+    "overview": "Scrooge McDuck finds his hands full at home when nephews Huey, Dewey and Louie move to Duckburg. Joined by their loyal pals Launchpad McQuack, Gyro Gearloose and Mrs. Beakley, the DuckTales gang never fails to deliver a wealth of adventure. Get ready for a fortune of fun with DuckTales!",
+    "popularity": 45.9384,
+    "poster_path": "/muplnM90daPCQ5Bn1olcwN1EO22.jpg",
+    "first_air_date": "1987-09-18",
+    "name": "DuckTales",
+    "vote_average": 7.6,
+    "vote_count": 679
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x3fvIdnXluHW2XgPont68E7tFCn.jpg",
+    "genre_ids": [
+      10759,
+      10765,
+      10762
+    ],
+    "id": 95707,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "海賊戦隊ゴーカイジャー",
+    "overview": "A group of young pirates from space come to Earth to obtain the \"Greatest Treasure in the Universe\", which can only be acquired after obtaining the Ultimate Powers of the 34 Super Sentai. However, they end up running afoul of the Space Empire Zangyack, whose earlier invasion forces were wiped out by the 34 Super Sentai long ago. As a result, the space pirates use \"pirate copies\" of the powers of the older teams and fight the Zangyack forces as the Gokaigers.",
+    "popularity": 52.419,
+    "poster_path": "/yHHf6ERcZMp3av3Bw41FYR68F9I.jpg",
+    "first_air_date": "2011-02-13",
+    "name": "Kaizoku Sentai Gokaiger",
+    "vote_average": 7.3,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c8m4NAE774Vsn5AZvn2bFarUtDX.jpg",
+    "genre_ids": [
+      16,
+      10765,
+      35,
+      10762,
+      10751
+    ],
+    "id": 504,
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Ren & Stimpy Show",
+    "overview": "Ren and Stimpy are a mismatch made in animation heaven with nothing in common but a life-long friendship and an incredible knack for getting into trouble. Join them in their bizarre and gross world for some outlandish situations coupled with hilarious jokes.",
+    "popularity": 39.2536,
+    "poster_path": "/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg",
+    "first_air_date": "1991-08-11",
+    "name": "The Ren & Stimpy Show",
+    "vote_average": 7.626,
+    "vote_count": 482
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pKnHwZK3GlRaN3bAncigwyfmfoR.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751,
+      10762,
+      10766
+    ],
+    "id": 12994,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Carrusel",
+    "overview": "Carrusel is a Mexican telenovela, produced by and first broadcast on Televisa in 1989. It covers daily life in a Mexican elementary school and the children's relationships with a charismatic teacher named Jimena. Among other plot devices, it deals with the differences between the upper and lower classes of Mexican society — specifically as seen in a romantic relationship between Cirilo, a poor black boy, and a spoiled rich girl, Maria Joaquina Villaseñor.",
+    "popularity": 49.4243,
+    "poster_path": "/zbGTiTiDvgEoBrj9AMihNa7DCsb.jpg",
+    "first_air_date": "1989-01-19",
+    "name": "Carrusel",
+    "vote_average": 7.63,
+    "vote_count": 73
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10762
+    ],
+    "id": 2208,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Mickey Mouse Club",
+    "overview": "A variety show featuring a cast of child performers.",
+    "popularity": 48.1919,
+    "poster_path": "/rXC5rbj05g56U93LQsllj3ycF8k.jpg",
+    "first_air_date": "1955-10-03",
+    "name": "The Mickey Mouse Club",
+    "vote_average": 6.344,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mhwWmN4VZj7tqNlymJNHBMRSv78.jpg",
+    "genre_ids": [
+      10766,
+      10762
+    ],
+    "id": 19588,
+    "origin_country": [
+      "MX",
+      "US"
+    ],
+    "original_language": "es",
+    "original_name": "¡Vivan los niños!",
+    "overview": "¡Vivan los niños! is a Mexican telenovela for children that premiered in 2002. It ran for 155 episodes and finished in 2003. The opening, Vivan los niños, was recorded by the Latin pop group OV7. One of its closing themes, also entitled Vivan los niños, was performed by Cuban-American singer and songwriter Ana Cristina. The show is a version of the Argentinian telenovela \"Jacinta Pichimahuida, la maestra que no se olvida\".\n\nThe series starred Andrea Legarreta as 2nd grade teacher Lupita Gómez. After the series ended, Andrea became the long-time host of the morning talk show Hoy. On July 12, 2012, in celebration of Andrea's birthday, the producers of Hoy reunited her with the young actors who played her students on the series.",
+    "popularity": 40.9273,
+    "poster_path": "/ksgIdxk9M5KPrOWZXLhjdrkrS2t.jpg",
+    "first_air_date": "2002-07-15",
+    "name": "¡Vivan los niños!",
+    "vote_average": 7.741,
+    "vote_count": 205
   }
 ]

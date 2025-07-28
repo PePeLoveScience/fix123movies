@@ -1,26 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 11890,
-    "origin_country": [
-      "NL"
-    ],
-    "original_language": "nl",
-    "original_name": "Goede Tijden, Slechte Tijden",
-    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
-    "popularity": 519.0022,
-    "poster_path": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
-    "first_air_date": "1990-10-01",
-    "name": "Goede Tijden, Slechte Tijden",
-    "vote_average": 5.342,
-    "vote_count": 19
-  },
-  {
-    "adult": false,
     "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
     "genre_ids": [
       10766,
@@ -33,7 +13,7 @@
     "original_language": "fr",
     "original_name": "Ici tout commence",
     "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
-    "popularity": 421.2922,
+    "popularity": 389.2323,
     "poster_path": "/x9HeaagUAyyGl1fQ6exQcpELBxP.jpg",
     "first_air_date": "2020-11-02",
     "name": "Ici tout commence",
@@ -42,23 +22,23 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/9daf0KXr3xUkMt2NCI0ZhDIZJEa.jpg",
+    "backdrop_path": "/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
     "genre_ids": [
       10766
     ],
-    "id": 12415,
+    "id": 11890,
     "origin_country": [
-      "ZA"
+      "NL"
     ],
-    "original_language": "af",
-    "original_name": "Egoli: Place of Gold",
-    "overview": "A South African television soap opera created by Franz Marx which revolves around the daily ups, downs, trials and tribulations of a handful of families in and around Johannesburg (which is often referred to as eGoli - the City of Gold)",
-    "popularity": 385.6109,
-    "poster_path": "/5X0SWyNJ5IjN9YSXlbHBOVMzh1G.jpg",
-    "first_air_date": "1992-04-06",
-    "name": "Egoli: Place of Gold",
-    "vote_average": 6.8,
-    "vote_count": 4
+    "original_language": "nl",
+    "original_name": "Goede Tijden, Slechte Tijden",
+    "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+    "popularity": 249.8477,
+    "poster_path": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+    "first_air_date": "1990-10-01",
+    "name": "Goede Tijden, Slechte Tijden",
+    "vote_average": 5.342,
+    "vote_count": 19
   },
   {
     "adult": false,
@@ -73,7 +53,7 @@
     "original_language": "af",
     "original_name": "7de Laan",
     "overview": "7de Laan is an extraordinary microcosm where good and bad, evil and wholesome characters find themselves forming part of a wholesome community where no matter what – everyone counts and everyone cares…",
-    "popularity": 267.5296,
+    "popularity": 253.0871,
     "poster_path": "/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
     "first_air_date": "2000-04-04",
     "name": "7de Laan",
@@ -82,46 +62,23 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/yVIudr5ZNtFvomu6CdFGKAa3njk.jpg",
+    "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
     "genre_ids": [
-      35,
-      18,
       10766
     ],
-    "id": 36062,
+    "id": 291,
     "origin_country": [
-      "NL"
+      "GB"
     ],
-    "original_language": "nl",
-    "original_name": "SpangaS",
-    "overview": "Best Friends follows the life of a group of friends at their high school ‘Spangalis College’. Inside and outside of school exciting and challenging experiences take place. Growing up is never easy; every character has its own, unique story of love, friendship, loneliness, sorrow, discovery. There is drama and joy in school, family, teachers, parents, divorce, bullying, and always dreams for the future.",
-    "popularity": 240.7293,
-    "poster_path": "/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
-    "first_air_date": "2007-09-03",
-    "name": "Best Friends",
-    "vote_average": 3,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h0y3OzHzG4yNvn8u3Za6ByH8lrQ.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 45789,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "Sturm der Liebe",
-    "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
-    "popularity": 234.2216,
-    "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
-    "first_air_date": "2005-09-26",
-    "name": "Sturm der Liebe",
-    "vote_average": 6.068,
-    "vote_count": 37
+    "original_language": "en",
+    "original_name": "Coronation Street",
+    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+    "popularity": 211.8813,
+    "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+    "first_air_date": "1960-12-09",
+    "name": "Coronation Street",
+    "vote_average": 5.4,
+    "vote_count": 112
   },
   {
     "adult": false,
@@ -138,72 +95,12 @@
     "original_language": "fr",
     "original_name": "Demain nous appartient",
     "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
-    "popularity": 218.6948,
+    "popularity": 199.9775,
     "poster_path": "/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
     "first_air_date": "2017-07-17",
     "name": "Tomorrow Is Ours",
     "vote_average": 6.343,
     "vote_count": 67
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 291,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Coronation Street",
-    "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
-    "popularity": 209.9546,
-    "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
-    "first_air_date": "1960-12-09",
-    "name": "Coronation Street",
-    "vote_average": 5.4,
-    "vote_count": 112
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 206559,
-    "origin_country": [
-      "ZA"
-    ],
-    "original_language": "af",
-    "original_name": "Binnelanders",
-    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
-    "popularity": 192.5219,
-    "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
-    "first_air_date": "2005-10-13",
-    "name": "Binnelanders",
-    "vote_average": 5.624,
-    "vote_count": 97
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ynd225o8GuCahYGjHtFdEt8Xizm.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 235484,
-    "origin_country": [
-      "ZA"
-    ],
-    "original_language": "af",
-    "original_name": "Suidooster",
-    "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
-    "popularity": 187.5261,
-    "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
-    "first_air_date": "2015-11-16",
-    "name": "Suidooster",
-    "vote_average": 7.217,
-    "vote_count": 23
   },
   {
     "adult": false,
@@ -218,7 +115,7 @@
     "original_language": "pl",
     "original_name": "Klan",
     "overview": "Family is the most important thing, and the children of Władysław and Maria Lubicz from Warsaw can always count on each other, no matter what surprises life offers.",
-    "popularity": 185.9139,
+    "popularity": 171.6081,
     "poster_path": "/vuSKqHmKLrKG2AYFOyQ4Ci9wTAj.jpg",
     "first_air_date": "1997-09-22",
     "name": "Klan",
@@ -227,88 +124,43 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/psedRtpZwLUoDN3d7b2BgPTBtJi.jpg",
-    "genre_ids": [
-      10766,
-      18,
-      35
-    ],
-    "id": 42883,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Paraíso Tropical",
-    "overview": "The search for a successor provokes the beginning of a clash between two young and talented executives of his group: Daniel Bastos, a lad of simple origins and excellent character, who is not only handsome and charming, but also intelligent and skilled, and Olavo Novaes, an ambitious and unscrupulous man who is ready to fight for the position, at any cost. To fight against Olavo‘s treacherous plans, Daniel will have the help of the sweet and sensitive Paula, a young lady raised as an only child who founds, on the eve of her mother‘s death, that she is adopted and has a family. What Paula does not know is that she has an identical twin sister, the wicked Taís, who is as ambitious and unscrupulous as the man who becomes her main ally, Olavo Novaes. Antenor, for his part, decides on having an heir when he meets the headstrong and honest Lúcia, a woman who will make this cold businessman find true love is and a real reason to live.",
-    "popularity": 184.245,
-    "poster_path": "/1njDNkBHYLL7LS6KmvAsmxqnMxD.jpg",
-    "first_air_date": "2007-03-05",
-    "name": "Paraíso Tropical",
-    "vote_average": 8.2,
-    "vote_count": 10
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ug8VmeqBEpXzvSgLiCwbAZ3AkLI.jpg",
+    "backdrop_path": "/3z4zE7WvIyQYadqxDQ7MCpSRbOG.jpg",
     "genre_ids": [
       10766
     ],
-    "id": 3947,
+    "id": 249010,
     "origin_country": [
-      "DE"
+      "ZA"
     ],
-    "original_language": "de",
-    "original_name": "Verliebt in Berlin",
-    "overview": "The original season follows the life of the unsophisticated but good-natured Lisa Plenske, and her incongruous job at the ultra-chic Berlin fashion house Kerima Moda; while the second season revolved around Lisa's ham-fisted but sly half-brother Bruno and junior designer Hannah Refrath.",
-    "popularity": 179.3874,
-    "poster_path": "/gw00a3X2xZ8avePAMyD4olZtN9u.jpg",
-    "first_air_date": "2005-02-28",
-    "name": "Verliebt in Berlin",
-    "vote_average": 3.8,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
-    "genre_ids": [
-      10766,
-      18,
-      80
-    ],
-    "id": 1871,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "EastEnders",
-    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
-    "popularity": 172.4988,
-    "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
-    "first_air_date": "1985-02-19",
-    "name": "EastEnders",
-    "vote_average": 4.146,
-    "vote_count": 213
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 80318,
-    "origin_country": [
-      "IT"
-    ],
-    "original_language": "it",
-    "original_name": "CentoVetrine",
-    "overview": "The series tells the stories of some of the characters who work or are related to an imaginary shopping center Centovetrine, located in the center of Turin. There are many stories of love and passion, but also struggles for power and dynastic quarrels in the telefilm.",
-    "popularity": 157.8409,
-    "poster_path": "/25v6iDGmIpyG3zndfYdt4KfQgQ9.jpg",
-    "first_air_date": "2001-01-08",
-    "name": "CentoVetrine",
+    "original_language": "af",
+    "original_name": "Kelders van Geheime",
+    "overview": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter – and a glass of wine.",
+    "popularity": 181.5846,
+    "poster_path": "/r0hqXxOTJ7pTEYQYl7HWrD50ym0.jpg",
+    "first_air_date": "2024-05-06",
+    "name": "Kelders van Geheime",
     "vote_average": 6,
-    "vote_count": 1
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ynd225o8GuCahYGjHtFdEt8Xizm.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 235484,
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "af",
+    "original_name": "Suidooster",
+    "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+    "popularity": 150.1117,
+    "poster_path": "/naCgSiacvV685kait6fBvhVhdce.jpg",
+    "first_air_date": "2015-11-16",
+    "name": "Suidooster",
+    "vote_average": 7.217,
+    "vote_count": 23
   },
   {
     "adult": false,
@@ -325,7 +177,7 @@
     "original_language": "tl",
     "original_name": "Kadenang Ginto",
     "overview": "The story of Romina, a secretary turned wife of business tycoon, Robert, who married her despite the fact that she was raped and is carrying the child of the assailant. Unknown to Romina, it was Daniela, Robert’s daughter, who had orchestrated her abduction, right before seducing Romina’s fiance, Carlos. With Romina's and Daniela's lives intertwined, their daughters, Cassandra and Margaret, are made to fight as to who among them is the rightful heiress to the Mondragon empire.",
-    "popularity": 156.2776,
+    "popularity": 144.3798,
     "poster_path": "/j22hweQSBPCerif5NY23ZKZFqML.jpg",
     "first_air_date": "2018-10-08",
     "name": "The Heiress",
@@ -334,109 +186,109 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/rHgGQKEU99prngLQDhytYBvPMC4.jpg",
+    "backdrop_path": "/ug8VmeqBEpXzvSgLiCwbAZ3AkLI.jpg",
     "genre_ids": [
-      18,
       10766
     ],
-    "id": 93393,
+    "id": 3947,
     "origin_country": [
-      "PT"
+      "DE"
     ],
-    "original_language": "pt",
-    "original_name": "A Única Mulher",
-    "overview": "",
-    "popularity": 153.4539,
-    "poster_path": "/7lDO72HbZHMnd3YH1QwOLpocSZO.jpg",
-    "first_air_date": "2015-03-15",
-    "name": "A Única Mulher",
-    "vote_average": 5.333,
-    "vote_count": 3
+    "original_language": "de",
+    "original_name": "Verliebt in Berlin",
+    "overview": "The original season follows the life of the unsophisticated but good-natured Lisa Plenske, and her incongruous job at the ultra-chic Berlin fashion house Kerima Moda; while the second season revolved around Lisa's ham-fisted but sly half-brother Bruno and junior designer Hannah Refrath.",
+    "popularity": 139.0181,
+    "poster_path": "/gw00a3X2xZ8avePAMyD4olZtN9u.jpg",
+    "first_air_date": "2005-02-28",
+    "name": "Verliebt in Berlin",
+    "vote_average": 3.8,
+    "vote_count": 6
   },
   {
     "adult": false,
-    "backdrop_path": "/kHAxjfdl1cMgDpIjuxKWa1nE44i.jpg",
+    "backdrop_path": "/yVIudr5ZNtFvomu6CdFGKAa3njk.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10766
+    ],
+    "id": 36062,
+    "origin_country": [
+      "NL"
+    ],
+    "original_language": "nl",
+    "original_name": "SpangaS",
+    "overview": "Best Friends follows the life of a group of friends at their high school ‘Spangalis College’. Inside and outside of school exciting and challenging experiences take place. Growing up is never easy; every character has its own, unique story of love, friendship, loneliness, sorrow, discovery. There is drama and joy in school, family, teachers, parents, divorce, bullying, and always dreams for the future.",
+    "popularity": 135.5102,
+    "poster_path": "/2bH7QQ7WQfnbt1CWiX8BE5E2V4t.jpg",
+    "first_air_date": "2007-09-03",
+    "name": "Best Friends",
+    "vote_average": 3,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2ofetIR5RQmK3oWrFrHarFDFDnC.jpg",
     "genre_ids": [
       18,
       10766
     ],
-    "id": 93421,
+    "id": 260609,
     "origin_country": [
-      "PT"
+      "ES"
     ],
-    "original_language": "pt",
-    "original_name": "A Impostora",
-    "overview": "An airplane disappears mysteriously; on board was Verónica, the twin sister of Vitória, the victim of a fraud by a millionaire. Presumed dead, Verónica assumes the identity of her sister and plans to avenge herself on the entrepreneur's family.",
-    "popularity": 153.1971,
-    "poster_path": "/yLtLTnivr3CwnBwKW7E7008u363.jpg",
-    "first_air_date": "2016-09-04",
-    "name": "A Impostora",
+    "original_language": "ca",
+    "original_name": "Com si fos ahir",
+    "overview": "A group of high school friends meet again after 25 years to attend the funeral of a mutual friend, and from that point on they try to recover their friendship.",
+    "popularity": 125.0894,
+    "poster_path": "/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
+    "first_air_date": "2017-09-11",
+    "name": "Com si fos ahir",
     "vote_average": 0,
     "vote_count": 0
   },
   {
     "adult": false,
-    "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 13945,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "Gute Zeiten, schlechte Zeiten",
-    "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
-    "popularity": 145.7018,
-    "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
-    "first_air_date": "1992-05-11",
-    "name": "Gute Zeiten, schlechte Zeiten",
-    "vote_average": 5.8,
-    "vote_count": 41
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 30826,
-    "origin_country": [
-      "MX"
-    ],
-    "original_language": "es",
-    "original_name": "La rosa de Guadalupe",
-    "overview": "Stories about people who get into problems who use the help of Virgin Mary and where a rose appears and their problems are solved.",
-    "popularity": 144.5973,
-    "poster_path": "/9RaNva340arNWeZn2uKpKePkg91.jpg",
-    "first_air_date": "2008-02-05",
-    "name": "La rosa de Guadalupe",
-    "vote_average": 6.965,
-    "vote_count": 273
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wHi44gV8p2FWgYOuCefyE8jI8Qc.jpg",
+    "backdrop_path": "/hUz0UHWSVd6e1g3I6vT4shAsnoY.jpg",
     "genre_ids": [
       10766,
       18,
-      35
+      80
     ],
-    "id": 46018,
+    "id": 1871,
     "origin_country": [
-      "BR"
+      "GB"
     ],
-    "original_language": "pt",
-    "original_name": "Tieta",
-    "overview": "Inspired on Jorge Amado's romance \"Tieta do Agreste\", the plot is set on the fictional city of Santana do Agreste, at Brazil's northwest, and has as main theme Tieta's life turnarounds. Twenty-five years after being chased out of town by her father Zé Esteves, she returns to her home town seeking revenge against everyone who mistreated her and laugh at her face in the past.",
-    "popularity": 144.2454,
-    "poster_path": "/3YNb7mSpuaP18W4yAXjtaV5W2lI.jpg",
-    "first_air_date": "1989-08-14",
-    "name": "Tieta",
-    "vote_average": 8.4,
-    "vote_count": 15
+    "original_language": "en",
+    "original_name": "EastEnders",
+    "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+    "popularity": 116.6559,
+    "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+    "first_air_date": "1985-02-19",
+    "name": "EastEnders",
+    "vote_average": 4.159,
+    "vote_count": 214
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 14610,
+    "origin_country": [
+      "FI"
+    ],
+    "original_language": "fi",
+    "original_name": "Salatut elämät",
+    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+    "popularity": 107.6819,
+    "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+    "first_air_date": "1999-01-25",
+    "name": "Secret Lives",
+    "vote_average": 4.5,
+    "vote_count": 17
   },
   {
     "adult": false,
@@ -453,308 +305,12 @@
     "original_language": "ru",
     "original_name": "Обручальное кольцо",
     "overview": "",
-    "popularity": 142.9095,
+    "popularity": 105.8099,
     "poster_path": "/1DVt9ODPDlOzjDtLpAFZHTWYRDk.jpg",
     "first_air_date": "2008-11-03",
     "name": "Wedding Ring",
     "vote_average": 2,
     "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 14610,
-    "origin_country": [
-      "FI"
-    ],
-    "original_language": "fi",
-    "original_name": "Salatut elämät",
-    "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
-    "popularity": 136.174,
-    "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
-    "first_air_date": "1999-01-25",
-    "name": "Secret Lives",
-    "vote_average": 4.5,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2ofetIR5RQmK3oWrFrHarFDFDnC.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 260609,
-    "origin_country": [
-      "ES"
-    ],
-    "original_language": "ca",
-    "original_name": "Com si fos ahir",
-    "overview": "A group of high school friends meet again after 25 years to attend the funeral of a mutual friend, and from that point on they try to recover their friendship.",
-    "popularity": 134.8088,
-    "poster_path": "/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
-    "first_air_date": "2017-09-11",
-    "name": "Com si fos ahir",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5HjfWdjRHawvIrbg4pP3Oj6N9u2.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 5080,
-    "origin_country": [
-      "GB"
-    ],
-    "original_language": "en",
-    "original_name": "Doctors",
-    "overview": "Set in the fictional Midlands town of Letherbridge, defined as being close to the city of Birmingham, this soap opera follows the staff and families of a doctor's surgery.",
-    "popularity": 124.2687,
-    "poster_path": "/bhEHvxUd5zuySUGhNFngkC4NacQ.jpg",
-    "first_air_date": "2000-03-27",
-    "name": "Doctors",
-    "vote_average": 4.8,
-    "vote_count": 42
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6tLp9tcpFPFoIvwAUQWdDGYvvPt.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 13190,
-    "origin_country": [
-      "MX"
-    ],
-    "original_language": "es",
-    "original_name": "Se Busca Un Hombre",
-    "overview": "The main theme of the series tells the story about private lives of a group of women who are frequent clients of “Angelica Style”, a prestigious beauty clinic. This group of women, Angelica, Nora, Mercedes, Samantha, Loreto, Vanesa, Lilí, Gabriela, Fernanda and Cecilia, have one thing in common: they have all failed to find the men of their dreams. As the stories blend, their different personalities are shown and their deepest wishes are revealed. They want to find a man who can understand them with freedom and love.",
-    "popularity": 123.7585,
-    "poster_path": "/joDjjRVRaxsKgoaFSUQV4EwCSBX.jpg",
-    "first_air_date": "2007-02-12",
-    "name": "Men Wanted",
-    "vote_average": 3,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pmAzkQJa993nIgPqFtVmOhStHXg.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 2354,
-    "origin_country": [
-      "AU"
-    ],
-    "original_language": "en",
-    "original_name": "Home and Away",
-    "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. During the early 2000s, the central storylines focused on the Sutherlands and later, the Hunters. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
-    "popularity": 121.5182,
-    "poster_path": "/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
-    "first_air_date": "1988-01-18",
-    "name": "Home and Away",
-    "vote_average": 6.3,
-    "vote_count": 72
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3z4zE7WvIyQYadqxDQ7MCpSRbOG.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 249010,
-    "origin_country": [
-      "ZA"
-    ],
-    "original_language": "af",
-    "original_name": "Kelders van Geheime",
-    "overview": "Kelders van Geheime (Cellars of Secrets) is a South African, Afrikaans-language telenovela based on the wheeling's and dealings of the community that lives on Soebatskloof (a wine farm in the Cape). The series focuses on three families: the Abrahams, Syster and Marais households. These families will have to stand together, agree (or agree to disagree), and work together to earn their bread and butter – and a glass of wine.",
-    "popularity": 118.8207,
-    "poster_path": "/r0hqXxOTJ7pTEYQYl7HWrD50ym0.jpg",
-    "first_air_date": "2024-05-06",
-    "name": "Kelders van Geheime",
-    "vote_average": 6,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6R3p78bUPdw37fxiYtQ9z1vY5f8.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 65264,
-    "origin_country": [
-      "AR"
-    ],
-    "original_language": "es",
-    "original_name": "Los ricos no piden permiso",
-    "overview": "After their mother's suspicious death, three siblings inherit a vast estate. As they investigate the mystery with their staff, greed and pride threaten to divide them. Yet, love may be the key to bringing the family back together.",
-    "popularity": 118.6048,
-    "poster_path": "/wY7ZUkKHEVfuOInyLziNsN7FWn7.jpg",
-    "first_air_date": "2016-01-11",
-    "name": "The Rich Do Not Ask for Permission",
-    "vote_average": 5.2,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/e2R0uOxllMoC316JaM8zPz6C4SV.jpg",
-    "genre_ids": [
-      10766
-    ],
-    "id": 218776,
-    "origin_country": [
-      "CL"
-    ],
-    "original_language": "es",
-    "original_name": "Juego de ilusiones",
-    "overview": "",
-    "popularity": 115.3051,
-    "poster_path": "/9gvZrKujFwnF3DJzmIKT3BFxLb8.jpg",
-    "first_air_date": "2023-01-16",
-    "name": "Juego de ilusiones",
-    "vote_average": 6,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4SoqPyzYWoujPWlMNXuZlEPlRmu.jpg",
-    "genre_ids": [
-      10766,
-      35
-    ],
-    "id": 45761,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Andando nas Nuvens",
-    "overview": "",
-    "popularity": 113.8791,
-    "poster_path": "/oMVqTU8N7n4OCJLdpRJkZuCYl5c.jpg",
-    "first_air_date": "1999-03-22",
-    "name": "Andando nas Nuvens",
-    "vote_average": 8.25,
-    "vote_count": 8
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/arzEXF03COX1Yj39riYGSEfgNtY.jpg",
-    "genre_ids": [
-      10766,
-      35,
-      18
-    ],
-    "id": 14424,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Malhação",
-    "overview": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
-    "popularity": 113.6016,
-    "poster_path": "/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
-    "first_air_date": "1995-04-24",
-    "name": "Young Hearts",
-    "vote_average": 6.2,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5upIeIz53mymi0639Sn8VGo5ytE.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 1341,
-    "origin_country": [
-      "MX"
-    ],
-    "original_language": "es",
-    "original_name": "Lola... Érase Una Vez",
-    "overview": "Lola... Érase Una Vez is a teen targeted Mexican melodrama telenovela produced by Televisa that is an adaptation of the Argentine global phenomenon and teenage telenovela Floricienta. The show tells the story of a modern Cinderella, Lola, a 20 year old girl, who works as a nanny and sings in a rock band and meets her so call Prince Charming. It debuted in Mexico on February 26, 2007, starring Aarón Díaz and Eiza González. The show had gained popularity among teens and children not only in Mexico but also internationally including Venezuela, Spain and the in United States. With concert performances filling major auditoriums and songs by the protagonist become radio hits. It debuted in the United States on Univision in March 2008 and ended on January 26, 2009. The series consisted of 224 episodes which aried Monday through Friday at 3 P.M, intentionally for teenagers to watch after school, as is typical for most teenage & children telenovelas in Spanish networks.",
-    "popularity": 113.4467,
-    "poster_path": "/nEThAMS4RVVq7BaTlGQD8PlHusB.jpg",
-    "first_air_date": "2007-02-26",
-    "name": "Lola… Once Upon a Time",
-    "vote_average": 7.9,
-    "vote_count": 130
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 12568,
-    "origin_country": [
-      "MX"
-    ],
-    "original_language": "es",
-    "original_name": "Destilando amor",
-    "overview": "Destilando Amor is a 2007 Mexican telenovela produced by Televisa and Nicandro Díaz. It stars Angélica Rivera and Eduardo Yáñez as the main protagonists and was set primarily in Tequila, Jalisco. It is a remake of the 1994 Colombian telenovela Café, con aroma de mujer, and was nominated for twelve Premios TVyNovelas of which it won ten including Best Telenovela of the Year.",
-    "popularity": 112.851,
-    "poster_path": "/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg",
-    "first_air_date": "2007-01-22",
-    "name": "Distilling Love",
-    "vote_average": 7.59,
-    "vote_count": 311
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dANkpo50C6lQrhQfAdXyK8kNUbT.jpg",
-    "genre_ids": [
-      18,
-      35,
-      10766
-    ],
-    "id": 46883,
-    "origin_country": [
-      "MX"
-    ],
-    "original_language": "es",
-    "original_name": "Porque el Amor Manda",
-    "overview": "Porque el Amor Manda is a 2012 Mexican telenovela produced by Juan Osorio for Televisa. It is a remake of the Colombian telenovela El secretario, produced by Juan Andrés Flórez in 2011.\n\nFernando Colunga and Blanca Soto star as the protagonists Claudia Álvarez stars as the antagonist.",
-    "popularity": 112.5073,
-    "poster_path": "/uf6f1YqRUV52Xzj7ytYB7F7sd9S.jpg",
-    "first_air_date": "2012-10-08",
-    "name": "Porque el Amor Manda",
-    "vote_average": 8.059,
-    "vote_count": 427
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/taVpgDdtwqgPbgwIFEBSU4I5vuV.jpg",
-    "genre_ids": [
-      10762,
-      10751,
-      10766
-    ],
-    "id": 58566,
-    "origin_country": [
-      "AR",
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Chiquititas",
-    "overview": "Based on the original version of same name created by Cris Morena, the series tells the story of a group of orphans living in a manor, known as Raio de Luz, struggling and being guided by a young woman, Carol, that assumes a maternal figure for them. Their experiences such as discovering first love, deceptions, loneliness and friendship, as well as adventures in fantasy, are depicted throughout the series. The narrative is followed by musical themes and videoclips.",
-    "popularity": 112.2466,
-    "poster_path": "/qImPicBaoc6bIMJFy8N3oNG9OdM.jpg",
-    "first_air_date": "2013-07-15",
-    "name": "Chiquititas",
-    "vote_average": 8.45,
-    "vote_count": 40
   },
   {
     "adult": false,
@@ -770,12 +326,54 @@
     "original_language": "en",
     "original_name": "Isidingo",
     "overview": "South African soap opera centering around the lives of the wealthy Haines family, the Matabanes, and the lives of the inhabitants of the mining town Horizon Deep.",
-    "popularity": 109.7495,
+    "popularity": 104.9888,
     "poster_path": "/hxJdczj4roJ9OtqSJcuAkD2TK6y.jpg",
     "first_air_date": "1998-07-07",
     "name": "Isidingo",
     "vote_average": 4.3,
     "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6tLp9tcpFPFoIvwAUQWdDGYvvPt.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 13190,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Se Busca Un Hombre",
+    "overview": "The main theme of the series tells the story about private lives of a group of women who are frequent clients of “Angelica Style”, a prestigious beauty clinic. This group of women, Angelica, Nora, Mercedes, Samantha, Loreto, Vanesa, Lilí, Gabriela, Fernanda and Cecilia, have one thing in common: they have all failed to find the men of their dreams. As the stories blend, their different personalities are shown and their deepest wishes are revealed. They want to find a man who can understand them with freedom and love.",
+    "popularity": 96.6236,
+    "poster_path": "/joDjjRVRaxsKgoaFSUQV4EwCSBX.jpg",
+    "first_air_date": "2007-02-12",
+    "name": "Men Wanted",
+    "vote_average": 3,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5HjfWdjRHawvIrbg4pP3Oj6N9u2.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 5080,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Doctors",
+    "overview": "Set in the fictional Midlands town of Letherbridge, defined as being close to the city of Birmingham, this soap opera follows the staff and families of a doctor's surgery.",
+    "popularity": 101.921,
+    "poster_path": "/bhEHvxUd5zuySUGhNFngkC4NacQ.jpg",
+    "first_air_date": "2000-03-27",
+    "name": "Doctors",
+    "vote_average": 4.8,
+    "vote_count": 42
   },
   {
     "adult": false,
@@ -791,7 +389,7 @@
     "original_language": "es",
     "original_name": "Sueños de libertad",
     "overview": "Begoña Montes is a woman who lives trapped in a toxic marriage and seeks the long-awaited freedom in Spain in 1958.",
-    "popularity": 105.1527,
+    "popularity": 94.9685,
     "poster_path": "/nlZZPRCQo1H4e32wsQll2VWxEDt.jpg",
     "first_air_date": "2024-02-25",
     "name": "Dreams of Liberty",
@@ -800,90 +398,86 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/1I8UbUDNaE6FVbwrpZLcfkQobN2.jpg",
+    "backdrop_path": "/e2R0uOxllMoC316JaM8zPz6C4SV.jpg",
     "genre_ids": [
-      18,
       10766
     ],
-    "id": 87311,
+    "id": 218776,
     "origin_country": [
-      "MX"
+      "CL"
     ],
     "original_language": "es",
-    "original_name": "Un rostro en mi pasado",
+    "original_name": "Juego de ilusiones",
     "overview": "",
-    "popularity": 103.357,
-    "poster_path": "/wzAHqSd4LmlCWGNXjufusGWQSPY.jpg",
-    "first_air_date": "1989-10-16",
-    "name": "Un rostro en mi pasado",
-    "vote_average": 2,
-    "vote_count": 1
+    "popularity": 95.7599,
+    "poster_path": "/9gvZrKujFwnF3DJzmIKT3BFxLb8.jpg",
+    "first_air_date": "2023-01-16",
+    "name": "Juego de ilusiones",
+    "vote_average": 6,
+    "vote_count": 2
   },
   {
     "adult": false,
-    "backdrop_path": "/mR5YA8weuY3SRiE55gst2ho4tAP.jpg",
+    "backdrop_path": "/psedRtpZwLUoDN3d7b2BgPTBtJi.jpg",
     "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 17638,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "es",
-    "original_name": "Más Sabe el Diablo",
-    "overview": "Set in New York, the serial features the street-wise Ángel, who treats life as a game he plays to win. He tangles with the power-hungry Martín, who is engaged to a stunning, feisty lawyer named Manuela. She decides to defend Ángel, even though Martín wants to destroy him. Neither of the men know that Ángel is Martín's own son. Our hero learns that love is the only key to survival.",
-    "popularity": 101.833,
-    "poster_path": "/468xWS1crK1AKkvHXQtoIPxNNTq.jpg",
-    "first_air_date": "2009-05-25",
-    "name": "Falling Angel",
-    "vote_average": 8.192,
-    "vote_count": 198
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/70mwKy9476ozh3kgMenvhyeTXzJ.jpg",
-    "genre_ids": [
-      18,
-      10751,
-      10766
-    ],
-    "id": 54562,
-    "origin_country": [
-      "CZ"
-    ],
-    "original_language": "cs",
-    "original_name": "Velmi křehké vztahy",
-    "overview": "",
-    "popularity": 101.3273,
-    "poster_path": "/hbaMvbzlr1yOZKxvOsrMK3zpM1U.jpg",
-    "first_air_date": "2007-01-02",
-    "name": "Velmi křehké vztahy",
-    "vote_average": 1.2,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wFfSFzWq8ur2lbYtUsdMI1eztMt.jpg",
-    "genre_ids": [
-      18,
       10766,
-      10751
+      18,
+      35
     ],
-    "id": 12727,
+    "id": 42883,
     "origin_country": [
-      "MX",
       "BR"
     ],
-    "original_language": "es",
-    "original_name": "Cómplices Al Rescate",
-    "overview": "Cómplices al Rescate is a Mexican telenovela starring Belinda as two twins who were separated at birth.",
-    "popularity": 98.5771,
-    "poster_path": "/m2l2V1AUwx878DrvF2H0TblMj4X.jpg",
-    "first_air_date": "2002-01-07",
-    "name": "Cómplices Al Rescate",
-    "vote_average": 7.573,
-    "vote_count": 164
+    "original_language": "pt",
+    "original_name": "Paraíso Tropical",
+    "overview": "The search for a successor provokes the beginning of a clash between two young and talented executives of his group: Daniel Bastos, a lad of simple origins and excellent character, who is not only handsome and charming, but also intelligent and skilled, and Olavo Novaes, an ambitious and unscrupulous man who is ready to fight for the position, at any cost. To fight against Olavo‘s treacherous plans, Daniel will have the help of the sweet and sensitive Paula, a young lady raised as an only child who founds, on the eve of her mother‘s death, that she is adopted and has a family. What Paula does not know is that she has an identical twin sister, the wicked Taís, who is as ambitious and unscrupulous as the man who becomes her main ally, Olavo Novaes. Antenor, for his part, decides on having an heir when he meets the headstrong and honest Lúcia, a woman who will make this cold businessman find true love is and a real reason to live.",
+    "popularity": 88.8847,
+    "poster_path": "/1njDNkBHYLL7LS6KmvAsmxqnMxD.jpg",
+    "first_air_date": "2007-03-05",
+    "name": "Paraíso Tropical",
+    "vote_average": 8.2,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 206559,
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "af",
+    "original_name": "Binnelanders",
+    "overview": "A South African Afrikaans soap opera. It is set in and around the fictional private hospital, Binneland Kliniek, in Pretoria, and the storyline follows the trials, trauma and tribulations of the staff and patients of the hospital.",
+    "popularity": 58.5328,
+    "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "first_air_date": "2005-10-13",
+    "name": "Binnelanders",
+    "vote_average": 5.624,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pmAzkQJa993nIgPqFtVmOhStHXg.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 2354,
+    "origin_country": [
+      "AU"
+    ],
+    "original_language": "en",
+    "original_name": "Home and Away",
+    "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. During the early 2000s, the central storylines focused on the Sutherlands and later, the Hunters. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
+    "popularity": 86.1401,
+    "poster_path": "/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
+    "first_air_date": "1988-01-18",
+    "name": "Home and Away",
+    "vote_average": 6.3,
+    "vote_count": 72
   },
   {
     "adult": false,
@@ -900,180 +494,11 @@
     "original_language": "pt",
     "original_name": "O Cravo e a Rosa",
     "overview": "A spoiled feminist, daughter of a rich father, even though she doesn't admit it, falls in love with a rustic farmer whom she marries.",
-    "popularity": 97.235,
+    "popularity": 89.4598,
     "poster_path": "/kMNNvkzoLIk8NjIegwq7mNI721O.jpg",
     "first_air_date": "2000-06-26",
     "name": "The Thorn and the Rose",
     "vote_average": 7.2,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/e6tItyViWEFvcTILGzAHlQIgKHb.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 875,
-    "origin_country": [
-      "US"
-    ],
-    "original_language": "en",
-    "original_name": "Guiding Light",
-    "overview": "Guiding Light is an American television soap opera that is credited by the Guinness Book of World Records as the longest-running television drama in history, broadcast from 1952 until 2009, preceded by a 15-year broadcast on radio. Guiding Light stands as the third longest-running program in all of broadcast history; only the Norwegian children's radio program Lørdagsbarnetimen and the American country music radio program Grand Ole Opry have been on the air longer.\n\nOn April 1, 2009, it was announced that CBS canceled Guiding Light after a 72-year run due to low ratings. The show taped its final scenes for CBS on August 11, 2009, and its final episode on the network aired on September 18, 2009.",
-    "popularity": 96.2507,
-    "poster_path": "/uRJntFgQJuHLJDvRHDsHBcsxE7q.jpg",
-    "first_air_date": "1952-06-30",
-    "name": "Guiding Light",
-    "vote_average": 5.531,
-    "vote_count": 16
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ix0praGhM8IPxvEqAVNaSpUaksY.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 6780,
-    "origin_country": [
-      "PH"
-    ],
-    "original_language": "tl",
-    "original_name": "Prinsesa ng Banyera",
-    "overview": "Prinsesa ng Banyera is a weekday daytime telenovela of ABS-CBN, which aired after Wowowee. It stars Kristine Hermosa, Angelika dela Cruz and Ara Mina. It ruled the Afternoon Programming Mass and was also shown Worldwide through The Filipino Channel Weekdays and its Affiliate Kapamilya Channel and Saturdays as a 5-episode Marathon.\n\nThe TV series also aired in Malaysia via TV3 weekdays in 2010.",
-    "popularity": 96.1557,
-    "poster_path": "/uExzgr4Sd6sOoSeZVKm9scugJdn.jpg",
-    "first_air_date": "2007-10-08",
-    "name": "Prinsesa ng Banyera",
-    "vote_average": 0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/m6wAT5xXr6IGW5AnHJxEMsoMwUd.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 4897,
-    "origin_country": [
-      "IN"
-    ],
-    "original_language": "hi",
-    "original_name": "Kasamh Se",
-    "overview": "Bani, Piya and Rano who move to Mumbai following their father's death. The trio reunite with their late father's wealthy acquaintance, Jai Walia... hence, their fate and very purpose of existence is put on the line - questioning the promise they made; supporting one another through thick and thin.",
-    "popularity": 95.1266,
-    "poster_path": "/a8MQs8tAeA8SXToANt2pHBhoNU0.jpg",
-    "first_air_date": "2006-01-16",
-    "name": "Kasamh Se",
-    "vote_average": 2,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2o0cVL6fOa06aXd5xogZhD1h4ce.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 14686,
-    "origin_country": [
-      "DE"
-    ],
-    "original_language": "de",
-    "original_name": "Alles was zählt",
-    "overview": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
-    "popularity": 94.1446,
-    "poster_path": "/2qup6w78HhDiSii7v8vYgfEsz6E.jpg",
-    "first_air_date": "2006-09-04",
-    "name": "Alles was zählt",
-    "vote_average": 5,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/khxuPmWXgO1vjwAxalnHGnjAgXb.jpg",
-    "genre_ids": [
-      10766,
-      35
-    ],
-    "id": 124201,
-    "origin_country": [
-      "PT"
-    ],
-    "original_language": "pt",
-    "original_name": "Festa é Festa",
-    "overview": "A village in the interior of Portugal is preparing the best village festival ever, in the year that marks the centenary of its greatest benefactor. Everyone does their best in organizing the party always with something in mind: the inheritance of the elderly woman.",
-    "popularity": 94.0242,
-    "poster_path": "/rlQlfiBR0zY1ucBIvB2neYUVfFP.jpg",
-    "first_air_date": "2021-04-26",
-    "name": "Festa é Festa",
-    "vote_average": 7,
-    "vote_count": 3
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3UjHctIfoa270AsVLOtffPcL003.jpg",
-    "genre_ids": [
-      18,
-      10766
-    ],
-    "id": 42915,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Sinhá Moça",
-    "overview": "Monarchists and Republicans confront themselves in Araruna, a small town in the interior of São Paulo, in 1886, two years before the promulgation of the Golden Law. Sinhá Moça's love story, daughter of Colonel Ferreira, Baron de Araruna, and a slave-boy, with the young Dr. Rodolfo, an active Republican abolitionist, faced with the difficulties of the campaign for the abolition of slaves. The two meet on the train, when Sinhá Moça, after completing her studies in the provincial capital, returns to Araruna. Like Rodolfo, she has abolitionist ideas and criticizes her father's attitudes, fighting for the defense of blacks. Sinhá Moça, together with Rodolfo and other abolitionists, invade the slave quarters at night and liberate the blacks, giving them to the abolitionist associations, which guide them towards freedom.",
-    "popularity": 93.5917,
-    "poster_path": "/5YbK2Ql64f1aoeRSKOgP5hM1Txa.jpg",
-    "first_air_date": "1986-04-28",
-    "name": "Sinhá Moça",
-    "vote_average": 8,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bxbzO01znGOLEBds5ZHaTBNZviC.jpg",
-    "genre_ids": [
-      10766,
-      18
-    ],
-    "id": 84580,
-    "origin_country": [
-      "BR"
-    ],
-    "original_language": "pt",
-    "original_name": "Velho Chico",
-    "overview": "",
-    "popularity": 93.5116,
-    "poster_path": "/kYReG9ukBkIcHTYGjnTuyxICNsk.jpg",
-    "first_air_date": "2016-03-14",
-    "name": "Velho Chico",
-    "vote_average": 7.833,
-    "vote_count": 9
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7P7zskNRdowZslBv5yJbnMeBuKR.jpg",
-    "genre_ids": [
-      18,
-      35,
-      10766
-    ],
-    "id": 308,
-    "origin_country": [
-      "PT"
-    ],
-    "original_language": "pt",
-    "original_name": "Morangos com Açúcar",
-    "overview": "Morangos com Açúcar was a Portuguese Teen drama. It was broadcast daily on the Portuguese TV station TVI between 30 August 2003 to 15 September 2012. It has also been broadcast in Angola, Syria, Brazil and Romania.",
-    "popularity": 93.4408,
-    "poster_path": "/uyzx0JkWOOF3Mfcq4uiuIr2Ykju.jpg",
-    "first_air_date": "2003-08-30",
-    "name": "Strawberries with Sugar",
-    "vote_average": 5.6,
     "vote_count": 18
   },
   {
@@ -1090,7 +515,7 @@
     "original_language": "pt",
     "original_name": "Garota do Momento",
     "overview": "Beatriz Dourado, a young black woman marked by abandonment, searches for answers about her past and discovers that her mother, Clarice, left her to pursue her career in Rio de Janeiro. With devastating revelations and a new love, Beatriz faces adversity and transforms her pain into power, fighting to conquer her place in the world.",
-    "popularity": 92.9977,
+    "popularity": 87.8122,
     "poster_path": "/jFSkjQSZ5Td52igalpoTQRuHtk.jpg",
     "first_air_date": "2024-11-04",
     "name": "She's the One",
@@ -1099,26 +524,89 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/janrDLDdXOjjVLsiTvDPMjyjMVO.jpg",
+    "backdrop_path": "/e6tItyViWEFvcTILGzAHlQIgKHb.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 875,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Guiding Light",
+    "overview": "Guiding Light is an American television soap opera that is credited by the Guinness Book of World Records as the longest-running television drama in history, broadcast from 1952 until 2009, preceded by a 15-year broadcast on radio. Guiding Light stands as the third longest-running program in all of broadcast history; only the Norwegian children's radio program Lørdagsbarnetimen and the American country music radio program Grand Ole Opry have been on the air longer.\n\nOn April 1, 2009, it was announced that CBS canceled Guiding Light after a 72-year run due to low ratings. The show taped its final scenes for CBS on August 11, 2009, and its final episode on the network aired on September 18, 2009.",
+    "popularity": 88.6623,
+    "poster_path": "/uRJntFgQJuHLJDvRHDsHBcsxE7q.jpg",
+    "first_air_date": "1952-06-30",
+    "name": "Guiding Light",
+    "vote_average": 5.531,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m6wAT5xXr6IGW5AnHJxEMsoMwUd.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 4897,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Kasamh Se",
+    "overview": "Bani, Piya and Rano who move to Mumbai following their father's death. The trio reunite with their late father's wealthy acquaintance, Jai Walia... hence, their fate and very purpose of existence is put on the line - questioning the promise they made; supporting one another through thick and thin.",
+    "popularity": 84.5542,
+    "poster_path": "/a8MQs8tAeA8SXToANt2pHBhoNU0.jpg",
+    "first_air_date": "2006-01-16",
+    "name": "Kasamh Se",
+    "vote_average": 2,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5Z40OJgNeedcAgqPRTGQzlk17Mv.jpg",
     "genre_ids": [
       10766,
       18,
-      10751,
-      35
+      10751
     ],
-    "id": 2674,
+    "id": 40,
     "origin_country": [
-      "AU"
+      "US"
     ],
     "original_language": "en",
-    "original_name": "Neighbours",
-    "overview": "Neighbours is an Australian television soap opera.  The show's storylines concern the domestic and professional lives of the people who live and work in Erinsborough, a fictional suburb of Melbourne, Victoria. The series primarily centres around the residents of Ramsay Street, a short cul-de-sac, and its neighbouring areas, the Lassiters complex, which includes a bar, hotel, cafe, news office and park. Neighbours began with three families created by Watson – the Ramsays, the Robinsons and the Clarkes. Watson said that he wanted to show three families who are friends living in a small street. The Robinsons and the Ramsays had a long history and were involved in an ongoing rivalry.",
-    "popularity": 92.8796,
-    "poster_path": "/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
-    "first_air_date": "1985-03-18",
-    "name": "Neighbours",
-    "vote_average": 5.955,
-    "vote_count": 56
+    "original_name": "Dallas",
+    "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+    "popularity": 82.0609,
+    "poster_path": "/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+    "first_air_date": "1978-04-02",
+    "name": "Dallas",
+    "vote_average": 6.8,
+    "vote_count": 222
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wHi44gV8p2FWgYOuCefyE8jI8Qc.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35
+    ],
+    "id": 46018,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Tieta",
+    "overview": "Inspired on Jorge Amado's romance \"Tieta do Agreste\", the plot is set on the fictional city of Santana do Agreste, at Brazil's northwest, and has as main theme Tieta's life turnarounds. Twenty-five years after being chased out of town by her father Zé Esteves, she returns to her home town seeking revenge against everyone who mistreated her and laugh at her face in the past.",
+    "popularity": 76.653,
+    "poster_path": "/3YNb7mSpuaP18W4yAXjtaV5W2lI.jpg",
+    "first_air_date": "1989-08-14",
+    "name": "Tieta",
+    "vote_average": 8.4,
+    "vote_count": 15
   },
   {
     "adult": false,
@@ -1136,7 +624,7 @@
     "original_language": "pt",
     "original_name": "Alma Gêmea",
     "overview": "A young woman is fated to relive the love of an earlier life. Separated by time, young Serena and botanist Rafael surmount all obstacles as they live a love that is stronger than fate itself. These challenges include the lovely but ambitious Cristina, who is obsessed by the rich botanist and driven nearly mad by her attempts to shatter their great love. A romantic comedy set in the 1940s, Soul Mate underscores the importance of love, family values and the ties of affection with a light touch and plenty of humor.",
-    "popularity": 92.4481,
+    "popularity": 84.1148,
     "poster_path": "/2HxNkrtEOgP4VEKzVBdBHHsnO6o.jpg",
     "first_air_date": "2005-06-20",
     "name": "Alma Gêmea",
@@ -1145,87 +633,131 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/1iAc3ML51uNe16jlxTQV84mLHG2.jpg",
+    "backdrop_path": "/ciwJBJo9eAs1eZVOdFA4d1S8v4E.jpg",
     "genre_ids": [
-      10766
+      10766,
+      18,
+      35
     ],
-    "id": 40879,
+    "id": 46100,
     "origin_country": [
-      "DE"
+      "BR"
     ],
-    "original_language": "de",
-    "original_name": "Dahoam is Dahoam",
-    "overview": "The lives of the residents of the fictitious village of Lansing in Upper Bavaria.",
-    "popularity": 92.2937,
-    "poster_path": "/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
-    "first_air_date": "2007-10-08",
-    "name": "Dahoam is Dahoam",
-    "vote_average": 5.6,
-    "vote_count": 5
+    "original_language": "pt",
+    "original_name": "Celebridade",
+    "overview": "A successful businesswoman in the music industry sees her life fall apart after a young and mysterious woman starts work as her secretary. The scheming girl is totally obsessed by the famous businesswoman and she tries to steal everything from her, including her career.",
+    "popularity": 82.0207,
+    "poster_path": "/w1ROW7YvjoPVkQJ6P1yp6rLNOTS.jpg",
+    "first_air_date": "2003-10-13",
+    "name": "Celebridade",
+    "vote_average": 8.2,
+    "vote_count": 15
   },
   {
     "adult": false,
-    "backdrop_path": "/nJjZOpdenjF0zDIp3zKmZMWdzm4.jpg",
+    "backdrop_path": "/fmFsm4dq02k2Xxs7M887unPAiXd.jpg",
     "genre_ids": [
-      10766,
-      18
+      18,
+      10765,
+      10766
     ],
-    "id": 45030,
+    "id": 2883,
     "origin_country": [
-      "CA"
+      "US"
     ],
-    "original_language": "fr",
-    "original_name": "Yamaska",
-    "overview": "The lives of three families are forever changed by an unexpected death.",
-    "popularity": 89.946,
-    "poster_path": "/gSFSt01NpUKZMoNLljGRFlS0D79.jpg",
-    "first_air_date": "2009-09-28",
-    "name": "Yamaska",
+    "original_language": "en",
+    "original_name": "Dark Shadows",
+    "overview": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also featured werewolves, zombies, man-made monsters, witches, warlocks, time travel, and a parallel universe. A small company of actors each played many roles; indeed, as actors came and went, some characters were played by more than one actor. Major writers besides Art Wallace included Malcolm Marmorstein, Sam Hall, Gordon Russell, and Violet Welles.",
+    "popularity": 79.9522,
+    "poster_path": "/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg",
+    "first_air_date": "1966-06-27",
+    "name": "Dark Shadows",
+    "vote_average": 7.227,
+    "vote_count": 86
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pHpeJbqbYE9rPCxK64o1tKopsDZ.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 99887,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Chakravartin Ashoka Samrat",
+    "overview": "The story of Ashoka, emperor of the Maurya Empire, from his early struggles to his reign as a ruthless emperor.",
+    "popularity": 78.9087,
+    "poster_path": "/znkKMWvlIzeJwHSe36BHTwtownc.jpg",
+    "first_air_date": "2015-02-02",
+    "name": "The Great Emperor Ashoka",
+    "vote_average": 4.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5YJaWvCpfAPGMQB6QneAkky2JJy.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10766
+    ],
+    "id": 234632,
+    "origin_country": [
+      "ID"
+    ],
+    "original_language": "id",
+    "original_name": "Tetangga Masa Gitu?",
+    "overview": "Tetangga Masa Gitu? is a sitcom genre soap opera that airs on NET. Starring Dwi Sasono, Sophia Latjuba, Deva Mahenra, and Chelsea Islan, this series shows the daily lives of two married couples who live next door. The first couple has been married for about 10 years, while the second couple has only been married for 8 days. This series was nominated twice at the Asian Television Awards in the Best Comedy Program category.",
+    "popularity": 77.6902,
+    "poster_path": "/b7XUrr7IVn1F1z17uS6WFzueGWS.jpg",
+    "first_air_date": "2014-03-20",
+    "name": "What An Annoying Neighbour!",
+    "vote_average": 8,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5nw1DrbpFuXTPARVcLe0PE65663.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 236521,
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "en",
+    "original_name": "Legacy",
+    "overview": "Legacy is a South African telenovela which follows the wealthy Price household, a family at war with itself after the patriarch announces he is stepping down, creating a power vacuum.",
+    "popularity": 78.2497,
+    "poster_path": "/epnfSq33259jPpurPUXOrdrkWGg.jpg",
+    "first_air_date": "2020-09-21",
+    "name": "Legacy",
     "vote_average": 8,
     "vote_count": 1
   },
   {
     "adult": false,
-    "backdrop_path": "/7v3bO3pNnyLHLlwETtmyQxKV2Ba.jpg",
+    "backdrop_path": "/xeJJZE8yC09lRbiV2f2hqURJmhd.jpg",
     "genre_ids": [
-      35,
       10766,
-      18
+      18,
+      9648
     ],
-    "id": 73362,
+    "id": 237478,
     "origin_country": [
-      "IT"
+      "BR"
     ],
-    "original_language": "it",
-    "original_name": "Il paradiso delle signore",
-    "overview": "Follow Teresa Iorio, a young woman who leaves her rural Sicilian hometown for Milan to find work--and much more--at a newly opened department store: The Ladies' Paradise.",
-    "popularity": 89.3594,
-    "poster_path": "/1XKjPCtprWqjKhTiyYORVwgWePA.jpg",
-    "first_air_date": "2015-12-08",
-    "name": "The Ladies' Paradise",
-    "vote_average": 7.607,
-    "vote_count": 14
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qht3Kk0qt345f1tX2aIk9GFlDAy.jpg",
-    "genre_ids": [
-      35,
-      10766
-    ],
-    "id": 87215,
-    "origin_country": [
-      "GR"
-    ],
-    "original_language": "el",
-    "original_name": "Έλα στη Θέση μου",
-    "overview": "A closeted young man goes home for the holidays and struggles to reveal his dire circumstances to his conservative family.",
-    "popularity": 89.1338,
-    "poster_path": "/xNS9txJaBEa8YWVj6g5kI70rlRD.jpg",
-    "first_air_date": "2016-10-03",
-    "name": "Ela sti thesi mou",
-    "vote_average": 5,
-    "vote_count": 3
+    "original_language": "pt",
+    "original_name": "Mania de Você",
+    "overview": "The story begins with the ambiguous relationship between friends Viola and Luma, who seem predestined to literally enter each other's lives. Born on the same day, in very different situations, they meet years later, united by coincidences that go beyond their birthday. From humble origins, Viola moves with her boyfriend Mavi to Angra dos Reis, where Luma lives a luxurious life and dates Rudá, who ends up meeting Viola by chance. Thus begins the duo's journey, which goes from a passion for recipes to an obsession with the same man, from the immediate connection to the point of starting to live their friend’s reality, 10 years later. A journey divided between complicity and rivalry, which includes them in a love quadrangle and is impacted by a series of circumstances, twists and surprises, such as the secret surrounding a murder.",
+    "popularity": 77.6197,
+    "poster_path": "/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+    "first_air_date": "2024-09-09",
+    "name": "Crazy About You",
+    "vote_average": 6.875,
+    "vote_count": 32
   },
   {
     "adult": false,
@@ -1242,7 +774,7 @@
     "original_language": "pt",
     "original_name": "Páginas da Vida",
     "overview": "Nanda must rethink her plansof studying in Amsterdam when she discovers she is pregnant. After losing the support of her boyfriend Léo, the young girl decides to return home, where she suffers a serious accident and dies.However, Helena, her doctor, is able to save her new-born twins: Francisco and Clara. Unfortunately, Clara suffers from Downs Syndrome. Helena feels a strong emotional tie to Clara and adopts her.Years later, the twins’father Léo, a young and wealthy businessman, returns to the scene, wanting to gain custody of the children.However, Helena and Alex fight to the end to retain guardianship of the twins, whom they have raised with such love.",
-    "popularity": 88.7486,
+    "popularity": 76.1525,
     "poster_path": "/8qMjI4skWbMTJWmiFnyXSoGLjEM.jpg",
     "first_air_date": "2006-07-10",
     "name": "Pages of Life",
@@ -1251,23 +783,490 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/u6AD6uR4zu6IZdjnPwXSUN8l3Jp.jpg",
+    "backdrop_path": "/fvUgYVcyOiYgIZ4ik0zb4zmXZFz.jpg",
     "genre_ids": [
       10766,
       18
     ],
-    "id": 46889,
+    "id": 38175,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Soy gitano",
+    "overview": "Soy gitano was a Spanish language television drama from Argentina.",
+    "popularity": 75.915,
+    "poster_path": "/8gBxpIfD3kOjhvBGztvAc7fNQ9i.jpg",
+    "first_air_date": "2003-01-13",
+    "name": "Soy gitano",
+    "vote_average": 6.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jdzd5rTeUi1njP4SPJf43SpDSUf.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      10765
+    ],
+    "id": 14853,
     "origin_country": [
       "BR"
     ],
     "original_language": "pt",
-    "original_name": "Desejos de Mulher",
-    "overview": "Fashion designer Andréa Vargas finds out the hard way she is adopted. The relationship with her sister Júlia had always been difficult, since childhood, and the antagonism grew when Júlia came between Andréa and her first true love, Diogo. But the worst is still to come: her first assistant in her atelier, Selma, is having an affair with her husband Bruno.",
-    "popularity": 88.3421,
-    "poster_path": "/zdHr8X3TYMCibhltUQxKE9kch5A.jpg",
-    "first_air_date": "2002-01-21",
-    "name": "Desejos de Mulher",
-    "vote_average": 5,
+    "original_name": "O Clone",
+    "overview": "Human cloning. The Islamic world. Two young people, two different cultures, two different beliefs. An impossible love story that not even time could erase. During a trip to Morocco, Lucas has a forbidden romance with Jade. He returns to Brazil after the death of his twin brother Diogo. A close family friend, scientist Albieri uses this situation to produce the first human clone using cells taken from Lucas. Twenty years later, Jade, Lucas and his clone form an odd love triangle.",
+    "popularity": 77.2433,
+    "poster_path": "/55r16i772LJkfeGGtlWugScVA10.jpg",
+    "first_air_date": "2001-10-01",
+    "name": "The Clone",
+    "vote_average": 8.027,
+    "vote_count": 347
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ho48HnguL11niYrqMETtP8A6SWY.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 30826,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "La rosa de Guadalupe",
+    "overview": "Stories about people who get into problems who use the help of Virgin Mary and where a rose appears and their problems are solved.",
+    "popularity": 65.465,
+    "poster_path": "/9RaNva340arNWeZn2uKpKePkg91.jpg",
+    "first_air_date": "2008-02-05",
+    "name": "La rosa de Guadalupe",
+    "vote_average": 6.965,
+    "vote_count": 273
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4SoqPyzYWoujPWlMNXuZlEPlRmu.jpg",
+    "genre_ids": [
+      10766,
+      35
+    ],
+    "id": 45761,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Andando nas Nuvens",
+    "overview": "",
+    "popularity": 74.7883,
+    "poster_path": "/oMVqTU8N7n4OCJLdpRJkZuCYl5c.jpg",
+    "first_air_date": "1999-03-22",
+    "name": "Andando nas Nuvens",
+    "vote_average": 8.25,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rfmSZpSrphosvlTjfPMCdeOKFho.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35
+    ],
+    "id": 211492,
+    "origin_country": [
+      "PT"
+    ],
+    "original_language": "pt",
+    "original_name": "Louco Amor",
+    "overview": "",
+    "popularity": 72.8122,
+    "poster_path": "/gLV5g3vQNoqEwKb8itZORPjyXZD.jpg",
+    "first_air_date": "2012-05-06",
+    "name": "Louco Amor",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sHG0x2Vq0tuvkgFRLUDq8vVJreU.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 236443,
+    "origin_country": [
+      "ZA"
+    ],
+    "original_language": "af",
+    "original_name": "Getroud met Rugby: Die Sepie",
+    "overview": "Getroud met Rugby: Die Sepie is a South African soap opera based on the feature film and later drama series Getroud met Rugby by Deon Opperman, which is set amongst a rugby-playing community.",
+    "popularity": 77.263,
+    "poster_path": "/sBp8JBN38AanXyuX4yT3SDuoieY.jpg",
+    "first_air_date": "2016-04-04",
+    "name": "Getroud met Rugby: Die Sepie",
+    "vote_average": 3,
     "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bEKRyT7WN5TjFKv0JTWI2cyNlak.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 223365,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Renascer",
+    "overview": "After making a pact with Jequitibá, José Inocêncio becomes a mythical figure, known as the most successful cocoa farmer in the region. While still young, he wins the heart of Maria Santa. Their intense passion results in four children: José Augusto, José Bento, José Venâncio, and the youngest, João Pedro, who never had the opportunity to know his mother, as she dies while giving birth to him. This tragedy fuels José Inocêncio’s anger, blaming João Pedro for the loss of his great love. Throughout their lives, indifference and resentment mark the relationship between the father and his youngest son. As if the past weren’t enough, years later, the arrival of the mysterious Mariana puts all these emotions to the test when both father and son fall in love with the same woman. This situation reawakens feelings that were either dormant or previously unknown to them.",
+    "popularity": 72.252,
+    "poster_path": "/kUWvvMkNIf21UUDmHjYw55v6o7C.jpg",
+    "first_air_date": "2024-01-22",
+    "name": "Rebirth",
+    "vote_average": 6.795,
+    "vote_count": 22
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5upIeIz53mymi0639Sn8VGo5ytE.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 1341,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Lola... Érase Una Vez",
+    "overview": "Lola... Érase Una Vez is a teen targeted Mexican melodrama telenovela produced by Televisa that is an adaptation of the Argentine global phenomenon and teenage telenovela Floricienta. The show tells the story of a modern Cinderella, Lola, a 20 year old girl, who works as a nanny and sings in a rock band and meets her so call Prince Charming. It debuted in Mexico on February 26, 2007, starring Aarón Díaz and Eiza González. The show had gained popularity among teens and children not only in Mexico but also internationally including Venezuela, Spain and the in United States. With concert performances filling major auditoriums and songs by the protagonist become radio hits. It debuted in the United States on Univision in March 2008 and ended on January 26, 2009. The series consisted of 224 episodes which aried Monday through Friday at 3 P.M, intentionally for teenagers to watch after school, as is typical for most teenage & children telenovelas in Spanish networks.",
+    "popularity": 69.5848,
+    "poster_path": "/nEThAMS4RVVq7BaTlGQD8PlHusB.jpg",
+    "first_air_date": "2007-02-26",
+    "name": "Lola… Once Upon a Time",
+    "vote_average": 7.9,
+    "vote_count": 130
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lZ8rZuMajWLJpXNGGToaQVx9Pse.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35
+    ],
+    "id": 45104,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "A Padroeira",
+    "overview": "A Padroeira was a Brazilian soap opera produced and displayed at the time of 18 hours by Rede Globo, between June 18, 2001 and February 23, 2002, and presented in 215 chapters.\n\nIt was written by Walcyr Carrasco collaboration with Duca Rachid and directed by Walter Avancini, and had Deborah Secco, Luigi Baricelli, Elizabeth Savalla and Maurício Mattar in leading roles.",
+    "popularity": 69.4586,
+    "poster_path": "/zzgk3rBIswugkFWNgJGCA48M7MC.jpg",
+    "first_air_date": "2001-06-18",
+    "name": "A Padroeira",
+    "vote_average": 7.7,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bcB7FWjjhh4ign5MGKkBIBNMweD.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 14038,
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_name": "Kahiin to Hoga",
+    "overview": "Kahiin to Hoga is an Indian soap opera which aired on STAR Plus between September 2003 and February 2007. The show was created by Ekta Kapoor of Balaji Telefilms. The romantic-drama series was show was one of the famous television program during its airing period which helped Star Plus capitalize the television market in the 2004-2006 era. Kahiin to Hoga suffered huge loss when its lead Rajeev Khandelwal left the show in between.",
+    "popularity": 71.0888,
+    "poster_path": "/7z2eM8uwxawWPAcAEU3iYpHNSuE.jpg",
+    "first_air_date": "2003-09-08",
+    "name": "Kahiin to Hoga",
+    "vote_average": 3.1,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      10766,
+      10759,
+      37
+    ],
+    "id": 282472,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Jerônimo, o Herói do Sertão",
+    "overview": "",
+    "popularity": 62.591,
+    "poster_path": null,
+    "first_air_date": "1972-11-20",
+    "name": "Jerônimo, o Herói do Sertão",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x1JKolfcuzNrM4tbx6uTKia685N.jpg",
+    "genre_ids": [
+      10766,
+      35
+    ],
+    "id": 225554,
+    "origin_country": [
+      "CL"
+    ],
+    "original_language": "es",
+    "original_name": "Como la vida misma",
+    "overview": "",
+    "popularity": 69.6675,
+    "poster_path": "/t9AvoW1RS7kGb1smvSHfvQa54Fi.jpg",
+    "first_air_date": "2023-05-09",
+    "name": "Como la vida misma",
+    "vote_average": 6.7,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sXa2bUCF5a0a0rz8R7d4ORSNY8C.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      10765
+    ],
+    "id": 216699,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Os Mutantes: Caminhos do Coração",
+    "overview": "",
+    "popularity": 69.0404,
+    "poster_path": "/74Y6IWQpjbDnCvNwbQvCJfkJY2b.jpg",
+    "first_air_date": "2008-06-03",
+    "name": "Os Mutantes: Caminhos do Coração",
+    "vote_average": 7.3,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6VR8b4e2XsPeIz4HWCLafi8PNAW.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 1028,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Holby City",
+    "overview": "Drama series about life on the wards of Holby City Hospital, following the highs and lows of the staff and patients.",
+    "popularity": 71.352,
+    "poster_path": "/cyQZGDCfRFdmwiH4519c34UKnG.jpg",
+    "first_air_date": "1999-01-12",
+    "name": "Holby City",
+    "vote_average": 5.75,
+    "vote_count": 44
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zgDpajdlOKetwZ9Ys296o3qBjFy.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 53270,
+    "origin_country": [
+      "PL"
+    ],
+    "original_language": "pl",
+    "original_name": "Barwy szczęścia",
+    "overview": "",
+    "popularity": 71.3147,
+    "poster_path": "/yPAk9l2KMfMXZKuoGLZMadCZRF3.jpg",
+    "first_air_date": "2007-09-27",
+    "name": "Barwy szczęścia",
+    "vote_average": 4.8,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qtVANjDsGbzzxOQ1DJTEzh8iHJp.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 108535,
+    "origin_country": [
+      "CO",
+      "US"
+    ],
+    "original_language": "es",
+    "original_name": "Prisionera",
+    "overview": "Wrongfully accused of a crime she didn't commit, 13 year old Guadalupe Santos is sentenced to 30 years in jail, while in jail she gives birth to a baby girl who is taken from her by her older sister Milagros. 15 years later she escapes jail and meets with Daniel Moncada who turns out to be the brother of the man she was accused of killing.",
+    "popularity": 68.6616,
+    "poster_path": "/6NHh6KcjYGHQTZ0kq8CMjnv77LR.jpg",
+    "first_air_date": "2004-03-10",
+    "name": "Prisoner",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kez8Vt5lIus3vrcN6NTmUezKee5.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 12568,
+    "origin_country": [
+      "MX"
+    ],
+    "original_language": "es",
+    "original_name": "Destilando amor",
+    "overview": "Destilando Amor is a 2007 Mexican telenovela produced by Televisa and Nicandro Díaz. It stars Angélica Rivera and Eduardo Yáñez as the main protagonists and was set primarily in Tequila, Jalisco. It is a remake of the 1994 Colombian telenovela Café, con aroma de mujer, and was nominated for twelve Premios TVyNovelas of which it won ten including Best Telenovela of the Year.",
+    "popularity": 62.6733,
+    "poster_path": "/L3MPoQSvfbHZAJEdskXTM1vdHi.jpg",
+    "first_air_date": "2007-01-22",
+    "name": "Distilling Love",
+    "vote_average": 7.59,
+    "vote_count": 311
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4Kw16UfxZ4jTOmlXIBMOtgVpAM2.jpg",
+    "genre_ids": [
+      10766
+    ],
+    "id": 17892,
+    "origin_country": [
+      "DE"
+    ],
+    "original_language": "de",
+    "original_name": "Unter Uns",
+    "overview": "Unter uns is a German television soap opera, first broadcast on RTL on 28 November 1994. Centered around the lives of the people in a residential house, which is set in the fictional Schillerallee in Cologne. Since the show debuted the baker's family Weigel is the series core family. Unter uns isn't based on a foreign soap opera like Verbotene Liebe or Gute Zeiten, schlechte Zeiten. After Gute Zeiten, schlechte Zeiten, the show was the second daily soap for RTL, followed years later in 2006 by Alles was zählt. The show aired its 3,500th episode on 30 December 2008.",
+    "popularity": 68.1392,
+    "poster_path": "/aD1QIba9mohAsdPHCjpWtrlumyp.jpg",
+    "first_air_date": "1994-11-28",
+    "name": "Unter Uns",
+    "vote_average": 7.2,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6R3p78bUPdw37fxiYtQ9z1vY5f8.jpg",
+    "genre_ids": [
+      18,
+      10766
+    ],
+    "id": 65264,
+    "origin_country": [
+      "AR"
+    ],
+    "original_language": "es",
+    "original_name": "Los ricos no piden permiso",
+    "overview": "After their mother's suspicious death, three siblings inherit a vast estate. As they investigate the mystery with their staff, greed and pride threaten to divide them. Yet, love may be the key to bringing the family back together.",
+    "popularity": 66.4084,
+    "poster_path": "/wY7ZUkKHEVfuOInyLziNsN7FWn7.jpg",
+    "first_air_date": "2016-01-11",
+    "name": "The Rich Do Not Ask for Permission",
+    "vote_average": 5.2,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8KdIwREBsFfmFBbjMh1pxhxsiGV.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 41698,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Força de um Desejo",
+    "overview": "Força de um Desejo is a Brazilian telenovela produced by Globo TV and was shown in the schedule of 18 hours between May 10, 1999 and January 29, 2000, in 226 chapters. It was written by Gilberto Braga and as collaborators with Alcides Nogueira Marques, Lilian Garcia, Eliane Garcia, Philip Miguez and Mark Silver and directed by Mauro Mendonça Filho, Carlos Araújo, Fabricio Mamberti and João Camargo, with production of the core Marcos Paulo.\n\nFeatured Malu Mader, Fábio Assunção, Cláudia Abreu, Marcelo Serrado, Selton Mello, Nathália Timberg, Lavínia Vlasak, Isabel Fillardis and Denise Del Vecchio in leading roles.",
+    "popularity": 65.3686,
+    "poster_path": "/4pGJNMZm6esnHPEG4N9FFEGkEzF.jpg",
+    "first_air_date": "1999-05-10",
+    "name": "Força de um Desejo",
+    "vote_average": 8.1,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k8rqfo7RWsaILRdXIfpEJcuG1lT.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 115645,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Gênesis",
+    "overview": "The story of the first 2,300 years of humanity and recounts events exclusively from that period. The plot begins by giving us a greater understanding of why we exist and how we turned from perfection to imperfection. The origin of all social and racial problems is there at the beginning of everything, when via one decision a human being who only knew good and enjoyed it so much also chose to know evil.",
+    "popularity": 66.9242,
+    "poster_path": "/qZJt1XlRVbQhGV7MtZnbiR6vxPh.jpg",
+    "first_air_date": "2021-01-19",
+    "name": "Genesis",
+    "vote_average": 7.847,
+    "vote_count": 226
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cNx1R1CzdqJ3hlri8JGQWH0gLQp.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      35,
+      80
+    ],
+    "id": 90234,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "A Dona do Pedaço",
+    "overview": "Maria da Paz is a committed baker who becomes a wealthy businesswoman twenty years after a tragedy strikes on the day of her wedding to Amadeu. From this broken union a baby is born, Jô, who seeks power and despises her mother’s humble origins. Afraid that her parents’ reunion might spoil her plans, Jô starts an alliance with the charming Régis to convince Maria to marry him and, together, they plan to steal all of Maria’s fortune. In this exciting telenovela written by Emmy Awards winner Walcyr Carrasco, Maria’s optimism must be stronger than Jô’s ambition when the baker finds out about the betrayal and her own daughter’s dangerous secrets.",
+    "popularity": 67.545,
+    "poster_path": "/9WXkn39mIIOT9dFsQJMczk3PeFJ.jpg",
+    "first_air_date": "2019-05-20",
+    "name": "Sweet Diva",
+    "vote_average": 6.947,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bxbzO01znGOLEBds5ZHaTBNZviC.jpg",
+    "genre_ids": [
+      10766,
+      18
+    ],
+    "id": 84580,
+    "origin_country": [
+      "BR"
+    ],
+    "original_language": "pt",
+    "original_name": "Velho Chico",
+    "overview": "",
+    "popularity": 64.7821,
+    "poster_path": "/kYReG9ukBkIcHTYGjnTuyxICNsk.jpg",
+    "first_air_date": "2016-03-14",
+    "name": "Velho Chico",
+    "vote_average": 7.833,
+    "vote_count": 9
   }
 ]
